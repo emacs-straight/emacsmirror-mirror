@@ -162,6 +162,7 @@ codex
 coffee
 collab
 color-theme
+color-theme-solarized
 colour-schemes
 columnify
 comics
@@ -193,6 +194,7 @@ cpan
 cparen
 cruisecontrol
 crypt-plus-plus
+cryptsy-public-api
 cscope
 csde
 csense
@@ -637,7 +639,6 @@ lout-mode
 lpc-mode
 lsl-mode
 lsp-clangd
-lsp-dart
 lsp-fortran
 lsp-hack
 lsp-javascript-typescript

@@ -116,6 +116,7 @@ alt-font-menu
 alternative-files
 amarok
 amd-mode
+ameba
 aml-mode
 ammonite-term-repl
 ampc
@@ -639,7 +640,6 @@ color-theme-approximate
 color-theme-modern
 color-theme-sanityinc-solarized
 color-theme-sanityinc-tomorrow
-color-theme-solarized
 color-theme-x
 colormaps
 colour-region
@@ -786,7 +786,6 @@ crontab-mode
 crosshairs
 crux
 cryptol-mode
-cryptsy-public-api
 crystal-mode
 crystal-playground
 csgo-conf-mode
@@ -1024,6 +1023,7 @@ docbook-snippets
 docean
 docker
 docker-api
+docker-cli
 docker-compose-mode
 docker-tramp
 dockerfile-mode
@@ -2078,6 +2078,7 @@ goto-char-preview
 goto-chg
 goto-gem
 goto-last-change
+goto-last-point
 goto-line-preview
 govc
 govet
@@ -2418,6 +2419,7 @@ historyf
 hive
 hiwin
 hl-anything
+hl-block-mode
 hl-defined
 hl-fill-column
 hl-indent
@@ -3028,6 +3030,7 @@ magic-latex-buffer
 magik-mode
 magit
 magit-annex
+magit-diff-flycheck
 magit-filenotify
 magit-find-file
 magit-gerrit
@@ -3275,6 +3278,7 @@ mthesaur
 mtrace
 mu
 mu-cite
+mu2tex
 mu4e
 mu4e-alert
 mu4e-conversation
@@ -3946,6 +3950,7 @@ php-scratch
 phpactor
 phpcbf
 phpstan
+phpt-mode
 phpunit
 pianobar
 pic-basic-mode
@@ -4359,6 +4364,7 @@ review-mode
 rewrite
 reykjavik-theme
 rfc
+rfc-mode
 rfringe
 rg
 rhtml-mode
@@ -4553,6 +4559,7 @@ short-lambda
 shoulda
 show-arglist
 show-css
+show-eol
 show-help
 show-marks
 showkey
