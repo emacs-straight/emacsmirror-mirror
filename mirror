@@ -111,6 +111,7 @@ all-the-icons
 all-the-icons-dired
 all-the-icons-gnus
 all-the-icons-ivy
+almost-mono-themes
 alore-mode
 alt-font-menu
 alternative-files
@@ -520,6 +521,7 @@ cfengine-code-style
 cff
 cfml-mode
 cframe
+cfrs
 cg
 cg-mode
 challenger-deep-theme
@@ -761,6 +763,7 @@ counsel-pydoc
 counsel-spotify
 counsel-tramp
 counsel-world-clock
+countdown
 counter
 cov
 coverage
@@ -806,6 +809,7 @@ csv-nav
 ctable
 ctags-update
 ctl-mode
+ctune
 ctxmenu
 ctypes
 cubicaltt
@@ -913,6 +917,7 @@ dhall-mode
 di
 di-macs
 dialog
+dianyou
 diary-manager
 diatheke
 dic-lookup-w3m
@@ -1398,6 +1403,7 @@ eshell-fixed-prompt
 eshell-fringe-status
 eshell-git-prompt
 eshell-prompt-extras
+eshell-toggle
 eshell-up
 eshell-z
 eslint-fix
@@ -1681,6 +1687,7 @@ flycheck-clang-tidy
 flycheck-clangcheck
 flycheck-clj-kondo
 flycheck-clojure
+flycheck-clolyze
 flycheck-color-mode-line
 flycheck-coverity
 flycheck-credo
@@ -2687,6 +2694,7 @@ jack-connect
 jade-mode
 jamar
 jammer
+janet-mode
 japanese-holidays
 japanlaw
 jape-mode
@@ -2782,6 +2790,7 @@ jvm-mode
 k8s-mode
 kaesar
 kakapo-mode
+kakoune
 kaleidoscope
 kanban
 kanji-mode
@@ -2800,6 +2809,7 @@ key-chord
 key-combo
 key-intercept
 key-leap
+key-quiz
 key-seq
 keyadvice
 keyboard-converter
@@ -2980,6 +2990,7 @@ lognav-mode
 logpad
 logstash-conf
 logview
+lolcat
 lolcode-mode
 longlines-jp
 look-dired
@@ -4281,7 +4292,10 @@ real-auto-save
 realgud
 realgud-byebug
 realgud-ipdb
+realgud-jdb
 realgud-lldb
+realgud-node-debug
+realgud-node-inspect
 realgud-old-debuggers
 realgud-pry
 realgud-rdb2
@@ -4393,6 +4407,7 @@ robe
 robots-txt-mode
 roguel-ike
 rope-read-mode
+ros
 rotate
 rotate-text
 roy-mode
@@ -5010,6 +5025,7 @@ tmmofl
 tmt-mode
 tmux-pane
 toc-org
+todoist
 todostack
 todotxt
 todotxt-mode
