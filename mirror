@@ -2238,6 +2238,7 @@ helm-ebdb
 helm-elscreen
 helm-emmet
 helm-emms
+helm-esa
 helm-etags-plus
 helm-eww
 helm-ext
@@ -2894,6 +2895,8 @@ lazy-set-key
 lcb-mode
 lcomp
 lcr
+leaf
+leaf-keywords
 lean-mode
 leanote
 ledger-import
