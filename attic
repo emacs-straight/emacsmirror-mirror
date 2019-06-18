@@ -49,6 +49,7 @@ asm86-mode
 aspectj
 atom-api
 atom-blogger
+augment
 auto-arg-mode
 auto-complete-acr
 auto-define
@@ -396,6 +397,7 @@ flycheck-google-cpplint
 flycheck-purescript
 flycheck-rebar3
 flycheck-scala-sbt
+flycheck-soar
 flyspell-babel
 flyspell-textcat
 flyspell-timer
@@ -493,10 +495,12 @@ highlight-regexp
 highwin
 himark
 himarks-mode
+himp
 hl-sexp
 hll
 hobo
 host-fns
+how-many-lines-in-project
 hs
 hse
 html-bible
@@ -531,6 +535,7 @@ imgur
 immigrant
 impress
 indent-tabs-maybe
+inferior-spim
 info-apropos
 infobook
 infohelp
@@ -930,6 +935,7 @@ rss-helper
 rtest
 rtf
 rtf-mode
+ruby-additional
 rw-acronyms
 rw-hunspell
 rw-ispell
@@ -947,8 +953,10 @@ save-sexp
 save-undo
 saveframes
 sawfish
+scheme-here
 scheme48
 scim-bridge
+scp
 scrape
 scrat
 screen-lines

@@ -207,7 +207,6 @@ auctex-latexmk
 auctex-lua
 audel
 audio-notes-mode
-augment
 aumix-mode
 aurel
 aurora-config-mode
@@ -405,6 +404,7 @@ boron-theme
 boxquote
 bpath
 bpe
+bpftrace-mode
 bpr
 bracketed-paste
 bracketphobia
@@ -1747,7 +1747,6 @@ flycheck-pycheckers
 flycheck-pyflakes
 flycheck-pyre
 flycheck-rust
-flycheck-soar
 flycheck-stack
 flycheck-status-emoji
 flycheck-swift
@@ -2416,7 +2415,6 @@ highlight-unique-symbol
 highlight2clipboard
 highline
 highrise
-himp
 hindent
 hippie-exp-ext
 hippie-expand-slime
@@ -2450,7 +2448,6 @@ hook-helpers
 hookify
 horoscope
 hound
-how-many-lines-in-project
 howdoi
 howm
 hsearch
@@ -2592,7 +2589,6 @@ inf-php
 inf-ruby
 inf-ruby-bond
 inferior-pop-mode
-inferior-spim
 infix
 info-plus
 info-beamer
@@ -4339,6 +4335,7 @@ regex-tool
 regexpl
 region-bindings-mode
 region-convert
+region-occurrences-highlighter
 region-state
 register-channel
 register-list
@@ -4424,7 +4421,6 @@ rtm
 rubik
 rubocop
 rubocopfmt
-ruby-additional
 ruby-block
 ruby-comint
 ruby-electric
@@ -4482,14 +4478,12 @@ scalariform
 scan
 scf-mode
 scheme-complete
-scheme-here
 school-points-off
 schrute
 scion
 sclang
 sclang-extensions
 sclang-snippets
-scp
 scpaste
 scratch
 scratch-ext
