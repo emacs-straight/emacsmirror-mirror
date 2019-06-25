@@ -95,7 +95,6 @@ airline-themes
 airplay
 ajc-java-complete
 alan-mode
-alarm
 alarm-clock
 alchemist
 alda-mode
@@ -551,7 +550,6 @@ chinese-number
 chinese-wbim
 chinese-word-at-point
 chinese-yasdcv
-chm-view
 choice-program
 chronometer
 chronos
@@ -879,6 +877,7 @@ db-sql
 dbus-codegen
 ddl-mode
 ddskk
+ddskk-posframe
 deadgrep
 debbugs
 debian-el
@@ -970,7 +969,6 @@ dired-rmjunk
 dired-rsync
 dired-sidebar
 dired-single
-dired-sort
 dired-sort-menu
 dired-sort-menu-plus
 dired-sync
@@ -1022,7 +1020,6 @@ dmenu
 dna-mode
 do-not-edit
 doc-mode
-doc-view-extension
 docbook
 docbook-snippets
 docean
@@ -1423,7 +1420,6 @@ esup
 esv
 esxml
 etable
-etags-extension
 etags-select
 etags-stack
 etags-table
@@ -1623,7 +1619,6 @@ find-file-in-project
 find-file-in-repository
 find-file-in-tags
 find-func-plus
-find-func-extension
 find-git
 find-in-repo
 find-temp-file
@@ -1865,6 +1860,7 @@ free-keys
 freeradius-mode
 fringe-current-line
 fringe-helper
+frog-jump-buffer
 frog-menu
 fs-mode
 fsbot-data-browser
@@ -1876,7 +1872,6 @@ fuel
 fuff
 full-ack
 fullframe
-fullscreen
 fullscreen-mode
 function-args
 fuo
@@ -2137,7 +2132,6 @@ gst-inspect
 gtags
 gtk-perl
 gtk-pomodoro-indicator
-gtk2hs
 guess-language
 guess-offset
 guess-style
@@ -2239,6 +2233,7 @@ helm-emmet
 helm-emms
 helm-esa
 helm-etags-plus
+helm-evil-markers
 helm-eww
 helm-ext
 helm-exwm
@@ -2636,7 +2631,6 @@ iqa
 ir-black-theme
 iregister
 ireplace
-irfc
 irony
 irony-eldoc
 isea
@@ -2765,6 +2759,7 @@ json-reformat
 json-rpc
 json-sexp-mode
 json-snatcher
+jsonl
 jsonnet-mode
 jsonrpc
 jss
@@ -2887,7 +2882,6 @@ lavender-theme
 layout-restore
 lazarus
 lazy-search
-lazy-set-key
 lcb-mode
 lcomp
 lcr
@@ -3067,7 +3061,6 @@ magpie
 mail-bug
 mail-cmple-addr
 mail-field
-mail-notify
 mail-signature
 mailcap-view
 mailcrypt
@@ -3279,7 +3272,6 @@ mpv
 mqr
 mqtt-mode
 mru-yank
-ms-python
 msearch
 mss
 msvc
@@ -3306,7 +3298,6 @@ multi-eshell
 multi-line
 multi-project
 multi-run
-multi-scratch
 multi-shell
 multi-term
 multi-web-mode
@@ -3387,7 +3378,6 @@ networkmanager
 never-comment
 newlisp-mode
 newpaste
-newsticker-extension
 newsticker-notify
 nexus
 ng2-mode
@@ -3533,7 +3523,6 @@ oer-reveal
 offlineimap
 oggel
 ogi
-oicq
 old-fashioned-undo
 old-norse-input
 oldlace-theme
@@ -3617,7 +3606,6 @@ org-elisp-help
 org-email
 org-emms
 org-evil
-org-extension
 org-fancy-priorities
 org-gcal
 org-global-insert-link
@@ -3640,6 +3628,7 @@ org-link-minor-mode
 org-link-travis
 org-linkany
 org-listcruncher
+org-lookup-dnd
 org-mac-protocol
 org-magit
 org-make-toc
@@ -3654,7 +3643,6 @@ org-nan
 org-notebook
 org-noter
 org-octopress
-org-oddmuse
 org-onenote
 org-outline-numbering
 org-outlook
@@ -3974,6 +3962,7 @@ picpocket
 pig-mode
 pillar
 pinbar
+pinboard
 pinboard-api
 pinboard-popular
 pine-script-mode
@@ -4262,12 +4251,10 @@ rcirc-alert
 rcirc-alertify
 rcirc-color
 rcirc-dbus
-rcirc-extension
 rcirc-groups
 rcirc-late-fix
 rcirc-menu
 rcirc-notify
-rcirc-notify-plus
 rcirc-pounce
 rcirc-random-names
 rcirc-robots
@@ -4548,7 +4535,6 @@ shakespeare-mode
 shampoo
 shelisp
 shell-command
-shell-command-extension
 shell-command-queue
 shell-completion
 shell-current-directory
@@ -4741,7 +4727,6 @@ speck
 speech-tagger
 speechd
 speed-type
-speedbar-extension
 speeddating
 spell-number
 sphinx-doc
@@ -4982,7 +4967,6 @@ theme-park-mode
 therapy
 thesaurus
 thing-cmds
-thing-edit
 thing-opt
 thingatpt-plus
 thingatpt-ext
@@ -5181,6 +5165,7 @@ vagrant
 vagrant-tramp
 vala-mode
 vala-snippets
+vale-mode
 validate
 vbasense
 vbnet-mode
@@ -5284,7 +5269,6 @@ wcheck-mode
 wconf
 wcy-desktop
 wcy-swbuff
-wdired-extension
 wdl-mode
 weak-ref
 weather
@@ -5337,7 +5321,6 @@ win-switch
 windata
 window-plus
 window-end-visible
-window-extension
 window-layout
 window-margin
 window-number
@@ -5345,7 +5328,6 @@ window-numbering
 window-purpose
 windows-path
 windresize
-windresize-extension
 windsize
 windwow
 winnow
