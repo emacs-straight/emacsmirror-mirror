@@ -298,6 +298,7 @@ backups-mode
 backward-forward
 badger-theme
 badwolf-theme
+bang
 banner-comment
 bap-mode
 bar-cursor
@@ -751,6 +752,7 @@ counsel-css
 counsel-dash
 counsel-ebdb
 counsel-etags
+counsel-ffdata
 counsel-gtags
 counsel-notmuch
 counsel-org-capture-string
@@ -768,6 +770,7 @@ coverage
 coverlay
 cp5022x
 cpanfile-mode
+cpp-capf
 cppref
 cppsense
 cpputils-cmake
@@ -1250,6 +1253,7 @@ elpa-clone
 elpa-mirror
 elpad-client
 elpher
+elpl
 elpy
 elpygen
 elquery
@@ -2024,6 +2028,7 @@ gnuslog
 go
 go-add-tags
 go-autocomplete
+go-capf
 go-complete
 go-direx
 go-dlv
@@ -2601,6 +2606,7 @@ inkpot-theme
 inline-crypt
 inline-docs
 inlineR
+insert-kaomoji
 insert-shebang
 insert-time
 insert-time-string
@@ -3360,6 +3366,7 @@ nav-flash
 navi-mode
 navi2ch
 navorski
+naysayer-theme
 nazna
 nc
 ncl-mode
@@ -3405,6 +3412,7 @@ nm
 nmcobol-mode
 nnir-est
 nnir-spotlight
+nnreddit
 no-emoji
 no-littering
 no-word
@@ -3906,6 +3914,7 @@ perlbrew-mini
 perlcritic
 perlmonks
 perltidy
+persist
 persistent-overlays
 persistent-scratch
 persistent-soft
@@ -4010,6 +4019,7 @@ podcaster
 poe-lootfilter-mode
 poet-client
 poet-theme
+poetry
 point-pos
 point-stack
 point-undo
@@ -4507,6 +4517,7 @@ sekka
 select-themes
 selected
 selectric-mode
+semaphore
 semi
 seml-mode
 sendto
@@ -4830,6 +4841,7 @@ superego
 supergenpass
 suscolors-theme
 sv-kalender-namnsdagar
+svg
 svg-clock
 svg-mode-line-themes
 svnwrapper
@@ -5037,6 +5049,7 @@ traad
 trac-wiki
 track-scroll
 tracwiki-mode
+tramp
 tramp-hdfs
 tramp-term
 tramp-theme
