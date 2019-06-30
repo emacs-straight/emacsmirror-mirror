@@ -604,6 +604,7 @@ clojure-snippets
 clomacs
 closql
 closure-lint-mode
+cloud-theme
 cloud-to-butt-erc
 clues-theme
 cm-mode
@@ -870,6 +871,7 @@ dashboard-project-status
 date-at-point
 date-calc
 date-field
+date2name
 datetime
 datetime-format
 datomic-snippets
@@ -2242,6 +2244,7 @@ helm-evil-markers
 helm-eww
 helm-ext
 helm-exwm
+helm-file-preview
 helm-filesets
 helm-find-files-in-project
 helm-firefox
@@ -5009,6 +5012,7 @@ timp
 tinkerer
 tiny
 tiny-menu
+tinypng
 tinysegmenter
 tipshare
 title-time
@@ -5352,6 +5356,7 @@ wisi
 wisp-mode
 wispjs-mode
 with-editor
+with-emacs
 with-namespace
 with-simulated-input
 with-venv
