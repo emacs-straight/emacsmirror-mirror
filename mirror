@@ -112,6 +112,7 @@ all-the-icons-gnus
 all-the-icons-ivy
 almost-mono-themes
 alore-mode
+alt-codes
 alt-font-menu
 alternative-files
 amarok
@@ -511,6 +512,7 @@ cedit
 celery
 celestial-mode-line
 celssc-mode
+centaur-tabs
 centered-cursor-mode
 centered-window
 centimacro
@@ -1531,6 +1533,7 @@ exato
 excorporate
 exec-abbrev-cmd
 exec-path-from-shell
+execline
 exiftool
 exim
 exotica-theme
@@ -1611,6 +1614,7 @@ filelock
 filemenu
 files-plus
 filesets-plus
+filetags
 fill-column-indicator
 fill-function-arguments
 filladapt
@@ -2379,6 +2383,7 @@ hexo
 hexrgb
 hexview-mode
 hfst-mode
+hg-histedit
 hgignore-mode
 hgrc-mode
 hi2
@@ -2507,6 +2512,7 @@ icicles-iswitchb
 icmp-info
 icomplete-plus
 icons-in-terminal
+icsql
 id-manager
 idea-darkula-theme
 identica-mode
@@ -3144,6 +3150,7 @@ melancholy-theme
 mellow-theme
 melpa-upstream-visit
 member-functions
+memento-mori
 memo-pop
 memoize
 memolist
@@ -3693,6 +3700,7 @@ org-search-goto
 org-search-goto-ml
 org-seek
 org-seenthis
+org-shoplist
 org-snooze
 org-sql
 org-starter
@@ -4702,6 +4710,7 @@ snippet
 snipplr
 snoopy
 snort-mode
+soap-client
 soar-mode
 socyl
 sofa
@@ -4729,6 +4738,7 @@ sourcepawn-mode
 sourcerer-theme
 sourcetrail
 space-chord
+spacebar
 spacegray-theme
 spaceline
 spaceline-all-the-icons
@@ -4925,6 +4935,7 @@ tdd-status-mode-line
 tea-time
 teacode-expand
 teco
+telega
 telepathy
 telephone-line
 tellstick
@@ -5209,6 +5220,7 @@ vdm-mode
 vector-utils
 veri-kompass
 verify-url
+verilog-mode
 versions
 vertica
 vertica-snippets
