@@ -1174,6 +1174,7 @@ ee
 eev
 efire
 eg
+egalgo
 egg
 egison-mode
 egit
@@ -1188,6 +1189,7 @@ ein
 ein-mumamo
 eink-theme
 ejc-sql
+ejson-mode
 el-autoyas
 el-expectations
 el-fly-indent-mode
@@ -1782,6 +1784,7 @@ flymake-extension
 flymake-for-csharp
 flymake-gjshint
 flymake-go
+flymake-go-staticcheck
 flymake-google-cpplint
 flymake-gradle
 flymake-haml
@@ -2217,6 +2220,8 @@ helm-c-yasnippet
 helm-catkin
 helm-charinfo
 helm-chrome
+helm-chrome-control
+helm-chrome-history
 helm-chronos
 helm-cider
 helm-cider-history
@@ -2311,6 +2316,7 @@ helm-notmuch
 helm-open-github
 helm-org-rifle
 helm-orgcard
+helm-osx-app
 helm-pages
 helm-pass
 helm-perldoc
@@ -2772,6 +2778,7 @@ json-mode
 json-navigator
 json-reformat
 json-rpc
+json-rpc-server
 json-sexp-mode
 json-snatcher
 jsonl
@@ -3967,6 +3974,7 @@ php-runtime
 php-scratch
 phpactor
 phpcbf
+phps-mode
 phpstan
 phpt-mode
 phpunit
@@ -4047,6 +4055,7 @@ poly-org
 poly-rst
 poly-ruby
 poly-slim
+poly-wdl
 polymode
 pomidor
 pomodoro
@@ -4878,6 +4887,7 @@ sx
 symbol-overlay
 symbols-mode
 symbolword-mode
+symex
 symon
 symon-lingr
 sync-recentf
@@ -4891,6 +4901,7 @@ syntactic-close
 syntactic-sugar
 syntax-subword
 sys
+sysctl
 system-packages
 system-specific-settings
 systemd
