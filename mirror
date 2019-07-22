@@ -553,6 +553,7 @@ chinese-number
 chinese-wbim
 chinese-word-at-point
 chinese-yasdcv
+chocolate-theme
 choice-program
 chronometer
 chronos
@@ -645,6 +646,7 @@ color-theme-modern
 color-theme-sanityinc-solarized
 color-theme-sanityinc-tomorrow
 color-theme-x
+colorless-themes
 colormaps
 colour-region
 column-enforce-mode
@@ -773,6 +775,7 @@ coverage
 coverlay
 cp5022x
 cpanfile-mode
+cpp-auto-include
 cpp-capf
 cppref
 cppsense
@@ -865,6 +868,7 @@ darkroom
 darktooth-theme
 dart-mode
 dash
+dash-alfred
 dash-at-point
 dash-docs
 dashboard
@@ -1519,6 +1523,7 @@ evil-textobj-column
 evil-textobj-entire
 evil-textobj-line
 evil-textobj-syntax
+evil-traces
 evil-tutor
 evil-tutor-ja
 evil-vimish-fold
@@ -2735,6 +2740,7 @@ jdee
 jedi
 jedi-direx
 jedi-eldoc
+jeison
 jekyll-modes
 jemdoc-mode
 jenkins
@@ -2747,6 +2753,7 @@ jiggle
 jinja2-mode
 jira
 jira-markup-mode
+jiralib2
 jist
 jknav
 joccur
@@ -2879,6 +2886,7 @@ lab-themes
 labburn-theme
 lacarte
 lagn
+laguna-theme
 lambdacalc
 lammps-mode
 landmark
@@ -3056,6 +3064,7 @@ magic-latex-buffer
 magik-mode
 magit
 magit-annex
+magit-circleci
 magit-diff-flycheck
 magit-filenotify
 magit-find-file
@@ -3432,6 +3441,7 @@ nnir-spotlight
 nnreddit
 no-emoji
 no-littering
+no-spam
 no-word
 noaa
 nobreak-fade
@@ -3686,6 +3696,7 @@ org-projectile
 org-protocol-github-lines
 org-protocol-jekyll
 org-pua
+org-ql
 org-radiobutton
 org-random-todo
 org-randomnote
@@ -3793,12 +3804,14 @@ ox-bibtex-chinese
 ox-clip
 ox-epub
 ox-gfm
+ox-haunt
 ox-html5slide
 ox-hugo
 ox-impress-js
 ox-ioslide
 ox-jekyll-md
 ox-jira
+ox-latex-subfigure
 ox-mdx-deck
 ox-mediawiki
 ox-minutes
@@ -4516,6 +4529,7 @@ scribble-mode
 scriptify
 scrl-margs
 scrobble
+scroll-on-drag
 scroll-restore
 scrollkeeper
 scrooge
@@ -4562,6 +4576,7 @@ sexy-monochrome-theme
 shackle
 shadchen
 shader-mode
+shadowenv
 shakespeare-mode
 shampoo
 shelisp
@@ -4874,6 +4889,7 @@ swap-regions
 swarmhacker
 sweetgreen
 swift-mode
+swift-playground-mode
 swift3-mode
 swiper-helm
 swiss-move
