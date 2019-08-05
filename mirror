@@ -3459,7 +3459,6 @@ noob-arrows-mode
 nopaste
 noprefix
 nord-theme
-nordless-theme
 northcode-theme
 nose
 notes-mode
@@ -5290,6 +5289,7 @@ volatile-highlights
 volume
 vscode-icon
 vterm
+vterm-toggle
 vue-html-mode
 vue-mode
 vyper-mode
