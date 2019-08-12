@@ -1,4 +1,5 @@
 0blayout
+0x0
 0xc
 1000-words
 2048-game
@@ -1249,6 +1250,7 @@ elisp-slime-nav
 elixir-mode
 elixir-yasnippets
 elk-test
+ellocate
 elm-mode
 elm-test-runner
 elm-yasnippets
@@ -1508,6 +1510,7 @@ evil-rebellion
 evil-replace-with-char
 evil-replace-with-register
 evil-rsi
+evil-ruby-text-objects
 evil-search-highlight-persist
 evil-smartparens
 evil-snipe
@@ -1727,6 +1730,7 @@ flycheck-gradle
 flycheck-grammalecte
 flycheck-haskell
 flycheck-hdevtools
+flycheck-indicator
 flycheck-ini-pyinilint
 flycheck-inline
 flycheck-irony
@@ -1807,6 +1811,7 @@ flymake-php
 flymake-phpcs
 flymake-puppet
 flymake-python-pyflakes
+flymake-quickdef
 flymake-racket
 flymake-ruby
 flymake-rust
@@ -2319,6 +2324,7 @@ helm-mu-contacts
 helm-navi
 helm-notmuch
 helm-open-github
+helm-org
 helm-org-rifle
 helm-orgcard
 helm-osx-app
@@ -3138,6 +3144,7 @@ markless
 markup
 markup-faces
 marmalade-client
+marquee-header
 marshal
 maruo-macro-mode
 masquerade-mode
@@ -3364,6 +3371,7 @@ mybuffers
 myers
 mykie
 mynt-mode
+myrddin-mode
 mysql
 mysql-to-org
 mysql2sqlite
@@ -3810,6 +3818,7 @@ ox-impress-js
 ox-ioslide
 ox-jekyll-md
 ox-jira
+ox-json
 ox-latex-subfigure
 ox-mdx-deck
 ox-mediawiki
@@ -4126,6 +4135,7 @@ pretty-symbols
 private
 private-diary
 proc-net
+proced-narrow
 processing-mode
 procomm-mode
 prodigy
@@ -4510,6 +4520,7 @@ scf-mode
 scheme-complete
 school-points-off
 schrute
+scihub
 scion
 sclang
 sclang-extensions
@@ -5117,6 +5128,7 @@ trr
 truthy
 try
 try-code
+ts
 ts-comint
 ts-mode
 tsql-indent
