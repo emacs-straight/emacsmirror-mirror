@@ -300,6 +300,7 @@ backups-mode
 backward-forward
 badger-theme
 badwolf-theme
+baidu-translate
 bang
 banner-comment
 bap-mode
@@ -580,6 +581,7 @@ cl-libify
 cl-merge
 cl-print
 clang-format
+clang-format-plus
 clang-lookup
 clasker
 clean-aindent-mode
@@ -688,6 +690,7 @@ company-erlang
 company-ess
 company-flow
 company-flx
+company-fuzzy
 company-ghc
 company-ghci
 company-glsl
@@ -868,6 +871,7 @@ darkokai-theme
 darkroom
 darktooth-theme
 dart-mode
+dart-server
 dash
 dash-alfred
 dash-at-point
@@ -1175,6 +1179,7 @@ editorconfig-generate
 edje-mode
 edn
 edts
+edwin
 ee
 eev
 efire
@@ -1502,6 +1507,7 @@ evil-nerd-commenter
 evil-nl-break-undo
 evil-numbers
 evil-org
+evil-owl
 evil-paredit
 evil-python-movement
 evil-quickscope
@@ -1563,6 +1569,7 @@ exwm
 exwm-edit
 exwm-firefox-core
 exwm-firefox-evil
+exwm-mff
 exwm-surf
 exwm-x
 eyebrowse
@@ -1577,6 +1584,7 @@ fab
 fabric
 face-explorer
 face-remap-plus
+face-shift
 facemenu-plus
 faces-plus
 faceup
@@ -1900,6 +1908,7 @@ function-args
 fuo
 furl
 futhark-mode
+fuz
 fuzz
 fuzzy
 fuzzy-find-in-project
@@ -2143,6 +2152,7 @@ grep-o-matic
 greymatters-theme
 griffin
 grin
+grip-mode
 grizzl
 groovy-imports
 groovy-mode
@@ -2688,6 +2698,7 @@ itimer
 ivariants
 ivs-edit
 ivy
+ivy-clojuredocs
 ivy-dired-history
 ivy-erlang-complete
 ivy-explorer
@@ -2789,6 +2800,7 @@ jscs
 jsfmt
 json-mode
 json-navigator
+json-process-client
 json-reformat
 json-rpc
 json-rpc-server
@@ -2821,6 +2833,7 @@ kakoune
 kaleidoscope
 kanban
 kanji-mode
+kaocha-runner
 kaolin-themes
 kaomoji
 kapacitor
@@ -2972,6 +2985,7 @@ linum-relative
 linum-relativenumber
 liquid-types
 liso-theme
+lisp-butt-mode
 lisp-editing
 lisp-extra-font-lock
 lispxmp
@@ -3090,6 +3104,7 @@ magit-svn
 magit-tbdiff
 magit-todos
 magit-topgit
+magit-vcsh
 magit-view-file
 magithub
 magma-mode
@@ -3132,6 +3147,7 @@ mark-forward-sexp
 mark-lines
 mark-multiple
 mark-select
+mark-thing-at
 mark-tools
 markchars
 markdown-mode
@@ -3211,6 +3227,7 @@ mines
 minesweeper
 mingus
 mini-header-line
+mini-modeline
 minibuf-isearch
 minibuffer-complete-cycle
 minibuffer-cua
@@ -3297,6 +3314,7 @@ moz
 moz-controller
 mozart
 mozc
+mozc-cand-posframe
 mozc-im
 mozc-popup
 mozc-temp
@@ -3399,6 +3417,7 @@ nav
 nav-flash
 navi-mode
 navi2ch
+navigel
 navorski
 naysayer-theme
 nazna
@@ -3607,6 +3626,7 @@ org
 org-ac
 org-agenda-property
 org-alert
+org-analyzer
 org-assoc-tags
 org-attach-screenshot
 org-autolist
@@ -4233,6 +4253,7 @@ pyramid
 pytest
 pytest-pdb-break
 python
+python-black
 python-cell
 python-django
 python-docstring
@@ -5002,6 +5023,7 @@ terminal-notifier
 terminal-toggle
 tern
 tern-context-coloring
+terraform-doc
 terraform-mode
 terrible-template
 test-c
@@ -5252,6 +5274,7 @@ vc-osc
 vc-partial-commit
 vcl-mode
 vcomp
+vcsh
 vdiff
 vdiff-magit
 vdirel
@@ -5405,6 +5428,7 @@ winring
 winum
 wipe
 wisi
+wisitoken-grammar-mode
 wisp-mode
 wispjs-mode
 with-editor
@@ -5574,4 +5598,3 @@ zweilight-theme
 zwiebel
 zygospore
 zzz-to-char
-wisitoken-grammar-mode
