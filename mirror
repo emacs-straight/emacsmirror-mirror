@@ -1179,7 +1179,7 @@ editorconfig-generate
 edje-mode
 edn
 edts
-edwin
+edwina
 ee
 eev
 efire
@@ -2839,6 +2839,7 @@ kaomoji
 kapacitor
 kappa
 karma
+kconfig-mode
 kdeconnect
 kdic
 keats
