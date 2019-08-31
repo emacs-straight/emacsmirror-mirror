@@ -770,6 +770,7 @@ counsel-osx-app
 counsel-projectile
 counsel-pydoc
 counsel-spotify
+counsel-test
 counsel-tramp
 counsel-world-clock
 countdown
@@ -2403,6 +2404,7 @@ help-mode-plus
 helpful
 hemera-theme
 hemisu-theme
+hercules
 heroku
 heroku-theme
 hexcolour
@@ -4026,7 +4028,6 @@ pick-backup
 pickel
 pickle
 picolisp
-picolisp-mode
 picolisp-wiki-mode
 picpocket
 pig-mode
@@ -4062,6 +4063,7 @@ playerctl
 playground
 plenv
 plim-mode
+plisp-mode
 plone-mode
 plsense
 plsense-direx
