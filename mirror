@@ -136,6 +136,7 @@ angular-mode
 angular-snippets
 anki-editor
 anki-mode
+annalist
 annotate
 annotate-depth
 annoying-arrows-mode
@@ -192,6 +193,7 @@ asn1-mode
 asp-mode
 assert-rtn
 assess
+asx
 async
 async-await
 async-eval
@@ -301,6 +303,7 @@ backward-forward
 badger-theme
 badwolf-theme
 baidu-translate
+balanced-windows
 bang
 banner-comment
 bap-mode
@@ -2284,6 +2287,7 @@ helm-flymake
 helm-flyspell
 helm-frame
 helm-fuzzier
+helm-fuzzy
 helm-fuzzy-find
 helm-ghc
 helm-ghq
@@ -3715,6 +3719,7 @@ org-page
 org-parser
 org-password-manager
 org-pdfview
+org-picklink
 org-pivotal
 org-pomodoro
 org-present
@@ -3760,6 +3765,7 @@ org-sync
 org-sync-snippets
 org-table-comment
 org-table-sticky-header
+org-tanglesync
 org-tfl
 org-themis
 org-time-budgets
@@ -4364,6 +4370,7 @@ realgud-pry
 realgud-rdb2
 realgud-trepan-ni
 really-simple-wiki
+reaper
 reason-mode
 reazon
 rebecca-theme
