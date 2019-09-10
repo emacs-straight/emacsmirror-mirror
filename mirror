@@ -1017,6 +1017,7 @@ dispass
 display-buffer-for-wide-screen
 display-hatebu
 display-theme
+dispwatch
 dist-file-mode
 distel
 distel-completion-lib
@@ -2490,6 +2491,7 @@ hookify
 horoscope
 hound
 howdoi
+howdoyou
 howm
 hsearch
 hsluv
@@ -2966,6 +2968,7 @@ lex
 lexbind-mode
 lfe-mode
 lib-requires
+libbasecampel
 libelcouch
 libgit
 libmpdee
@@ -4161,6 +4164,7 @@ pretty-lambdada
 pretty-mode
 pretty-sha-path
 pretty-symbols
+prism
 private
 private-diary
 proc-net
@@ -4328,6 +4332,7 @@ rb
 rbenv
 rbit
 rbt
+rbtagger
 rc-mode
 rcfiles
 rcirc-alert
@@ -4882,6 +4887,7 @@ stickies
 sticky
 stickyfunc-enhance
 stock-ticker
+stock-tracker
 strace-mode
 stream
 strie
@@ -4993,6 +4999,7 @@ task-timer
 taskjuggler-mode
 taskpaper
 taskpaper-mode
+taskrunner
 tawny-mode
 tbemail
 tblui
