@@ -4966,6 +4966,7 @@ syntactic-sugar
 syntax-subword
 sys
 sysctl
+syslog-mode
 system-packages
 system-specific-settings
 systemd
