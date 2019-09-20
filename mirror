@@ -289,6 +289,7 @@ awk-it
 aws
 aws-ec2
 aws-snippets
+awscli-capf
 axiom-environment
 babel
 babel-repl
@@ -629,6 +630,7 @@ cnfonts
 cobalt
 cobol-mode
 cobra-mode
+codcut
 code-archive
 code-imports
 code-library
@@ -1892,6 +1894,7 @@ frameshot
 framesize
 framov
 frecency
+frecentf
 free-keys
 freeradius-mode
 fringe-current-line
@@ -2799,6 +2802,7 @@ js-doc
 js-format
 js-import
 js-lookup
+js-react-redux-yasnippets
 js2-closure
 js2-highlight-vars
 js2-mode
@@ -4261,6 +4265,7 @@ pyimpsort
 pylint
 pylit
 pylookup
+pymacs
 pynt
 pyramid
 pytest
