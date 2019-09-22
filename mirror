@@ -664,6 +664,7 @@ com-css-sort
 comb
 come-fly
 comicscript
+comint-hyperlink
 comint-intercept
 command-log-mode
 command-queue
@@ -962,6 +963,7 @@ digitalocean-helm
 dim
 dim-autoload
 diminish
+diminish-buffer
 dimmer
 dionysos
 dircmp
@@ -1305,6 +1307,7 @@ emacsc
 emacsist-view
 emacspeak
 emacsql
+emacsql-sqlite3
 emacsshot
 email
 emamux
@@ -2972,7 +2975,7 @@ lex
 lexbind-mode
 lfe-mode
 lib-requires
-libbasecampel
+libbcel
 libelcouch
 libgit
 libmpdee
@@ -3477,6 +3480,7 @@ nlinum-hl
 nlinum-relative
 nm
 nmcobol-mode
+nnhackernews
 nnir-est
 nnir-spotlight
 nnreddit
@@ -5457,6 +5461,7 @@ wispjs-mode
 with-editor
 with-emacs
 with-namespace
+with-proxy
 with-simulated-input
 with-venv
 wmctrl
