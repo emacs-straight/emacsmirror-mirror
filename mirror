@@ -88,6 +88,7 @@ ag
 aggressive-fill-paragraph
 aggressive-indent
 agtags
+ah
 ahg
 ahk-mode
 ahungry-theme
@@ -119,6 +120,7 @@ alternative-files
 amarok
 amd-mode
 ameba
+amixer
 aml-mode
 ammonite-term-repl
 ampc
@@ -732,6 +734,7 @@ compile-bookmarks
 compile-dwim
 composable
 composer
+comware-router-mode
 conda
 config-general-mode
 config-parser
@@ -1603,9 +1606,11 @@ faff-theme
 fakespace
 fakir
 fancy-battery
+fancy-dabbrev
 fancy-narrow
 farmhouse-theme
 fasd
+fast-scroll
 fastdef
 fastfuzz
 fastnav
@@ -2284,6 +2289,7 @@ helm-evil-markers
 helm-eww
 helm-ext
 helm-exwm
+helm-fd
 helm-file-preview
 helm-filesets
 helm-find-files-in-project
@@ -2486,6 +2492,7 @@ hledger-mode
 hlint-refactor
 hlinum
 hmac
+hnreader
 hoa-mode
 hoa-pp-mode
 holiday-pascha-etc
@@ -3577,6 +3584,7 @@ ob-rust
 ob-sagemath
 ob-sml
 ob-sql-mode
+ob-svgbob
 ob-swift
 ob-tmux
 ob-translate
@@ -3765,6 +3773,7 @@ org-search-goto-ml
 org-seek
 org-seenthis
 org-shoplist
+org-sidebar
 org-snooze
 org-sql
 org-starter
@@ -4945,6 +4954,7 @@ swap-buffers
 swap-regions
 swarmhacker
 sweetgreen
+swift-helpful
 swift-mode
 swift-playground-mode
 swift3-mode
