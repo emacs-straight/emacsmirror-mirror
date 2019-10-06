@@ -114,13 +114,13 @@ all-the-icons-gnus
 all-the-icons-ivy
 almost-mono-themes
 alore-mode
+alsamixer
 alt-codes
 alt-font-menu
 alternative-files
 amarok
 amd-mode
 ameba
-amixer
 aml-mode
 ammonite-term-repl
 ampc
@@ -727,6 +727,7 @@ company-tern
 company-terraform
 company-try-hard
 company-web
+compdef
 compilation-always-kill
 compile-plus
 compile-
@@ -1356,7 +1357,6 @@ enlive
 eno
 enotify
 enscript
-ensime
 envdir
 enwc
 eoops
@@ -1743,7 +1743,6 @@ flycheck-dtrace
 flycheck-elixir
 flycheck-elm
 flycheck-elsa
-flycheck-ensime
 flycheck-flawfinder
 flycheck-flow
 flycheck-ghcmod

@@ -16,6 +16,7 @@ align-regexp
 alossage
 altmap
 amigo
+amixer
 analog
 anaya
 ani-fcsh
@@ -333,6 +334,7 @@ emotion
 emsane
 emuds
 encap
+ensime
 env-print
 eon
 eperiodic
@@ -391,6 +393,7 @@ flatten-saved-pages
 flip-tables
 floatbg
 fluiddb
+flycheck-ensime
 flycheck-google-cpplint
 flycheck-purescript
 flycheck-rebar3
