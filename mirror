@@ -1459,6 +1459,7 @@ etags-stack
 etags-table
 etags-update
 eterm-256color
+eterm-fn
 etest
 etexshow
 ethan-wspace
@@ -3073,6 +3074,7 @@ lsp-haskell
 lsp-intellij
 lsp-java
 lsp-javacomp
+lsp-julia
 lsp-mode
 lsp-origami
 lsp-p4
