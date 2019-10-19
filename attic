@@ -318,11 +318,13 @@ elwiki
 em-joc
 em-zle
 emacs-name
+emacs-setup
 emacs-variants
 emacs-vers
 emacs-wiki-boxes
 emacs-wiki-journal
 emacs-xcode
+emacsagist
 emacsserver
 emathica
 ematrix
@@ -738,6 +740,7 @@ mutt-alias
 mwe-cambridge-permute
 mwe-color-box
 mwe-log-commands
+mysql2sqlite
 naos
 narrow-stack
 natsel

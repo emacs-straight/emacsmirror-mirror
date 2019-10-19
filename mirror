@@ -951,6 +951,7 @@ dict-tree
 dictcc
 dictem
 dictionary
+didyoumean
 diff-plus
 diff-ediff
 diff-git
@@ -1303,10 +1304,8 @@ elx
 emacs-android
 emacs-init-check
 emacs-lock-plus
-emacs-setup
 emacs-speaks-nonmem
 emacs-wiki-finddead
-emacsagist
 emacsc
 emacsist-view
 emacspeak
@@ -3235,7 +3234,6 @@ metamorph
 metapost-mode-plus
 metar
 metascript-mode
-metaweblog
 mew
 mew-ical
 mew-unread
@@ -3417,7 +3415,6 @@ mynt-mode
 myrddin-mode
 mysql
 mysql-to-org
-mysql2sqlite
 myterminal-controls
 mythryl-mode
 mz-comment-fix
