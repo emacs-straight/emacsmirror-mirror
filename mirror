@@ -1281,6 +1281,7 @@ elogcat
 eloud
 elpa-audit
 elpa-clone
+elpa-deploy
 elpa-mirror
 elpad-client
 elpher
@@ -2651,6 +2652,7 @@ info-beamer
 info-buffer
 info-colors
 info-lookmore
+info-rename-buffer
 inform-mode
 inherit-local
 ini-mode
