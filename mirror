@@ -2207,6 +2207,7 @@ hamburg-theme
 hamburger-menu
 haml-mode
 hamlet-mode
+handle
 handlebars-mode
 handlebars-sgml-mode
 handoff
@@ -5162,6 +5163,7 @@ trac-wiki
 track-scroll
 tracwiki-mode
 tramp
+tramp-auto-auth
 tramp-hdfs
 tramp-term
 tramp-theme
