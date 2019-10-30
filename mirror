@@ -689,6 +689,7 @@ company-box
 company-c-headers
 company-cabal
 company-coq
+company-ctags
 company-dcd
 company-dict
 company-ebdb
