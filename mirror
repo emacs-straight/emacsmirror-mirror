@@ -345,6 +345,8 @@ belarus-holidays
 benchmark-init
 benchstat
 bencode
+bento
+berrys-theme
 bert
 better-defaults
 better-jump
@@ -1818,6 +1820,7 @@ flymake-for-csharp
 flymake-gjshint
 flymake-go
 flymake-go-staticcheck
+flymake-golangci
 flymake-google-cpplint
 flymake-gradle
 flymake-haml
@@ -2002,6 +2005,7 @@ git-time-machine
 git-time-metric
 git-timemachine
 git-undo
+git-walktree
 git-wip-timemachine
 gitconfig
 gited
@@ -2390,6 +2394,7 @@ helm-selected
 helm-sheet
 helm-shell-history
 helm-slime
+helm-sly
 helm-smex
 helm-spaces
 helm-spotify
@@ -3075,6 +3080,7 @@ lsdb
 lsp-elixir
 lsp-haskell
 lsp-intellij
+lsp-ivy
 lsp-java
 lsp-javacomp
 lsp-julia
@@ -4867,6 +4873,7 @@ sql-completion
 sql-impala
 sql-indent
 sql-presto
+sql-sqlline
 sql-transform
 sql-with-placeholders
 sqled-mode
@@ -5177,6 +5184,7 @@ transient
 transmission
 transpose-frame
 transpose-mark
+trashed
 travis
 tree-mode
 treemacs
@@ -5536,6 +5544,7 @@ xelb
 xkcd
 xlicense
 xml-plus
+xml-format
 xml-parse
 xml-quotes
 xml-rpc
@@ -5609,6 +5618,7 @@ zencoding-mode
 zenity-color-picker
 zeno-theme
 zephir-mode
+zero-input
 zerodark-theme
 zig-mode
 zlc
