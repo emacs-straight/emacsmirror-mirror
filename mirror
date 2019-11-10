@@ -390,6 +390,7 @@ bln-mode
 blockdiag-mode
 blog-admin
 blog-minimal
+bluetooth
 bm
 bm-ext
 bmi
@@ -1092,7 +1093,6 @@ dr-racket-like-unicode
 dracula-theme
 draft-mode
 drag-stuff
-drawille
 drill-instructor
 drill-instructor-AZIK-force
 drone
@@ -3706,7 +3706,6 @@ org-fancy-priorities
 org-gcal
 org-global-insert-link
 org-gnome
-org-gnome-calendar
 org-grep
 org-helpers
 org-hlc
@@ -3776,6 +3775,7 @@ org-review
 org-rich-yank
 org-rtm
 org-s5
+org-scrum
 org-search-goto
 org-search-goto-ml
 org-seek
@@ -4606,7 +4606,6 @@ scroll-on-drag
 scroll-restore
 scrollkeeper
 scrooge
-scrum
 scss-mode
 sdcv
 sdlang-mode

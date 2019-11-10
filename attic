@@ -271,6 +271,7 @@ doxymacs
 dpans2texi
 dracula-mode
 dragbox
+drawille
 dubious-paragraphs
 dummy-h-mode
 duplicate-line
@@ -792,6 +793,7 @@ org-chinese-utils
 org-e-caldav
 org-fstree
 org-ghi
+org-gnome-calendar
 org-html5presentation
 org-osm-link
 org-site
