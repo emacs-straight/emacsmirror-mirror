@@ -1383,7 +1383,6 @@ erc-colorize
 erc-crypt
 erc-extension
 erc-highlight-nicknames
-erc-hipchatify
 erc-hl-nicks
 erc-image
 erc-nick-notify
