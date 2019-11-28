@@ -136,6 +136,7 @@ android-mode
 angry-police-captain
 angular-mode
 angular-snippets
+anki-connect
 anki-editor
 anki-mode
 annalist
@@ -421,6 +422,7 @@ bpr
 bracketed-paste
 bracketphobia
 brainfuck-mode
+brazilian-holidays
 brief
 broadcast
 browse-at-remote
@@ -2035,6 +2037,7 @@ gl-conf-mode
 glade-mode
 gle-mode
 glimpse
+global-tags
 globalff
 globrep
 glsl-mode
@@ -2840,7 +2843,6 @@ jsonnet-mode
 jsonrpc
 jss
 jst
-jsx-mode
 jtags
 juick
 julia-mode
@@ -3808,6 +3810,7 @@ org-watchdoc
 org-wc
 org-web-tools
 org-wild-notifier
+org-working-set
 org-wunderlist
 org-yaml
 org2blog
@@ -5241,6 +5244,7 @@ ujelly-theme
 ukrainian-holidays
 ul
 ultratex
+uml-mode
 unaccent
 unbind
 unbound
@@ -5322,6 +5326,7 @@ vc-partial-commit
 vcl-mode
 vcomp
 vcsh
+vdf-mode
 vdiff
 vdiff-magit
 vdirel
