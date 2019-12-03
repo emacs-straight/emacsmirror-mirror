@@ -2898,6 +2898,7 @@ keyswap
 keyword-arg-macros
 keyword-search
 kfg
+khardel
 kibit-helper
 kibit-mode
 kill-or-bury-alive
@@ -3308,6 +3309,7 @@ modeline-char
 modeline-posn
 modern-cpp-font-lock
 modtime-skip-mode
+modus-themes
 moe-theme
 mogo
 moikrug
@@ -5575,7 +5577,6 @@ yabin
 yafastnav
 yafolding
 yagist
-yahoo-weather
 yahtzee
 yalinum
 yaml-imenu
