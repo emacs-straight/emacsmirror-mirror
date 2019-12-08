@@ -779,6 +779,7 @@ counsel-ebdb
 counsel-etags
 counsel-ffdata
 counsel-gtags
+counsel-jq
 counsel-notmuch
 counsel-org-capture-string
 counsel-org-clock
