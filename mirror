@@ -2948,6 +2948,7 @@ langdoc
 langtool
 language-detection
 language-id
+lastfm
 lastpass
 latch
 latex-extra
@@ -3836,6 +3837,7 @@ orgtbl-ascii-plot
 orgtbl-join
 orgtbl-show-header
 origami
+ormolu
 orthodox
 orwell
 osc
@@ -3950,6 +3952,7 @@ parfait-mode
 parinfer
 parrot
 parse-csv
+parse-it
 parsebib
 parsec
 parseclj
@@ -4475,6 +4478,7 @@ resize-window
 restart-emacs
 restclient
 restclient-test
+reveal-in-folder
 reveal-in-osx-finder
 reveal-next
 revealjs-mode
