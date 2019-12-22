@@ -586,6 +586,7 @@ circe-notifications
 circle
 cisco-router-mode
 citeproc
+cl-font-lock
 cl-format
 cl-lib-highlight
 cl-libify
@@ -1262,6 +1263,7 @@ elfeed-org
 elfeed-protocol
 elgrep
 elhome
+elisp-benchmarks
 elisp-def
 elisp-demos
 elisp-depend
@@ -1696,6 +1698,7 @@ fix-word
 fixme-mode
 fixmee
 flame
+flames-of-freedom
 flappymacs
 flash-region
 flatland-black-theme
@@ -1984,6 +1987,7 @@ git-annex
 git-attr
 git-auto-commit
 git-auto-commit-mode
+git-backup
 git-code-review
 git-command
 git-commit-insert-issue
@@ -2049,6 +2053,7 @@ gmpl-mode
 gn-mode
 gnome-c-style
 gnome-calendar
+gnome-screencast
 gnomenm
 gnorb
 gntp
@@ -3134,6 +3139,7 @@ magit-imerge
 magit-lfs
 magit-org-todos
 magit-p4
+magit-patch-changelog
 magit-popup
 magit-rbr
 magit-reviewboard
@@ -4632,6 +4638,7 @@ sekka
 select-themes
 selected
 selectric-mode
+selectrum
 semaphore
 semi
 seml-mode
@@ -5260,6 +5267,7 @@ uncrustify-mode
 undercover
 underline-with-char
 underwater-theme
+undo-fu
 undo-propose
 undo-tree
 undohist
@@ -5477,6 +5485,7 @@ window-margin
 window-number
 window-numbering
 window-purpose
+windower
 windows-path
 windresize
 windsize
@@ -5562,6 +5571,7 @@ xml-rpc
 xmlgen
 xmlunicode
 xo
+xonsh-mode
 xpm
 xquery-mode
 xquery-tool
