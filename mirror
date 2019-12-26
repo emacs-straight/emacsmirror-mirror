@@ -200,6 +200,7 @@ asx
 async
 async-await
 async-eval
+atcoder-tools
 atim-unscroll
 atoctx
 atom
@@ -961,6 +962,7 @@ dictem
 dictionary
 didyoumean
 diff-plus
+diff-at-point
 diff-ediff
 diff-git
 diff-hl
@@ -1210,6 +1212,7 @@ egg
 egison-mode
 egit
 eglot
+eglot-jl
 ego
 eide
 eight-puzzle
@@ -1799,6 +1802,7 @@ flycheck-status-emoji
 flycheck-swift
 flycheck-swift3
 flycheck-swiftlint
+flycheck-swiftx
 flycheck-tcl
 flycheck-tip
 flycheck-title
@@ -1988,6 +1992,7 @@ git-attr
 git-auto-commit
 git-auto-commit-mode
 git-backup
+git-backup-ivy
 git-code-review
 git-command
 git-commit-insert-issue
@@ -2408,6 +2413,7 @@ helm-spaces
 helm-spotify
 helm-spotify-plus
 helm-sql-connect
+helm-switch-shell
 helm-swoop
 helm-system-packages
 helm-systemd
@@ -2740,6 +2746,7 @@ ivy-dired-history
 ivy-erlang-complete
 ivy-explorer
 ivy-feedwrangler
+ivy-fuz
 ivy-lobsters
 ivy-mpdel
 ivy-omni-org
@@ -3094,6 +3101,7 @@ lsp-java
 lsp-javacomp
 lsp-julia
 lsp-mode
+lsp-mssql
 lsp-origami
 lsp-p4
 lsp-pyre
@@ -3284,6 +3292,7 @@ minions
 minitest
 minizinc-mode
 minor-mode-hack
+minsk-theme
 mip-mode
 mips-mode
 mirror
@@ -3497,6 +3506,7 @@ nimbus-theme
 nimrod-mode
 ninja-mode
 nix-buffer
+nix-env-install
 nix-haskell-mode
 nix-mode
 nix-update
@@ -4191,6 +4201,7 @@ pp-plus
 pp-c-l
 ppd-sr-speedbar
 ppindent
+ppp
 prand
 prassee-theme
 preproc-font-lock
@@ -4863,6 +4874,7 @@ speck
 speech-tagger
 speechd
 speed-type
+speedbar-git-respect
 speeddating
 spell-number
 sphinx-doc
@@ -5203,6 +5215,7 @@ transpose-mark
 trashed
 travis
 tree-mode
+treefactor
 treemacs
 treepy
 trelloel
@@ -5389,6 +5402,7 @@ vnesting
 voca-builder
 volatile-highlights
 volume
+vscdark-theme
 vscode-icon
 vterm
 vterm-toggle
@@ -5641,6 +5655,7 @@ zephir-mode
 zero-input
 zerodark-theme
 zig-mode
+zim-wiki-mode
 zlc
 zmq
 znc
