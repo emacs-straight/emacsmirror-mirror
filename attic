@@ -281,6 +281,7 @@ dvi-view
 dwim-find
 e-blog
 e-other-window
+e2wm-R
 eap
 easy-lentic
 ebackup
@@ -288,6 +289,7 @@ ebib-handy
 ec
 ecamax
 ecaspace
+edit-at-point
 edit-tree
 edlib
 edom
@@ -337,6 +339,7 @@ emotion
 emsane
 emuds
 encap
+eno
 ensime
 env-print
 eon
@@ -528,6 +531,7 @@ icaps
 idle-highlight
 idledo
 idna
+ido-migemo
 ifile-gnus
 ifind-mode
 ilisp
@@ -546,6 +550,7 @@ infobook
 infohelp
 inkmacs
 inktc
+inlineR
 insert-construct
 insertions
 inspec2bibtex
@@ -797,9 +802,11 @@ org-fstree
 org-ghi
 org-gnome-calendar
 org-html5presentation
+org-multiple-keymap
 org-osm-link
 org-site
 org-website
+org-wunderlist
 os
 osx-itunes
 osx-osascript
@@ -886,6 +893,7 @@ qsas
 qsearch
 qtdoc
 querer
+quick-preview
 quick-task
 quick-yes
 quotes

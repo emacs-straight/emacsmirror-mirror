@@ -1129,7 +1129,6 @@ dynamic-ruler
 dynamic-spaces
 e2ansi
 e2wm
-e2wm-R
 e2wm-bookmark
 e2wm-direx
 e2wm-pkgex4pl
@@ -1186,7 +1185,6 @@ edice
 ediff-plus
 ediff-trees
 ediprolog
-edit-at-point
 edit-color-stamp
 edit-indirect
 edit-indirect-region-latex
@@ -1365,7 +1363,6 @@ encrypt
 engine-mode
 enh-ruby-mode
 enlive
-eno
 enotify
 enscript
 envdir
@@ -2603,7 +2600,6 @@ ido-gnus
 ido-grid-mode
 ido-hacks
 ido-load-library
-ido-migemo
 ido-occasional
 ido-occur
 ido-other-window
@@ -2684,7 +2680,6 @@ ink-mode
 inkpot-theme
 inline-crypt
 inline-docs
-inlineR
 insert-kaomoji
 insert-shebang
 insert-time
@@ -3754,7 +3749,6 @@ org-mind-map
 org-mobile-sync
 org-mru-clock
 org-msg
-org-multiple-keymap
 org-nan
 org-notebook
 org-noter
@@ -3831,7 +3825,6 @@ org-wc
 org-web-tools
 org-wild-notifier
 org-working-set
-org-wunderlist
 org-yaml
 org2blog
 org2ctex
@@ -4351,7 +4344,6 @@ queue-mail
 quick-buffer-switch
 quick-jump
 quick-peek
-quick-preview
 quick-shell-keybind
 quickfix-mode
 quickref
