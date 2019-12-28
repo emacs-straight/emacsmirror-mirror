@@ -1965,6 +1965,7 @@ generic-edit-special
 genrnc
 geocode
 german-holidays
+gerrit
 gerrit-download
 gf
 ggo-mode
@@ -4516,6 +4517,7 @@ ring-plus
 rings
 ripgrep
 riscv-mode
+rivet-mode
 rjsx-mode
 rmail-extras
 rmail-saver
