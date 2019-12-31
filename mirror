@@ -605,6 +605,7 @@ clibpc
 click-mode
 clip2org
 clipboard-collector
+clipetty
 cliphist
 clipmon
 clippy
@@ -927,6 +928,7 @@ dedukti-mode
 default-text-scale
 deferred
 defhook
+define-it
 define-word
 defproject
 defrepeater
@@ -1156,6 +1158,7 @@ ebm
 ebnf-mode
 ebs
 ebuild-mode
+ebuku
 ecasound
 ecb
 ecco
@@ -2648,6 +2651,7 @@ includeme
 indent-guide
 indent-hints-mode
 indent-info
+indent-lint
 indent-tools
 indian-ext
 indicate-changes
@@ -3258,6 +3262,7 @@ metamorph
 metapost-mode-plus
 metar
 metascript-mode
+metrics-tracker
 mew
 mew-ical
 mew-unread
@@ -5641,6 +5646,7 @@ zeal-at-point
 zeitgeist
 zel
 zen-and-art-theme
+zen-mode
 zenburn-theme
 zencoding-mode
 zenity-color-picker
