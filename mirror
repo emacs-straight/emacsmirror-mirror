@@ -139,6 +139,7 @@ angular-snippets
 anki-connect
 anki-editor
 anki-mode
+anki-vocabulary
 annalist
 annotate
 annotate-depth
@@ -1265,6 +1266,7 @@ elfeed
 elfeed-goodies
 elfeed-org
 elfeed-protocol
+elfeed-score
 elgrep
 elhome
 elisp-benchmarks
@@ -2161,6 +2163,7 @@ gradle
 gradle-mode
 grails
 grails-projectile-mode
+grammarly
 grandshell-theme
 graphene
 graphene-meta-theme
@@ -2314,6 +2317,7 @@ helm-file-preview
 helm-filesets
 helm-find-files-in-project
 helm-firefox
+helm-fish-completion
 helm-flx
 helm-flycheck
 helm-flymake
@@ -3202,6 +3206,7 @@ mark-select
 mark-thing-at
 mark-tools
 markchars
+markdown-changelog
 markdown-mode
 markdown-mode-plus
 markdown-preview-eww
@@ -3594,9 +3599,11 @@ ob-dao
 ob-dart
 ob-diagrams
 ob-elixir
+ob-elm
 ob-elvish
 ob-fsharp
 ob-go
+ob-graphql
 ob-html-chrome
 ob-http
 ob-hy
@@ -5654,6 +5661,7 @@ zeno-theme
 zephir-mode
 zero-input
 zerodark-theme
+zetteldeft
 zig-mode
 zim-wiki-mode
 zlc
