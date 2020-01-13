@@ -1251,6 +1251,7 @@ elbank
 elcontext
 elcord
 elcouch
+eldev
 eldoc-box
 eldoc-cmake
 eldoc-eval
@@ -2555,6 +2556,7 @@ http-twiddle
 httpcode
 httprepl
 hugsql-ghosts
+humanoid-themes
 hungarian-holidays
 hungry-delete
 huskie
@@ -5367,6 +5369,7 @@ vdiff-magit
 vdirel
 vdm-mode
 vector-utils
+verb
 veri-kompass
 verify-url
 verilog-mode
