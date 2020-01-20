@@ -360,7 +360,6 @@ bf
 bf-mode
 bfbuilder
 bibclean-format
-bibeltex
 biblio
 biblio-bibsonomy
 bibliothek
@@ -3751,12 +3750,9 @@ org-journal-list
 org-json
 org-kanban
 org-kindle
-org-link-minor-mode
 org-link-travis
-org-linkany
 org-listcruncher
 org-lookup-dnd
-org-mac-protocol
 org-magit
 org-make-toc
 org-manage

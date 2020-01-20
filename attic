@@ -83,6 +83,7 @@ bbdbpalm
 bbdbrc
 beatnik
 bhl
+bibeltex
 bibfind
 bibl-mode
 bibtex-mode
@@ -802,6 +803,9 @@ org-fstree
 org-ghi
 org-gnome-calendar
 org-html5presentation
+org-link-minor-mode
+org-linkany
+org-mac-protocol
 org-multiple-keymap
 org-osm-link
 org-site
