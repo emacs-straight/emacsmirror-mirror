@@ -568,6 +568,7 @@ iso-sgml
 ispell-multi
 iswitchb-fc
 itunes
+ivy-feedwrangler
 japanese-tokenizer
 jasmin
 java-find
@@ -853,6 +854,7 @@ pilot
 pilot-doc
 pilot-memo
 pinpoint-mode
+pivotal-tracker
 planner
 play-mode
 playlist
@@ -1168,7 +1170,6 @@ view-tp
 viewtex
 vim-elscreen
 vim-mode
-vimgolf
 vimpulse
 vkill
 vlog-mode

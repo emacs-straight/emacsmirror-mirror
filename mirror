@@ -1838,6 +1838,7 @@ flymake-haml
 flymake-haskell-multi
 flymake-helper
 flymake-hlint
+flymake-joker
 flymake-jshint
 flymake-jslint
 flymake-json
@@ -2527,6 +2528,7 @@ homebrew-mode
 honcho
 hook-helpers
 hookify
+horizon-theme
 horoscope
 hound
 howdoi
@@ -2750,7 +2752,6 @@ ivy-clojuredocs
 ivy-dired-history
 ivy-erlang-complete
 ivy-explorer
-ivy-feedwrangler
 ivy-fuz
 ivy-lobsters
 ivy-mpdel
@@ -2945,6 +2946,7 @@ kotlin-mode
 kpm-list
 kroman
 ksp-cfg-mode
+kubectx-mode
 kubel
 kubernetes
 kubernetes-helm
@@ -3553,6 +3555,7 @@ nose
 notes-mode
 notify
 notmuch
+notmuch-bookmarks
 notmuch-labeler
 nov
 nova-theme
@@ -4108,7 +4111,6 @@ pinyinlib
 pip-requirements
 pipenv
 pippel
-pivotal-tracker
 pixie-mode
 pixiv-novel-mode
 pkg-info
@@ -4344,6 +4346,7 @@ ql
 qml-mode
 qooxdoo
 qt-pro-mode
+qtcreator-theme
 qtref
 quack
 quarter-plane
@@ -4677,6 +4680,7 @@ setnu
 setnu-plus
 sexp-move
 sexy-monochrome-theme
+sfz-mode
 shackle
 shadchen
 shader-mode
@@ -5286,6 +5290,7 @@ undercover
 underline-with-char
 underwater-theme
 undo-fu
+undo-fu-session
 undo-propose
 undo-tree
 undohist
@@ -5384,6 +5389,7 @@ viking-mode
 vim-empty-lines-mode
 vim-modeline
 vim-region
+vimgolf
 vimish-fold
 vimrc-mode
 vimvars
