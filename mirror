@@ -268,6 +268,7 @@ auto-virtualenv
 auto-virtualenvwrapper
 auto-yasnippet
 autobookmarks
+autobuild
 autocompletion-php-functions
 autodisass-java-bytecode
 autodisass-llvm-bitcode
@@ -737,6 +738,7 @@ company-terraform
 company-try-hard
 company-web
 compdef
+competitive-programming-snippets
 compilation-always-kill
 compile-plus
 compile-
@@ -996,6 +998,7 @@ dired-explorer
 dired-extension
 dired-fdclone
 dired-filetype-face
+dired-git
 dired-git-info
 dired-hacks
 dired-hide-dotfiles
@@ -3873,6 +3876,7 @@ osx-dictionary
 osx-lib
 osx-location
 osx-org-clock-menubar
+osx-plist
 osx-trash
 osxpkg
 otama
@@ -4418,7 +4422,6 @@ re-builder-plus
 react-snippets
 read-aloud
 read-char-spec
-readability
 readline-complete
 real-auto-save
 realgud
@@ -5361,6 +5364,7 @@ vc-jump
 vc-msg
 vc-osc
 vc-partial-commit
+vcard
 vcl-mode
 vcomp
 vcsh
@@ -5414,6 +5418,8 @@ vnesting
 voca-builder
 volatile-highlights
 volume
+vs-dark-theme
+vs-light-theme
 vscdark-theme
 vscode-icon
 vterm

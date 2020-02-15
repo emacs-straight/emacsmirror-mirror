@@ -815,7 +815,6 @@ org-wunderlist
 os
 osx-itunes
 osx-osascript
-osx-plist
 osx-typecreator
 otp
 outline-m
@@ -914,6 +913,7 @@ rdict
 read-all-emacs-help
 read-library
 read-table-data
+readability
 realplay
 recent
 recent-files
