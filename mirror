@@ -111,7 +111,9 @@ all-ext
 all-the-icons
 all-the-icons-dired
 all-the-icons-gnus
+all-the-icons-ibuffer
 all-the-icons-ivy
+all-the-icons-ivy-rich
 almost-mono-themes
 alore-mode
 alsamixer
@@ -149,7 +151,6 @@ ansible
 ansible-doc
 ansible-vault
 ansys-mod
-ansys-mode
 ant
 ant-mode
 ant-project-mode
@@ -163,6 +164,7 @@ anzu
 aok
 aozora-view
 apache-mode
+apdl-mode
 apel
 apib-mode
 apiwrap
@@ -1076,6 +1078,7 @@ docker-tramp
 dockerfile-mode
 docmap
 docsetutil
+doct
 doit-mode
 dokuwiki
 dokuwiki-mode
@@ -1756,6 +1759,7 @@ flycheck-dialyxir
 flycheck-dialyzer
 flycheck-dmd-dub
 flycheck-dogma
+flycheck-drstring
 flycheck-dtrace
 flycheck-elixir
 flycheck-elm
@@ -1767,6 +1771,7 @@ flycheck-golangci-lint
 flycheck-gometalinter
 flycheck-gradle
 flycheck-grammalecte
+flycheck-grammarly
 flycheck-haskell
 flycheck-hdevtools
 flycheck-indicator
@@ -2897,6 +2902,7 @@ kdeconnect
 kdic
 keats
 keep-end
+keepass-mode
 kerl
 key-cast
 key-chord
@@ -3360,6 +3366,7 @@ mood-one-theme
 moody
 moom
 moonscript
+moonshot
 morganey-mode
 morlock
 mosey
@@ -3740,6 +3747,7 @@ org-email
 org-emms
 org-evil
 org-fancy-priorities
+org-fragtog
 org-gcal
 org-global-insert-link
 org-gnome
@@ -4831,6 +4839,7 @@ smiles-mode
 sml-mode
 sml-modeline
 smmry
+smog
 smooth-scroll
 smooth-scrolling
 smotitah
