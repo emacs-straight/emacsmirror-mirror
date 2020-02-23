@@ -1806,6 +1806,7 @@ flycheck-prospector
 flycheck-pycheckers
 flycheck-pyflakes
 flycheck-pyre
+flycheck-relint
 flycheck-rust
 flycheck-stack
 flycheck-status-emoji
