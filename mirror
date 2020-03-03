@@ -1655,6 +1655,7 @@ ffap-makefile-vars
 ffap-mml
 ffap-perl-module
 ffap-rfc-space
+ffmpeg-player
 fic-ext-mode
 fic-mode
 fifo-class
@@ -2757,6 +2758,7 @@ itimer
 ivariants
 ivs-edit
 ivy
+ivy-clipmenu
 ivy-clojuredocs
 ivy-dired-history
 ivy-erlang-complete
@@ -4208,6 +4210,7 @@ portage-navi
 porthole
 pos-tip
 posframe
+posix-manual
 posn-on-screen
 postcss-sorting
 posterous
@@ -5411,6 +5414,7 @@ vimish-fold
 vimrc-mode
 vimvars
 viper-in-more-modes
+virtual-auto-fill
 virtualenv
 virtualenvwrapper
 visible-lines
