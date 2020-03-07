@@ -2158,7 +2158,6 @@ gotest
 gotham-theme
 goto-char-preview
 goto-chg
-goto-gem
 goto-last-change
 goto-last-point
 goto-line-preview
@@ -2200,7 +2199,6 @@ grep-ed
 grep-o-matic
 greymatters-theme
 griffin
-grin
 grip-mode
 grizzl
 groovy-imports
@@ -4000,7 +3998,6 @@ parseedn
 pasp-mode
 pass
 passmm
-passthword
 password-generator
 password-mode
 password-store
@@ -4749,7 +4746,6 @@ sie
 sierotki
 sift
 signal
-signature
 silkworm-theme
 simo
 simp

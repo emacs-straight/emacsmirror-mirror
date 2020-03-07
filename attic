@@ -466,12 +466,14 @@ golisp
 goofey
 google-define-redux-supplemental
 goto-char-other-window
+goto-gem
 gplusify
 grabbox
 grade
 grail
 grep-edit
 gresreg
+grin
 growl
 gtk-look
 gtranslate
@@ -824,6 +826,7 @@ pair-mode
 paredit-viper-compat
 paren-glint
 pases
+passthword
 pastie
 patchutils
 pb-popup
@@ -1011,6 +1014,7 @@ show-whitespace-mode
 show-wspace
 siamese
 sigbegone
+signature
 simple-server
 simplemerge
 skip-initial-comments
