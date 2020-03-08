@@ -213,6 +213,7 @@ atom-syndication
 atomic-chrome
 attrap
 auctex
+auctex-cluttex
 auctex-latexmk
 auctex-lua
 audel
@@ -2875,6 +2876,7 @@ juick
 julia-mode
 julia-repl
 julia-shell
+julia-snail
 jumblr
 jump
 jump-char
@@ -3833,6 +3835,7 @@ org-static-blog
 org-status
 org-sticky-header
 org-super-agenda
+org-superstar
 org-sync
 org-sync-snippets
 org-table-comment
@@ -4869,6 +4872,7 @@ sokoban
 solaire-mode
 solarized-theme
 solidity-mode
+somafm
 songbook
 sonic-pi
 soothe-theme
