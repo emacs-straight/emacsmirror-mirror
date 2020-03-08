@@ -2229,7 +2229,6 @@ h2o
 habamax-theme
 habitica
 hack-mode
-hack-time-mode
 hacker-typer
 hackernews
 hal-mode
@@ -3235,6 +3234,7 @@ marmalade-client
 marquee-header
 marshal
 maruo-macro-mode
+masm-mode
 masquerade-mode
 mastodon
 material-theme
@@ -3283,6 +3283,7 @@ metapost-mode-plus
 metar
 metascript-mode
 metrics-tracker
+metronome
 mew
 mew-ical
 mew-unread
