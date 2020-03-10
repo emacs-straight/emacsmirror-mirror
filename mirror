@@ -392,6 +392,7 @@ blank-mode
 blgrep
 blimp
 bliss-theme
+blitzmax-mode
 bln-mode
 blockdiag-mode
 blog-admin
@@ -1981,6 +1982,7 @@ general
 generic-edit-special
 genrnc
 geocode
+geolocation
 german-holidays
 gerrit
 gerrit-download
@@ -2539,6 +2541,7 @@ hookify
 horizon-theme
 horoscope
 hound
+hover
 howdoi
 howdoyou
 howm
@@ -3350,7 +3353,6 @@ modeline-char
 modeline-posn
 modern-cpp-font-lock
 modtime-skip-mode
-modus-themes
 moe-theme
 mogo
 moikrug
@@ -5724,3 +5726,5 @@ zweilight-theme
 zwiebel
 zygospore
 zzz-to-char
+modus-operandi-theme
+modus-vivendi-theme
