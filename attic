@@ -497,7 +497,6 @@ hebeng
 helm-anything
 helm-nrepl
 helm-odoc
-helm-package
 helpex
 hide-copyleft
 hier-imenu

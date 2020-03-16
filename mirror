@@ -129,6 +129,7 @@ ampc
 ample-regexps
 ample-theme
 ample-zen-theme
+amread-mode
 amx
 anaconda-mode
 anaphora
@@ -177,6 +178,7 @@ apropos-fn-var
 apropospriate-theme
 apt-sources-list
 apu
+aqi
 arbitools
 arc-dark-theme
 arch-packer
@@ -459,6 +461,7 @@ buffer-stack
 buffer-timer
 buffer-utils
 buffer-watcher
+buffer-wrap
 bufshow
 buftoggle
 bug
@@ -730,6 +733,7 @@ company-plsense
 company-posframe
 company-qml
 company-quickhelp
+company-quickhelp-terminal
 company-racer
 company-reftex
 company-restclient
@@ -798,6 +802,7 @@ counsel-pydoc
 counsel-spotify
 counsel-test
 counsel-tramp
+counsel-web
 counsel-world-clock
 countdown
 counter
@@ -1218,6 +1223,7 @@ efire
 eg
 egalgo
 egg
+egg-timer
 egison-mode
 egit
 eglot
@@ -1696,6 +1702,7 @@ fingers
 finkinfo
 finkinfo-mode
 fiplr
+fira-code-mode
 firecode-theme
 firefox-controller
 firefox-remote
@@ -1705,6 +1712,7 @@ firrtl-mode
 fish-completion
 fish-mode
 fit-frame
+fit-text-scale
 fix-buffers-list
 fix-input
 fix-muscle-memory
@@ -2391,6 +2399,7 @@ helm-org
 helm-org-rifle
 helm-orgcard
 helm-osx-app
+helm-package
 helm-pages
 helm-pass
 helm-perldoc
@@ -3116,6 +3125,7 @@ lorem-ipsum
 love-minor-mode
 ls-lisp-plus
 lsdb
+lsp-docker
 lsp-elixir
 lsp-haskell
 lsp-intellij
@@ -3209,6 +3219,7 @@ mallard-snippets
 malyon
 man-commands
 manage-minor-mode
+manage-minor-mode-table
 mandm-theme
 mandoku
 mandoku-meta-kr
@@ -3293,6 +3304,7 @@ mew
 mew-ical
 mew-unread
 mexican-holidays
+meyvn
 mgmtconfig-mode
 mgrep
 mhc
@@ -3304,6 +3316,7 @@ milkode
 mines
 minesweeper
 mingus
+mini-frame
 mini-header-line
 mini-modeline
 minibuf-isearch
@@ -3353,6 +3366,8 @@ modeline-char
 modeline-posn
 modern-cpp-font-lock
 modtime-skip-mode
+modus-operandi-theme
+modus-vivendi-theme
 moe-theme
 mogo
 moikrug
@@ -3543,6 +3558,7 @@ nlinum-hl
 nlinum-relative
 nm
 nmcobol-mode
+nndiscourse
 nnhackernews
 nnir-est
 nnir-spotlight
@@ -4493,6 +4509,7 @@ region-occurrences-highlighter
 region-state
 register-channel
 register-list
+register-quicknav
 related
 relative-buffers
 relax
@@ -4688,6 +4705,7 @@ sentence-highlight
 sentence-navigation
 seognil
 seoul256-theme
+separedit
 sequence
 sequences
 sequential-command
@@ -4699,6 +4717,7 @@ session
 seti-theme
 setnu
 setnu-plus
+sexp-diff
 sexp-move
 sexy-monochrome-theme
 sfz-mode
@@ -4708,6 +4727,7 @@ shader-mode
 shadowenv
 shakespeare-mode
 shampoo
+share2computer
 shelisp
 shell-command
 shell-command-queue
@@ -4931,6 +4951,7 @@ sql-completion
 sql-impala
 sql-indent
 sql-presto
+sql-smie
 sql-sqlline
 sql-transform
 sql-with-placeholders
@@ -5398,6 +5419,7 @@ veri-kompass
 verify-url
 verilog-mode
 versions
+versuri
 vertica
 vertica-snippets
 vertigo
@@ -5726,5 +5748,3 @@ zweilight-theme
 zwiebel
 zygospore
 zzz-to-char
-modus-operandi-theme
-modus-vivendi-theme
