@@ -267,6 +267,7 @@ auto-read-only
 auto-rename-tag
 auto-save-buffers-enhanced
 auto-scroll
+auto-scroll-mode
 auto-shell-command
 auto-sudoedit
 auto-virtualenv
@@ -431,6 +432,7 @@ bracketed-paste
 bracketphobia
 brainfuck-mode
 brazilian-holidays
+brf
 brief
 broadcast
 browse-at-remote
@@ -462,6 +464,7 @@ buffer-timer
 buffer-utils
 buffer-watcher
 buffer-wrap
+bufler
 bufshow
 buftoggle
 bug
