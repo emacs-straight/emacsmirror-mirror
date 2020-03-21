@@ -598,7 +598,6 @@ circe-notifications
 circle
 cisco-router-mode
 citeproc
-cl-font-lock
 cl-format
 cl-lib-highlight
 cl-libify
@@ -864,6 +863,7 @@ cucumber-goto-step
 cucumber-i18n
 cuda-mode
 curl
+curl-to-elisp
 current-story
 cursor-chg
 cursor-test
@@ -1899,6 +1899,7 @@ fold-this
 folding
 follow-mouse
 font-lock-plus
+font-lock-cl
 font-lock-ext
 font-lock-menus
 font-lock-profiler
@@ -2774,6 +2775,7 @@ ivy
 ivy-clipmenu
 ivy-clojuredocs
 ivy-dired-history
+ivy-emoji
 ivy-erlang-complete
 ivy-explorer
 ivy-fuz
@@ -4090,6 +4092,7 @@ persp-mode-projectile-bridge
 persp-projectile
 perspective
 perspeen
+pest-mode
 pfuture
 pg
 pgdevenv
@@ -4164,6 +4167,7 @@ play-crystal
 play-routes-mode
 playerctl
 playground
+playonline
 plenv
 plim-mode
 plisp-mode
@@ -5472,6 +5476,7 @@ vterm
 vterm-toggle
 vue-html-mode
 vue-mode
+vuiet
 vyper-mode
 w3
 w32-browser
@@ -5492,6 +5497,7 @@ wakatime-mode
 wakib-keys
 walkclj
 walkman
+wallpaper
 wand
 wandbox
 wanderlust
