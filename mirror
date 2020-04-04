@@ -201,6 +201,7 @@ asn1-mode
 asp-mode
 assert-rtn
 assess
+astyle
 asx
 async
 async-await
@@ -276,6 +277,7 @@ auto-yasnippet
 autobookmarks
 autobuild
 autocompletion-php-functions
+autocrypt
 autodisass-java-bytecode
 autodisass-llvm-bitcode
 autofit-frame
@@ -391,6 +393,7 @@ bitlbee
 blackboard-bold-mode
 blackboard-theme
 blacken
+blackout
 blank-mode
 blgrep
 blimp
@@ -434,6 +437,7 @@ brainfuck-mode
 brazilian-holidays
 brf
 brief
+brightscript-mode
 broadcast
 browse-at-remote
 browse-kill-ring
@@ -581,6 +585,7 @@ chinese-yasdcv
 chocolate-theme
 choice-program
 chronometer
+chronometrist
 chronos
 chruby
 chumpy-windows
@@ -731,6 +736,7 @@ company-lua
 company-math
 company-nginx
 company-ngram
+company-org-roam
 company-plsense
 company-posframe
 company-qml
@@ -783,6 +789,7 @@ coq-commenter
 corba
 coroutine
 corral
+cort
 cosmo
 couchdb-document
 couchdb-document-text
@@ -913,6 +920,7 @@ dash-at-point
 dash-docs
 dashboard
 dashboard-hackernews
+dashboard-ls
 dashboard-project-status
 date-at-point
 date-calc
@@ -925,6 +933,7 @@ dayone
 db
 db-pg
 db-sql
+dbc
 dbus-codegen
 ddl-mode
 ddskk
@@ -1204,6 +1213,7 @@ edice
 ediff-plus
 ediff-trees
 ediprolog
+edit-chrome-textarea
 edit-color-stamp
 edit-indirect
 edit-indirect-region-latex
@@ -1372,6 +1382,7 @@ emms-state
 emoji-cheat-sheet-plus
 emoji-display
 emoji-fontset
+emoji-github
 emoji-recall
 emojify
 emojify-logos
@@ -1630,7 +1641,6 @@ face-remap-plus
 face-shift
 facemenu-plus
 faces-plus
-faceup
 factlog
 faff-theme
 fakespace
@@ -1638,6 +1648,7 @@ fakir
 fancy-battery
 fancy-dabbrev
 fancy-narrow
+fantom-theme
 farmhouse-theme
 fasd
 fast-scroll
@@ -1651,6 +1662,7 @@ fcopy
 fcsh-mode
 fd-dired
 fdlcap
+feather
 feature-mode
 feebleline
 fenc
@@ -1945,6 +1957,7 @@ frecency
 frecentf
 free-keys
 freeradius-mode
+freeze-it
 fringe-current-line
 fringe-helper
 frog-jump-buffer
@@ -1994,6 +2007,7 @@ general
 generic-edit-special
 genrnc
 geocode
+geoip
 geolocation
 german-holidays
 gerrit
@@ -2153,6 +2167,7 @@ golden-ratio-scroll-screen
 goldendict
 golint
 gom-mode
+gomacro-mode
 google
 google-c-style
 google-calendar
@@ -2488,6 +2503,7 @@ hide-lines
 hide-mode-line
 hide-region
 hide-url
+hidepw
 hideshow-org
 hideshowvis
 hierarchy
@@ -2839,6 +2855,7 @@ jemdoc-mode
 jenkins
 jenkins-watch
 jest
+jest-test-mode
 jetbrains
 jg-quicknav
 jgraph-mode
@@ -3017,6 +3034,7 @@ lcb-mode
 lcomp
 lcr
 leaf
+leaf-convert
 leaf-keywords
 lean-mode
 leanote
@@ -3118,6 +3136,7 @@ lognav-mode
 logpad
 logstash-conf
 logview
+lol-data-dragon
 lolcat
 lolcode-mode
 longlines-jp
@@ -3349,6 +3368,7 @@ mk-project
 mk-project-plus
 mkdown
 mks
+mlso-theme
 mm2mw
 mmm-jinja2
 mmm-mako
@@ -3370,6 +3390,7 @@ modelica-mode
 modeline-char
 modeline-posn
 modern-cpp-font-lock
+modern-fringes
 modtime-skip-mode
 modus-operandi-theme
 modus-vivendi-theme
@@ -3430,6 +3451,7 @@ mqr
 mqtt-mode
 mru-yank
 msearch
+msgpack
 mss
 msvc
 mtg-deck-mode
@@ -3457,6 +3479,7 @@ multi-project
 multi-run
 multi-shell
 multi-term
+multi-vterm
 multi-web-mode
 multicolumn
 multifiles
@@ -3512,6 +3535,7 @@ narrow-reindent
 narrowed-page-navigation
 nash-mode
 nasm-mode
+native-complete
 nav
 nav-flash
 navi-mode
@@ -3558,6 +3582,7 @@ nix-haskell-mode
 nix-mode
 nix-update
 nixos-options
+nixpkgs-fmt
 nlinum
 nlinum-hl
 nlinum-relative
@@ -3599,6 +3624,7 @@ nov
 nova-theme
 novice-plus
 noxml-fold
+npm
 npm-mode
 nrepl-eval-sexp-fu
 nrepl-sync
@@ -3813,6 +3839,7 @@ org-outlook
 org-page
 org-parser
 org-password-manager
+org-pdftools
 org-pdfview
 org-picklink
 org-pivotal
@@ -3842,6 +3869,7 @@ org-repo-todo
 org-reverse-datetree
 org-review
 org-rich-yank
+org-roam
 org-rtm
 org-s5
 org-scrum
@@ -3872,6 +3900,7 @@ org-toodledo
 org-tracktable
 org-transform-tree-table
 org-tree-slide
+org-treescope
 org-trello
 org-variable-pitch
 org-vcard
@@ -4570,6 +4599,7 @@ riece
 right-click-context
 rigid-tabs
 rijndael
+rime
 rimero-theme
 rinari
 ring-plus
@@ -5040,6 +5070,7 @@ superego
 supergenpass
 suscolors-theme
 sv-kalender-namnsdagar
+svelte-mode
 svg
 svg-clock
 svg-mode-line-themes
@@ -5063,6 +5094,7 @@ switch-to-new-buffer
 switch-window
 swoop
 sx
+sxiv
 symbol-overlay
 symbols-mode
 symbolword-mode
@@ -5239,6 +5271,7 @@ tomatinho
 toml
 toml-mode
 tommyh-theme
+tongbu
 tool-bar-plus
 toolbox
 tooltip-help
@@ -5460,6 +5493,7 @@ visual-fill-column
 visual-indentation-mode
 visual-regexp
 visual-regexp-steroids
+vlc
 vlf
 vline
 vm
@@ -5709,6 +5743,7 @@ ydk-mode
 yeoman
 yequake
 yesql-ghosts
+yesterbox
 yoficator
 yoshi-theme
 youdao-dictionary
