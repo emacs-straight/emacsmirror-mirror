@@ -5301,6 +5301,7 @@ transcribe
 transcript
 transfer-sh
 transient
+transient-dwim
 transmission
 transpose-frame
 transpose-mark
