@@ -119,7 +119,6 @@ alore-mode
 alsamixer
 alt-codes
 alt-font-menu
-alternative-files
 amarok
 amd-mode
 ameba
@@ -198,7 +197,6 @@ ascii-art-to-unicode
 asciidoc
 asilea
 asn1-mode
-asp-mode
 assert-rtn
 assess
 astyle
@@ -212,7 +210,6 @@ atoctx
 atom
 atom-dark-theme
 atom-one-dark-theme
-atom-syndication
 atomic-chrome
 attrap
 auctex
@@ -357,6 +354,7 @@ belarus-holidays
 benchmark-init
 benchstat
 bencode
+bencoding
 bento
 berrys-theme
 bert
@@ -502,6 +500,7 @@ caddyfile-mode
 cake-inflector
 cakecrumbs
 cal-china-x
+calc-at-point
 calc-inline
 calendar-plus
 calendar-norway
@@ -600,7 +599,6 @@ cinspect
 circadian
 circe
 circe-notifications
-circle
 cisco-router-mode
 citeproc
 cl-format
@@ -769,7 +767,6 @@ config-parser
 confluence
 conkeror-minor-mode
 conllu-mode
-conspire
 constant-theme
 constants
 constellations
@@ -861,6 +858,7 @@ csv-nav
 ctable
 ctags-update
 ctl-mode
+ctrlf
 ctune
 ctxmenu
 ctypes
@@ -1145,7 +1143,6 @@ dumb-jump
 dummyparens
 dune
 duplicate-thing
-durendal
 dut-mode
 dvorak-mode
 dyalog-mode
@@ -1272,7 +1269,6 @@ el-swank-fuzzy
 el-x
 el2markdown
 el2org
-elang
 elbank
 elcontext
 elcord
@@ -1566,7 +1562,6 @@ evil-paredit
 evil-python-movement
 evil-quickscope
 evil-rails
-evil-rebellion
 evil-replace-with-char
 evil-replace-with-register
 evil-rsi
@@ -2054,8 +2049,6 @@ git-messenger
 git-modes
 git-msg-prefix
 git-ps1-mode
-git-show
-git-time-machine
 git-time-metric
 git-timemachine
 git-undo
@@ -2064,8 +2057,6 @@ git-wip-timemachine
 gitconfig
 gited
 githorg
-github
-github-api-v3
 github-browse-file
 github-clone
 github-elpa
@@ -2429,7 +2420,6 @@ helm-proc
 helm-project
 helm-project-persist
 helm-projectile
-helm-projectile-all
 helm-pt
 helm-purpose
 helm-pydoc
@@ -3199,7 +3189,6 @@ magit-find-file
 magit-gerrit
 magit-gh-pulls
 magit-gitflow
-magit-identities
 magit-imerge
 magit-lfs
 magit-org-todos
@@ -3214,7 +3203,6 @@ magit-tbdiff
 magit-todos
 magit-topgit
 magit-vcsh
-magit-view-file
 magithub
 magma-mode
 magnatune
@@ -3610,7 +3598,6 @@ nodenv
 noflet
 nofrils-acme-theme
 noob-arrows-mode
-nopaste
 noprefix
 nord-theme
 northcode-theme
@@ -3821,7 +3808,6 @@ org-kindle
 org-link-travis
 org-listcruncher
 org-lookup-dnd
-org-magit
 org-make-toc
 org-manage
 org-mime
@@ -4268,7 +4254,6 @@ posframe
 posix-manual
 posn-on-screen
 postcss-sorting
-posterous
 pov-mode
 pow
 powerline
@@ -4591,7 +4576,6 @@ rfc-mode
 rfringe
 rg
 rhtml-mode
-ri
 rib-mode
 ricette-mode
 rich-minority
@@ -5404,6 +5388,7 @@ unison-mode
 unit-test
 universal-emotions-emoticons
 unkillable-scratch
+unobtrusive-magit-theme
 unparen
 untitled-new-buffer
 upbo

@@ -14,6 +14,7 @@ agchat
 align-let
 align-regexp
 alossage
+alternative-files
 altmap
 amigo
 amixer
@@ -46,9 +47,11 @@ ascii-display
 ascii-table
 asm56k-f-lck
 asm86-mode
+asp-mode
 aspectj
 atom-api
 atom-blogger
+atom-syndication
 augment
 auto-arg-mode
 auto-complete-acr
@@ -144,6 +147,7 @@ choose
 cib
 cider-spy
 cif
+circle
 cite
 cl-array
 cl-info
@@ -184,6 +188,7 @@ completing-help
 completion-ignored-build
 conjecture-mode
 connectivity
+conspire
 convert-email
 copy-chars
 copy-directory
@@ -277,6 +282,7 @@ dubious-paragraphs
 dummy-h-mode
 duplicate-line
 dupwords
+durendal
 dvc
 dvi-view
 dwim-find
@@ -305,6 +311,7 @@ ejab
 ejacs
 el-tools
 el4r
+elang
 eldav
 elder
 eldo-mode
@@ -360,6 +367,7 @@ esms
 esmtpmail
 espect
 etrack
+evil-rebellion
 evil-scout
 fa-extras
 face-fns
@@ -454,6 +462,10 @@ get-url-content
 gimp-shell
 gimps-report
 git-commit-training-wheels-mode
+git-show
+git-time-machine
+github
+github-api-v3
 gitty
 global-modes
 gneve
@@ -497,6 +509,7 @@ hebeng
 helm-anything
 helm-nrepl
 helm-odoc
+helm-projectile-all
 helpex
 hide-copyleft
 hier-imenu
@@ -674,10 +687,12 @@ lunar-mode-line
 m56k
 mac-key-mode
 magit-commit-training-wheels
+magit-identities
 magit-log-edit
 magit-push-remote
 magit-rockstar
 magit-tramp
+magit-view-file
 mail-directory
 mail-inserts
 mailrc-mode
@@ -770,6 +785,7 @@ nmap
 nmodl
 nnir-grepmail
 nntodo
+nopaste
 notebook
 noticeify
 notmuch-unread
@@ -809,6 +825,7 @@ org-html5presentation
 org-link-minor-mode
 org-linkany
 org-mac-protocol
+org-magit
 org-multiple-keymap
 org-osm-link
 org-site
@@ -867,6 +884,7 @@ point-ring
 pom
 popup-menu
 post
+posterous
 prefixkey
 prg-comment
 proc-filters
@@ -947,6 +965,7 @@ rfcr
 rfcview
 rheeet-mail
 rhtml-minor-mode
+ri
 rightjustify
 rlpic
 rmail-frobs
