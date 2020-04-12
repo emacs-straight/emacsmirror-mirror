@@ -822,6 +822,7 @@ cpp-capf
 cppref
 cppsense
 cpputils-cmake
+cpu-sos
 cql-mode
 cquery
 crappy-jsp-mode
@@ -2234,6 +2235,7 @@ gst-inspect
 gtags
 gtk-perl
 gtk-pomodoro-indicator
+gtk-variant
 guess-language
 guess-offset
 guess-style
@@ -3080,6 +3082,7 @@ liso-theme
 lisp-butt-mode
 lisp-editing
 lisp-extra-font-lock
+lisp-local
 lispxmp
 lispy
 lispy-mnemonic
@@ -3351,6 +3354,7 @@ mirror
 mirror-mode
 misc-cmds
 misc-fns
+mix
 mixed-pitch
 mk-project
 mk-project-plus
@@ -3857,6 +3861,7 @@ org-review
 org-rich-yank
 org-roam
 org-rtm
+org-runbook
 org-s5
 org-scrum
 org-search-goto
@@ -4671,6 +4676,7 @@ scad-preview
 scala-mode
 scalariform
 scan
+scanner
 scf-mode
 scheme-complete
 school-points-off
@@ -4919,6 +4925,8 @@ somafm
 songbook
 sonic-pi
 soothe-theme
+sorcery-theme
+soria-theme
 sort-plus
 sort-words
 sos
@@ -4948,6 +4956,7 @@ speechd
 speed-type
 speedbar-git-respect
 speeddating
+spell-fu
 spell-number
 sphinx-doc
 sphinx-frontend
@@ -5692,6 +5701,7 @@ xterm-color
 xterm-keybinder
 xtest
 xwidgete
+xwwp
 xyzzy
 ya-cppref
 yabin
