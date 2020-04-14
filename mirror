@@ -1297,6 +1297,7 @@ elisp-benchmarks
 elisp-def
 elisp-demos
 elisp-depend
+elisp-depmap
 elisp-docstring-mode
 elisp-format
 elisp-lint
@@ -1954,6 +1955,7 @@ frecentf
 free-keys
 freeradius-mode
 freeze-it
+friendly-tramp-path
 fringe-current-line
 fringe-helper
 frog-jump-buffer
@@ -2620,6 +2622,7 @@ icicles
 icicles-iswitchb
 icmp-info
 icomplete-plus
+icomplete-vertical
 icons-in-terminal
 icsql
 id-manager
@@ -3028,6 +3031,8 @@ lcr
 leaf
 leaf-convert
 leaf-keywords
+leaf-manager
+leaf-tree
 lean-mode
 leanote
 learn-ocaml
@@ -3142,6 +3147,7 @@ lorem-ipsum
 love-minor-mode
 ls-lisp-plus
 lsdb
+lsp-dart
 lsp-docker
 lsp-elixir
 lsp-haskell
@@ -3892,6 +3898,7 @@ org-tracktable
 org-transform-tree-table
 org-tree-slide
 org-treescope
+org-treeusage
 org-trello
 org-variable-pitch
 org-vcard
@@ -4536,6 +4543,7 @@ region-state
 register-channel
 register-list
 register-quicknav
+rego-mode
 related
 relative-buffers
 relax
@@ -4866,6 +4874,7 @@ smart-dnd
 smart-forward
 smart-hungry-delete
 smart-indent-rigidly
+smart-input-source
 smart-jump
 smart-log
 smart-mark
