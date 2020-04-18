@@ -325,6 +325,7 @@ base16-theme
 bash-completion
 basic
 basic-c-compile
+basic-ide
 basic-mode
 basic-theme
 batch-mode
@@ -372,6 +373,7 @@ biblio-bibsonomy
 bibliothek
 bibretrieve
 bibslurp
+bibtex-completion
 bibtex-utils
 bibus
 bicycle
@@ -442,6 +444,7 @@ browse-kill-ring
 browse-kill-ring-plus
 browse-url-dwim
 browse-urn
+brutal-theme
 brutalist-theme
 bs-ext
 bshell
@@ -1445,7 +1448,6 @@ ergoemacs-mode
 ergoemacs-status
 ergore
 erlang
-erlang-dired-mode
 erlstack-mode
 erobot
 eros
@@ -1703,7 +1705,6 @@ find-file-in-repository
 find-file-in-tags
 find-func-plus
 find-git
-find-in-repo
 find-temp-file
 find-things-fast
 find-where
@@ -2299,7 +2300,6 @@ helm-ag-r
 helm-aws
 helm-backup
 helm-bbdb
-helm-bibtex
 helm-bibtexkey
 helm-bind-key
 helm-bitbucket
@@ -2327,7 +2327,6 @@ helm-cscope
 helm-css-scss
 helm-ctest
 helm-dash
-helm-delicious
 helm-descbinds
 helm-describe-modes
 helm-dictionary
@@ -2827,7 +2826,6 @@ java-class-doc
 java-complete
 java-imports
 java-mode-indent-annotations
-java-mode-plus
 java-snippets
 javadoc-lookup
 javaimp
@@ -2863,9 +2861,6 @@ jist
 jknav
 joccur
 jonprl-mode
-joseph-autopair
-joseph-file-util
-joseph-single-dired
 jpl-reformat
 jpop
 jq-format
@@ -3613,7 +3608,6 @@ nord-theme
 northcode-theme
 nose
 notes-mode
-notify
 notmuch
 notmuch-bookmarks
 notmuch-labeler
@@ -3907,7 +3901,6 @@ org-wc
 org-web-tools
 org-wild-notifier
 org-working-set
-org-yaml
 org2blog
 org2ctex
 org2elcomment
@@ -4014,7 +4007,6 @@ pacmacs
 pact-mode
 paganini-theme
 page-break-lines
-page-mode
 pager
 pager-default-keybindings
 paint
@@ -4097,7 +4089,6 @@ peg
 pelican-mode
 pepita
 per-buffer-theme
-per-window-point
 perfect-margin
 perl-find-library
 perl-quote
@@ -4783,7 +4774,6 @@ shift-number
 shift-text
 shm
 shoes-off
-short-lambda
 shoulda
 show-arglist
 show-css
@@ -4814,6 +4804,7 @@ simple-plus
 simple-bookmarks
 simple-call-tree
 simple-httpd
+simple-modeline
 simple-mpc
 simple-paren
 simple-rtm
@@ -4950,6 +4941,7 @@ sourcepawn-mode
 sourcerer-theme
 sourcetrail
 space-chord
+space-theming
 spacebar
 spacegray-theme
 spaceline
@@ -5204,7 +5196,6 @@ texfrag
 texletter
 text-align
 textile-mode
-textlint
 textmate
 textmate-to-yas
 textsnip
@@ -5252,7 +5243,6 @@ tiny
 tiny-menu
 tinypng
 tinysegmenter
-tipshare
 title-time
 tj3-mode
 tldr

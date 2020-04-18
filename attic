@@ -359,6 +359,7 @@ ept
 equinox
 erc-extra-commands
 erc-hipchatify
+erlang-dired-mode
 erp
 escreen
 esense
@@ -397,6 +398,7 @@ find-commands
 find-dired-lisp
 find-empty-el-files
 find-files
+find-in-repo
 find-lib
 find-library
 fink
@@ -507,6 +509,7 @@ hbmk
 header-action
 hebeng
 helm-anything
+helm-delicious
 helm-nrepl
 helm-odoc
 helm-projectile-all
@@ -587,6 +590,7 @@ ivy-feedwrangler
 japanese-tokenizer
 jasmin
 java-find
+java-mode-plus
 java-open
 javacc-mode
 javadoc-help
@@ -604,6 +608,9 @@ jess-mode
 jfolding
 jhg-cload
 jimb-patch
+joseph-autopair
+joseph-file-util
+joseph-single-dired
 journal
 journal-search
 joystick
@@ -788,6 +795,7 @@ nntodo
 nopaste
 notebook
 noticeify
+notify
 notmuch-unread
 noweb
 nqmbm
@@ -831,6 +839,7 @@ org-osm-link
 org-site
 org-website
 org-wunderlist
+org-yaml
 os
 osx-itunes
 osx-osascript
@@ -839,6 +848,7 @@ otp
 outline-m
 p4pymarshal
 pack-windows
+page-mode
 pair-mode
 paredit-viper-compat
 paren-glint
@@ -853,6 +863,7 @@ pdb
 pde
 peano
 peepopen
+per-window-point
 perkymbf
 perl-completion
 perl-manual
@@ -1027,6 +1038,7 @@ shift-lock
 shime
 shindent
 shop
+short-lambda
 show-functions
 show-point-mode
 show-whitespace-mode
@@ -1126,6 +1138,7 @@ texinfo-warn
 texmed
 text-to-html
 text-translator
+textlint
 textmenu
 tie-mode
 tiger
@@ -1133,6 +1146,7 @@ timan
 timecard
 timestamp
 tint-instances
+tipshare
 tj-mode
 tla-mode
 tld
