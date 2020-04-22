@@ -761,6 +761,7 @@ compile-plus
 compile-
 compile-bookmarks
 compile-dwim
+completions-frame
 composable
 composer
 comware-router-mode
@@ -1736,6 +1737,7 @@ flame
 flames-of-freedom
 flappymacs
 flash-region
+flatfluc-theme
 flatland-black-theme
 flatland-theme
 flatui-dark-theme
@@ -2995,6 +2997,7 @@ lacarte
 lagn
 laguna-theme
 lambdacalc
+lambdapi-mode
 lammps-mode
 landmark
 lang-refactor-perl
@@ -3283,6 +3286,7 @@ mbe
 mbo70s-theme
 mbsync
 mc
+mc-calc
 mc-extras
 md-readme
 md4rd
@@ -3300,6 +3304,7 @@ memolist
 memory-usage
 mentor
 menu-bar-plus
+meow
 merlin
 merlin-eldoc
 mermaid-mode
@@ -3819,6 +3824,7 @@ org-mind-map
 org-mobile-sync
 org-mru-clock
 org-msg
+org-multi-wiki
 org-nan
 org-notebook
 org-noter
@@ -3860,6 +3866,7 @@ org-reverse-datetree
 org-review
 org-rich-yank
 org-roam
+org-roam-bibtex
 org-rtm
 org-runbook
 org-s5
@@ -3953,6 +3960,7 @@ ov
 overcast-theme
 overseer
 ovpn-mode
+owcmd
 owdriver
 owl-functional-mode
 ox-asciidoc
@@ -4094,7 +4102,6 @@ perl-find-library
 perl-quote
 perl-use-utf8-coding
 perl-utils
-perl6-mode
 perlbrew
 perlbrew-mini
 perlcritic
@@ -4438,6 +4445,7 @@ rainbow-delimiters
 rainbow-identifiers
 rainbow-mode
 rake
+raku-mode
 rally-mode
 rand-theme
 random-idle-quote
@@ -4770,6 +4778,7 @@ shelldoc
 shelltest-mode
 shen-elisp
 shen-mode
+shfmt
 shift-number
 shift-text
 shm
