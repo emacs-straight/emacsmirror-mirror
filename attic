@@ -179,6 +179,8 @@ commandir
 commented-info
 commit-patch-buffer
 common-directory
+company-edbi
+company-tern
 compare-windows-interactively
 compilation-perl
 compilation-recenter-end
@@ -296,6 +298,10 @@ ebib-handy
 ec
 ecamax
 ecaspace
+edbi-database-url
+edbi-django
+edbi-minor-mode
+edbi-sqlite
 edit-at-point
 edit-tree
 edlib
@@ -350,6 +356,7 @@ encap
 eno
 ensime
 env-print
+envdir
 eon
 eperiodic
 ephotodb
@@ -1100,6 +1107,7 @@ swimmers
 sww
 symfony
 symlink-fix
+syndicate
 syslog
 tab-display
 tab-in-tabular
@@ -1196,6 +1204,7 @@ update-autoloads
 update-dns
 upside-down
 ushell
+usql
 utf-8m
 variant-abbc
 vc-mks

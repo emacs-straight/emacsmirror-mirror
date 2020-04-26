@@ -131,6 +131,7 @@ ample-zen-theme
 amread-mode
 amx
 anaconda-mode
+anakondo
 anaphora
 anchored-transpose
 android-env
@@ -717,7 +718,6 @@ company-ctags
 company-dcd
 company-dict
 company-ebdb
-company-edbi
 company-emoji
 company-erlang
 company-ess
@@ -750,7 +750,6 @@ company-shell
 company-statistics
 company-suggest
 company-tabnine
-company-tern
 company-terraform
 company-try-hard
 company-web
@@ -1201,10 +1200,6 @@ ecukes
 edb
 edbc
 edbi
-edbi-database-url
-edbi-django
-edbi-minor-mode
-edbi-sqlite
 ede-compdb
 ede-php-autoload
 ede-php-autoload-composer-installers
@@ -1400,7 +1395,6 @@ enh-ruby-mode
 enlive
 enotify
 enscript
-envdir
 enwc
 eoops
 eopengrok
@@ -3154,10 +3148,12 @@ lsp-ivy
 lsp-java
 lsp-javacomp
 lsp-julia
+lsp-latex
 lsp-mode
 lsp-mssql
 lsp-origami
 lsp-p4
+lsp-pascal
 lsp-pyre
 lsp-python-ms
 lsp-scala
@@ -3556,6 +3552,7 @@ netherlands-holidays
 netrunner
 network-watch
 networkmanager
+neuron-mode
 never-comment
 newlisp-mode
 newpaste
@@ -3749,6 +3746,7 @@ openwith
 operate-on-number
 opscode-sign
 orca
+orderless
 ordinal
 org
 org-ac
@@ -4084,6 +4082,7 @@ pcmpl-ssh
 pcomplete-extension
 pcre2el
 pcsv
+pdb-capf
 pdb-mode
 pddl-mode
 pdf-tools
@@ -5106,7 +5105,6 @@ symon
 symon-lingr
 sync-recentf
 sync-scroll
-syndicate
 synonymous
 synonyms
 synosaurus
@@ -5419,7 +5417,6 @@ use-package
 use-package-el-get
 use-package-hydra
 use-ttf
-usql
 utf8islove
 utop
 uuid
@@ -5610,6 +5607,7 @@ window-purpose
 windower
 windows-path
 windresize
+winds
 windsize
 windwow
 winnow
