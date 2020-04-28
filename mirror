@@ -2073,6 +2073,7 @@ gitignore-templates
 gitlab
 gitlab-ci-mode
 gitlab-ci-mode-flycheck
+gitlab-snip-helm
 gitolite-clone
 gitpatch
 gitsum
@@ -2942,6 +2943,7 @@ keydef
 keyfreq
 keymap-utils
 keypress-multi-event
+keypression
 keyset
 keystore-mode
 keyswap
@@ -3876,6 +3878,7 @@ org-seenthis
 org-shoplist
 org-sidebar
 org-snooze
+org-special-block-extras
 org-sql
 org-starter
 org-static-blog
