@@ -799,6 +799,7 @@ counsel-css
 counsel-dash
 counsel-ebdb
 counsel-etags
+counsel-fd
 counsel-ffdata
 counsel-gtags
 counsel-jq
@@ -1952,6 +1953,7 @@ frecentf
 free-keys
 freeradius-mode
 freeze-it
+friendly-shell
 friendly-tramp-path
 fringe-current-line
 fringe-helper
@@ -1998,6 +2000,7 @@ geben
 geben-helm-projectile
 geeknote
 geiser
+geiser-kawa
 general
 generic-edit-special
 genrnc
@@ -2138,6 +2141,7 @@ go-imenu
 go-impl
 go-imports
 go-mode
+go-noisegate
 go-playground
 go-playground-cli
 go-projectile
@@ -2713,7 +2717,9 @@ info-buffer
 info-colors
 info-lookmore
 info-rename-buffer
+inform
 inform-mode
+inform7
 inherit-local
 ini-mode
 init-loader
@@ -3001,6 +3007,7 @@ langdoc
 langtool
 language-detection
 language-id
+languagetool
 lastfm
 lastpass
 latch
@@ -3308,6 +3315,7 @@ merlin-eldoc
 mermaid-mode
 merriam
 meson-mode
+message-attachment-reminder
 message-outlook
 message-x
 messages-are-flowing
@@ -3805,6 +3813,7 @@ org-grep
 org-helpers
 org-hlc
 org-hyde
+org-id-cleanup
 org-if
 org-index
 org-iv
@@ -4796,6 +4805,7 @@ showoff-mode
 showtip
 shpec-mode
 shr-tag-pre-highlight
+shrface
 shrink-path
 shrink-whitespace
 shroud
