@@ -3146,6 +3146,7 @@ loop
 loops
 lorem-ipsum
 love-minor-mode
+lpy
 ls-lisp-plus
 lsdb
 lsp-dart
@@ -3491,6 +3492,7 @@ multiple-cursors
 multiple-line-edit
 multiselect
 multishell
+multistate
 multitran
 multiverse
 muse
@@ -3620,6 +3622,7 @@ nord-theme
 northcode-theme
 nose
 notes-mode
+nothing-theme
 notmuch
 notmuch-bookmarks
 notmuch-labeler
@@ -3845,7 +3848,6 @@ org-page
 org-parser
 org-password-manager
 org-pdftools
-org-pdfview
 org-picklink
 org-pivotal
 org-pomodoro
@@ -5468,6 +5470,7 @@ vdiff-magit
 vdirel
 vdm-mode
 vector-utils
+vega-view
 verb
 veri-kompass
 verify-url

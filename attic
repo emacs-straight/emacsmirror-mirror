@@ -843,6 +843,7 @@ org-mac-protocol
 org-magit
 org-multiple-keymap
 org-osm-link
+org-pdfview
 org-site
 org-website
 org-wunderlist
