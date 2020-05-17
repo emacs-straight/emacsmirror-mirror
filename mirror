@@ -223,6 +223,7 @@ aumix-mode
 aurel
 aurora-config-mode
 aurquery
+auth-source-xoauth2
 auto-async-byte-compile
 auto-auto-indent
 auto-capitalize
@@ -2113,6 +2114,7 @@ gnus-hardsort
 gnus-harvest
 gnus-identities
 gnus-mock
+gnus-notes
 gnus-notify
 gnus-notify-plus
 gnus-propfont
@@ -2601,6 +2603,7 @@ hydandata-light-theme
 hyde
 hydra
 hyperbole
+hyperlist-mode
 hyperspace
 hyperspec
 i2b2-mode
@@ -2618,6 +2621,7 @@ ibuffer-tramp
 ibuffer-vc
 ical-event
 ical2org
+iceberg-theme
 icicles
 icicles-iswitchb
 icmp-info
@@ -3060,6 +3064,7 @@ lfe-mode
 lib-requires
 libbcel
 libelcouch
+liberime
 libgit
 libmpdee
 libmpdel
@@ -3774,6 +3779,7 @@ org-beautify-theme
 org-board
 org-bom
 org-bookmark-heading
+org-books
 org-brain
 org-buffers
 org-bullets
@@ -3878,6 +3884,7 @@ org-review
 org-rich-yank
 org-roam
 org-roam-bibtex
+org-roam-server
 org-rtm
 org-runbook
 org-s5
@@ -3943,6 +3950,7 @@ origami
 ormolu
 orthodox
 orwell
+osa
 osc
 osd
 osm-mode
@@ -4291,6 +4299,7 @@ ppindent
 ppp
 prand
 prassee-theme
+prefixed-core
 preproc-font-lock
 prescient
 preseed-generic-mode
@@ -5767,6 +5776,7 @@ yoshi-theme
 youdao-dictionary
 youtube-dl
 yql
+ytel
 z3-mode
 zeal-at-point
 zeitgeist
@@ -5811,3 +5821,6 @@ zweilight-theme
 zwiebel
 zygospore
 zzz-to-char
+eldoc
+project
+xref
