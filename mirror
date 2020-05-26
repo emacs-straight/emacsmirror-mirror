@@ -966,6 +966,7 @@ delim-kill
 delim-pad
 demangle-mode
 demo-it
+deno-fmt
 descr-text-plus
 describe-number
 desktop-plus
@@ -1276,6 +1277,7 @@ elcontext
 elcord
 elcouch
 eldev
+eldoc
 eldoc-box
 eldoc-cmake
 eldoc-eval
@@ -1397,6 +1399,7 @@ enh-ruby-mode
 enlive
 enotify
 enscript
+envrc
 enwc
 eoops
 eopengrok
@@ -1783,6 +1786,7 @@ flycheck-dmd-dub
 flycheck-dogma
 flycheck-drstring
 flycheck-dtrace
+flycheck-eldev
 flycheck-elixir
 flycheck-elm
 flycheck-elsa
@@ -1808,7 +1812,6 @@ flycheck-ledger
 flycheck-lilypond
 flycheck-liquidhs
 flycheck-mercury
-flycheck-mix
 flycheck-mmark
 flycheck-mypy
 flycheck-nim
@@ -1988,6 +1991,7 @@ fxrd-mode
 fyure
 fzf
 ga
+gameoflife
 gams-ac
 gams-mode
 gandalf-theme
@@ -3109,6 +3113,7 @@ litable
 litanize
 litecoin-ticker
 literal-string
+literate-calc-mode
 literate-coffee-mode
 literate-elisp
 literate-starter-kit
@@ -3201,6 +3206,7 @@ magik-mode
 magit
 magit-annex
 magit-circleci
+magit-delta
 magit-diff-flycheck
 magit-filenotify
 magit-find-file
@@ -3479,6 +3485,7 @@ mu4e-overview
 mu4e-query-fragments
 muban
 mudel
+mugur
 mule-menu
 multi
 multi-column-mode
@@ -3727,6 +3734,7 @@ oer-reveal
 offlineimap
 oggel
 ogi
+oj
 old-fashioned-undo
 old-norse-input
 oldlace-theme
@@ -3951,6 +3959,7 @@ ormolu
 orthodox
 orwell
 osa
+osa-chrome
 osc
 osd
 osm-mode
@@ -4323,6 +4332,7 @@ profiles
 prog-fill
 prognth
 programmer-dvorak
+project
 project-abbrev
 project-explorer
 project-local-variables
@@ -4358,6 +4368,7 @@ protocols
 proxy-mode
 pry
 ps2pdf
+psalm
 psc-ide
 psci
 psession
@@ -4595,6 +4606,7 @@ resize-window
 restart-emacs
 restclient
 restclient-test
+retrie
 reveal-in-folder
 reveal-in-osx-finder
 reveal-next
@@ -4717,6 +4729,7 @@ sclang-extensions
 sclang-snippets
 scpaste
 scratch
+scratch-comment
 scratch-ext
 scratch-log
 scratch-message
@@ -5112,6 +5125,7 @@ swift-mode
 swift-playground-mode
 swift3-mode
 swiper-helm
+swiss-holidays
 swiss-move
 switch-buffer-functions
 switch-file
@@ -5417,6 +5431,7 @@ unicode-troll-stopper
 unicode-whitespace
 unidecode
 unidiff
+unifdef
 unify-buffer
 unify-opening
 unipoint
@@ -5724,6 +5739,7 @@ xquery-tool
 xr
 xray
 xrc
+xref
 xref-js2
 xresources-theme
 xs-mode
@@ -5821,6 +5837,4 @@ zweilight-theme
 zwiebel
 zygospore
 zzz-to-char
-eldoc
-project
-xref
+geo

@@ -420,6 +420,7 @@ floatbg
 fluiddb
 flycheck-ensime
 flycheck-google-cpplint
+flycheck-mix
 flycheck-purescript
 flycheck-rebar3
 flycheck-scala-sbt
