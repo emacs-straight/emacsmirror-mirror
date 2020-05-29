@@ -611,6 +611,7 @@ cl-lib-highlight
 cl-libify
 cl-merge
 cl-print
+clang-capf
 clang-format
 clang-format-plus
 clang-lookup
@@ -823,7 +824,6 @@ coverlay
 cp5022x
 cpanfile-mode
 cpp-auto-include
-cpp-capf
 cppref
 cppsense
 cpputils-cmake
@@ -1162,6 +1162,7 @@ e2ansi
 e2wm
 e2wm-bookmark
 e2wm-direx
+e2wm-perspb
 e2wm-pkgex4pl
 e2wm-svg-clock
 e2wm-sww
@@ -2009,6 +2010,7 @@ geiser-kawa
 general
 generic-edit-special
 genrnc
+geo
 geocode
 geoip
 geolocation
@@ -3841,6 +3843,7 @@ org-json
 org-kanban
 org-kindle
 org-link-travis
+org-linkotron
 org-listcruncher
 org-lookup-dnd
 org-make-toc
@@ -5765,6 +5768,7 @@ yandex-weather
 yang-mode
 yankpad
 yaoddmuse
+yaol
 yapfify
 yara-mode
 yard-mode
@@ -5837,4 +5841,3 @@ zweilight-theme
 zwiebel
 zygospore
 zzz-to-char
-geo
