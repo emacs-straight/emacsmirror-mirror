@@ -267,7 +267,6 @@ auto-read-only
 auto-rename-tag
 auto-save-buffers-enhanced
 auto-scroll
-auto-scroll-mode
 auto-shell-command
 auto-sudoedit
 auto-virtualenv
@@ -282,7 +281,6 @@ autodisass-llvm-bitcode
 autofit-frame
 autoinfo
 autoload-plus
-automargin
 autopair
 autosmiley
 autotest
@@ -304,6 +302,7 @@ aws-ec2
 aws-snippets
 awscli-capf
 axiom-environment
+ayu-theme
 babel
 babel-repl
 back-button
@@ -348,7 +347,6 @@ bbdb2erc
 bbyac
 bc-mode
 bd-set-mark
-bdo
 beacon
 beeminder
 beginend
@@ -511,6 +509,7 @@ calendar-plus
 calendar-norway
 calfw
 calfw-gcal
+calibredb
 call-graph
 calmer-forest-theme
 camcorder
@@ -1178,7 +1177,6 @@ easy-kill
 easy-kill-extras
 easy-repeat
 easy-todo
-ebal
 ebdb
 ebdb-gnorb
 ebdb-i18n-chn
@@ -1263,7 +1261,6 @@ el-init-viewer
 el-markup
 el-mock
 el-patch
-el-pocket
 el-search
 el-spec
 el-spice
@@ -1780,7 +1777,6 @@ flycheck-cstyle
 flycheck-cython
 flycheck-d-unittest
 flycheck-dedukti
-flycheck-demjsonlint
 flycheck-dialyxir
 flycheck-dialyzer
 flycheck-dmd-dub
@@ -1834,7 +1830,6 @@ flycheck-pyflakes
 flycheck-pyre
 flycheck-relint
 flycheck-rust
-flycheck-stack
 flycheck-status-emoji
 flycheck-swift
 flycheck-swift3
@@ -1911,7 +1906,6 @@ fold-this
 folding
 follow-mouse
 font-lock-plus
-font-lock-cl
 font-lock-ext
 font-lock-menus
 font-lock-profiler
@@ -1930,7 +1924,6 @@ format-all
 format-sql
 format-table
 formfeed-hline
-forml-mode
 forth-mode
 fortpy
 fortune-cookie
@@ -2228,7 +2221,6 @@ gregorio-mode
 grep-plus
 grep-a-lot
 grep-buffers
-grep-context
 grep-ed
 grep-o-matic
 greymatters-theme
@@ -2489,7 +2481,6 @@ helpful
 hemera-theme
 hemisu-theme
 hercules
-heroku
 heroku-theme
 hexcolour
 hexo
@@ -2646,10 +2637,8 @@ idle-scroll
 idlehelp
 ido-at-point
 ido-better-flex
-ido-clever-match
 ido-complete-space-or-hyphen
 ido-completing-read-plus
-ido-describe-bindings
 ido-exit-target
 ido-flex-with-migemo
 ido-gnus
@@ -2657,7 +2646,6 @@ ido-grid-mode
 ido-hacks
 ido-load-library
 ido-occasional
-ido-occur
 ido-other-window
 ido-select-window
 ido-skk
@@ -2805,7 +2793,6 @@ ivy-fuz
 ivy-lobsters
 ivy-mpdel
 ivy-omni-org
-ivy-pages
 ivy-pass
 ivy-phpunit
 ivy-posframe
@@ -2829,7 +2816,6 @@ jamar
 jammer
 janet-mode
 japanese-holidays
-japanlaw
 jape-mode
 jar-manifest-mode
 jasminejs-mode
@@ -3389,7 +3375,6 @@ mks
 mlso-theme
 mm2mw
 mmm-jinja2
-mmm-mako
 mmm-mode
 mmt
 mo-git-blame
@@ -3627,14 +3612,12 @@ node-console
 node-resolver
 nodejs-repl
 nodemcu-mode
-nodenv
 noflet
 nofrils-acme-theme
 noob-arrows-mode
 noprefix
 nord-theme
 northcode-theme
-nose
 notes-mode
 nothing-theme
 notmuch
@@ -3920,6 +3903,7 @@ org-sync-snippets
 org-table-comment
 org-table-sticky-header
 org-tanglesync
+org-taskforecast
 org-tfl
 org-themis
 org-time-budgets
@@ -4238,6 +4222,7 @@ plur
 plural
 pmd
 pmdm
+pnpm-mode
 po-mode
 pocket-api
 pocket-lib
@@ -4346,7 +4331,6 @@ project-shells
 projectile
 projectile-direnv
 projectile-git-autofetch
-projectile-hanami
 projectile-rails
 projectile-speedbar
 projectile-trailblazer
@@ -4408,10 +4392,8 @@ py-yapf
 pycarddavel
 pycoverage
 pydoc
-pydoc-info
 pyenv-mode
 pyenv-mode-auto
-pyfmt
 pygen
 pyim
 pyim-basedict
@@ -4445,7 +4427,6 @@ pythonic
 pyvenv
 q-mode
 qa-mode
-qiita
 ql
 qml-mode
 qooxdoo
@@ -4581,7 +4562,6 @@ register-quicknav
 rego-mode
 related
 relative-buffers
-relax
 relint
 remark-mode
 remember-last-theme
@@ -4756,7 +4736,6 @@ sdlang-mode
 search-prop
 search-web
 searchq
-seclusion-mode
 second-sel
 secretaria
 sed-mode
@@ -4908,7 +4887,6 @@ smart-comment
 smart-compile
 smart-cursor-color
 smart-dabbrev
-smart-dash
 smart-dnd
 smart-forward
 smart-hungry-delete
@@ -5197,7 +5175,6 @@ tbx2org
 tc
 tco
 tcp-client
-tdd-status-mode-line
 tea-time
 teacode-expand
 teco
@@ -5357,6 +5334,7 @@ trident-mode
 trie
 trinary
 trindle
+tron-legacy-theme
 trr
 truthy
 try
@@ -5375,7 +5353,6 @@ tumble
 tumblesocks
 tumblr-mode
 tumme
-tup-mode
 turing-machine
 turkish
 turnip
@@ -5427,7 +5404,6 @@ unicode-emoticons
 unicode-enbox
 unicode-escape
 unicode-fonts
-unicode-input
 unicode-math-input
 unicode-progress-reporter
 unicode-troll-stopper
@@ -5580,7 +5556,6 @@ wandbox
 wanderlust
 warm-night-theme
 warn-mail
-warp
 watch-buffer
 watch-sexp
 wavefront-obj-mode
@@ -5660,7 +5635,6 @@ winum
 wipe
 wisi
 wisitoken-grammar-mode
-wisp-mode
 wispjs-mode
 with-editor
 with-emacs
@@ -5796,6 +5770,7 @@ yoshi-theme
 youdao-dictionary
 youtube-dl
 yql
+ytdl
 ytel
 z3-mode
 zeal-at-point
@@ -5829,7 +5804,6 @@ zoom
 zoom-frm
 zoom-window
 zop-to-char
-zossima
 zotelo
 zotxt
 zoutline

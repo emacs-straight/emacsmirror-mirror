@@ -60,10 +60,12 @@ auto-diff
 auto-install
 auto-lang
 auto-recomp
+auto-scroll-mode
 auto-show-doc
 autocap
 autocue
 autolisp
+automargin
 aux-renum
 axcess
 backup
@@ -84,6 +86,7 @@ bbdb2tbird
 bbdbadapt-ispell
 bbdbpalm
 bbdbrc
+bdo
 beatnik
 bhl
 bibeltex
@@ -294,6 +297,7 @@ e2wm-R
 eap
 easy-lentic
 ebackup
+ebal
 ebib-handy
 ec
 ecamax
@@ -315,6 +319,7 @@ eiffel
 eijiro
 ejab
 ejacs
+el-pocket
 el-tools
 el4r
 elang
@@ -418,6 +423,7 @@ flatten-saved-pages
 flip-tables
 floatbg
 fluiddb
+flycheck-demjsonlint
 flycheck-ensime
 flycheck-google-cpplint
 flycheck-mix
@@ -425,6 +431,7 @@ flycheck-purescript
 flycheck-rebar3
 flycheck-scala-sbt
 flycheck-soar
+flycheck-stack
 flyspell-babel
 flyspell-textcat
 flyspell-timer
@@ -435,6 +442,8 @@ fold-dwim
 fold-dwim-org
 foldingo
 folio
+font-lock-cl
+forml-mode
 frame-restore
 frb
 freex
@@ -493,6 +502,7 @@ gplusify
 grabbox
 grade
 grail
+grep-context
 grep-edit
 gresreg
 grin
@@ -522,6 +532,7 @@ helm-nrepl
 helm-odoc
 helm-projectile-all
 helpex
+heroku
 hide-copyleft
 hier-imenu
 highlight-beyond-fill-column
@@ -558,7 +569,10 @@ icaps
 idle-highlight
 idledo
 idna
+ido-clever-match
+ido-describe-bindings
 ido-migemo
+ido-occur
 ifile-gnus
 ifind-mode
 ilisp
@@ -595,7 +609,9 @@ ispell-multi
 iswitchb-fc
 itunes
 ivy-feedwrangler
+ivy-pages
 japanese-tokenizer
+japanlaw
 jasmin
 java-find
 java-mode-plus
@@ -748,6 +764,7 @@ miranda-mode
 misc-elisp-tools
 mkback
 mldonkey
+mmm-mako
 mo-mode
 moccur-edit
 mode-compile
@@ -800,7 +817,9 @@ nmap
 nmodl
 nnir-grepmail
 nntodo
+nodenv
 nopaste
+nose
 notebook
 noticeify
 notify
@@ -913,6 +932,7 @@ procmaillog
 profile-dotemacs
 progr-align
 project-buffer-mode
+projectile-hanami
 prosper
 protbuf
 protbuf-by-name
@@ -928,10 +948,13 @@ psvn
 punycode
 puzzle
 pwsafe
+pydoc-info
+pyfmt
 python-extras
 qa
 qda
 qemu
+qiita
 qmake
 qpdecode
 qs
@@ -970,6 +993,7 @@ refdb-mode
 regexp-char
 regression
 relative-line-numbers
+relax
 remap-parens
 remem
 removable-media
@@ -1031,6 +1055,7 @@ scroll-1
 scroll-in-place
 sdic
 search-engines
+seclusion-mode
 selftest
 sendmail-alias
 sendmail-mode
@@ -1063,6 +1088,7 @@ slashdot
 slime-ritz
 sly-company
 smallurl
+smart-dash
 smart-snippet
 smartquotes
 soap
@@ -1117,6 +1143,7 @@ tabs
 tagging
 task-mode
 tcd-format
+tdd-status-mode-line
 technorati
 tehom-1
 tehom-2
@@ -1180,6 +1207,7 @@ ttrss
 tty-format
 tumblr
 tumblr-gist
+tup-mode
 twiddle
 twiki-outline
 twit
@@ -1197,6 +1225,7 @@ undo-group
 undoc
 unibasic
 unicode-helper
+unicode-input
 uniesc
 uniq
 unique
@@ -1235,6 +1264,7 @@ w3m-multibookmarks
 w3m-type-ahead
 w3mnav
 wajig
+warp
 watson
 wave
 wave-client
@@ -1261,6 +1291,7 @@ wiktionary-swadesh
 win-disp-util
 winhist
 winpath
+wisp-mode
 with-file
 with-saved-messages
 wl-list
@@ -1311,3 +1342,4 @@ ysq
 ysq-modeline
 zendmd-comint
 zenirc
+zossima
