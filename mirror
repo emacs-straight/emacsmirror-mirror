@@ -630,6 +630,7 @@ clippy
 clips-mode
 clj-refactor
 cljr-helm
+cljr-ivy
 cljsbuild-mode
 clmemo
 cloc
@@ -739,6 +740,7 @@ company-math
 company-nginx
 company-ngram
 company-org-roam
+company-plisp
 company-plsense
 company-posframe
 company-qml
@@ -874,6 +876,7 @@ cucumber-i18n
 cuda-mode
 curl
 curl-to-elisp
+currency-convert
 current-story
 cursor-chg
 cursor-test
@@ -2860,6 +2863,7 @@ jist
 jknav
 joccur
 jonprl-mode
+journalctl-mode
 jpl-reformat
 jpop
 jq-format
@@ -2928,6 +2932,7 @@ kdic
 keats
 keep-end
 keepass-mode
+keg
 kerl
 key-cast
 key-chord
@@ -3074,6 +3079,7 @@ linguistic
 link-hint
 linkd
 linkify
+linkode
 linphone
 linum-plus
 linum-ace
@@ -3157,6 +3163,7 @@ lsp-java
 lsp-javacomp
 lsp-julia
 lsp-latex
+lsp-metals
 lsp-mode
 lsp-mssql
 lsp-origami
@@ -3513,6 +3520,7 @@ mw-thesaurus
 mwim
 mxf-view
 myanmar-input-methods
+mybigword
 mybuffers
 myers
 mykie
@@ -5524,6 +5532,7 @@ volume
 vs-dark-theme
 vs-light-theme
 vscdark-theme
+vscode-dark-plus-theme
 vscode-icon
 vterm
 vterm-toggle
@@ -5765,6 +5774,7 @@ yeoman
 yequake
 yesql-ghosts
 yesterbox
+ynab
 yoficator
 yoshi-theme
 youdao-dictionary
@@ -5788,6 +5798,7 @@ zerodark-theme
 zetteldeft
 zig-mode
 zim-wiki-mode
+zimports
 zlc
 zmq
 znc
