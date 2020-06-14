@@ -185,6 +185,7 @@ arch-packer
 archive-downloader
 archive-region
 archive-rpm
+arduino-cli-mode
 arduino-mode
 aria2
 ariadne
@@ -1499,6 +1500,7 @@ etags-select
 etags-stack
 etags-table
 etags-update
+etc-sudoers-mode
 eterm-256color
 eterm-fn
 etest
@@ -2003,6 +2005,7 @@ geben-helm-projectile
 geeknote
 geiser
 geiser-kawa
+gemini-mode
 general
 generic-edit-special
 genrnc
@@ -3160,6 +3163,7 @@ lsp-intellij
 lsp-ivy
 lsp-java
 lsp-javacomp
+lsp-jedi
 lsp-julia
 lsp-latex
 lsp-metals
@@ -4000,6 +4004,7 @@ ox-jekyll-md
 ox-jira
 ox-json
 ox-latex-subfigure
+ox-leanpub
 ox-mdx-deck
 ox-mediawiki
 ox-minutes
