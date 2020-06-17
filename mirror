@@ -1800,6 +1800,7 @@ flycheck-gometalinter
 flycheck-gradle
 flycheck-grammalecte
 flycheck-grammarly
+flycheck-guile
 flycheck-haskell
 flycheck-hdevtools
 flycheck-indicator
@@ -2303,6 +2304,7 @@ helm-ad
 helm-addressbook
 helm-ag
 helm-ag-r
+helm-apt
 helm-aws
 helm-backup
 helm-bbdb
@@ -2467,6 +2469,7 @@ helm-tramp
 helm-unicode
 helm-w32-launcher
 helm-w3m
+helm-wikipedia
 helm-wordnet
 helm-words
 helm-xcdoc
