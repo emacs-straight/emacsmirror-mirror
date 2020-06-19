@@ -183,6 +183,7 @@ commented-info
 commit-patch-buffer
 common-directory
 company-edbi
+company-racer
 company-tern
 compare-windows-interactively
 compilation-perl
@@ -1088,7 +1089,6 @@ slashdot
 slime-ritz
 sly-company
 smallurl
-smart-dash
 smart-snippet
 smartquotes
 soap

@@ -747,7 +747,6 @@ company-posframe
 company-qml
 company-quickhelp
 company-quickhelp-terminal
-company-racer
 company-reftex
 company-restclient
 company-shell
@@ -4902,6 +4901,7 @@ smart-comment
 smart-compile
 smart-cursor-color
 smart-dabbrev
+smart-dash
 smart-dnd
 smart-forward
 smart-hungry-delete
