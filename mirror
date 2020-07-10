@@ -137,7 +137,6 @@ anchored-transpose
 android-env
 android-mode
 angry-police-captain
-angular-mode
 angular-snippets
 anki-connect
 anki-editor
@@ -606,6 +605,7 @@ circe
 circe-notifications
 cisco-router-mode
 citeproc
+citeproc-org
 cl-format
 cl-lib-highlight
 cl-libify
@@ -692,6 +692,7 @@ column-marker
 columnize
 com-css-sort
 comb
+comby
 come-fly
 comicscript
 comint-hyperlink
@@ -982,7 +983,6 @@ dfmt
 dgpg
 dhall-mode
 di
-di-macs
 dialog
 dianyou
 diary-manager
@@ -1418,6 +1418,7 @@ eproject
 eproject-peepopen
 epydoc
 equake
+erblint
 erc-babel
 erc-colorize
 erc-crypt
@@ -1565,6 +1566,7 @@ evil-numbers
 evil-org
 evil-owl
 evil-paredit
+evil-pinyin
 evil-python-movement
 evil-quickscope
 evil-rails
@@ -1611,6 +1613,7 @@ exotica-theme
 expand-line
 expand-region
 expectations-mode
+explain-pause-mode
 express
 exsqlaim-mode
 extempore-mode
@@ -1877,6 +1880,7 @@ flymake-joker
 flymake-jshint
 flymake-jslint
 flymake-json
+flymake-kondor
 flymake-ktlint
 flymake-less
 flymake-lua
@@ -2793,6 +2797,7 @@ ivy
 ivy-clipmenu
 ivy-clojuredocs
 ivy-dired-history
+ivy-emms
 ivy-emoji
 ivy-erlang-complete
 ivy-explorer
@@ -3154,6 +3159,7 @@ loop
 loops
 lorem-ipsum
 love-minor-mode
+lox-mode
 lpy
 ls-lisp-plus
 lsdb
@@ -3177,6 +3183,7 @@ lsp-pascal
 lsp-pyre
 lsp-python-ms
 lsp-scala
+lsp-sonarlint
 lsp-sourcekit
 lsp-treemacs
 lsp-ui
@@ -3693,6 +3700,7 @@ ob-http
 ob-hy
 ob-ipython
 ob-kotlin
+ob-latex-as-png
 ob-lfe
 ob-markdown
 ob-mermaid
@@ -3803,7 +3811,6 @@ org-d20
 org-dashboard
 org-daypage
 org-defprop
-org-doing
 org-dotemacs
 org-download
 org-dp
@@ -3821,6 +3828,7 @@ org-evil
 org-fancy-priorities
 org-fragtog
 org-gcal
+org-generate
 org-global-insert-link
 org-gnome
 org-grep
@@ -3945,6 +3953,7 @@ organic-green-theme
 organize-imports-java
 orgbox
 orgit
+orgit-forge
 orglink
 orglue
 orgnav
@@ -3954,6 +3963,7 @@ orgtbl-ascii-plot
 orgtbl-join
 orgtbl-show-header
 origami
+origami-predef
 ormolu
 orthodox
 orwell
@@ -4175,6 +4185,7 @@ php-cs-fixer
 php-doc
 php-eldoc
 php-mode
+php-quickhelp
 php-refactor-mode
 php-runtime
 php-scratch
@@ -4314,6 +4325,7 @@ preproc-font-lock
 prescient
 preseed-generic-mode
 presentation
+prettier
 prettier-js
 prettify-greek
 pretty-lambdada
@@ -4472,6 +4484,7 @@ railscasts-reloaded-theme
 railscasts-theme
 rainbow-blocks
 rainbow-delimiters
+rainbow-fart
 rainbow-identifiers
 rainbow-mode
 rake
@@ -4574,7 +4587,6 @@ register-list
 register-quicknav
 rego-mode
 related
-relative-buffers
 relint
 remark-mode
 remember-last-theme
@@ -4969,7 +4981,6 @@ sorcery-theme
 soria-theme
 sort-plus
 sort-words
-sos
 sotclojure
 sotlisp
 sound-wav
@@ -5046,6 +5057,7 @@ ssh-tunnels
 ssl-mode
 stack-mode
 stan-mode
+standard-dirs
 standoff-mode
 stardict
 start-menu
@@ -5336,6 +5348,7 @@ transient-dwim
 transmission
 transpose-frame
 transpose-mark
+transwin
 trashed
 travis
 tree-mode
@@ -5356,7 +5369,6 @@ try-code
 ts
 ts-comint
 ts-mode
-tsql-indent
 tss
 tsv-mode
 tt-mode
@@ -5391,6 +5403,7 @@ typoscript-mode
 ubuntu-theme
 ucs-cmds
 ucs-utils
+udev-mode
 uimage
 ujelly-theme
 ukrainian-holidays

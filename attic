@@ -20,6 +20,7 @@ amigo
 amixer
 analog
 anaya
+angular-mode
 ani-fcsh
 annot
 anything
@@ -255,6 +256,7 @@ desktop-recover
 develock
 devkitemacs
 df
+di-macs
 diacriticalize
 diamondsms
 diary-mode
@@ -854,6 +856,7 @@ oremus
 org-auto-shorten-url
 org-camp
 org-chinese-utils
+org-doing
 org-e-caldav
 org-fstree
 org-ghi
@@ -994,6 +997,7 @@ refactor
 refdb-mode
 regexp-char
 regression
+relative-buffers
 relative-line-numbers
 relax
 remap-parens
@@ -1094,6 +1098,7 @@ smart-snippet
 smartquotes
 soap
 sorter
+sos
 source-highlight
 sourcepair
 spamfilter
