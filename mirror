@@ -67,6 +67,7 @@ ack
 ack-menu
 acme-mouse
 acme-search
+acme-theme
 actionscript-mode
 activator
 active-menu
@@ -589,6 +590,7 @@ chocolate-theme
 choice-program
 chronometer
 chronometrist
+chronometrist-goal
 chronos
 chruby
 chumpy-windows
@@ -637,6 +639,7 @@ clmemo
 cloc
 clocker
 clojars
+clojure-essential-ref
 clojure-mode
 clojure-quick-repls
 clojure-refactoring-mode
@@ -738,6 +741,7 @@ company-irony-c-headers
 company-jedi
 company-lsp
 company-lua
+company-manually
 company-math
 company-nginx
 company-ngram
@@ -1089,6 +1093,7 @@ dkdo
 dkl
 dklrt
 dkmisc
+dmacro
 dmenu
 dna-mode
 do-not-edit
@@ -1669,6 +1674,7 @@ fdlcap
 feather
 feature-mode
 feebleline
+feed-discovery
 fenc
 fennel-mode
 festival
@@ -2390,6 +2396,7 @@ helm-hayoo
 helm-helm-commands
 helm-hoogle
 helm-hunks
+helm-icons
 helm-idris
 helm-img
 helm-img-tiqav
@@ -4871,6 +4878,7 @@ simplenote2
 simplezen
 sinasi
 singlebind
+sis
 sisu-mode
 ska-skel-matlab
 skeleton-complete
@@ -4919,7 +4927,6 @@ smart-dnd
 smart-forward
 smart-hungry-delete
 smart-indent-rigidly
-smart-input-source
 smart-jump
 smart-log
 smart-mark
@@ -5042,6 +5049,7 @@ sql-with-placeholders
 sqled-mode
 sqlformat
 sqlite
+sqlite3
 sqlplus
 sqlup-mode
 sr-speedbar
@@ -5128,6 +5136,7 @@ swallow-window
 swap-buffers
 swap-regions
 swarmhacker
+sweet-theme
 sweetgreen
 swift-helpful
 swift-mode
@@ -5144,6 +5153,7 @@ switch-window
 swoop
 sx
 sxiv
+symbol-navigation-hydra
 symbol-overlay
 symbols-mode
 symbolword-mode
@@ -5617,6 +5627,7 @@ wedge-ws
 weechat
 weechat-alert
 weibo
+weyland-yutani-theme
 wgrep
 what-the-commit
 which-key
@@ -5657,6 +5668,7 @@ windows-path
 windresize
 winds
 windsize
+windswap
 windwow
 winnow
 winpoint
