@@ -739,6 +739,7 @@ company-inf-ruby
 company-irony
 company-irony-c-headers
 company-jedi
+company-ledger
 company-lsp
 company-lua
 company-manually
@@ -2246,6 +2247,7 @@ groovy-imports
 groovy-mode
 grr
 gruber-darker-theme
+grugru
 grunt
 gruvbox-theme
 gscholar-bibtex
@@ -4089,6 +4091,7 @@ parent-mode
 parenthesis
 parfait-mode
 parinfer
+parinfer-rust-mode
 parrot
 parse-csv
 parse-it
@@ -4724,6 +4727,7 @@ save-load-path
 save-packages
 save-visited-files
 savekill
+saveplace-pdf-view
 saw-client
 say-what-im-doing
 sayid
@@ -5429,6 +5433,7 @@ uncrustify
 uncrustify-mode
 undercover
 underline-with-char
+undersea-theme
 underwater-theme
 undo-fu
 undo-fu-session
@@ -5457,6 +5462,7 @@ unique-window-buffers
 uniquify-files
 unison
 unison-mode
+unisonlang-mode
 unit-test
 universal-emotions-emoticons
 unkillable-scratch
