@@ -5,6 +5,7 @@ ac-cake
 ac-cake2
 ac-nrepl
 ac-source-ispell
+active-menu
 actr-mode
 add-lispdir
 admb
@@ -779,6 +780,7 @@ mongolian
 moo
 motion-fns
 mouse-embrace
+mouse-focus
 move-pictures
 mp3-tools
 mp3player
@@ -793,6 +795,7 @@ multi-find-file
 multi-mode
 multi-mode-util
 multi-region
+multiselect
 multr
 mupad
 muse-definition
@@ -1138,6 +1141,7 @@ swbuff
 swbuff-advice
 swbuff-x
 swimmers
+swiss-move
 sww
 symfony
 symlink-fix
@@ -1178,6 +1182,7 @@ tex-wcount
 texdrive
 texinfo-nobreak
 texinfo-warn
+texletter
 texmed
 text-to-html
 text-translator
@@ -1206,6 +1211,7 @@ toggle-source
 tokipona
 total-numbers
 tpum
+track-scroll
 translate
 trashcan
 traverselisp
@@ -1271,6 +1277,7 @@ w3m-type-ahead
 w3mnav
 wajig
 warp
+watch-sexp
 watson
 wave
 wave-client

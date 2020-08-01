@@ -70,7 +70,6 @@ acme-search
 acme-theme
 actionscript-mode
 activator
-active-menu
 activity-watch-mode
 ada-gpr
 ada-mode
@@ -3454,7 +3453,6 @@ motion-and-kill-dwim
 motion-mode
 mouse-plus
 mouse-drag-fix
-mouse-focus
 mouse-slider-mode
 mouse3
 move-and
@@ -3517,7 +3515,6 @@ multicolumn
 multifiles
 multiple-cursors
 multiple-line-edit
-multiselect
 multishell
 multistate
 multitran
@@ -3863,6 +3860,7 @@ org-make-toc
 org-manage
 org-mime
 org-mind-map
+org-ml
 org-mobile-sync
 org-mru-clock
 org-msg
@@ -5148,7 +5146,6 @@ swift-playground-mode
 swift3-mode
 swiper-helm
 swiss-holidays
-swiss-move
 switch-buffer-functions
 switch-file
 switch-files
@@ -5260,7 +5257,6 @@ test-more
 test-simple
 tex-smart-umlauts
 texfrag
-texletter
 text-align
 textile-mode
 textmate
@@ -5347,7 +5343,6 @@ toxi-theme
 tql-mode
 traad
 trac-wiki
-track-scroll
 tracwiki-mode
 tramp
 tramp-auto-auth
@@ -5603,7 +5598,6 @@ wanderlust
 warm-night-theme
 warn-mail
 watch-buffer
-watch-sexp
 wavefront-obj-mode
 wc-goal-mode
 wc-mode
