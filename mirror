@@ -829,6 +829,7 @@ coverage
 coverlay
 cp5022x
 cpanfile-mode
+cpio-mode
 cpp-auto-include
 cppref
 cppsense
@@ -975,6 +976,7 @@ demangle-mode
 demo-it
 deno-fmt
 descr-text-plus
+describe-hash
 describe-number
 desktop-plus
 desktop-environment
@@ -1038,6 +1040,7 @@ dired-icon
 dired-imenu
 dired-k
 dired-launch
+dired-lsi
 dired-quick-sort
 dired-recent
 dired-rifle
@@ -1130,6 +1133,7 @@ dotnet
 double-saber
 download-region
 downplay-mode
+doxy-graph-mode
 doxygen
 dpaste
 dpaste_de
@@ -1162,6 +1166,7 @@ dvorak-mode
 dyalog-mode
 dylan-mode
 dynamic-fonts
+dynamic-graphs
 dynamic-ring
 dynamic-ruler
 dynamic-spaces
@@ -1423,6 +1428,7 @@ eproject
 eproject-peepopen
 epydoc
 equake
+eradio
 erblint
 erc-babel
 erc-colorize
@@ -1588,6 +1594,7 @@ evil-surround
 evil-swap-keys
 evil-tabs
 evil-terminal-cursor-changer
+evil-tex
 evil-text-object-python
 evil-textobj-anyblock
 evil-textobj-column
@@ -2014,6 +2021,7 @@ geben
 geben-helm-projectile
 geeknote
 geiser
+geiser-gauche
 geiser-kawa
 gemini-mode
 general
@@ -2460,6 +2468,7 @@ helm-rubygems-org
 helm-safari
 helm-sage
 helm-selected
+helm-selector
 helm-sheet
 helm-shell-history
 helm-slime
@@ -2615,6 +2624,7 @@ hungry-delete
 huskie
 hy-mode
 hyai
+hybrid-reverse-theme
 hydandata-light-theme
 hyde
 hydra
@@ -2746,6 +2756,7 @@ ink-mode
 inkpot-theme
 inline-crypt
 inline-docs
+insert-esv
 insert-kaomoji
 insert-shebang
 insert-time
@@ -2866,6 +2877,7 @@ jekyll-modes
 jemdoc-mode
 jenkins
 jenkins-watch
+jenkinsfile-mode
 jest
 jest-test-mode
 jetbrains
@@ -3189,6 +3201,7 @@ lsp-origami
 lsp-p4
 lsp-pascal
 lsp-pyre
+lsp-pyright
 lsp-python-ms
 lsp-scala
 lsp-sonarlint
@@ -3747,6 +3760,7 @@ offlineimap
 oggel
 ogi
 oj
+olc
 old-fashioned-undo
 old-norse-input
 oldlace-theme
@@ -4270,6 +4284,7 @@ point-pos
 point-stack
 point-undo
 pointback
+poke-mode
 poker
 policy-switch
 pollen-mode
@@ -4675,6 +4690,7 @@ rpn-calc
 rsense
 rspec-mode
 rss
+rt-liberation
 rtags
 rtm
 rubik
@@ -5225,6 +5241,7 @@ telnet-contrib
 temp-buffer-browse
 template-overlays
 template-simple
+templatel
 tempo-c-cpp
 tempo-snippets
 tempo-x
@@ -5409,6 +5426,7 @@ typing
 typing-game
 typit
 typo
+typo-suggest
 typopunct
 typoscript-mode
 ubuntu-theme
@@ -5741,6 +5759,7 @@ xcscope
 xcscope-plus
 xdg-paths
 xelb
+xenops
 xkcd
 xlicense
 xml-plus
@@ -5829,6 +5848,7 @@ zephir-mode
 zero-input
 zerodark-theme
 zetteldeft
+zetz-mode
 zig-mode
 zim-wiki-mode
 zimports
