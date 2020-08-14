@@ -3853,6 +3853,7 @@ org-generate
 org-global-insert-link
 org-gnome
 org-grep
+org-gtd
 org-helpers
 org-hlc
 org-hyde
@@ -4284,7 +4285,7 @@ point-pos
 point-stack
 point-undo
 pointback
-poke-mode
+poke-line
 poker
 policy-switch
 pollen-mode
