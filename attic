@@ -706,11 +706,7 @@ lout-mode
 lpc-mode
 lsl-mode
 lsp-clangd
-lsp-fortran
-lsp-hack
 lsp-javascript-typescript
-lsp-ocaml
-lsp-php
 lsp-python
 lsp-ruby
 lsp-sh

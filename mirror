@@ -208,6 +208,7 @@ async-await
 async-eval
 atcoder-tools
 atim-unscroll
+atl-markup
 atoctx
 atom
 atom-dark-theme
@@ -1042,6 +1043,7 @@ dired-imenu
 dired-k
 dired-launch
 dired-lsi
+dired-posframe
 dired-quick-sort
 dired-recent
 dired-rifle
@@ -2159,6 +2161,7 @@ go-direx
 go-dlv
 go-eldoc
 go-errcheck
+go-expr-completion
 go-fill-struct
 go-gen-test
 go-gopath
@@ -2912,6 +2915,7 @@ js2-closure
 js2-highlight-vars
 js2-mode
 js2-refactor
+js2hl
 js3-mode
 jscs
 jsfmt
@@ -3186,7 +3190,7 @@ ls-lisp-plus
 lsdb
 lsp-dart
 lsp-docker
-lsp-elixir
+lsp-focus
 lsp-haskell
 lsp-intellij
 lsp-ivy
@@ -3727,6 +3731,7 @@ ob-markdown
 ob-mermaid
 ob-ml-marklogic
 ob-mongo
+ob-napkin
 ob-nim
 ob-prolog
 ob-restclient
@@ -4991,6 +4996,7 @@ snippet
 snipplr
 snoopy
 snort-mode
+so-long
 soap-client
 soar-mode
 socyl
@@ -5309,6 +5315,7 @@ tickscript-mode
 tidal
 tide
 tidy
+tikz
 tile
 tiling
 time-ext
@@ -5500,6 +5507,7 @@ utop
 uuid
 uuidgen
 uzumaki
+v-mode
 v2ex-mode
 vagrant
 vagrant-tramp
@@ -5538,6 +5546,7 @@ verb
 veri-kompass
 verify-url
 verilog-mode
+verona-mode
 versions
 versuri
 vertica
@@ -5788,6 +5797,7 @@ xterm-color
 xterm-keybinder
 xtest
 xwidgete
+xwidgets-reuse
 xwwp
 xyzzy
 ya-cppref
