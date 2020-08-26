@@ -317,6 +317,7 @@ backups-mode
 backward-forward
 badger-theme
 badwolf-theme
+baff
 baidu-translate
 balanced-windows
 bang
@@ -1440,6 +1441,7 @@ erc-extension
 erc-highlight-nicknames
 erc-hl-nicks
 erc-image
+erc-matterircd
 erc-nick-notify
 erc-robot
 erc-scrolltoplace
@@ -1757,6 +1759,7 @@ flame
 flames-of-freedom
 flappymacs
 flash-region
+flatbuffers-mode
 flatfluc-theme
 flatland-black-theme
 flatland-theme
@@ -3033,6 +3036,7 @@ labburn-theme
 lacarte
 lagn
 laguna-theme
+lakota-input
 lambdacalc
 lambdapi-mode
 lammps-mode
@@ -3264,6 +3268,7 @@ magithub
 magma-mode
 magnatune
 magpie
+magrant
 mail-bug
 mail-cmple-addr
 mail-field
@@ -3273,6 +3278,7 @@ mailcrypt
 maildir
 mailq
 mailrc
+mailscripts
 mailx
 majapahit-theme
 major-mode-hydra
@@ -3439,6 +3445,7 @@ modeline-posn
 modern-cpp-font-lock
 modern-fringes
 modtime-skip-mode
+modular-config
 modus-operandi-theme
 modus-vivendi-theme
 moe-theme
@@ -3873,6 +3880,7 @@ org-journal-list
 org-json
 org-kanban
 org-kindle
+org-link-beautify
 org-link-travis
 org-linkotron
 org-listcruncher
@@ -4687,6 +4695,7 @@ rnc-mode
 robe
 robots-txt-mode
 roguel-ike
+ron-mode
 rope-read-mode
 ros
 rotate
@@ -5128,6 +5137,7 @@ stuffcast
 stumpwm-mode
 stupid-indent-mode
 stylefmt
+su
 subatomic-theme
 subatomic256-theme
 subedit
@@ -5338,6 +5348,7 @@ tldr
 tmmofl
 tmt-mode
 tmux-pane
+toc-mode
 toc-org
 todoist
 todostack
@@ -5501,6 +5512,7 @@ usage-memo
 use-package
 use-package-el-get
 use-package-hydra
+use-proxy
 use-ttf
 utf8islove
 utop

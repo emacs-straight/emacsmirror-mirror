@@ -705,7 +705,6 @@ lotto-check
 lout-mode
 lpc-mode
 lsl-mode
-lsp-clangd
 lsp-javascript-typescript
 lsp-python
 lsp-ruby
