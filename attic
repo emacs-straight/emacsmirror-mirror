@@ -867,6 +867,7 @@ org-multiple-keymap
 org-osm-link
 org-pdfview
 org-site
+org-taskforecast
 org-website
 org-wunderlist
 org-yaml
@@ -1005,7 +1006,6 @@ repeat-insert
 repeatable
 replace-regexp-list
 reportmail
-revbufs
 rexx-mode
 rfc-util
 rfcr

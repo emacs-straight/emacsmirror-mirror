@@ -1493,6 +1493,7 @@ eshell-fringe-status
 eshell-git-prompt
 eshell-outline
 eshell-prompt-extras
+eshell-syntax-highlighting
 eshell-toggle
 eshell-up
 eshell-z
@@ -1509,6 +1510,7 @@ ess-edit
 ess-smart-equals
 ess-smart-underscore
 ess-view
+ess-view-data
 esup
 esv
 esxml
@@ -1786,6 +1788,7 @@ flx
 flx-isearch
 flycheck
 flycheck-apertium
+flycheck-aspell
 flycheck-ats2
 flycheck-bashate
 flycheck-cask
@@ -1853,6 +1856,7 @@ flycheck-pony
 flycheck-popup-tip
 flycheck-pos-tip
 flycheck-posframe
+flycheck-projectile
 flycheck-prospector
 flycheck-pycheckers
 flycheck-pyflakes
@@ -2006,6 +2010,7 @@ fuz
 fuzz
 fuzzy
 fuzzy-find-in-project
+fuzzy-finder
 fuzzy-format
 fuzzy-match
 fuzzyjump
@@ -2107,6 +2112,7 @@ gitignore-templates
 gitlab
 gitlab-ci-mode
 gitlab-ci-mode-flycheck
+gitlab-pipeline
 gitlab-snip-helm
 gitolite-clone
 gitpatch
@@ -2184,6 +2190,7 @@ go-stacktracer
 go-svg
 go-tag
 go-to-char
+go-translate
 gob
 gobgen
 goby
@@ -2476,6 +2483,7 @@ helm-rubygems-local
 helm-rubygems-org
 helm-safari
 helm-sage
+helm-searcher
 helm-selected
 helm-selector
 helm-sheet
@@ -2839,6 +2847,7 @@ ivy-phpunit
 ivy-posframe
 ivy-purpose
 ivy-rich
+ivy-searcher
 ivy-todo
 ivy-xcdoc
 ivy-xref
@@ -3107,6 +3116,7 @@ libgit
 libmpdee
 libmpdel
 lice
+license-templates
 light-soap-theme
 lilypond
 lilypond-hook
@@ -3525,6 +3535,7 @@ mu4e-jump-to-list
 mu4e-maildirs-extension
 mu4e-overview
 mu4e-query-fragments
+mu4e-views
 muban
 mudel
 mugur
@@ -3965,7 +3976,6 @@ org-sync-snippets
 org-table-comment
 org-table-sticky-header
 org-tanglesync
-org-taskforecast
 org-tfl
 org-themis
 org-time-budgets
@@ -4000,6 +4010,7 @@ orglink
 orglue
 orgnav
 orgrade
+orgstrap
 orgtbl-aggregate
 orgtbl-ascii-plot
 orgtbl-join
@@ -4065,6 +4076,7 @@ ox-nikola
 ox-pandoc
 ox-pukiwiki
 ox-qmd
+ox-report
 ox-reveal
 ox-rfc
 ox-rst
@@ -4660,6 +4672,7 @@ restart-emacs
 restclient
 restclient-test
 retrie
+revbufs
 reveal-in-folder
 reveal-in-osx-finder
 reveal-next
@@ -4808,6 +4821,7 @@ sdcv
 sdlang-mode
 search-prop
 search-web
+searcher
 searchq
 second-sel
 secretaria
@@ -5077,6 +5091,7 @@ sproto-mode
 sprunge
 spss
 spu
+sql-beeline
 sql-clickhouse
 sql-completion
 sql-impala
