@@ -673,6 +673,7 @@ ldots
 ldraw-mode
 lectionary
 lein
+lenlen-theme
 lessage
 lgit
 license
@@ -861,6 +862,7 @@ org-gnome-calendar
 org-html5presentation
 org-link-minor-mode
 org-linkany
+org-lookup-dnd
 org-mac-protocol
 org-magit
 org-multiple-keymap

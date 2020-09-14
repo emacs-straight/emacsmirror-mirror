@@ -85,6 +85,7 @@ advice-patch
 aes
 afternoon-theme
 ag
+agda2-mode
 aggressive-fill-paragraph
 aggressive-indent
 agtags
@@ -3094,7 +3095,6 @@ leerzeichen
 leetcode
 legalese
 lemon-mode
-lenlen-theme
 lentic
 lentic-server
 less
@@ -3900,7 +3900,6 @@ org-link-beautify
 org-link-travis
 org-linkotron
 org-listcruncher
-org-lookup-dnd
 org-make-toc
 org-manage
 org-mime
