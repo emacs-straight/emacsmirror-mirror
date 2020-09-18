@@ -15,6 +15,7 @@ abc-mode
 abel
 abgaben
 abl-mode
+abridge-diff
 abs-mode
 abyss-theme
 ac-alchemist
@@ -367,6 +368,7 @@ better-defaults
 better-jump
 better-jumper
 better-registers
+better-scroll
 better-shell
 bf
 bf-mode
@@ -2029,6 +2031,7 @@ gap-mode
 gaplay
 gather
 gcmh
+gcode-mode
 gdb-bp-session
 gdscript-mode
 geben
@@ -3982,6 +3985,7 @@ org-timeline
 org-toodledo
 org-tracktable
 org-transform-tree-table
+org-translate
 org-tree-slide
 org-treescope
 org-treeusage
@@ -5547,6 +5551,7 @@ vala-mode
 vala-snippets
 vale-mode
 validate
+validate-html
 vbasense
 vbnet-mode
 vbs-repl
