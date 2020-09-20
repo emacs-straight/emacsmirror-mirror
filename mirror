@@ -387,6 +387,7 @@ bidi
 bifocal
 binclock
 bind-map
+binder
 bindings-plus
 bing-api
 bing-dict
@@ -1170,6 +1171,7 @@ dune
 duplicate-thing
 dut-mode
 dvorak-mode
+dw
 dyalog-mode
 dylan-mode
 dynamic-fonts
@@ -1510,6 +1512,7 @@ esqlite
 ess
 ess-R-data-view
 ess-edit
+ess-r-insert-obj
 ess-smart-equals
 ess-smart-underscore
 ess-view
@@ -2080,6 +2083,7 @@ git-commit-insert-issue
 git-dwim
 git-emacs
 git-find-file
+git-grep
 git-gutter
 git-gutter-plus
 git-gutter-fringe
@@ -2650,6 +2654,7 @@ hydandata-light-theme
 hyde
 hydra
 hyperbole
+hyperkitty
 hyperlist-mode
 hyperspace
 hyperspec
@@ -4686,7 +4691,6 @@ review
 review-mode
 rewrite
 reykjavik-theme
-rfc
 rfc-mode
 rfringe
 rg
