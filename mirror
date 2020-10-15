@@ -3,6 +3,7 @@
 0xc
 1000-words
 2048-game
+2bit
 4clojure
 at
 a
@@ -131,6 +132,7 @@ ample-regexps
 ample-theme
 ample-zen-theme
 amread-mode
+amsreftex
 amx
 anaconda-mode
 anakondo
@@ -879,6 +881,7 @@ ctable
 ctags-update
 ctl-mode
 ctrlf
+ctrlxo
 ctune
 ctxmenu
 ctypes
@@ -1026,6 +1029,7 @@ diminish
 diminish-buffer
 dimmer
 dionysos
+dir-treeview
 dircmp
 dired-plus
 dired-atool
@@ -1337,6 +1341,7 @@ elm-test-runner
 elm-yasnippets
 elmacro
 elmine
+elmpd
 elnode
 elog
 elogcat
@@ -1724,6 +1729,7 @@ filesets-plus
 filetags
 fill-column-indicator
 fill-function-arguments
+fill-page
 filladapt
 filladapt-pat
 fillcode
@@ -1918,6 +1924,7 @@ flymake-lua
 flymake-perlcritic
 flymake-php
 flymake-phpcs
+flymake-proselint
 flymake-puppet
 flymake-python-pyflakes
 flymake-quickdef
@@ -2126,6 +2133,7 @@ gitolite-clone
 gitpatch
 gitsum
 gitter
+gkroam
 gl-conf-mode
 glade-mode
 gle-mode
@@ -2283,6 +2291,7 @@ grunt
 gruvbox-theme
 gscholar-bibtex
 gsettings
+gsnip
 gst-inspect
 gtags
 gtk-perl
@@ -2347,6 +2356,7 @@ helm-addressbook
 helm-ag
 helm-ag-r
 helm-apt
+helm-atoms
 helm-aws
 helm-backup
 helm-bbdb
@@ -2740,6 +2750,7 @@ immaterial-theme
 immortal-scratch
 immutant-server
 impatient-mode
+impatient-showdown
 import-js
 import-popwin
 importmagic
@@ -2909,6 +2920,7 @@ jenkinsfile-mode
 jest
 jest-test-mode
 jetbrains
+jetbrains-darcula-theme
 jg-quicknav
 jgraph-mode
 jiggle
@@ -4097,6 +4109,7 @@ ox-tufte
 ox-twbs
 ox-twiki
 ox-wk
+ox-zenn
 p4
 pabbrev
 paced
@@ -4453,6 +4466,7 @@ psl-mode
 pspp-mode
 psysh
 pt
+ptemplate
 pubmed
 pug-mode
 pulseaudio
@@ -5431,6 +5445,7 @@ tree-sitter
 treefactor
 treemacs
 treepy
+treeview
 trelloel
 trident-mode
 trie
