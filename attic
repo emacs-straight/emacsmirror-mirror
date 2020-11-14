@@ -45,6 +45,7 @@ areabrowse
 arrange
 arscanner
 arxiv-reader
+as3-simple-mode
 ascii-display
 asm56k-f-lck
 asm86-mode
@@ -89,6 +90,7 @@ bbdbpalm
 bbdbrc
 bdo
 beatnik
+better-defaults
 bhl
 bibeltex
 bibfind
@@ -103,6 +105,7 @@ blog
 blogger
 blorg
 bm-man-cmplt
+bookmark-extensions
 bookmark-search
 branch
 bravegnuworld-mode
@@ -145,6 +148,7 @@ change-html-head-tail
 change-mode
 changelog-url
 chasen
+chicken-scheme
 chill-mode
 chinese-remote-input
 choose
@@ -184,6 +188,8 @@ commented-info
 commit-patch-buffer
 common-directory
 company-edbi
+company-ghc
+company-org-roam
 company-racer
 company-tern
 compare-windows-interactively
@@ -435,6 +441,8 @@ flycheck-rebar3
 flycheck-scala-sbt
 flycheck-soar
 flycheck-stack
+flymake-cppcheck
+flymake-google-cpplint
 flyspell-babel
 flyspell-textcat
 flyspell-timer
@@ -481,6 +489,7 @@ gentext-texinfo
 gestures
 get-rfc
 get-url-content
+ghc
 gimp-shell
 gimps-report
 git-commit-training-wheels-mode
@@ -531,6 +540,8 @@ header-action
 hebeng
 helm-anything
 helm-delicious
+helm-ghc
+helm-ipython
 helm-nrepl
 helm-odoc
 helm-projectile-all
@@ -567,12 +578,14 @@ hyper-compile
 hyphenate
 i-ching
 ibs
+ibuffer-perspective
 ibus
 icaps
 idle-highlight
 idledo
 idna
 ido-clever-match
+ido-complete-space-or-hyphen
 ido-describe-bindings
 ido-migemo
 ido-occur
@@ -608,11 +621,13 @@ irish
 ishl
 iso-html
 iso-sgml
+isolate
 ispell-multi
 iswitchb-fc
 itunes
 ivy-feedwrangler
 ivy-pages
+iy-go-to-char
 japanese-tokenizer
 japanlaw
 jasmin
@@ -704,11 +719,13 @@ lookout
 loop-constructs
 lotto-check
 lout-mode
+love-minor-mode
 lpc-mode
 lsl-mode
 lsp-javascript-typescript
 lsp-python
 lsp-ruby
+lsp-scala
 lsp-sh
 lsp-vue
 ltxsymb
@@ -835,6 +852,7 @@ ns-platform-support
 nterm
 numbered-outline
 nummove
+o-blog
 o-journal
 ob-pygment
 obarray-fns
@@ -908,8 +926,10 @@ pgg-crypt
 phonebook
 phonemode
 php-plus-mode
+php-auto-yasnippets
 php-completion
 php-completion-opt
+phpcbf
 phrase
 phutball
 physical-line
@@ -937,6 +957,7 @@ procmaillog
 profile-dotemacs
 progr-align
 project-buffer-mode
+projectile-direnv
 projectile-hanami
 prosper
 protbuf
@@ -978,6 +999,7 @@ raise-web-directory
 rambledocs
 randomsig
 rays
+rcirc-ucomplete
 rdict
 read-all-emacs-help
 read-library
@@ -1025,6 +1047,7 @@ rpm
 rpn-edit
 rpn-old
 rs-info
+rsense
 rss-helper
 rtest
 rtf
@@ -1051,6 +1074,7 @@ scheme-here
 scheme48
 scim-bridge
 scp
+scpaste
 scrape
 scrat
 screen-lines

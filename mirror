@@ -196,7 +196,6 @@ arjen-grey-theme
 arrange-buffers
 artbollocks-mode
 arview
-as3-simple-mode
 ascii
 ascii-art-to-unicode
 ascii-table
@@ -212,6 +211,7 @@ async-await
 async-eval
 atcoder-tools
 atim-unscroll
+atl-long-lines
 atl-markup
 atoctx
 atom
@@ -307,6 +307,7 @@ aws
 aws-ec2
 aws-snippets
 awscli-capf
+axe
 axiom-environment
 ayu-theme
 babel
@@ -366,7 +367,6 @@ bencoding
 bento
 berrys-theme
 bert
-better-defaults
 better-jump
 better-jumper
 better-registers
@@ -409,6 +409,7 @@ blimp
 bliss-theme
 blitzmax-mode
 bln-mode
+block-nav
 blockdiag-mode
 blog-admin
 blog-minimal
@@ -428,7 +429,6 @@ bookem
 bookiez
 bookmark-plus
 bookmark-add
-bookmark-extensions
 bool-flip
 boon
 borg
@@ -490,6 +490,8 @@ build-helper
 build-status
 bundle
 bundler
+burly
+burnt-toast
 bury-successful-compilation
 buster-mode
 buster-snippets
@@ -585,7 +587,6 @@ cheezburger
 chef-mode
 cherry-blossom-theme
 chess
-chicken-scheme
 chicken-scheme-extras
 chinese-chess
 chinese-chess-pvc
@@ -639,6 +640,7 @@ cliphist
 clipmon
 clippy
 clips-mode
+clj-decompiler
 clj-refactor
 cljr-helm
 cljr-ivy
@@ -739,7 +741,6 @@ company-ess
 company-flow
 company-flx
 company-fuzzy
-company-ghc
 company-ghci
 company-glsl
 company-go
@@ -754,7 +755,6 @@ company-manually
 company-math
 company-nginx
 company-ngram
-company-org-roam
 company-plisp
 company-plsense
 company-posframe
@@ -1253,6 +1253,7 @@ editorconfig-domain-specific
 editorconfig-generate
 edje-mode
 edn
+ednc
 edts
 edwina
 ee
@@ -1536,6 +1537,7 @@ eterm-fn
 etest
 etexshow
 ethan-wspace
+etherpad
 etom
 etop
 etxt
@@ -1893,7 +1895,6 @@ flyguess
 flylisp
 flymake
 flymake-coffee
-flymake-cppcheck
 flymake-css
 flymake-csslint
 flymake-cursor
@@ -1907,7 +1908,6 @@ flymake-gjshint
 flymake-go
 flymake-go-staticcheck
 flymake-golangci
-flymake-google-cpplint
 flymake-gradle
 flymake-haml
 flymake-haskell-multi
@@ -2065,7 +2065,6 @@ ggo-mode
 ggtags
 gh
 gh-md
-ghc
 ghc-imported-from
 ghci-completion
 gherkin-mode
@@ -2272,6 +2271,7 @@ greek-polytonic
 green-is-the-new-black-theme
 green-phosphor-theme
 green-screen-theme
+greenbar
 gregorio-mode
 grep-plus
 grep-a-lot
@@ -2404,7 +2404,6 @@ helm-evil-markers
 helm-eww
 helm-ext
 helm-exwm
-helm-fd
 helm-file-preview
 helm-filesets
 helm-find-files-in-project
@@ -2418,7 +2417,6 @@ helm-frame
 helm-fuzzier
 helm-fuzzy
 helm-fuzzy-find
-helm-ghc
 helm-ghq
 helm-ghs
 helm-git
@@ -2443,7 +2441,6 @@ helm-icons
 helm-idris
 helm-img
 helm-img-tiqav
-helm-ipython
 helm-ispell
 helm-itunes
 helm-j-cheatsheet
@@ -2671,10 +2668,10 @@ hyperspec
 i2b2-mode
 i3
 i3wm
+i3wm-config-mode
 ialign
 iasm-mode
 ibuffer-git
-ibuffer-perspective
 ibuffer-project
 ibuffer-projectile
 ibuffer-rcirc
@@ -2702,7 +2699,6 @@ idle-scroll
 idlehelp
 ido-at-point
 ido-better-flex
-ido-complete-space-or-hyphen
 ido-completing-read-plus
 ido-exit-target
 ido-flex-with-migemo
@@ -2837,7 +2833,6 @@ isearch-prop
 isearch-symbol-at-point
 isend-mode
 isgd
-isolate
 isortify
 iss-mode
 iswitch-menu
@@ -2875,7 +2870,6 @@ ivy-yasnippet
 ivy-ycmd
 ivy-youtube
 ix
-iy-go-to-char
 j-mode
 jabber
 jabber-chatx
@@ -2930,6 +2924,7 @@ jira-markup-mode
 jiralib2
 jist
 jknav
+jmt-mode
 joccur
 jonprl-mode
 journalctl-mode
@@ -2974,6 +2969,7 @@ julia-mode
 julia-repl
 julia-shell
 julia-snail
+julia-vterm
 jumblr
 jump
 jump-char
@@ -2988,6 +2984,7 @@ kaesar
 kakapo-mode
 kakoune
 kaleidoscope
+kana
 kanban
 kanji-mode
 kaocha-runner
@@ -3083,6 +3080,7 @@ languagetool
 lastfm
 lastpass
 latch
+later-do
 latex-extra
 latex-frame-mode
 latex-math-preview
@@ -3220,7 +3218,6 @@ lookup
 loop
 loops
 lorem-ipsum
-love-minor-mode
 lox-mode
 lpy
 ls-lisp-plus
@@ -3245,7 +3242,6 @@ lsp-pascal
 lsp-pyre
 lsp-pyright
 lsp-python-ms
-lsp-scala
 lsp-sonarlint
 lsp-sourcekit
 lsp-treemacs
@@ -3368,6 +3364,7 @@ matlab-mode
 maude-mode
 maven-test-mode
 maxframe
+maxima
 mazemax
 mb-depth-plus
 mb-url
@@ -3424,6 +3421,7 @@ midi-kbd
 midje-mode
 migemo
 milkode
+mimetypes
 mines
 minesweeper
 mingus
@@ -3685,6 +3683,7 @@ nnhackernews
 nnir-est
 nnir-spotlight
 nnreddit
+nntwitter
 no-emoji
 no-littering
 no-spam
@@ -3740,7 +3739,6 @@ nyan-mode
 nyan-prompt
 nyx-theme
 nz-holidays
-o-blog
 oauth
 oauth2
 ob-ammonite
@@ -3756,6 +3754,7 @@ ob-crystal
 ob-cypher
 ob-dao
 ob-dart
+ob-deno
 ob-diagrams
 ob-elixir
 ob-elm
@@ -3793,6 +3792,7 @@ obfusurl
 objc-font-lock
 objed
 obsidian-theme
+ocamlformat
 occidental-theme
 occur-context-resize
 occur-x
@@ -3849,7 +3849,6 @@ opscode-sign
 orca
 orderless
 ordinal
-org
 org-ac
 org-agenda-property
 org-alert
@@ -4103,6 +4102,7 @@ ox-rst
 ox-slack
 ox-slimhtml
 ox-spectacle
+ox-ssh
 ox-textile
 ox-trac
 ox-tufte
@@ -4195,7 +4195,6 @@ pcmpl-args
 pcmpl-git
 pcmpl-homebrew
 pcmpl-pip
-pcmpl-ssh
 pcomplete-extension
 pcre2el
 pcsv
@@ -4254,7 +4253,6 @@ phi-search-migemo
 phoenix-dark-mono-theme
 phoenix-dark-pink-theme
 phonetic
-php-auto-yasnippets
 php-boris
 php-boris-minor-mode
 php-cs-fixer
@@ -4266,7 +4264,6 @@ php-refactor-mode
 php-runtime
 php-scratch
 phpactor
-phpcbf
 phps-mode
 phpstan
 phpt-mode
@@ -4431,7 +4428,6 @@ project-persist-drawer
 project-root
 project-shells
 projectile
-projectile-direnv
 projectile-git-autofetch
 projectile-rails
 projectile-speedbar
@@ -4598,7 +4594,6 @@ rcirc-robots
 rcirc-sound
 rcirc-ssh
 rcirc-styles
-rcirc-ucomplete
 rcodetools
 rd-mode
 rdf-prefix
@@ -4628,6 +4623,7 @@ reason-mode
 reazon
 rebecca-theme
 rebox2
+rec-mode
 recaptcha
 recent-addresses
 recentf-buffer
@@ -4742,7 +4738,6 @@ rotate-text
 roy-mode
 rpm-spec-mode
 rpn-calc
-rsense
 rspec-mode
 rss
 rt-liberation
@@ -4817,7 +4812,6 @@ scion
 sclang
 sclang-extensions
 sclang-snippets
-scpaste
 scratch
 scratch-comment
 scratch-ext
@@ -4887,6 +4881,7 @@ shadowenv
 shakespeare-mode
 shampoo
 share2computer
+sharper
 shelisp
 shell-command
 shell-command-queue
@@ -5086,6 +5081,7 @@ spark
 sparkline
 sparql-mode
 spartan-wiki
+spatial-navigate
 speck
 speech-tagger
 speechd
@@ -5295,6 +5291,8 @@ teco
 telega
 telepathy
 telephone-line
+teletext
+teletext-yle
 tellstick
 telnet-contrib
 temp-buffer-browse
@@ -5661,6 +5659,7 @@ vyper-mode
 w3
 w32-browser
 w32-find-dired
+w32-ime
 w32-send-mapi
 w32-shell-execute
 w32-shell-verb
@@ -5923,6 +5922,7 @@ zim-wiki-mode
 zimports
 zlc
 zmq
+zmusic
 znc
 zombie
 zombie-trellys-mode
