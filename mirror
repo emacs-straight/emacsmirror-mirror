@@ -1123,6 +1123,7 @@ docker-compose-mode
 docker-tramp
 dockerfile-mode
 docmap
+docopt
 docsetutil
 doct
 doit-mode
@@ -1909,6 +1910,7 @@ flymake-go
 flymake-go-staticcheck
 flymake-golangci
 flymake-gradle
+flymake-grammarly
 flymake-haml
 flymake-haskell-multi
 flymake-helper
@@ -2727,7 +2729,6 @@ igrep-next-error
 igv
 ii-mode
 im-notification
-image-plus
 image-archive
 image-dired-plus
 imakado
@@ -2803,7 +2804,6 @@ intel-hex-mode
 intellij-theme
 interaction-log
 interleave
-intero
 interpreter-minor
 interval-list
 interval-tree
@@ -3001,6 +3001,7 @@ keep-end
 keepass-mode
 keg
 kerl
+key-assist
 key-cast
 key-chord
 key-combo
@@ -4463,6 +4464,7 @@ pspp-mode
 psysh
 pt
 ptemplate
+ptemplate-templates
 pubmed
 pug-mode
 pulseaudio
