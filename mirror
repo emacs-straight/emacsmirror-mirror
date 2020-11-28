@@ -2791,6 +2791,7 @@ ink-mode
 inkpot-theme
 inline-crypt
 inline-docs
+insert-char-preview
 insert-esv
 insert-kaomoji
 insert-shebang
@@ -3116,6 +3117,7 @@ legalese
 lemon-mode
 lentic
 lentic-server
+leo
 less
 less-mode
 let-alist
@@ -3529,6 +3531,7 @@ mozc-temp
 mpages
 mpcel
 mpdel
+mpdmacs
 mplayer-mode
 mpmc-queue
 mpris-dbus
@@ -3760,6 +3763,7 @@ ob-diagrams
 ob-elixir
 ob-elm
 ob-elvish
+ob-ess-julia
 ob-fsharp
 ob-go
 ob-graphql
@@ -5419,6 +5423,7 @@ touchgrid
 tox
 toxi-theme
 tql-mode
+tr-ime
 traad
 trac-wiki
 tracwiki-mode
@@ -5580,6 +5585,7 @@ vc-auto-commit
 vc-browse
 vc-check-status
 vc-darcs
+vc-defer
 vc-fossil
 vc-hgcmd
 vc-hooks-plus
@@ -5914,6 +5920,7 @@ zenburn-theme
 zencoding-mode
 zenity-color-picker
 zeno-theme
+zenscript-mode
 zephir-mode
 zero-input
 zerodark-theme
