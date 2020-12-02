@@ -3491,6 +3491,7 @@ molokai-theme
 moneylog
 mongo
 monitor
+monkeytype
 monky
 monochrome-theme
 monokai-alt-theme
@@ -3920,6 +3921,7 @@ org-journal-list
 org-json
 org-kanban
 org-kindle
+org-latex-impatient
 org-link-beautify
 org-link-travis
 org-linkotron
@@ -5209,6 +5211,7 @@ svelte-mode
 svg
 svg-clock
 svg-mode-line-themes
+svg-tag-mode
 svnwrapper
 swagger-to-org
 swallow-window
