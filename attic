@@ -704,6 +704,7 @@ linuxproc
 lisp-re
 lisp-skels
 lisppaste
+lispyscript-mode
 list-fns
 list-register
 listbuf

@@ -791,6 +791,7 @@ constant-theme
 constants
 constellations
 constraint
+consult
 contentswitch
 context-coloring
 contextual
@@ -2212,6 +2213,7 @@ gobgen
 goby
 god-mode
 godoctor
+goggles
 golb
 gold-mode
 golden-ratio
@@ -3135,6 +3137,7 @@ libgit
 libmpdee
 libmpdel
 lice
+license-snippets
 license-templates
 light-soap-theme
 lilypond
@@ -3165,7 +3168,6 @@ lisp-local
 lispxmp
 lispy
 lispy-mnemonic
-lispyscript-mode
 lispyville
 list-environment
 list-packages-ext
@@ -3334,6 +3336,7 @@ map
 map-progress
 map-regexp
 marcopolo
+marginalia
 mark-forward-sexp
 mark-lines
 mark-multiple
@@ -3479,8 +3482,7 @@ modern-fringes
 modern-sh
 modtime-skip-mode
 modular-config
-modus-operandi-theme
-modus-vivendi-theme
+modus-themes
 moe-theme
 mogo
 moikrug
@@ -4646,6 +4648,7 @@ rect-plus
 rect-extension
 rect-mark
 rectangle-utils
+recursion-indicator
 recursive-narrow
 reddit-mode
 redis
@@ -4734,6 +4737,7 @@ rmailgen
 rmsbolt
 rnc-mode
 robe
+robot-mode
 robots-txt-mode
 roguel-ike
 ron-mode
@@ -5058,6 +5062,7 @@ sokoban
 solaire-mode
 solarized-theme
 solidity-mode
+solo-jazz-theme
 somafm
 songbook
 sonic-pi
