@@ -172,6 +172,7 @@ apdl-mode
 apel
 apib-mode
 apiwrap
+apparmor-mode
 apples-mode
 applescript-mode
 application
@@ -1313,9 +1314,11 @@ electric-case
 electric-dot-and-dash
 electric-operator
 electric-spacing
+elegant-agenda-mode
 elein
 elf-mode
 elfeed
+elfeed-dashboard
 elfeed-goodies
 elfeed-org
 elfeed-protocol
@@ -2124,6 +2127,7 @@ github-review
 github-search
 github-stars
 github-theme
+gitignore-snippets
 gitignore-templates
 gitlab
 gitlab-ci-mode
@@ -2739,6 +2743,7 @@ imbot
 imdb
 imenu-plus
 imenu-anywhere
+imenu-extra
 imenu-list
 imenu-tree
 imenus
@@ -2854,6 +2859,7 @@ ivy-emms
 ivy-emoji
 ivy-erlang-complete
 ivy-explorer
+ivy-file-preview
 ivy-fuz
 ivy-lobsters
 ivy-mpdel
@@ -3190,6 +3196,7 @@ lively
 livereload
 livescript-mode
 livid-mode
+ll-debug
 lmc
 lms
 lnk
@@ -3362,6 +3369,7 @@ masm-mode
 masquerade-mode
 mastodon
 material-theme
+math-preview
 math-symbol-lists
 math-symbols
 matlab-mode
@@ -3405,6 +3413,7 @@ message-outlook
 message-x
 messages-are-flowing
 meta-presenter
+metal-archives
 metalheart-theme
 metamorph
 metapost-mode-plus
@@ -4084,6 +4093,7 @@ ox-asciidoc
 ox-bibtex-chinese
 ox-clip
 ox-epub
+ox-gemini
 ox-gfm
 ox-haunt
 ox-html5slide
@@ -4284,6 +4294,7 @@ picolisp
 picolisp-wiki-mode
 picpocket
 pig-mode
+pikchr-mode
 pillar
 pinbar
 pinboard
@@ -5569,6 +5580,7 @@ use-package-hydra
 use-proxy
 use-ttf
 utf8islove
+utimeclock
 utop
 uuid
 uuidgen
@@ -5844,6 +5856,7 @@ xelb
 xenops
 xkcd
 xlicense
+xmind-org
 xml-plus
 xml-format
 xml-parse
