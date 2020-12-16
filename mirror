@@ -303,6 +303,7 @@ avy-flycheck
 avy-menu
 avy-migemo
 avy-zap
+awesome-tab
 awk-it
 aws
 aws-ec2
@@ -1195,6 +1196,7 @@ e2wm-svg-clock
 e2wm-sww
 e2wm-term
 eacl
+eaf
 easy-after-load
 easy-escape
 easy-highlight
@@ -1389,6 +1391,7 @@ email
 emamux
 emamux-ruby-test
 emaps
+embark
 embeddedchangelog
 ember-mode
 ember-yasnippets
@@ -2517,6 +2520,7 @@ helm-spotify
 helm-spotify-plus
 helm-sql-connect
 helm-switch-shell
+helm-switch-to-repl
 helm-swoop
 helm-system-packages
 helm-systemd
@@ -4019,6 +4023,7 @@ org-tracktable
 org-transform-tree-table
 org-translate
 org-tree-slide
+org-tree-slide-pauses
 org-treescope
 org-treeusage
 org-trello
@@ -4225,6 +4230,7 @@ pdfscan
 peacock-theme
 peek-mode
 peep-dired
+peertube
 peg
 pelican-mode
 pepita
@@ -4316,6 +4322,7 @@ pkgbuild-mode
 plain-org-wiki
 plain-theme
 plan9-theme
+planemo-mode
 planet-theme
 plantuml-mode
 plaster
@@ -4804,6 +4811,7 @@ sackspace
 sage-shell-mode
 sailfish-scratchbox
 salesforce-utils
+sallet
 salt-mode
 sane-term
 sass-mode
@@ -5053,6 +5061,7 @@ smotitah
 sms
 smtpmail-multi
 smyx-theme
+snails
 snakemake-mode
 snapshot-timemachine
 snapshot-timemachine-rsnapshot
