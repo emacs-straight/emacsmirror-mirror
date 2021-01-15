@@ -616,6 +616,7 @@ cinspect
 circadian
 circe
 circe-notifications
+circleci-api
 cisco-router-mode
 citeproc
 citeproc-org
@@ -813,6 +814,7 @@ cort
 cosmo
 couchdb-document
 couchdb-document-text
+counsel-ag-popup
 counsel-bbdb
 counsel-codesearch
 counsel-css
@@ -972,6 +974,7 @@ decl
 dedent
 dedicated
 dedukti-mode
+default-font-presets
 default-text-scale
 deferred
 defhook
@@ -1069,6 +1072,7 @@ dired-toggle
 dired-toggle-sudo
 dired-view
 dired-xattr
+diredc
 diredfl
 diredful
 direnv
@@ -1165,6 +1169,7 @@ dropdown-list
 drupal-mode
 drupal-spell
 dsvn
+dtb-mode
 dtk
 dtrace-script-mode
 dtrt-indent
@@ -1528,11 +1533,13 @@ ess-edit
 ess-r-insert-obj
 ess-smart-equals
 ess-smart-underscore
+ess-stata-mode
 ess-view
 ess-view-data
 esup
 esv
 esxml
+eta
 etable
 etags-select
 etags-stack
@@ -2229,6 +2236,7 @@ goldendict
 golint
 gom-mode
 gomacro-mode
+good-scroll
 google
 google-c-style
 google-calendar
@@ -2844,6 +2852,7 @@ isearch-symbol-at-point
 isend-mode
 isgd
 isortify
+ispc-mode
 iss-mode
 iswitch-menu
 iswitchb-highlight
@@ -2866,6 +2875,7 @@ ivy-explorer
 ivy-file-preview
 ivy-fuz
 ivy-lobsters
+ivy-migemo
 ivy-mpdel
 ivy-omni-org
 ivy-pass
@@ -3872,6 +3882,7 @@ org-ac
 org-agenda-property
 org-alert
 org-analyzer
+org-anki
 org-assoc-tags
 org-attach-screenshot
 org-autolist
@@ -3927,6 +3938,7 @@ org-hyde
 org-id-cleanup
 org-if
 org-index
+org-inline-pdf
 org-iv
 org-jira
 org-journal
@@ -4299,6 +4311,7 @@ pickle
 picolisp
 picolisp-wiki-mode
 picpocket
+piem
 pig-mode
 pikchr-mode
 pillar
@@ -4659,6 +4672,7 @@ recently
 recipe-mode
 reco
 recompile-on-save
+recomplete
 record-type
 recover-buffers
 recs-mode
@@ -4857,7 +4871,9 @@ scriptify
 scrl-margs
 scrobble
 scroll-on-drag
+scroll-on-jump
 scroll-restore
+scrollable-quick-peek
 scrollkeeper
 scrooge
 scss-mode
@@ -4936,6 +4952,7 @@ shoulda
 show-arglist
 show-css
 show-eol
+show-font-mode
 show-help
 show-marks
 showkey
@@ -5070,6 +5087,7 @@ snippet
 snipplr
 snoopy
 snort-mode
+snow
 so-long
 soap-client
 soar-mode
@@ -5113,6 +5131,7 @@ sparkline
 sparql-mode
 spartan-wiki
 spatial-navigate
+spdx
 speck
 speech-tagger
 speechd
@@ -5465,6 +5484,7 @@ transcript
 transfer-sh
 transient
 transient-dwim
+transient-posframe
 transmission
 transpose-frame
 transpose-mark
@@ -5473,6 +5493,7 @@ trashed
 travis
 tree-mode
 tree-sitter
+tree-sitter-indent
 treefactor
 treemacs
 treepy
@@ -5742,6 +5763,7 @@ webfeeder
 webgen-mode
 webkit-color-picker
 weblogger
+weblorg
 webpaste
 websocket
 wedge-ws
@@ -5770,6 +5792,8 @@ wiki
 wiki-summary
 wikidoc
 wikidot-mode
+wikinfo
+wikinforg
 wikipedia-mode
 wikirel
 wikitext-mode
@@ -5883,6 +5907,7 @@ xray
 xrc
 xref
 xref-js2
+xref-rst
 xresources-theme
 xs-mode
 xsocks
