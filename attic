@@ -90,7 +90,6 @@ bbdbpalm
 bbdbrc
 bdo
 beatnik
-better-defaults
 bhl
 bibeltex
 bibfind
@@ -389,6 +388,7 @@ esms
 esmtpmail
 espect
 etrack
+evil-magit
 evil-rebellion
 evil-scout
 fa-extras
@@ -576,7 +576,6 @@ html-sizes
 hugs-mode
 hyper-compile
 hyphenate
-i-ching
 ibs
 ibuffer-perspective
 ibus
@@ -1077,7 +1076,6 @@ scheme-here
 scheme48
 scim-bridge
 scp
-scpaste
 scrape
 scrat
 screen-lines

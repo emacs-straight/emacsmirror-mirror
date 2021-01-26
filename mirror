@@ -369,6 +369,7 @@ bencoding
 bento
 berrys-theme
 bert
+better-defaults
 better-jump
 better-jumper
 better-registers
@@ -678,6 +679,7 @@ cobol-mode
 cobra-mode
 codcut
 code-archive
+code-cells
 code-imports
 code-library
 code-stats
@@ -780,6 +782,7 @@ compile-plus
 compile-
 compile-bookmarks
 compile-dwim
+compiler-explorer
 completions-frame
 composable
 composer
@@ -819,6 +822,7 @@ counsel-bbdb
 counsel-codesearch
 counsel-css
 counsel-dash
+counsel-edit-mode
 counsel-etags
 counsel-fd
 counsel-ffdata
@@ -862,6 +866,7 @@ crisp-mode
 crm-custom
 crontab-mode
 crosshairs
+crossword
 crux
 cryptol-mode
 crystal-mode
@@ -881,6 +886,7 @@ cssh
 csv
 csv-mode
 csv-nav
+ct
 ctable
 ctags-update
 ctl-mode
@@ -1599,7 +1605,6 @@ evil-ledger
 evil-lion
 evil-lisp-state
 evil-lispy
-evil-magit
 evil-mark-replace
 evil-matchit
 evil-mc
@@ -1857,6 +1862,7 @@ flycheck-grammarly
 flycheck-guile
 flycheck-haskell
 flycheck-hdevtools
+flycheck-hledger
 flycheck-indicator
 flycheck-ini-pyinilint
 flycheck-inline
@@ -1936,6 +1942,7 @@ flymake-kondor
 flymake-ktlint
 flymake-less
 flymake-lua
+flymake-nasm
 flymake-perlcritic
 flymake-php
 flymake-phpcs
@@ -2633,6 +2640,7 @@ hnreader
 hoa-mode
 hoa-pp-mode
 holiday-pascha-etc
+holy-books
 home-end
 homebrew-mode
 honcho
@@ -2683,6 +2691,7 @@ hyperkitty
 hyperlist-mode
 hyperspace
 hyperspec
+i-ching
 i2b2-mode
 i3
 i3wm
@@ -2769,6 +2778,7 @@ import-js
 import-popwin
 importmagic
 includeme
+indent-control
 indent-guide
 indent-hints-mode
 indent-info
@@ -3579,6 +3589,7 @@ mu4e-alert
 mu4e-conversation
 mu4e-jump-to-list
 mu4e-maildirs-extension
+mu4e-marker-icons
 mu4e-overview
 mu4e-query-fragments
 mu4e-views
@@ -3791,6 +3802,7 @@ ob-ess-julia
 ob-fsharp
 ob-go
 ob-graphql
+ob-haxe
 ob-html-chrome
 ob-http
 ob-hy
@@ -4025,6 +4037,7 @@ org-sync
 org-sync-snippets
 org-table-comment
 org-table-sticky-header
+org-tag-beautify
 org-tanglesync
 org-tfl
 org-themis
@@ -4138,6 +4151,7 @@ ox-slimhtml
 ox-spectacle
 ox-ssh
 ox-textile
+ox-timeline
 ox-trac
 ox-tufte
 ox-twbs
@@ -4166,6 +4180,7 @@ page-break-lines
 pager
 pager-default-keybindings
 paint
+pair-tree
 palette
 palimpsest
 pallet
@@ -4576,6 +4591,7 @@ quack
 quarter-plane
 quasi-monochrome-theme
 quelpa
+quelpa-leaf
 quelpa-use-package
 query
 queue
@@ -4720,6 +4736,7 @@ replace-pairs
 replace-symbol
 replace-with-inflections
 repo
+repology
 repository-root
 req-package
 request
@@ -4804,6 +4821,7 @@ rudel
 rufo
 rum-mode
 run-assoc
+run-command
 run-stuff
 runner
 runtests
@@ -4855,6 +4873,7 @@ scion
 sclang
 sclang-extensions
 sclang-snippets
+scpaste
 scratch
 scratch-comment
 scratch-ext
@@ -5236,6 +5255,7 @@ sudden-death
 sudo-edit
 sudo-ext
 sudo-save
+sudo-utils
 sudoku
 suggest
 suggestion-box
@@ -5680,6 +5700,7 @@ vimrc-mode
 vimvars
 viper-in-more-modes
 virtual-auto-fill
+virtual-comment
 virtualenv
 virtualenvwrapper
 visible-lines
