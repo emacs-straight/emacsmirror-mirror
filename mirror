@@ -3994,7 +3994,6 @@ org-preview-html
 org-projectile
 org-protocol-github-lines
 org-protocol-jekyll
-org-pua
 org-ql
 org-radiobutton
 org-random-todo
@@ -4760,7 +4759,6 @@ review-mode
 rewrite
 reykjavik-theme
 rfc-mode
-rfringe
 rg
 rhtml-mode
 rib-mode
@@ -5409,7 +5407,6 @@ textmate-to-yas
 textsnip
 textx-mode
 tf2-conf-mode
-tfs
 tfsmacs
 theme-changer
 theme-helper
@@ -5417,11 +5414,9 @@ theme-looper
 theme-magic
 theme-park-mode
 therapy
-thesaurus
 thing-cmds
 thing-opt
 thingatpt-plus
-thingatpt-ext
 thingopt
 thinks
 thread-dump
@@ -5854,7 +5849,6 @@ with-venv
 wmctrl
 wmii
 wn-mode
-wn-org
 wolfram
 wolfram-mode
 wonderland

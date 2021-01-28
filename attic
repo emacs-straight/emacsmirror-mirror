@@ -888,6 +888,7 @@ org-magit
 org-multiple-keymap
 org-osm-link
 org-pdfview
+org-pua
 org-site
 org-taskforecast
 org-website
@@ -1037,6 +1038,7 @@ rfc
 rfc-util
 rfcr
 rfcview
+rfringe
 rheeet-mail
 rhtml-minor-mode
 ri
@@ -1210,6 +1212,9 @@ text-to-html
 text-translator
 textlint
 textmenu
+tfs
+thesaurus
+thingatpt-ext
 tie-mode
 tiger
 timan
@@ -1330,6 +1335,7 @@ wisp-mode
 with-file
 with-saved-messages
 wl-list
+wn-org
 woof
 word-count
 word-counter
