@@ -497,6 +497,7 @@ git-show
 git-time-machine
 github
 github-api-v3
+github-issues
 gitty
 global-modes
 gneve
@@ -538,8 +539,10 @@ hatena-group-keyword-mode
 hbmk
 header-action
 hebeng
+helm-addressbook
 helm-anything
 helm-delicious
+helm-elscreen
 helm-ghc
 helm-ipython
 helm-nrepl
@@ -584,7 +587,6 @@ idle-highlight
 idledo
 idna
 ido-clever-match
-ido-complete-space-or-hyphen
 ido-describe-bindings
 ido-migemo
 ido-occur
@@ -592,7 +594,6 @@ ifile-gnus
 ifind-mode
 ilisp
 ilocate-library
-image-plus
 imagetext
 iman
 imaxima
@@ -887,6 +888,7 @@ org-mac-protocol
 org-magit
 org-multiple-keymap
 org-osm-link
+org-password-manager
 org-pdfview
 org-pua
 org-site

@@ -81,6 +81,7 @@ add-hooks
 add-node-modules-path
 addressbook-bookmark
 adjust-parens
+ado-mode
 adoc-mode
 adv-random-sig
 advice-patch
@@ -775,6 +776,7 @@ company-tabnine
 company-terraform
 company-try-hard
 company-web
+company-wordfreq
 compdef
 competitive-programming-snippets
 compilation-always-kill
@@ -1759,6 +1761,7 @@ find-by-pinyin-dired
 find-dired-plus
 find-dired-plus-plus
 find-dired-
+find-dupes-dired
 find-file-in-project
 find-file-in-repository
 find-file-in-tags
@@ -2136,7 +2139,6 @@ github-browse-file
 github-clone
 github-elpa
 github-explorer
-github-issues
 github-modern-theme
 github-notifier
 github-pullrequest
@@ -2377,7 +2379,6 @@ helm
 helm-R
 helm-ack
 helm-ad
-helm-addressbook
 helm-ag
 helm-ag-r
 helm-apt
@@ -2419,7 +2420,6 @@ helm-directory
 helm-dired-history
 helm-dired-recent-dirs
 helm-dirset
-helm-elscreen
 helm-emmet
 helm-emms
 helm-esa
@@ -2726,6 +2726,7 @@ idle-scroll
 idlehelp
 ido-at-point
 ido-better-flex
+ido-complete-space-or-hyphen
 ido-completing-read-plus
 ido-exit-target
 ido-flex-with-migemo
@@ -2754,6 +2755,7 @@ igrep-next-error
 igv
 ii-mode
 im-notification
+image-plus
 image-archive
 image-dired-plus
 imakado
@@ -2810,6 +2812,7 @@ inform
 inform-mode
 inform7
 inherit-local
+inheritenv
 ini-mode
 init-loader
 init-open-recentf
@@ -2852,6 +2855,7 @@ iregister
 ireplace
 irony
 irony-eldoc
+iscroll
 isea
 isearch-plus
 isearch-dabbrev
@@ -3158,6 +3162,7 @@ leuven-theme
 levenshtein
 lex
 lexbind-mode
+lexic
 lfe-mode
 lib-requires
 libbcel
@@ -3221,6 +3226,7 @@ livereload
 livescript-mode
 livid-mode
 ll-debug
+llama
 lmc
 lms
 lnk
@@ -3278,6 +3284,7 @@ lsp-pyright
 lsp-python-ms
 lsp-sonarlint
 lsp-sourcekit
+lsp-tailwindcss
 lsp-treemacs
 lsp-ui
 ltsv
@@ -3933,6 +3940,7 @@ org-edit-latex
 org-edna
 org-ehtml
 org-elisp-help
+org-elp
 org-email
 org-emms
 org-evil
@@ -3981,7 +3989,6 @@ org-outline-numbering
 org-outlook
 org-page
 org-parser
-org-password-manager
 org-pdftools
 org-picklink
 org-pivotal
@@ -5102,6 +5109,7 @@ snapshot-timemachine-rsnapshot
 snazzy-theme
 snippet
 snipplr
+snitch
 snoopy
 snort-mode
 snow
