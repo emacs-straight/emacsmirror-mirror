@@ -511,6 +511,7 @@ c-eldoc
 c-toggle-dot-pointer
 c0-mode
 ca2-plus
+ca65-mode
 cabledolphin
 cache
 cacoo
@@ -1147,6 +1148,7 @@ dollaro
 doneburn-theme
 doom
 doom-modeline
+doom-modeline-now-playing
 doom-themes
 door-gnus
 doremi
@@ -1331,6 +1333,7 @@ electric-operator
 electric-spacing
 elegant-agenda-mode
 elein
+elescope
 elf-mode
 elfeed
 elfeed-dashboard
@@ -1681,6 +1684,7 @@ exwm
 exwm-edit
 exwm-firefox-core
 exwm-firefox-evil
+exwm-float
 exwm-mff
 exwm-surf
 exwm-x
@@ -2029,6 +2033,7 @@ fringe-current-line
 fringe-helper
 frog-jump-buffer
 frog-menu
+frontside-javascript
 fs-mode
 fsbot-data-browser
 fscroll
@@ -2576,6 +2581,7 @@ hg-histedit
 hgignore-mode
 hgrc-mode
 hi2
+hiccup-cli
 hide-comnt
 hide-lines
 hide-mode-line
@@ -3904,6 +3910,7 @@ org-analyzer
 org-anki
 org-assoc-tags
 org-attach-screenshot
+org-auto-tangle
 org-autolist
 org-babel-eval-in-repl
 org-beautify-theme
@@ -5985,6 +5992,7 @@ yoshi-theme
 youdao-dictionary
 youtube-dl
 yql
+ytdious
 ytdl
 ytel
 z3-mode
