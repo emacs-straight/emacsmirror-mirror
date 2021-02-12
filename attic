@@ -434,7 +434,6 @@ floatbg
 fluiddb
 flycheck-demjsonlint
 flycheck-ensime
-flycheck-google-cpplint
 flycheck-mix
 flycheck-purescript
 flycheck-rebar3

@@ -75,6 +75,7 @@ activator
 activity-watch-mode
 ada-gpr
 ada-mode
+ada-ref-man
 adafruit-wisdom
 adaptive-wrap
 add-hooks
@@ -1251,6 +1252,7 @@ ede-compdb
 ede-php-autoload
 ede-php-autoload-composer-installers
 ede-php-autoload-drupal
+edebug-inline-result
 edebug-x
 edi-mode
 edice
@@ -1863,6 +1865,7 @@ flycheck-flow
 flycheck-ghcmod
 flycheck-golangci-lint
 flycheck-gometalinter
+flycheck-google-cpplint
 flycheck-gradle
 flycheck-grammalecte
 flycheck-grammarly
@@ -2108,6 +2111,7 @@ gildas-mode
 gist
 git
 git-annex
+git-assembler-mode
 git-attr
 git-auto-commit
 git-auto-commit-mode
@@ -2183,6 +2187,7 @@ gnomenm
 gnorb
 gntp
 gnu-apl-mode
+gnu-elpa
 gnu-elpa-keyring-update
 gnugo
 gnuplot
@@ -2582,6 +2587,7 @@ hgignore-mode
 hgrc-mode
 hi2
 hiccup-cli
+hiddenquote
 hide-comnt
 hide-lines
 hide-mode-line
@@ -4960,6 +4966,7 @@ share2computer
 sharper
 shelisp
 shell-command
+shell-command-plus
 shell-command-queue
 shell-completion
 shell-current-directory
@@ -5521,6 +5528,7 @@ transpose-mark
 transwin
 trashed
 travis
+tray
 tree-mode
 tree-sitter
 tree-sitter-indent
