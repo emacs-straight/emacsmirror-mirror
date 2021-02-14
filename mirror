@@ -10,6 +10,7 @@ a
 a-menu
 a2ps-multibyte
 aa-edit-mode
+aas
 abbrev-complete
 abbrev-sort
 abc-mode
@@ -802,6 +803,7 @@ constants
 constellations
 constraint
 consult
+consult-notmuch
 contentswitch
 context-coloring
 contextual
@@ -2807,6 +2809,7 @@ indy
 inertial-scroll
 inf-clojure
 inf-crystal
+inf-elixir
 inf-mongo
 inf-perl
 inf-php
@@ -3109,6 +3112,7 @@ kubernetes-tramp
 kurecolor
 kv
 kwin
+l
 lab-themes
 labburn-theme
 lacarte
@@ -3526,6 +3530,7 @@ mode-icons
 mode-line-bell
 mode-line-debug
 mode-line-frame
+mode-line-idle
 modelica-mode
 modeline-char
 modeline-posn
@@ -4959,6 +4964,7 @@ sfz-mode
 shackle
 shadchen
 shader-mode
+shades-of-purple-theme
 shadowenv
 shakespeare-mode
 shampoo
@@ -5342,6 +5348,8 @@ systemtap-mode
 sysuplist-mode
 tNFA
 ta
+tab-bar-echo-area
+tab-bar-groups
 tab-group
 tab-jump-out
 tabbar
