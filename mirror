@@ -3724,6 +3724,7 @@ nhexl-mode
 niceify-info
 niconama
 night-owl-theme
+nikki
 nikola
 nim-mode
 nimbus-theme
@@ -3804,6 +3805,7 @@ nyx-theme
 nz-holidays
 oauth
 oauth2
+oauth2-request
 ob-ammonite
 ob-applescript
 ob-async
@@ -3842,6 +3844,7 @@ ob-napkin
 ob-nim
 ob-prolog
 ob-restclient
+ob-reticulate
 ob-rust
 ob-sagemath
 ob-sml
