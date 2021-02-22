@@ -908,6 +908,7 @@ page-mode
 pair-mode
 paredit-viper-compat
 paren-glint
+parinfer
 pases
 passthword
 pastie
@@ -1125,6 +1126,7 @@ sly-company
 smallurl
 smart-snippet
 smartquotes
+snippet
 soap
 sorter
 sos

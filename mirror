@@ -419,6 +419,7 @@ block-nav
 blockdiag-mode
 blog-admin
 blog-minimal
+blox
 bluetooth
 bm
 bm-ext
@@ -1143,6 +1144,7 @@ dockerfile-mode
 docmap
 docopt
 docsetutil
+docstr
 doct
 doit-mode
 dokuwiki
@@ -1397,6 +1399,7 @@ elvish-mode
 elwm
 elx
 emacs-android
+emacs-everywhere
 emacs-init-check
 emacs-lock-plus
 emacs-speaks-nonmem
@@ -1449,6 +1452,7 @@ encourage-mode
 encrypt
 engine-mode
 enh-ruby-mode
+enlightened-theme
 enlive
 enotify
 enscript
@@ -1538,6 +1542,7 @@ eshell-z
 eslint-fix
 eslintd-fix
 esonify
+espotify
 espresso-theme
 espuds
 espy
@@ -3321,6 +3326,7 @@ maces-game
 macro-math
 macros-plus
 macrostep
+macrostep-geiser
 madhat2r-theme
 mag-menu
 magic-filetype
@@ -4146,6 +4152,7 @@ owcmd
 owdriver
 owl-functional-mode
 ox-asciidoc
+ox-bb
 ox-bibtex-chinese
 ox-clip
 ox-epub
@@ -4230,7 +4237,6 @@ paren-face
 parent-mode
 parenthesis
 parfait-mode
-parinfer
 parinfer-rust-mode
 parrot
 parse-csv
@@ -4724,6 +4730,7 @@ rect-mark
 rectangle-utils
 recursion-indicator
 recursive-narrow
+reddigg
 reddit-mode
 redis
 redo-plus
@@ -5044,6 +5051,7 @@ sisu-mode
 ska-skel-matlab
 skeleton-complete
 skeletor
+sketch-themes
 skewer-less
 skewer-mode
 skewer-reload-stylesheets
@@ -5129,7 +5137,6 @@ snakemake-mode
 snapshot-timemachine
 snapshot-timemachine-rsnapshot
 snazzy-theme
-snippet
 snipplr
 snitch
 snoopy
@@ -5352,6 +5359,7 @@ tNFA
 ta
 tab-bar-echo-area
 tab-bar-groups
+tab-bar-lost-commands
 tab-group
 tab-jump-out
 tabbar
@@ -5542,6 +5550,7 @@ tray
 tree-mode
 tree-sitter
 tree-sitter-indent
+tree-sitter-langs
 treefactor
 treemacs
 treepy
