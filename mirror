@@ -173,6 +173,7 @@ aozora-view
 apache-mode
 apdl-mode
 apel
+apheleia
 apib-mode
 apiwrap
 apparmor-mode
@@ -212,6 +213,7 @@ astyle
 asx
 async
 async-await
+async-completing-read
 async-eval
 atcoder-tools
 atim-unscroll
@@ -789,6 +791,7 @@ compile-
 compile-bookmarks
 compile-dwim
 compiler-explorer
+completing-history
 completions-frame
 composable
 composer
@@ -1049,6 +1052,7 @@ dimmer
 dionysos
 dir-treeview
 dircmp
+director
 dired-plus
 dired-atool
 dired-column-widths
@@ -1193,6 +1197,7 @@ duck
 ducpel
 dumb-diff
 dumb-jump
+dumbparens
 dummyparens
 dune
 duplicate-thing
@@ -1463,6 +1468,7 @@ eopengrok
 epackage
 epc
 epic
+epithet
 epkg
 epl
 epm
@@ -2105,6 +2111,7 @@ ggo-mode
 ggtags
 gh
 gh-md
+gh-notify
 ghc-imported-from
 ghci-completion
 gherkin-mode
@@ -3240,6 +3247,7 @@ literate-coffee-mode
 literate-elisp
 literate-starter-kit
 live-code-talks
+live-completions
 live-preview
 live-py-mode
 lively
@@ -3422,6 +3430,7 @@ masm-mode
 masquerade-mode
 mastodon
 material-theme
+math-delimiters
 math-preview
 math-symbol-lists
 math-symbols
@@ -4379,6 +4388,7 @@ pixie-mode
 pixiv-novel-mode
 pkg-info
 pkgbuild-mode
+placeholder
 plain-org-wiki
 plain-theme
 plan9-theme
@@ -4780,6 +4790,7 @@ resize-window
 restart-emacs
 restclient
 restclient-test
+restricto
 retrie
 revbufs
 reveal-in-folder
@@ -5710,6 +5721,7 @@ vdirel
 vdm-mode
 vector-utils
 vega-view
+velocity
 verb
 veri-kompass
 verify-url
