@@ -543,6 +543,7 @@ capture
 carbon-now-sh
 cargo
 caroline-theme
+cascading-dir-locals
 caseformat
 cask
 cask-mode
@@ -757,6 +758,7 @@ company-ghci
 company-glsl
 company-go
 company-inf-ruby
+company-ipa
 company-irony
 company-irony-c-headers
 company-jedi
@@ -3294,6 +3296,7 @@ lsdb
 lsp-dart
 lsp-docker
 lsp-focus
+lsp-grammarly
 lsp-haskell
 lsp-intellij
 lsp-ivy
