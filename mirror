@@ -1013,6 +1013,7 @@ describe-hash
 describe-number
 desktop-plus
 desktop-environment
+desktop-mail-user-agent
 desktop-registry
 detour
 devdocs
@@ -3205,6 +3206,7 @@ lice
 license-snippets
 license-templates
 light-soap-theme
+ligo-mode
 lilypond
 lilypond-hook
 line-comment-banner
@@ -3813,6 +3815,7 @@ number
 number-lock
 numbers
 nummm-mode
+numpydoc
 numwin
 nv-delete-back
 nvm
