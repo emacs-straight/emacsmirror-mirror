@@ -576,6 +576,7 @@ ceylon-mode
 cfengine-code-style
 cff
 cfml-mode
+cfn-mode
 cframe
 cfrs
 cg
@@ -763,7 +764,6 @@ company-irony
 company-irony-c-headers
 company-jedi
 company-ledger
-company-lsp
 company-lua
 company-manually
 company-math
@@ -916,6 +916,8 @@ curl
 curl-to-elisp
 currency-convert
 current-story
+current-word-highlight
+curry-on-theme
 cursor-chg
 cursor-test
 cus-edit-plus
@@ -1040,6 +1042,7 @@ diff-git
 diff-hl
 diff-mode-
 difflib
+diffpdf
 diffscuss-mode
 diffstat
 diffview
@@ -1909,7 +1912,6 @@ flycheck-objc-clang
 flycheck-ocaml
 flycheck-package
 flycheck-pact
-flycheck-perl6
 flycheck-pkg-config
 flycheck-plantuml
 flycheck-pony
@@ -1921,6 +1923,7 @@ flycheck-prospector
 flycheck-pycheckers
 flycheck-pyflakes
 flycheck-pyre
+flycheck-raku
 flycheck-relint
 flycheck-rust
 flycheck-status-emoji
@@ -3043,6 +3046,7 @@ jump-tree
 jumpc
 jumplist
 jupyter
+just-mode
 jvm-mode
 k8s-mode
 kaesar
@@ -3087,6 +3091,7 @@ keypression
 keyset
 keystore-mode
 keyswap
+keytar
 keyword-arg-macros
 keyword-search
 kfg
@@ -3128,6 +3133,7 @@ kurecolor
 kv
 kwin
 l
+laas
 lab-themes
 labburn-theme
 lacarte
@@ -3168,6 +3174,7 @@ lcomp
 lcr
 leaf
 leaf-convert
+leaf-defaults
 leaf-keywords
 leaf-manager
 leaf-tree
@@ -3943,6 +3950,7 @@ org-agenda-property
 org-alert
 org-analyzer
 org-anki
+org-appear
 org-assoc-tags
 org-attach-screenshot
 org-auto-tangle
@@ -4460,6 +4468,7 @@ pop-mode
 popbiff
 pophint
 poporg
+popper
 popup
 popup-plus
 popup-complete
@@ -4956,6 +4965,7 @@ secretaria
 sed-mode
 see-mode
 seeing-is-believing
+seen-mode
 seethru
 sekka
 select-themes
@@ -4972,6 +4982,7 @@ sentence-navigation
 seognil
 seoul256-theme
 separedit
+sequed
 sequence
 sequences
 sequential-command
@@ -4983,6 +4994,7 @@ session
 seti-theme
 setnu
 setnu-plus
+setup
 sexp-diff
 sexp-move
 sexy-monochrome-theme
@@ -5788,6 +5800,7 @@ vtm
 vue-html-mode
 vue-mode
 vuiet
+vulpea
 vyper-mode
 w3
 w32-browser

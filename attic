@@ -188,6 +188,7 @@ commit-patch-buffer
 common-directory
 company-edbi
 company-ghc
+company-lsp
 company-org-roam
 company-racer
 company-tern
