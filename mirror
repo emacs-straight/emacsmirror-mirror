@@ -1211,7 +1211,7 @@ dut-mode
 dvorak-mode
 dw
 dyalog-mode
-dylan-mode
+dylan
 dynamic-fonts
 dynamic-graphs
 dynamic-ring
@@ -2102,6 +2102,7 @@ geeknote
 geiser
 geiser-gauche
 geiser-kawa
+geiser-mit
 gemini-mode
 general
 generic-edit-special
@@ -4033,6 +4034,7 @@ org-multi-wiki
 org-nan
 org-notebook
 org-noter
+org-notifications
 org-octopress
 org-onenote
 org-outline-numbering
@@ -4814,6 +4816,7 @@ reveal-next
 revealjs-mode
 reverse-im
 reverse-theme
+revert-buffer-all
 review
 review-mode
 rewrite
@@ -5315,6 +5318,7 @@ subemacs
 sublime-themes
 sublimity
 subr-plus
+subsonic
 sudden-death
 sudo-edit
 sudo-ext
@@ -5477,6 +5481,7 @@ textsnip
 textx-mode
 tf2-conf-mode
 tfsmacs
+theme-anchor
 theme-changer
 theme-helper
 theme-looper
@@ -5948,6 +5953,7 @@ wtf
 wttrin
 wubi
 wucuo
+wwg
 wwtime
 www-synonyms
 x-face-magic
