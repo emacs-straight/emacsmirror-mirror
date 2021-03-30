@@ -810,6 +810,7 @@ constellations
 constraint
 consult
 consult-notmuch
+consult-recoll
 contentswitch
 context-coloring
 contextual
@@ -2103,6 +2104,7 @@ geiser
 geiser-gauche
 geiser-kawa
 geiser-mit
+geiser-racket
 gemini-mode
 general
 generic-edit-special
@@ -3571,6 +3573,7 @@ modus-themes
 moe-theme
 mogo
 moikrug
+molar-mass
 molecule
 molokai-theme
 moneylog
@@ -3810,6 +3813,7 @@ npm-mode
 nrepl-eval-sexp-fu
 nrepl-sync
 nreplxmp
+nroam
 ns-auto-titlebar
 nsis-mode
 nswbuff
@@ -4830,6 +4834,7 @@ rich-minority
 riece
 right-click-context
 rigid-tabs
+rii
 rijndael
 rime
 rimero-theme
@@ -5293,6 +5298,7 @@ stgit
 stickies
 sticky
 stickyfunc-enhance
+stimmung-themes
 stock-ticker
 stock-tracker
 strace-mode
@@ -6097,6 +6103,7 @@ zoom-frm
 zoom-window
 zop-to-char
 zotelo
+zotero
 zotxt
 zoutline
 zpl-mode
