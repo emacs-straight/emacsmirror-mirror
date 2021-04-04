@@ -91,6 +91,7 @@ aes
 afternoon-theme
 ag
 agda2-mode
+aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
 agtags
@@ -2101,7 +2102,12 @@ geben
 geben-helm-projectile
 geeknote
 geiser
+geiser-chez
+geiser-chibi
+geiser-chicken
+geiser-gambit
 geiser-gauche
+geiser-guile
 geiser-kawa
 geiser-mit
 geiser-racket
@@ -5168,6 +5174,7 @@ smooth-scrolling
 smotitah
 sms
 smtpmail-multi
+smudge
 smyx-theme
 snails
 snakemake-mode
@@ -5922,6 +5929,7 @@ winum
 wipe
 wisi
 wisitoken-grammar-mode
+wisp-mode
 wispjs-mode
 with-editor
 with-emacs
