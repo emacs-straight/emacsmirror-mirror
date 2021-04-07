@@ -390,6 +390,7 @@ biblio-bibsonomy
 bibliothek
 bibretrieve
 bibslurp
+bibtex-actions
 bibtex-completion
 bibtex-utils
 bibus
@@ -1954,6 +1955,7 @@ flymake-easy
 flymake-elixir
 flymake-eslint
 flymake-extension
+flymake-flycheck
 flymake-for-csharp
 flymake-gjshint
 flymake-go
@@ -5181,6 +5183,7 @@ snakemake-mode
 snapshot-timemachine
 snapshot-timemachine-rsnapshot
 snazzy-theme
+sniem
 snipplr
 snitch
 snoopy
