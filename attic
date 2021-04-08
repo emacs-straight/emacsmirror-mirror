@@ -441,6 +441,7 @@ flycheck-rebar3
 flycheck-scala-sbt
 flycheck-soar
 flycheck-stack
+flycheck-typescript-tslint
 flymake-cppcheck
 flymake-google-cpplint
 flyspell-babel
