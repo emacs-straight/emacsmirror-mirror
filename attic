@@ -68,8 +68,10 @@ autocap
 autocue
 autolisp
 automargin
+autopair
 aux-renum
 axcess
+background
 backup
 backup-dir
 baidu-life
@@ -330,6 +332,7 @@ ejab
 ejacs
 el-pocket
 el-tools
+el-x
 el4r
 elang
 eldav
@@ -380,6 +383,7 @@ ept
 equinox
 erc-extra-commands
 erc-hipchatify
+erc-status-sidebar
 erlang-dired-mode
 erp
 escreen
@@ -738,6 +742,7 @@ lunar-mode-line
 m56k
 mac-key-mode
 magit-commit-training-wheels
+magit-gh-pulls
 magit-identities
 magit-log-edit
 magit-push-remote
@@ -836,6 +841,7 @@ netrexx-mode
 new-subdirs-el
 news-hack
 nf-procmail-mode
+nm
 nmap
 nmodl
 nnir-grepmail
@@ -892,6 +898,7 @@ org-osm-link
 org-password-manager
 org-pdfview
 org-pua
+org-s5
 org-site
 org-taskforecast
 org-website
@@ -1104,6 +1111,7 @@ sfst
 sgml-id
 sh-autoconf
 sh-proxy
+shell-command
 shell-plus
 shellfm
 shift-lock
@@ -1121,6 +1129,7 @@ signature
 simple-server
 simplemerge
 skip-initial-comments
+skip-sexp
 slamhound
 slashdot
 slime-ritz
@@ -1163,6 +1172,7 @@ studlycaps
 stufe
 sublime
 subtitles
+sudden-death
 suggbind
 summarye
 super-fold
@@ -1228,7 +1238,6 @@ timecard
 timestamp
 tint-instances
 tipshare
-tj-mode
 tla-mode
 tld
 tm-vcard

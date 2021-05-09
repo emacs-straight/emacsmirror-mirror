@@ -236,6 +236,8 @@ aumix-mode
 aurel
 aurora-config-mode
 aurquery
+auth-source-keytar
+auth-source-kwallet
 auth-source-xoauth2
 auto-async-byte-compile
 auto-auto-indent
@@ -294,7 +296,6 @@ autodisass-llvm-bitcode
 autofit-frame
 autoinfo
 autoload-plus
-autopair
 autosmiley
 autotest
 autotetris-mode
@@ -321,7 +322,6 @@ ayu-theme
 babel
 babel-repl
 back-button
-background
 backlight
 backline
 backup-each-save
@@ -599,6 +599,7 @@ chee
 cheerilee
 cheezburger
 chef-mode
+chembalance
 cherry-blossom-theme
 chess
 chicken-scheme-extras
@@ -811,6 +812,7 @@ constants
 constellations
 constraint
 consult
+consult-lsp
 consult-notmuch
 consult-recoll
 contentswitch
@@ -826,6 +828,7 @@ copyit
 copyright-both-ends
 coq-commenter
 corba
+corfu
 coroutine
 corral
 cort
@@ -843,6 +846,7 @@ counsel-fd
 counsel-ffdata
 counsel-gtags
 counsel-jq
+counsel-mairix
 counsel-notmuch
 counsel-org-capture-string
 counsel-org-clock
@@ -859,6 +863,7 @@ counter
 cov
 coverage
 coverlay
+cowsay
 cp5022x
 cpanfile-mode
 cpio-mode
@@ -1097,6 +1102,7 @@ dired-sync
 dired-toggle
 dired-toggle-sudo
 dired-view
+dired-view-data
 dired-xattr
 diredc
 diredfl
@@ -1189,6 +1195,7 @@ dr-racket-like-unicode
 dracula-theme
 draft-mode
 drag-stuff
+dream-theme
 drill-instructor
 drill-instructor-AZIK-force
 drone
@@ -1209,6 +1216,7 @@ dumb-jump
 dumbparens
 dummyparens
 dune
+dune-format
 duplicate-thing
 dut-mode
 dvorak-mode
@@ -1220,6 +1228,7 @@ dynamic-graphs
 dynamic-ring
 dynamic-ruler
 dynamic-spaces
+dyncloze
 e2ansi
 e2wm
 e2wm-bookmark
@@ -1333,7 +1342,6 @@ el-spice
 el-sprunge
 el-spy
 el-swank-fuzzy
-el-x
 el2markdown
 el2org
 elbank
@@ -1348,6 +1356,7 @@ eldoc-eval
 eldoc-extension
 eldoc-overlay
 electric-case
+electric-cursor
 electric-dot-and-dash
 electric-operator
 electric-spacing
@@ -1504,7 +1513,6 @@ erc-nick-notify
 erc-robot
 erc-scrolltoplace
 erc-social-graph
-erc-status-sidebar
 erc-terminal-notifier
 erc-tex
 erc-track-score
@@ -1779,6 +1787,7 @@ filemenu
 files-plus
 filesets-plus
 filetags
+filetree
 fill-column-indicator
 fill-function-arguments
 fill-page
@@ -2113,6 +2122,7 @@ geiser-guile
 geiser-kawa
 geiser-mit
 geiser-racket
+geiser-stklos
 gemini-mode
 general
 generic-edit-special
@@ -2671,6 +2681,7 @@ hl-defined
 hl-fill-column
 hl-indent
 hl-line-plus
+hl-prog-extra
 hl-sentence
 hl-spotlight
 hl-tags-mode
@@ -3371,7 +3382,6 @@ magit-diff-flycheck
 magit-filenotify
 magit-find-file
 magit-gerrit
-magit-gh-pulls
 magit-gitflow
 magit-imerge
 magit-lfs
@@ -3772,13 +3782,13 @@ nix-buffer
 nix-env-install
 nix-haskell-mode
 nix-mode
+nix-modeline
 nix-update
 nixos-options
 nixpkgs-fmt
 nlinum
 nlinum-hl
 nlinum-relative
-nm
 nmcobol-mode
 nndiscourse
 nnhackernews
@@ -3873,6 +3883,7 @@ ob-html-chrome
 ob-http
 ob-hy
 ob-ipython
+ob-julia-vterm
 ob-kotlin
 ob-latex-as-png
 ob-lfe
@@ -3947,6 +3958,7 @@ open-related-file
 opencc
 opencl-mode
 opener
+openfoam
 openpaste
 opensource
 openssl-cipher
@@ -3986,6 +3998,7 @@ org-clock-split
 org-clock-today
 org-commentary
 org-context
+org-contrib
 org-cua-dwim
 org-d20
 org-dashboard
@@ -4085,7 +4098,6 @@ org-roam-bibtex
 org-roam-server
 org-rtm
 org-runbook
-org-s5
 org-scrum
 org-search-goto
 org-search-goto-ml
@@ -4621,7 +4633,8 @@ pyenv-mode-auto
 pygen
 pyim
 pyim-basedict
-pyim-cangjie5dict
+pyim-cangjiedict
+pyim-smzmdict
 pyim-wbdict
 pyimport
 pyimpsort
@@ -4701,6 +4714,7 @@ rats
 rb
 rbenv
 rbit
+rbs-mode
 rbt
 rbtagger
 rc-mode
@@ -4814,6 +4828,7 @@ request
 require-or-install
 requirejs
 requirejs-mode
+rescript-mode
 resize-window
 restart-emacs
 restclient
@@ -5024,7 +5039,6 @@ shampoo
 share2computer
 sharper
 shelisp
-shell-command
 shell-command-plus
 shell-command-queue
 shell-completion
@@ -5100,7 +5114,6 @@ skewer-less
 skewer-mode
 skewer-reload-stylesheets
 skinny
-skip-sexp
 skype
 sl
 slack
@@ -5261,6 +5274,7 @@ spu
 sql-beeline
 sql-clickhouse
 sql-completion
+sql-indent
 sql-impala
 sql-indent
 sql-presto
@@ -5334,7 +5348,6 @@ sublime-themes
 sublimity
 subr-plus
 subsonic
-sudden-death
 sudo-edit
 sudo-ext
 sudo-save
@@ -5363,6 +5376,7 @@ swallow-window
 swap-buffers
 swap-regions
 swarmhacker
+sway
 sweet-theme
 sweetgreen
 swift-helpful
