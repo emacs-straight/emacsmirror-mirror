@@ -765,6 +765,7 @@ man-preview
 map-win
 maplev
 markdown-edit-indirect
+markdown-mode-plus
 marker-visit
 mathematica
 matrix-client
@@ -960,6 +961,7 @@ plugin
 plunger
 pocketcompletion
 point-ring
+pointback
 pom
 popup-menu
 post

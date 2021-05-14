@@ -348,7 +348,7 @@ basic-theme
 batch-mode
 bats-mode
 battle-haxe
-bazel-mode
+bazel
 bbcode
 bbcode-mode
 bbdb
@@ -3447,7 +3447,6 @@ mark-tools
 markchars
 markdown-changelog
 markdown-mode
-markdown-mode-plus
 markdown-preview-eww
 markdown-preview-mode
 markdown-toc
@@ -4165,6 +4164,7 @@ origami
 origami-predef
 ormolu
 orthodox
+orthodox-christian-new-calendar-holidays
 orwell
 osa
 osa-chrome
@@ -4467,7 +4467,6 @@ poetry
 point-pos
 point-stack
 point-undo
-pointback
 poke-line
 poker
 policy-switch
@@ -4653,6 +4652,7 @@ python-django
 python-docstring
 python-environment
 python-info
+python-isort
 python-mode
 python-pep8
 python-pylint
@@ -5395,6 +5395,7 @@ sx
 sxiv
 symbol-navigation-hydra
 symbol-overlay
+symbolist
 symbols-mode
 symbolword-mode
 symex
@@ -5886,6 +5887,7 @@ web-server
 webfeeder
 webgen-mode
 webkit-color-picker
+weblio
 weblogger
 weblorg
 webpaste
