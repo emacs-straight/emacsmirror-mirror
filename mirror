@@ -88,6 +88,7 @@ adoc-mode
 adv-random-sig
 advice-patch
 aes
+affe
 afternoon-theme
 ag
 agda2-mode
@@ -333,7 +334,6 @@ badwolf-theme
 baff
 baidu-translate
 balanced-windows
-bang
 banner-comment
 bap-mode
 bar-cursor
@@ -347,6 +347,7 @@ basic-mode
 basic-theme
 batch-mode
 bats-mode
+battery-notifier
 battle-haxe
 bazel
 bbcode
@@ -812,6 +813,7 @@ constants
 constellations
 constraint
 consult
+consult-flycheck
 consult-lsp
 consult-notmuch
 consult-recoll
@@ -1228,6 +1230,7 @@ dynamic-graphs
 dynamic-ring
 dynamic-ruler
 dynamic-spaces
+dynaring
 dyncloze
 e2ansi
 e2wm
@@ -1370,6 +1373,7 @@ elfeed-goodies
 elfeed-org
 elfeed-protocol
 elfeed-score
+elforth
 elgrep
 elhome
 elisp-benchmarks
@@ -2257,7 +2261,6 @@ gnuslog
 go
 go-add-tags
 go-autocomplete
-go-capf
 go-complete
 go-direx
 go-dlv
@@ -2337,6 +2340,7 @@ grandshell-theme
 graphene
 graphene-meta-theme
 graphql
+graphql-doc
 graphql-mode
 graphviz-dot
 graphviz-dot-mode
@@ -2915,6 +2919,7 @@ isea
 isearch-plus
 isearch-dabbrev
 isearch-extension
+isearch-mb
 isearch-project
 isearch-prop
 isearch-symbol-at-point
@@ -3345,6 +3350,7 @@ lsp-pascal
 lsp-pyre
 lsp-pyright
 lsp-python-ms
+lsp-rescript
 lsp-sonarlint
 lsp-sourcekit
 lsp-tailwindcss
@@ -3560,6 +3566,7 @@ mixed-pitch
 mk-project
 mkdown
 mks
+mlscroll
 mm2mw
 mmm-jinja2
 mmm-mode
@@ -4020,6 +4027,7 @@ org-emms
 org-evil
 org-fancy-priorities
 org-fragtog
+org-gamedb
 org-gcal
 org-generate
 org-global-insert-link
@@ -4358,6 +4366,7 @@ persistent-scratch
 persistent-soft
 persp-fr
 persp-mode
+persp-mode-project-bridge
 persp-mode-projectile-bridge
 persp-projectile
 perspective
@@ -4743,6 +4752,7 @@ re-builder-plus
 react-snippets
 read-aloud
 read-char-spec
+read-only-cfg
 readline-complete
 real-auto-save
 realgud
@@ -5132,7 +5142,7 @@ slirm
 slovak-holidays
 slow-keys
 slstats
-slurm
+slurm-mode
 slurp
 sly
 sly-asdf
@@ -5179,6 +5189,7 @@ smblog
 smeargle
 smex
 smiles-mode
+sml-basis
 sml-mode
 sml-modeline
 smmry
