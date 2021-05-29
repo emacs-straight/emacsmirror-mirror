@@ -441,6 +441,7 @@ bookem
 bookiez
 bookmark-plus
 bookmark-add
+bookmark-view
 bool-flip
 boon
 borg
@@ -3541,6 +3542,7 @@ mingus
 mini-frame
 mini-header-line
 mini-modeline
+mini-popup
 minibuf-isearch
 minibuffer-complete-cycle
 minibuffer-cua
@@ -4491,6 +4493,7 @@ poly-ruby
 poly-slim
 poly-wdl
 polymode
+polyp
 pomidor
 pomodoro
 pony-mode
@@ -5677,6 +5680,7 @@ typo-suggest
 typopunct
 typoscript-mode
 ubuntu-theme
+uchronia
 ucs-cmds
 ucs-utils
 udev-mode
