@@ -109,6 +109,7 @@ alarm-clock
 alchemist
 alda-mode
 alect-themes
+alectryon
 alert
 alert-termux
 algorithms
@@ -480,6 +481,7 @@ buckwalter
 buff-menu-plus
 buffer-action
 buffer-buttons
+buffer-env
 buffer-expose
 buffer-flip
 buffer-manage
@@ -517,6 +519,7 @@ buttons
 bytecomp-simplify
 c-c-combo
 c-eldoc
+c-eval
 c-toggle-dot-pointer
 c0-mode
 ca2-plus
@@ -546,6 +549,7 @@ captain
 capture
 carbon-now-sh
 cargo
+cargo-mode
 caroline-theme
 cascading-dir-locals
 caseformat
@@ -774,6 +778,7 @@ company-manually
 company-math
 company-nginx
 company-ngram
+company-org-block
 company-plisp
 company-plsense
 company-posframe
@@ -815,6 +820,7 @@ constellations
 constraint
 consult
 consult-flycheck
+consult-ghq
 consult-lsp
 consult-notmuch
 consult-recoll
@@ -879,6 +885,7 @@ cql-mode
 cquery
 crappy-jsp-mode
 creamsody-theme
+create-link
 creds
 creole
 creole-mode
@@ -1030,6 +1037,7 @@ desktop-mail-user-agent
 desktop-registry
 detour
 devdocs
+devdocs-browser
 devel-notes
 df-mode
 dfmt
@@ -1369,6 +1377,7 @@ elein
 elescope
 elf-mode
 elfeed
+elfeed-autotag
 elfeed-dashboard
 elfeed-goodies
 elfeed-org
@@ -1918,6 +1927,7 @@ flycheck-jest
 flycheck-joker
 flycheck-julia
 flycheck-kotlin
+flycheck-languagetool
 flycheck-ledger
 flycheck-lilypond
 flycheck-liquidhs
@@ -3175,6 +3185,7 @@ landmark
 lang-refactor-perl
 langdoc
 langtool
+langtool-ignore-fonts
 language-detection
 language-id
 languagetool
@@ -3262,6 +3273,7 @@ linum-off
 linum-relative
 linum-relativenumber
 liquid-types
+liquidmetal
 liso-theme
 lisp-butt-mode
 lisp-editing
@@ -3325,6 +3337,7 @@ look-mode
 lookup
 loop
 loops
+loopy
 lorem-ipsum
 lox-mode
 lpy
@@ -3342,6 +3355,7 @@ lsp-javacomp
 lsp-jedi
 lsp-julia
 lsp-latex
+lsp-ltex
 lsp-metals
 lsp-mode
 lsp-mssql
@@ -3363,6 +3377,7 @@ lua-mode
 luarocks
 lush-theme
 lusty-explorer
+lux-mode
 lxc
 lxc-tramp
 lxd-tramp
@@ -4238,7 +4253,6 @@ ox-reveal
 ox-rfc
 ox-rst
 ox-slack
-ox-slimhtml
 ox-spectacle
 ox-ssh
 ox-textile
@@ -4260,6 +4274,7 @@ package-demo
 package-filter
 package-fixes
 package-lint
+package-loading-notifier
 package-safe-delete
 package-store
 package-utils
@@ -4997,6 +5012,7 @@ scrollable-quick-peek
 scrollkeeper
 scrooge
 scss-mode
+sculpture-themes
 sdcv
 sdlang-mode
 search-prop
@@ -5192,6 +5208,7 @@ smblog
 smeargle
 smex
 smiles-mode
+smithers
 sml-basis
 sml-mode
 sml-modeline
@@ -5560,6 +5577,7 @@ timesheet
 timid
 timonier
 timp
+timu-spacegrey-theme
 tinkerer
 tiny
 tiny-menu
@@ -6150,6 +6168,7 @@ zotxt
 zoutline
 zpl-mode
 zpresent
+zprint-format
 zprint-mode
 ztree
 zweilight-theme
