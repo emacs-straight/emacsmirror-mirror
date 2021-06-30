@@ -639,6 +639,7 @@ circleci-api
 cisco-router-mode
 citeproc
 citeproc-org
+citre
 cl-format
 cl-lib-highlight
 cl-libify
@@ -653,6 +654,7 @@ clean-aindent-mode
 clean-buffers
 clear-text
 clevercss
+clhs
 clibpc
 click-mode
 clip2org
@@ -1997,6 +1999,7 @@ flymake-jslint
 flymake-json
 flymake-kondor
 flymake-ktlint
+flymake-languagetool
 flymake-less
 flymake-lua
 flymake-nasm
@@ -2009,7 +2012,6 @@ flymake-python-pyflakes
 flymake-quickdef
 flymake-racket
 flymake-ruby
-flymake-rust
 flymake-sass
 flymake-shell
 flymake-shellcheck
@@ -3925,6 +3927,7 @@ ob-sml
 ob-sql-mode
 ob-svgbob
 ob-swift
+ob-swiftui
 ob-tmux
 ob-translate
 ob-typescript
@@ -3951,6 +3954,7 @@ offlineimap
 oggel
 ogi
 oj
+ol-notmuch
 olc
 old-fashioned-undo
 old-norse-input
@@ -4584,6 +4588,7 @@ project
 project-abbrev
 project-explorer
 project-local-variables
+project-mode-line-tag
 project-persist
 project-persist-drawer
 project-root
@@ -5079,6 +5084,7 @@ shell-quasiquote
 shell-split-string
 shell-switcher
 shell-toggle
+shellcop
 shelldoc
 shelltest-mode
 shen-elisp
@@ -5108,6 +5114,7 @@ shut-up
 shx
 sibilant-mode
 sicp
+side-hustle
 side-notes
 sie
 sierotki
@@ -5699,6 +5706,7 @@ typopunct
 typoscript-mode
 ubuntu-theme
 uchronia
+uci-mode
 ucs-cmds
 ucs-utils
 udev-mode

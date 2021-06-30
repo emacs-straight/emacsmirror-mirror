@@ -164,7 +164,6 @@ claire-mode
 clay-mode
 cldoc
 clearcase
-clhs
 climdoc
 clipper
 clojure-cheatsheet
@@ -448,6 +447,7 @@ flycheck-stack
 flycheck-typescript-tslint
 flymake-cppcheck
 flymake-google-cpplint
+flymake-rust
 flyspell-babel
 flyspell-textcat
 flyspell-timer
