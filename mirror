@@ -2747,6 +2747,7 @@ http-post-simple
 http-twiddle
 httpcode
 httprepl
+huecycle
 hugsql-ghosts
 humanoid-themes
 hungarian-holidays
@@ -4267,6 +4268,7 @@ ox-tufte
 ox-twbs
 ox-twiki
 ox-wk
+ox-yaow
 ox-zenn
 p4
 pabbrev
@@ -4663,6 +4665,7 @@ pydoc
 pyenv-mode
 pyenv-mode-auto
 pygen
+pygn-mode
 pyim
 pyim-basedict
 pyim-cangjiedict
@@ -6176,6 +6179,7 @@ zotelo
 zotero
 zotxt
 zoutline
+zoxide
 zpl-mode
 zpresent
 zprint-format
