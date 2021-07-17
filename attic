@@ -55,6 +55,7 @@ atom-api
 atom-blogger
 atom-syndication
 augment
+aurquery
 auto-arg-mode
 auto-complete-acr
 auto-define
@@ -160,6 +161,7 @@ circle
 cite
 cl-array
 cl-info
+cl-lib-highlight
 claire-mode
 clay-mode
 cldoc
@@ -500,6 +502,7 @@ gimps-report
 git-commit-training-wheels-mode
 git-show
 git-time-machine
+githorg
 github
 github-api-v3
 github-issues
@@ -1000,6 +1003,7 @@ qa
 qda
 qemu
 qiita
+ql
 qmake
 qpdecode
 qs
@@ -1296,6 +1300,7 @@ ushell
 usql
 utf-8m
 variant-abbc
+vc-browse
 vc-mks
 vel
 verbiste

@@ -238,7 +238,6 @@ audio-notes-mode
 aumix-mode
 aurel
 aurora-config-mode
-aurquery
 auth-source-keytar
 auth-source-kwallet
 auth-source-xoauth2
@@ -607,6 +606,7 @@ cheerilee
 cheezburger
 chef-mode
 chembalance
+chemtable
 cherry-blossom-theme
 chess
 chicken-scheme-extras
@@ -642,7 +642,6 @@ citeproc
 citeproc-org
 citre
 cl-format
-cl-lib-highlight
 cl-libify
 cl-merge
 cl-print
@@ -2202,7 +2201,6 @@ git-walktree
 git-wip-timemachine
 gitconfig
 gited
-githorg
 github-browse-file
 github-clone
 github-elpa
@@ -4700,7 +4698,6 @@ pythonic
 pyvenv
 q-mode
 qa-mode
-ql
 qml-mode
 qooxdoo
 qt-pro-mode
@@ -5798,7 +5795,6 @@ vbs-repl
 vc-plus
 vc-
 vc-auto-commit
-vc-browse
 vc-check-status
 vc-darcs
 vc-defer
