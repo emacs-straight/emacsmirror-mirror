@@ -544,6 +544,7 @@ camcorder
 caml
 campfire
 cangjie
+capnp-mode
 caps-lock
 captain
 capture
@@ -813,7 +814,6 @@ comware-router-mode
 conda
 config-general-mode
 config-parser
-confluence
 conkeror-minor-mode
 conllu-mode
 constant-theme
@@ -1336,7 +1336,6 @@ eim
 eimap
 eimp
 ein
-ein-mumamo
 eink-theme
 ejc-sql
 ejson-mode
@@ -3326,6 +3325,7 @@ log4e
 log4j-mode
 logalimacs
 logito
+logms
 lognav-mode
 logpad
 logstash-conf
@@ -3873,7 +3873,6 @@ numpydoc
 numwin
 nv-delete-back
 nvm
-nxhtml
 nyan-mode
 nyan-prompt
 nyx-theme

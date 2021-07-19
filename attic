@@ -202,6 +202,7 @@ compilation-weblint
 compile-command-default
 completing-help
 completion-ignored-build
+confluence
 conjecture-mode
 connectivity
 conspire
@@ -329,6 +330,7 @@ egocentric
 eicq
 eiffel
 eijiro
+ein-mumamo
 ejab
 ejacs
 el-pocket
@@ -867,6 +869,7 @@ ns-platform-support
 nterm
 numbered-outline
 nummove
+nxhtml
 o-blog
 o-journal
 ob-pygment
