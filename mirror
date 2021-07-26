@@ -762,6 +762,7 @@ company-dcd
 company-dict
 company-ebdb
 company-emoji
+company-emojify
 company-erlang
 company-ess
 company-flow
@@ -939,6 +940,7 @@ current-story
 current-word-highlight
 curry-on-theme
 cursor-chg
+cursor-flash
 cursor-test
 cus-edit-plus
 cwl-mode
@@ -3241,6 +3243,7 @@ levenshtein
 lex
 lexbind-mode
 lexic
+lf
 lfe-mode
 lib-requires
 libbcel
