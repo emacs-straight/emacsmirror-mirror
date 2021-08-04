@@ -1506,6 +1506,7 @@ epic
 eping
 epithet
 epkg
+epkg-marginalia
 epl
 epm
 epoch-view
@@ -2719,6 +2720,7 @@ hook-helpers
 hookify
 horizon-theme
 horoscope
+hotfuzz
 hound
 hover
 howdoi
@@ -3845,10 +3847,13 @@ nord-theme
 northcode-theme
 notes-mode
 nothing-theme
+notink-theme
 notmuch
+notmuch-addr
 notmuch-bookmarks
 notmuch-labeler
 notmuch-maildir
+notmuch-transient
 nov
 nova-theme
 novice-plus
@@ -4956,6 +4961,7 @@ rust-mode
 rust-playground
 rustfmt
 rustic
+rutils
 rvm
 ryo-modal
 s
