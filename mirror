@@ -119,6 +119,7 @@ align-cljlet
 all
 all-ext
 all-the-icons
+all-the-icons-completion
 all-the-icons-dired
 all-the-icons-gnus
 all-the-icons-ibuffer
@@ -1415,6 +1416,7 @@ elnode
 elog
 elogcat
 eloud
+elpa-admin
 elpa-audit
 elpa-clone
 elpa-deploy
@@ -2094,6 +2096,7 @@ fscroll
 fsharp-mode
 fsm
 fstar-mode
+ftable
 fuel
 fuff
 full-ack
@@ -4464,6 +4467,7 @@ pippel
 pixie-mode
 pixiv-novel-mode
 pkg-info
+pkg-overview
 pkgbuild-mode
 placeholder
 plain-org-wiki
@@ -5686,6 +5690,7 @@ tsv-mode
 tt-mode
 ttl-mode
 tuareg
+tubestatus
 tumbl
 tumble
 tumblesocks
