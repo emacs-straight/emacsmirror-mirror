@@ -823,6 +823,7 @@ constants
 constellations
 constraint
 consult
+consult-dir
 consult-flycheck
 consult-ghq
 consult-lsp
@@ -1323,6 +1324,7 @@ edts
 edwina
 ee
 eev
+efar
 efire
 eg
 egalgo
@@ -1699,6 +1701,7 @@ evil-textobj-column
 evil-textobj-entire
 evil-textobj-line
 evil-textobj-syntax
+evil-textobj-treesitter
 evil-traces
 evil-tutor
 evil-tutor-ja
@@ -1764,6 +1767,7 @@ fancy-battery
 fancy-dabbrev
 fancy-narrow
 fantom-theme
+fanyi
 farmhouse-theme
 fasd
 fast-scroll
@@ -2404,6 +2408,7 @@ guide-key
 guide-key-tip
 guix
 gulp-task-runner
+gumshoe
 guru-mode
 gvariant
 gvpr-mode
@@ -3691,6 +3696,7 @@ mu-cite
 mu2tex
 mu4e
 mu4e-alert
+mu4e-column-faces
 mu4e-conversation
 mu4e-jump-to-list
 mu4e-maildirs-extension
@@ -3786,6 +3792,7 @@ nemerle
 neon-mode
 neotree
 nerdtab
+netease-cloud-music
 netease-music
 netherlands-holidays
 netrunner
@@ -5069,6 +5076,7 @@ serverspec
 services
 sesman
 session
+session-async
 seti-theme
 setnu
 setnu-plus
@@ -5379,6 +5387,7 @@ stock-tracker
 strace-mode
 straight
 stream
+streamlink
 strie
 string-edit
 string-inflection
@@ -5773,6 +5782,7 @@ universal-emotions-emoticons
 unkillable-scratch
 unobtrusive-magit-theme
 unparen
+untappd
 untitled-new-buffer
 upbo
 uptimes
