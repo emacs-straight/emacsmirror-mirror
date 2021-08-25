@@ -906,6 +906,7 @@ org-osm-link
 org-password-manager
 org-pdfview
 org-pua
+org-roam-server
 org-s5
 org-site
 org-taskforecast

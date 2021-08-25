@@ -824,6 +824,7 @@ constellations
 constraint
 consult
 consult-dir
+consult-eglot
 consult-flycheck
 consult-ghq
 consult-lsp
@@ -1182,6 +1183,7 @@ docopt
 docsetutil
 docstr
 doct
+dogears
 doit-mode
 dokuwiki
 dokuwiki-mode
@@ -2635,6 +2637,7 @@ help-plus
 help-dwim
 help-dwim-perlapi
 help-dwim-perldoc
+help-find
 help-find-org-mode
 help-fns-plus
 help-macro-plus
@@ -3262,6 +3265,7 @@ liberime
 libgit
 libmpdee
 libmpdel
+librera-sync
 lice
 license-snippets
 license-templates
@@ -3302,6 +3306,7 @@ list-packages-ext
 list-processes-plus
 list-unicode-display
 list-utils
+lister
 lit-mode
 litable
 litanize
@@ -3351,6 +3356,7 @@ look-dired
 look-mode
 lookup
 loop
+loophole
 loops
 loopy
 lorem-ipsum
@@ -4140,7 +4146,6 @@ org-review
 org-rich-yank
 org-roam
 org-roam-bibtex
-org-roam-server
 org-rtm
 org-runbook
 org-scrum
