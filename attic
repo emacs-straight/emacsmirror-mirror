@@ -93,6 +93,7 @@ bbdbpalm
 bbdbrc
 bdo
 beatnik
+bento
 bhl
 bibeltex
 bibfind
@@ -175,6 +176,7 @@ cmucl-wire
 cocol
 codex
 coffee
+colemak-evil
 collab
 color-theme
 color-theme-solarized
@@ -432,6 +434,7 @@ find-lib
 find-library
 fink
 fip
+firefox-controller
 flarc
 flash-paren
 flashcard
@@ -810,6 +813,8 @@ motion-fns
 mouse-embrace
 mouse-focus
 move-pictures
+moz
+moz-controller
 mp3-tools
 mp3player
 ms-python

@@ -375,7 +375,6 @@ benchmark-init
 benchstat
 bencode
 bencoding
-bento
 berrys-theme
 bert
 better-defaults
@@ -714,7 +713,6 @@ coffee-fof
 coffee-mode
 coin-ticker
 col-highlight
-colemak-evil
 colonoscopy-theme
 color-dired
 color-identifiers-mode
@@ -1844,7 +1842,6 @@ finkinfo-mode
 fiplr
 fira-code-mode
 firecode-theme
-firefox-controller
 firefox-remote
 fireplace
 firestarter
@@ -3670,8 +3667,6 @@ move-dup
 move-text
 movie
 mowedline
-moz
-moz-controller
 mozart
 mozc
 mozc-cand-posframe
@@ -5823,6 +5818,7 @@ vbs-repl
 vc-plus
 vc-
 vc-auto-commit
+vc-backup
 vc-check-status
 vc-darcs
 vc-defer
