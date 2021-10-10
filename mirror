@@ -234,6 +234,7 @@ auctex
 auctex-cluttex
 auctex-latexmk
 auctex-lua
+audacious
 audel
 audio-notes-mode
 aumix-mode
@@ -450,6 +451,9 @@ borg-queen
 borland-blue-theme
 boron-theme
 boxquote
+boxy
+boxy-headings
+boxy-headlines
 bpath
 bpe
 bpftrace-mode
@@ -558,7 +562,6 @@ cask
 cask-mode
 cask-package-toolset
 caskxy
-cat-safe
 catmacs
 cbm
 cc-cedict
@@ -769,7 +772,6 @@ company-flx
 company-fuzzy
 company-ghci
 company-glsl
-company-go
 company-inf-ruby
 company-ipa
 company-irony
@@ -821,6 +823,7 @@ constants
 constellations
 constraint
 consult
+consult-company
 consult-dir
 consult-eglot
 consult-flycheck
@@ -828,6 +831,7 @@ consult-ghq
 consult-lsp
 consult-notmuch
 consult-recoll
+consult-yasnippet
 contentswitch
 context-coloring
 contextual
@@ -888,6 +892,7 @@ cpu-sos
 cql-mode
 cquery
 crappy-jsp-mode
+crdt
 creamsody-theme
 create-link
 creds
@@ -1014,6 +1019,7 @@ debpaste
 debug-print
 decide
 decl
+declutter
 dedent
 dedicated
 dedukti-mode
@@ -1258,6 +1264,7 @@ e2wm-sww
 e2wm-term
 eacl
 eaf
+earthfile-mode
 easy-after-load
 easy-escape
 easy-highlight
@@ -1452,6 +1459,7 @@ emacsc
 emacsist-view
 emacspeak
 emacsql
+emacsql-libsqlite3
 emacsql-sqlite3
 emacsshot
 email
@@ -1495,6 +1503,7 @@ enclose
 encourage-mode
 encrypt
 engine-mode
+engrave-faces
 enh-ruby-mode
 enlightened-theme
 enlive
@@ -1701,7 +1710,7 @@ evil-textobj-column
 evil-textobj-entire
 evil-textobj-line
 evil-textobj-syntax
-evil-textobj-treesitter
+evil-textobj-tree-sitter
 evil-traces
 evil-tutor
 evil-tutor-ja
@@ -1761,7 +1770,6 @@ facemenu-plus
 faces-plus
 factlog
 faff-theme
-fakespace
 fakir
 fancy-battery
 fancy-dabbrev
@@ -1837,6 +1845,7 @@ finder-plus
 findr
 findwalker
 fingers
+finito
 finkinfo
 finkinfo-mode
 fiplr
@@ -1949,6 +1958,7 @@ flycheck-objc-clang
 flycheck-ocaml
 flycheck-package
 flycheck-pact
+flycheck-php-noverify
 flycheck-pkg-config
 flycheck-plantuml
 flycheck-pony
@@ -2149,6 +2159,7 @@ geiser-mit
 geiser-racket
 geiser-stklos
 gemini-mode
+gemini-write
 general
 generic-edit-special
 genrnc
@@ -2156,6 +2167,7 @@ geo
 geoip
 geolocation
 german-holidays
+germanium
 gerrit
 gerrit-download
 gf
@@ -2280,7 +2292,6 @@ gnus-x-gm-raw
 gnuslog
 go
 go-add-tags
-go-autocomplete
 go-complete
 go-direx
 go-dlv
@@ -2439,6 +2450,7 @@ haskell-tab-indent
 hasklig-mode
 hasky-extensions
 hasky-stack
+hass
 haste
 haxe-imports
 haxe-mode
@@ -3059,7 +3071,6 @@ js-comint
 js-doc
 js-format
 js-import
-js-lookup
 js-react-redux-yasnippets
 js2-closure
 js2-highlight-vars
@@ -3098,6 +3109,7 @@ jumpc
 jumplist
 jupyter
 just-mode
+justl
 jvm-mode
 k8s-mode
 kaesar
@@ -3146,6 +3158,7 @@ keytar
 keyword-arg-macros
 keyword-search
 kfg
+khalel
 khardel
 kibit-helper
 kibit-mode
@@ -3176,6 +3189,7 @@ kpm-list
 kroman
 ksp-cfg-mode
 kubectx-mode
+kubedoc
 kubel
 kubernetes
 kubernetes-helm
@@ -3188,6 +3202,7 @@ laas
 lab-themes
 labburn-theme
 lacarte
+lacquer
 lagn
 laguna-theme
 lakota-input
@@ -3401,6 +3416,7 @@ lxc-tramp
 lxd-tramp
 lyric-mode
 lyrics
+lyrics-fetcher
 lyricwiki
 m-buffer
 mac-pseudo-daemon
@@ -3544,6 +3560,7 @@ merriam
 meson-mode
 message-attachment-reminder
 message-outlook
+message-view-patch
 message-x
 messages-are-flowing
 meta-presenter
@@ -3580,6 +3597,7 @@ minibuf-isearch
 minibuffer-complete-cycle
 minibuffer-cua
 minibuffer-line
+minibuffer-modifier-keys
 miniedit
 minimal
 minimal-session-saver
@@ -3660,7 +3678,6 @@ motion-and-kill-dwim
 motion-mode
 mouse-plus
 mouse-drag-fix
-mouse-slider-mode
 mouse3
 move-and
 move-dup
@@ -3714,6 +3731,7 @@ multi-column-mode
 multi-compile
 multi-eshell
 multi-line
+multi-mode
 multi-project
 multi-run
 multi-shell
@@ -3768,6 +3786,8 @@ namelist-mode
 names
 namespaces
 nand2tetris
+nano-modeline
+nano-theme
 nanowrimo
 naquadah-theme
 narrow-indirect
@@ -3803,6 +3823,7 @@ neuron-mode
 never-comment
 newlisp-mode
 newpaste
+newspeak-mode
 newsticker-notify
 nexus
 ng2-mode
@@ -3905,6 +3926,7 @@ ob-async
 ob-blockdiag
 ob-browser
 ob-cfengine3
+ob-clojure-literate
 ob-clojurescript
 ob-coffee
 ob-coffeescript
@@ -3931,17 +3953,23 @@ ob-kotlin
 ob-latex-as-png
 ob-lfe
 ob-markdown
+ob-mathematica
 ob-mermaid
 ob-ml-marklogic
 ob-mongo
 ob-napkin
 ob-nim
+ob-php
 ob-prolog
+ob-redis
 ob-restclient
 ob-reticulate
 ob-rust
 ob-sagemath
+ob-sclang
+ob-smiles
 ob-sml
+ob-spice
 ob-sql-mode
 ob-svgbob
 ob-swift
@@ -4014,6 +4042,7 @@ opscode-sign
 orca
 orderless
 ordinal
+org
 org-ac
 org-agenda-property
 org-alert
@@ -4021,7 +4050,9 @@ org-analyzer
 org-anki
 org-appear
 org-assoc-tags
+org-attach-embedded-images
 org-attach-screenshot
+org-auto-expand
 org-auto-tangle
 org-autolist
 org-babel-eval-in-repl
@@ -4089,15 +4120,18 @@ org-kanban
 org-kindle
 org-latex-impatient
 org-link-beautify
+org-link-edit
 org-link-travis
 org-linkotron
 org-listcruncher
+org-mac-link
 org-make-toc
 org-manage
 org-mime
 org-mind-map
 org-ml
 org-mobile-sync
+org-movies
 org-mru-clock
 org-msg
 org-multi-wiki
@@ -4105,12 +4139,14 @@ org-nan
 org-notebook
 org-noter
 org-notifications
+org-notify
 org-octopress
 org-onenote
 org-outline-numbering
 org-outlook
 org-page
 org-parser
+org-passwords
 org-pdftools
 org-picklink
 org-pivotal
@@ -4131,10 +4167,12 @@ org-re-reveal
 org-re-reveal-ref
 org-reading
 org-readme
+org-real
 org-recent-headings
 org-recur
 org-redmine
 org-ref
+org-ref-prettify
 org-repo-todo
 org-reverse-datetree
 org-review
@@ -4180,6 +4218,7 @@ org-treeusage
 org-trello
 org-variable-pitch
 org-vcard
+org-velocity
 org-watchdoc
 org-wc
 org-web-tools
@@ -4272,6 +4311,7 @@ ox-qmd
 ox-report
 ox-reveal
 ox-rfc
+ox-rss
 ox-rst
 ox-slack
 ox-spectacle
@@ -4530,6 +4570,7 @@ poly-rst
 poly-ruby
 poly-slim
 poly-wdl
+polybar-sesman
 polymode
 polyp
 pomidor
@@ -4643,7 +4684,6 @@ psc-ide
 psci
 psession
 psgml
-psl-mode
 pspp-mode
 psysh
 pt
@@ -4655,6 +4695,7 @@ pulseaudio
 pulseaudio-control
 punctuality-logger
 pungi
+puni
 punpun-theme
 puppet-mode
 puppet-pi-mode
@@ -4718,6 +4759,7 @@ q-mode
 qa-mode
 qml-mode
 qooxdoo
+qrencode
 qt-pro-mode
 qtcreator-theme
 qtref
@@ -4788,7 +4830,6 @@ rcodetools
 rd-mode
 rdf-prefix
 rdictcc
-rdp
 rdxmk
 re-builder-plus
 react-snippets
@@ -4939,6 +4980,7 @@ rpm-spec-mode
 rpn-calc
 rspec-mode
 rss
+rsync-mode
 rt-liberation
 rtags
 rtm
@@ -5138,6 +5180,7 @@ sibilant-mode
 sicp
 side-hustle
 side-notes
+sidecar-locals
 sie
 sierotki
 sift
@@ -5167,6 +5210,7 @@ sisu-mode
 ska-skel-matlab
 skeleton-complete
 skeletor
+sketch-mode
 sketch-themes
 skewer-less
 skewer-mode
@@ -5386,6 +5430,7 @@ stock-ticker
 stock-tracker
 strace-mode
 straight
+streak
 stream
 streamlink
 strie
@@ -5429,6 +5474,7 @@ sv-kalender-namnsdagar
 svelte-mode
 svg
 svg-clock
+svg-lib
 svg-mode-line-themes
 svg-tag-mode
 svnwrapper
@@ -5512,6 +5558,8 @@ taskpaper
 taskpaper-mode
 taskrunner
 tawny-mode
+taxy
+taxy-magit-section
 tbemail
 tblui
 tbx2org
@@ -5565,6 +5613,7 @@ test-simple
 tex-smart-umlauts
 texfrag
 text-align
+text-categories
 textile-mode
 textmate
 textmate-to-yas
@@ -5640,6 +5689,7 @@ toolbox
 tooltip-help
 top-mode
 topsongs
+topsy
 tora-mode
 tornado-template-mode
 torus
@@ -5734,6 +5784,7 @@ uci-mode
 ucs-cmds
 ucs-utils
 udev-mode
+ue
 uimage
 ujelly-theme
 ukrainian-holidays
@@ -5823,6 +5874,7 @@ vc-check-status
 vc-darcs
 vc-defer
 vc-fossil
+vc-got
 vc-hgcmd
 vc-hooks-plus
 vc-jump
@@ -5879,7 +5931,6 @@ visual-basic-mode
 visual-filename-abbrev
 visual-fill
 visual-fill-column
-visual-indentation-mode
 visual-regexp
 visual-regexp-steroids
 vlc
@@ -6175,6 +6226,7 @@ zephir-mode
 zero-input
 zerodark-theme
 zetteldeft
+zettelkasten
 zetz-mode
 zig-mode
 zim-wiki-mode

@@ -18,7 +18,6 @@ alossage
 alternative-files
 altmap
 amigo
-amixer
 analog
 anaya
 angular-mode
@@ -139,6 +138,7 @@ cal-desk-calendar
 camelcase-mode
 caps-mode
 caselet
+cat-safe
 cc-tempo-electric-support
 ccm
 cdb-gud
@@ -193,6 +193,7 @@ commit-patch-buffer
 common-directory
 company-edbi
 company-ghc
+company-go
 company-lsp
 company-org-roam
 company-racer
@@ -405,6 +406,7 @@ fa-extras
 face-fns
 face-list
 faith
+fakespace
 fasm-mode
 fc
 ffap-rfc-directories
@@ -519,6 +521,7 @@ gnus-checker
 gnus-highlight
 gnuserv
 gnushush
+go-autocomplete
 go-capf
 golisp
 goofey
@@ -674,6 +677,7 @@ journal-search
 joystick
 jpeg-mode
 js-doctor
+js-lookup
 jserial
 jsx-mode
 jtemplate
@@ -812,6 +816,7 @@ moo
 motion-fns
 mouse-embrace
 mouse-focus
+mouse-slider-mode
 move-pictures
 moz
 moz-controller
@@ -825,7 +830,6 @@ mtools
 mtorus
 multi-comment
 multi-find-file
-multi-mode
 multi-mode-util
 multi-region
 multiselect
@@ -1000,6 +1004,7 @@ pseudo-grep
 psgml-jade
 psgml-superedit
 psgml-table
+psl-mode
 pst-format
 psvn
 punycode
@@ -1033,6 +1038,7 @@ randomsig
 rays
 rcirc-ucomplete
 rdict
+rdp
 read-all-emacs-help
 read-library
 read-table-data
@@ -1319,6 +1325,7 @@ viewtex
 vim-elscreen
 vim-mode
 vimpulse
+visual-indentation-mode
 vkill
 vlog-mode
 vm-addons
