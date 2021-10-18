@@ -453,7 +453,6 @@ boron-theme
 boxquote
 boxy
 boxy-headings
-boxy-headlines
 bpath
 bpe
 bpftrace-mode
@@ -838,6 +837,7 @@ contextual
 contextual-menubar
 contrast-color
 control-mode
+conventional-changelog
 cook-mode
 copy-as-format
 copy-file-on-save
@@ -850,10 +850,12 @@ coroutine
 corral
 cort
 cosmo
+coterm
 couchdb-document
 couchdb-document-text
 counsel-ag-popup
 counsel-bbdb
+counsel-chrome-bm
 counsel-codesearch
 counsel-css
 counsel-dash
@@ -1264,6 +1266,11 @@ e2wm-sww
 e2wm-term
 eacl
 eaf
+eaf-browser
+eaf-file-manager
+eaf-pdf-viewer
+eaf-terminal
+eaf-video-player
 earthfile-mode
 easy-after-load
 easy-escape
@@ -1532,6 +1539,7 @@ epydoc
 equake
 eradio
 erblint
+erc
 erc-babel
 erc-colorize
 erc-crypt
@@ -1593,6 +1601,7 @@ eshell-prompt-extras
 eshell-syntax-highlighting
 eshell-toggle
 eshell-up
+eshell-vterm
 eshell-z
 eslint-fix
 eslintd-fix
@@ -1892,6 +1901,7 @@ flutter
 fluxus-mode
 flx
 flx-isearch
+flxy
 flycheck
 flycheck-apertium
 flycheck-aspell
@@ -2120,6 +2130,7 @@ fuo
 furl
 futhark-mode
 fuz
+fuz-bin
 fuzz
 fuzzy
 fuzzy-find-in-project
@@ -2730,7 +2741,6 @@ hlinum
 hmac
 hnreader
 hoa-mode
-hoa-pp-mode
 holiday-pascha-etc
 holy-books
 home-end
@@ -3786,6 +3796,7 @@ namelist-mode
 names
 namespaces
 nand2tetris
+nano-agenda
 nano-modeline
 nano-theme
 nanowrimo
@@ -3926,7 +3937,6 @@ ob-async
 ob-blockdiag
 ob-browser
 ob-cfengine3
-ob-clojure-literate
 ob-clojurescript
 ob-coffee
 ob-coffeescript
@@ -4070,6 +4080,7 @@ org-chef
 org-cliplink
 org-clock-convenience
 org-clock-csv
+org-clock-reminder
 org-clock-split
 org-clock-today
 org-commentary
@@ -4185,7 +4196,6 @@ org-scrum
 org-search-goto
 org-search-goto-ml
 org-seek
-org-seenthis
 org-shoplist
 org-sidebar
 org-snooze
@@ -4660,7 +4670,6 @@ projectile-speedbar
 projectile-trailblazer
 projectile-variable
 projector
-projectur
 projekt
 projmake-mode
 projman
@@ -5069,7 +5078,6 @@ screencast
 screensend
 screenshot
 scribble-mode
-scriptify
 scrl-margs
 scrobble
 scroll-on-drag
@@ -5308,6 +5316,7 @@ snow
 so-long
 soap-client
 soar-mode
+soccer
 socyl
 sofa
 soft-charcoal-theme
@@ -5450,6 +5459,7 @@ subatomic-theme
 subatomic256-theme
 subedit
 subemacs
+sublime-fuzzy
 sublime-themes
 sublimity
 subr-plus
@@ -5695,6 +5705,7 @@ tornado-template-mode
 torus
 total-lines
 totd
+totp
 touchgrid
 tox
 toxi-theme
@@ -6030,7 +6041,6 @@ wid-edit-plus
 wide-column
 widen-window
 widget-mvc
-widgetjs
 wiki
 wiki-summary
 wikidoc
@@ -6111,16 +6121,6 @@ x-migrant
 x-path-walker
 x509-mode
 x86-lookup
-xah-css-mode
-xah-elisp-mode
-xah-find
-xah-fly-keys
-xah-get-thing
-xah-lookup
-xah-math-input
-xah-reformat-code
-xah-replace-pairs
-xahk-mode
 xargs-grep
 xbm-life
 xclip
@@ -6175,7 +6175,6 @@ yaml-imenu
 yaml-mode
 yaml-tomato
 yammer
-yandex-weather
 yang-mode
 yankpad
 yaoddmuse

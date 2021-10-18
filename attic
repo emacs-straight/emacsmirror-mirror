@@ -578,6 +578,7 @@ himarks-mode
 himp
 hl-sexp
 hll
+hoa-pp-mode
 hobo
 host-fns
 how-many-lines-in-project
@@ -881,6 +882,7 @@ nummove
 nxhtml
 o-blog
 o-journal
+ob-clojure-literate
 ob-pygment
 obarray-fns
 ocr
@@ -917,6 +919,7 @@ org-pdfview
 org-pua
 org-roam-server
 org-s5
+org-seenthis
 org-site
 org-taskforecast
 org-website
@@ -994,6 +997,7 @@ progr-align
 project-buffer-mode
 projectile-direnv
 projectile-hanami
+projectur
 prosper
 protbuf
 protbuf-by-name
@@ -1118,6 +1122,7 @@ scrat
 screen-lines
 screen-setups
 screenplay
+scriptify
 scrmable
 scroll-1
 scroll-in-place
@@ -1364,6 +1369,7 @@ whizzytex
 who-calls
 wid-keymap
 wid-table
+widgetjs
 wiki-dot
 wikipediafs
 wiktionary-swadesh
@@ -1389,6 +1395,16 @@ x-dict
 x-face
 x-symbol
 xabcd
+xah-css-mode
+xah-elisp-mode
+xah-find
+xah-fly-keys
+xah-get-thing
+xah-lookup
+xah-math-input
+xah-reformat-code
+xah-replace-pairs
+xahk-mode
 xbase
 xbbcode-mode
 xgtags
@@ -1413,6 +1429,7 @@ xwindow-ring
 yaham
 yahoo-weather
 yaml-path
+yandex-weather
 yank-whitespace
 yod
 youwill
