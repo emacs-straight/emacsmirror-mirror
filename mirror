@@ -737,6 +737,7 @@ come-fly
 comicscript
 comint-hyperlink
 comint-intercept
+comint-mime
 command-log-mode
 command-queue
 commander
@@ -799,6 +800,7 @@ company-terraform
 company-try-hard
 company-web
 company-wordfreq
+compat
 compdef
 competitive-programming-snippets
 compilation-always-kill
