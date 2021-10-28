@@ -547,6 +547,7 @@ camcorder
 caml
 campfire
 cangjie
+capf-autosuggest
 capnp-mode
 caps-lock
 captain
@@ -831,6 +832,7 @@ consult-flycheck
 consult-ghq
 consult-lsp
 consult-notmuch
+consult-projectile
 consult-recoll
 consult-yasnippet
 contentswitch
@@ -1268,6 +1270,7 @@ e2wm-sww
 e2wm-term
 eacl
 eaf
+eaf-airshare
 eaf-browser
 eaf-file-manager
 eaf-pdf-viewer
@@ -1389,6 +1392,7 @@ eldoc-cmake
 eldoc-eval
 eldoc-extension
 eldoc-overlay
+eldoc-toml
 electric-case
 electric-cursor
 electric-dot-and-dash
@@ -2244,6 +2248,7 @@ github-pullrequest
 github-review
 github-search
 github-stars
+github-tags
 github-theme
 gitignore-snippets
 gitignore-templates
@@ -4177,6 +4182,7 @@ org-radiobutton
 org-random-todo
 org-randomnote
 org-re-reveal
+org-re-reveal-citeproc
 org-re-reveal-ref
 org-reading
 org-readme
@@ -4639,6 +4645,7 @@ presentation
 prettier
 prettier-js
 prettify-greek
+prettify-math
 pretty-lambdada
 pretty-mode
 pretty-sha-path
@@ -4665,6 +4672,7 @@ project-persist
 project-persist-drawer
 project-root
 project-shells
+project-tab-groups
 projectile
 projectile-git-autofetch
 projectile-rails
@@ -5160,6 +5168,7 @@ shell-switcher
 shell-toggle
 shellcop
 shelldoc
+shelldon
 shelltest-mode
 shen-elisp
 shen-mode
@@ -5916,6 +5925,7 @@ versuri
 vertica
 vertica-snippets
 vertico
+vertico-posframe
 vertigo
 vhdl-capf
 vhdl-process-wave
