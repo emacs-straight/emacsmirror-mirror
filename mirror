@@ -92,6 +92,7 @@ aes
 affe
 afternoon-theme
 ag
+agda-editor-tactics
 agda2-mode
 aggressive-completion
 aggressive-fill-paragraph
@@ -146,6 +147,7 @@ anaconda-mode
 anakondo
 anaphora
 anchored-transpose
+ancient-one-dark-theme
 android-env
 android-mode
 angry-police-captain
@@ -393,7 +395,6 @@ biblio-bibsonomy
 bibliothek
 bibretrieve
 bibslurp
-bibtex-actions
 bibtex-completion
 bibtex-utils
 bibus
@@ -416,6 +417,7 @@ blackboard-bold-mode
 blackboard-theme
 blacken
 blackout
+blamer
 blank-mode
 blgrep
 blimp
@@ -642,6 +644,7 @@ circe
 circe-notifications
 circleci-api
 cisco-router-mode
+citar
 citeproc
 citeproc-org
 citre
@@ -1799,6 +1802,7 @@ fastfuzz
 fastnav
 faust-mode
 faustine
+fb2-reader
 fcitx
 fcopy
 fcsh-mode
@@ -1907,6 +1911,7 @@ flutter
 fluxus-mode
 flx
 flx-isearch
+flx-rs
 flxy
 flycheck
 flycheck-apertium
@@ -3450,6 +3455,7 @@ magik-mode
 magit
 magit-annex
 magit-circleci
+magit-commit-mark
 magit-delta
 magit-diff-flycheck
 magit-filenotify
@@ -4749,6 +4755,7 @@ pyim-smzmdict
 pyim-wbdict
 pyimport
 pyimpsort
+pyinspect
 pylint
 pylit
 pylookup
@@ -4804,6 +4811,7 @@ quiz
 r-autoyas
 racer
 racket-mode
+rails-i18n
 rails-log-mode
 railscasts-reloaded-theme
 railscasts-theme
@@ -5172,6 +5180,7 @@ shelldon
 shelltest-mode
 shen-elisp
 shen-mode
+shenshou
 shfmt
 shift-number
 shift-text
