@@ -526,6 +526,7 @@ go-capf
 golisp
 goofey
 google-define-redux-supplemental
+gopher
 goto-char-other-window
 goto-gem
 gplusify
@@ -873,6 +874,7 @@ notmuch-unread
 noweb
 nqmbm
 nrnhoc
+nroam
 nroff-filladapt
 ns-browse
 ns-platform-support
@@ -1296,6 +1298,7 @@ twit
 twitel
 two-mode-mode
 typed-clojure-mode
+typoscript-mode
 u-appt
 u-color-cycle
 u-mandelbrot

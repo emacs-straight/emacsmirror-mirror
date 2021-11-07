@@ -2365,7 +2365,6 @@ google-this
 google-translate
 googleaccount
 goose-theme
-gopher
 gore-mode
 gorepl-mode
 gosh
@@ -3919,7 +3918,6 @@ npm-mode
 nrepl-eval-sexp-fu
 nrepl-sync
 nreplxmp
-nroam
 ns-auto-titlebar
 nsis-mode
 nswbuff
@@ -4771,6 +4769,7 @@ python-django
 python-docstring
 python-environment
 python-info
+python-insert-docstring
 python-isort
 python-mode
 python-pep8
@@ -5808,7 +5807,6 @@ typit
 typo
 typo-suggest
 typopunct
-typoscript-mode
 ubuntu-theme
 uchronia
 uci-mode
