@@ -2080,6 +2080,7 @@ font-lock-studio
 font-utils
 fontawesome
 fontify-face
+fontsloth
 forecast
 foreign-regexp
 foreman-mode
@@ -3103,6 +3104,7 @@ jscs
 jsfmt
 json-mode
 json-navigator
+json-par
 json-process-client
 json-reformat
 json-rpc
@@ -4132,6 +4134,7 @@ org-hyde
 org-id-cleanup
 org-if
 org-index
+org-inline-anim
 org-inline-pdf
 org-iv
 org-jira
@@ -4596,6 +4599,7 @@ polybar-sesman
 polymode
 polyp
 pomidor
+pomm
 pomodoro
 pony-mode
 pony-snippets
@@ -4812,6 +4816,7 @@ racer
 racket-mode
 rails-i18n
 rails-log-mode
+rails-routes
 railscasts-reloaded-theme
 railscasts-theme
 rainbow-blocks
@@ -4899,6 +4904,7 @@ rect-plus
 rect-extension
 rect-mark
 rectangle-utils
+recur
 recursion-indicator
 recursive-narrow
 reddigg
