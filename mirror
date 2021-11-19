@@ -1089,6 +1089,7 @@ digistar-mode
 digit-groups
 digitalocean
 digitalocean-helm
+dilbert
 dim
 dim-autoload
 diminish
@@ -1605,6 +1606,7 @@ eshell-did-you-mean
 eshell-fixed-prompt
 eshell-fringe-status
 eshell-git-prompt
+eshell-info-banner
 eshell-outline
 eshell-prompt-extras
 eshell-syntax-highlighting
@@ -2471,8 +2473,6 @@ haskell-mode
 haskell-snippets
 haskell-tab-indent
 hasklig-mode
-hasky-extensions
-hasky-stack
 hass
 haste
 haxe-imports
@@ -3188,6 +3188,7 @@ kibit-mode
 kill-or-bury-alive
 kill-ring-search
 killer
+kind-icon
 kindle-mode
 kindly-mode
 kis-interface
@@ -3560,6 +3561,7 @@ mbsync
 mc
 mc-calc
 mc-extras
+mct
 md-readme
 md4rd
 mdabbrev
@@ -4205,6 +4207,8 @@ org-review
 org-rich-yank
 org-roam
 org-roam-bibtex
+org-roam-timestamps
+org-roam-ui
 org-rtm
 org-runbook
 org-scrum
@@ -5759,6 +5763,7 @@ transwin
 trashed
 travis
 tray
+tree-edit
 tree-mode
 tree-sitter
 tree-sitter-indent
@@ -6186,6 +6191,7 @@ xterm-keybinder
 xtest
 xwidgete
 xwidgets-reuse
+xwiki-mode
 xwwp
 xyzzy
 ya-cppref
