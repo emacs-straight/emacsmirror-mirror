@@ -549,6 +549,7 @@ camcorder
 caml
 campfire
 cangjie
+cape
 capf-autosuggest
 capnp-mode
 caps-lock
@@ -709,6 +710,7 @@ code-archive
 code-cells
 code-imports
 code-library
+code-review
 code-stats
 codebug
 codepad
@@ -5031,6 +5033,7 @@ ruby-extra-highlight
 ruby-factory
 ruby-hash-syntax
 ruby-interpolation
+ruby-json-to-hash
 ruby-refactor
 ruby-test-mode
 ruby-tools
