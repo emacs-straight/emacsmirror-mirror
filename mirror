@@ -220,6 +220,7 @@ astyle
 asx
 async
 async-await
+async-backup
 async-completing-read
 async-eval
 atcoder-tools
@@ -1380,6 +1381,7 @@ el-markup
 el-mock
 el-patch
 el-search
+el-secretario
 el-spec
 el-spice
 el-sprunge
@@ -2250,6 +2252,7 @@ gitconfig
 gited
 github-browse-file
 github-clone
+github-dark-vscode-theme
 github-elpa
 github-explorer
 github-modern-theme
@@ -4240,6 +4243,7 @@ org-time-budgets
 org-timeline
 org-toodledo
 org-tracktable
+org-transclusion
 org-transform-tree-table
 org-translate
 org-tree-slide
@@ -4411,6 +4415,7 @@ parsebib
 parsec
 parseclj
 parseedn
+parser-generator
 pasp-mode
 pass
 passmm
@@ -4649,6 +4654,7 @@ pp-c-l
 ppd-sr-speedbar
 ppindent
 ppp
+pr-review
 prand
 prassee-theme
 prefixed-core
