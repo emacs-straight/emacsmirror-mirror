@@ -1186,6 +1186,7 @@ dmenu
 dna-mode
 do-not-edit
 doc-mode
+doc-show-inline
 docbook
 docbook-snippets
 docean
@@ -2063,6 +2064,7 @@ flymake-solidity
 flymake-vala
 flymake-vnu
 flymake-yaml
+flymake-yamllint
 flymd
 flyparens
 flyspell-correct
@@ -2286,6 +2288,7 @@ gmail-message-mode
 gmail-notifier
 gmail2bbdb
 gmpl-mode
+gmsh-mode
 gn-mode
 gnome-c-style
 gnome-calendar
@@ -5045,6 +5048,7 @@ ruby-tools
 rubyinterpol
 rudel
 rufo
+ruled-switch-buffer
 rum-mode
 run-assoc
 run-command
@@ -5726,6 +5730,7 @@ toggle
 toggle-quotes
 toggle-test
 toggle-window
+tok-theme
 tomatinho
 toml
 toml-mode
