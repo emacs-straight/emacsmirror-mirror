@@ -640,6 +640,7 @@ cider-eval-sexp-fu
 cider-hydra
 ciel
 cil-mode
+cilk-mode
 cinspect
 circadian
 circe
@@ -1147,6 +1148,7 @@ direx
 direx-grep
 dirnav
 dirtree
+dirvish
 disable-mouse
 disaster
 discourse
@@ -1760,6 +1762,7 @@ exotica-theme
 expand-line
 expand-region
 expectations-mode
+expenses
 explain-pause-mode
 express
 exsqlaim-mode
@@ -2902,6 +2905,7 @@ impatient-showdown
 import-js
 import-popwin
 importmagic
+impostman
 includeme
 indent-control
 indent-guide
@@ -4789,6 +4793,7 @@ python-environment
 python-info
 python-insert-docstring
 python-isort
+python-mls
 python-mode
 python-pep8
 python-pylint
@@ -5254,6 +5259,7 @@ simplenote2
 simplezen
 sinasi
 singlebind
+siri-shortcuts
 sis
 sisu-mode
 ska-skel-matlab
