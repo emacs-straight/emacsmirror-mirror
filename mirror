@@ -473,7 +473,6 @@ browse-kill-ring
 browse-kill-ring-plus
 browse-url-dwim
 browse-urn
-brutal-theme
 brutalist-theme
 bs-ext
 bshell
@@ -1362,6 +1361,7 @@ egg-timer
 egison-mode
 egit
 eglot
+eglot-java
 eglot-jl
 ego
 eide
@@ -1498,7 +1498,6 @@ emboss
 embrace
 emidje
 emir
-emlib
 emmet-mode
 emms
 emms-bilibili
@@ -4696,7 +4695,6 @@ project-local-variables
 project-mode-line-tag
 project-persist
 project-persist-drawer
-project-root
 project-shells
 project-tab-groups
 projectile
@@ -4787,6 +4785,7 @@ pytest-pdb-break
 python
 python-black
 python-cell
+python-coverage
 python-django
 python-docstring
 python-environment
@@ -5391,7 +5390,6 @@ sourcekit
 sourcemap
 sourcepawn-mode
 sourcerer-theme
-sourcetrail
 space-chord
 space-theming
 spacebar

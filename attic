@@ -370,6 +370,7 @@ emathica
 ematrix
 emdroid
 emeteo
+emlib
 emmental
 emoji
 emotion
@@ -1000,6 +1001,7 @@ procmaillog
 profile-dotemacs
 progr-align
 project-buffer-mode
+project-root
 projectile-direnv
 projectile-hanami
 projectur
@@ -1176,6 +1178,7 @@ sorter
 sos
 source-highlight
 sourcepair
+sourcetrail
 spamfilter
 spamprobe
 spamprod
