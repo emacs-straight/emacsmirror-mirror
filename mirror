@@ -4675,6 +4675,7 @@ pretty-lambdada
 pretty-mode
 pretty-sha-path
 pretty-symbols
+preview-dvisvgm
 prism
 private
 private-diary
@@ -6012,6 +6013,7 @@ vue-html-mode
 vue-mode
 vuiet
 vulpea
+vunit-mode
 vyper-mode
 w3
 w32-browser
