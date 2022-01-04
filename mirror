@@ -208,6 +208,7 @@ arjen-grey-theme
 arrange-buffers
 artbollocks-mode
 arview
+arxiv-mode
 ascii
 ascii-art-to-unicode
 ascii-table
@@ -423,6 +424,7 @@ blank-mode
 blgrep
 blimp
 bliss-theme
+blist
 blitzmax-mode
 bln-mode
 block-nav
@@ -864,6 +866,7 @@ coterm
 couchdb-document
 couchdb-document-text
 counsel-ag-popup
+counsel-at-point
 counsel-bbdb
 counsel-chrome-bm
 counsel-codesearch
@@ -1854,6 +1857,7 @@ fill-page
 filladapt
 filladapt-pat
 fillcode
+filldent
 finalize
 find-by-pinyin-dired
 find-dired-plus
@@ -2879,6 +2883,7 @@ igrep
 igrep-next-error
 igv
 ii-mode
+ilist
 im-notification
 image-plus
 image-archive
@@ -3558,6 +3563,7 @@ math-preview
 math-symbol-lists
 math-symbols
 matlab-mode
+matrix-theme
 maude-mode
 maven-test-mode
 maxframe
@@ -4259,6 +4265,7 @@ org-trello
 org-variable-pitch
 org-vcard
 org-velocity
+org-visibility
 org-watchdoc
 org-wc
 org-web-tools
@@ -4490,6 +4497,7 @@ persp-mode-project-bridge
 persp-mode-projectile-bridge
 persp-projectile
 perspective
+perspective-exwm
 perspeen
 pest-mode
 pfuture
@@ -4926,6 +4934,7 @@ rectangle-utils
 recur
 recursion-indicator
 recursive-narrow
+redacted
 reddigg
 reddit-mode
 redis
