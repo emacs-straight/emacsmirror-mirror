@@ -3133,6 +3133,7 @@ jss
 jst
 jtags
 juick
+julia-formatter
 julia-mode
 julia-repl
 julia-shell
@@ -3563,7 +3564,6 @@ math-preview
 math-symbol-lists
 math-symbols
 matlab-mode
-matrix-theme
 maude-mode
 maven-test-mode
 maxframe
@@ -5642,6 +5642,7 @@ teletext-yle
 tellstick
 telnet-contrib
 temp-buffer-browse
+tempel
 template-overlays
 template-simple
 templatel
@@ -5686,6 +5687,7 @@ textsnip
 textx-mode
 tf2-conf-mode
 tfsmacs
+the-matrix-theme
 theme-anchor
 theme-changer
 theme-helper
