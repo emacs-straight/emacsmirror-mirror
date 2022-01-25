@@ -54,6 +54,7 @@ ac-slime
 ac-sly
 academic-phrases
 accelerate
+accent
 acd
 ace-flyspell
 ace-isearch
@@ -214,6 +215,7 @@ ascii-art-to-unicode
 ascii-table
 asciidoc
 asilea
+asm-blox
 asn1-mode
 assert-rtn
 assess
@@ -448,6 +450,7 @@ bookem
 bookiez
 bookmark-plus
 bookmark-add
+bookmark-in-project
 bookmark-view
 bool-flip
 boon
@@ -676,6 +679,7 @@ clipmon
 clippy
 clips-mode
 clj-decompiler
+clj-deps-new
 clj-refactor
 cljr-helm
 cljr-ivy
@@ -1081,6 +1085,7 @@ dictem
 dictionary
 didyoumean
 diff-plus
+diff-ansi
 diff-at-point
 diff-ediff
 diff-git
@@ -1245,6 +1250,7 @@ dropdown-list
 drupal-mode
 drupal-spell
 dsvn
+dtache
 dtb-mode
 dtk
 dtrace-script-mode
@@ -1781,6 +1787,7 @@ exwm-firefox-core
 exwm-firefox-evil
 exwm-float
 exwm-mff
+exwm-modeline
 exwm-surf
 exwm-x
 eyebrowse
@@ -2062,6 +2069,7 @@ flymake-puppet
 flymake-python-pyflakes
 flymake-quickdef
 flymake-racket
+flymake-rest
 flymake-ruby
 flymake-sass
 flymake-shell
@@ -2479,6 +2487,7 @@ handlebars-sgml-mode
 handoff
 hardcore-mode
 hardhat
+harpoon
 harvest
 haskell-emacs
 haskell-extension
@@ -2667,6 +2676,7 @@ helm-tail
 helm-taskswitch
 helm-themes
 helm-tramp
+helm-tree-sitter
 helm-unicode
 helm-w32-launcher
 helm-w3m
@@ -3215,6 +3225,7 @@ kivy-mode
 kiwix
 kixtart-mode
 klere-theme
+kmacro-mc
 kmb
 know-your-http-well
 kodi-remote
@@ -3950,6 +3961,7 @@ num3-mode
 number
 number-lock
 numbers
+numbex
 nummm-mode
 numpydoc
 numwin
@@ -4682,6 +4694,7 @@ prettify-math
 pretty-lambdada
 pretty-mode
 pretty-sha-path
+pretty-speedbar
 pretty-symbols
 preview-dvisvgm
 prism
@@ -5582,6 +5595,7 @@ synquid
 syntactic-close
 syntactic-sugar
 syntax-subword
+syntree
 sys
 sysctl
 syslog-mode
@@ -5730,6 +5744,7 @@ tiny-menu
 tinypng
 tinysegmenter
 title-time
+titlecase
 tj3-mode
 tldr
 tmmofl
@@ -5847,6 +5862,7 @@ typit
 typo
 typo-suggest
 typopunct
+tzc
 ubuntu-theme
 uchronia
 uci-mode
@@ -6150,6 +6166,7 @@ wn-mode
 wolfram
 wolfram-mode
 wonderland
+wordel
 wordgen
 wordnik
 wordnut
