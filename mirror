@@ -3967,6 +3967,7 @@ numpydoc
 numwin
 nv-delete-back
 nvm
+nxml-uxml
 nyan-mode
 nyan-prompt
 nyx-theme
@@ -4102,6 +4103,7 @@ org-alert
 org-analyzer
 org-anki
 org-appear
+org-arbeitszeit
 org-assoc-tags
 org-attach-embedded-images
 org-attach-screenshot
@@ -4229,6 +4231,7 @@ org-recur
 org-redmine
 org-ref
 org-ref-prettify
+org-remark
 org-repo-todo
 org-reverse-datetree
 org-review
@@ -5015,6 +5018,7 @@ rewrite
 reykjavik-theme
 rfc-mode
 rg
+rhq
 rhtml-mode
 rib-mode
 ricette-mode
@@ -5079,6 +5083,7 @@ ruled-switch-buffer
 rum-mode
 run-assoc
 run-command
+run-command-recipes
 run-stuff
 runner
 runtests
@@ -5916,6 +5921,7 @@ unisonlang-mode
 unit-test
 universal-emotions-emoticons
 unkillable-scratch
+unmodified-buffer
 unobtrusive-magit-theme
 unparen
 untappd
@@ -6308,6 +6314,7 @@ zetz-mode
 zig-mode
 zim-wiki-mode
 zimports
+zk
 zlc
 zmq
 zmusic
