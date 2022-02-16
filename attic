@@ -18,6 +18,7 @@ alossage
 alternative-files
 altmap
 amigo
+ammonite-term-repl
 analog
 anaya
 angular-mode
@@ -888,6 +889,7 @@ nummove
 nxhtml
 o-blog
 o-journal
+ob-ammonite
 ob-clojure-literate
 ob-pygment
 obarray-fns
@@ -1120,6 +1122,7 @@ save-sexp
 save-undo
 saveframes
 sawfish
+scalariform
 scheme-here
 scheme48
 scim-bridge

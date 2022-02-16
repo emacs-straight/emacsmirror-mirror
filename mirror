@@ -136,7 +136,6 @@ amarok
 amd-mode
 ameba
 aml-mode
-ammonite-term-repl
 ampc
 ample-regexps
 ample-theme
@@ -2678,6 +2677,7 @@ helm-taskswitch
 helm-themes
 helm-tramp
 helm-tree-sitter
+helm-twitch
 helm-unicode
 helm-w32-launcher
 helm-w3m
@@ -3976,7 +3976,6 @@ nz-holidays
 oauth
 oauth2
 oauth2-request
-ob-ammonite
 ob-applescript
 ob-async
 ob-blockdiag
@@ -4173,6 +4172,7 @@ org-iv
 org-jira
 org-journal
 org-journal-list
+org-journal-tags
 org-json
 org-kanban
 org-kindle
@@ -4410,6 +4410,7 @@ paganini-theme
 page-break-lines
 pager
 pager-default-keybindings
+paimon
 paint
 pair-tree
 palette
@@ -5125,7 +5126,6 @@ sbt-mode
 scad-mode
 scad-preview
 scala-mode
-scalariform
 scan
 scanner
 scf-mode
@@ -5285,6 +5285,7 @@ simplegv-mode
 simplenote
 simplenote2
 simplezen
+simplicity-theme
 sinasi
 singlebind
 siri-shortcuts
