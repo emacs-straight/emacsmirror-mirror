@@ -972,6 +972,7 @@ cwl-mode
 cyberpunk-2019-theme
 cyberpunk-theme
 cycbuf
+cycle-at-point
 cycle-buffer
 cycle-quotes
 cycle-resize
@@ -1341,6 +1342,7 @@ edice
 ediff-plus
 ediff-trees
 ediprolog
+edit-as-format
 edit-chrome-textarea
 edit-color-stamp
 edit-indirect
@@ -3380,6 +3382,7 @@ literate-calc-mode
 literate-coffee-mode
 literate-elisp
 literate-starter-kit
+litex-mode
 live-code-talks
 live-completions
 live-preview
@@ -4023,6 +4026,7 @@ ob-sagemath
 ob-sclang
 ob-smiles
 ob-sml
+ob-solidity
 ob-spice
 ob-sql-mode
 ob-svgbob
@@ -4281,6 +4285,7 @@ org-trello
 org-variable-pitch
 org-vcard
 org-velocity
+org-view-mode
 org-visibility
 org-watchdoc
 org-wc
@@ -4684,6 +4689,7 @@ pp-c-l
 ppd-sr-speedbar
 ppindent
 ppp
+pq
 pr-review
 prand
 prassee-theme
@@ -5274,6 +5280,7 @@ simple-plus
 simple-bookmarks
 simple-call-tree
 simple-httpd
+simple-indentation
 simple-modeline
 simple-mpc
 simple-paren
@@ -5779,6 +5786,7 @@ toolbox
 tooltip-help
 top-mode
 topsongs
+topspace
 topsy
 tora-mode
 tornado-template-mode
@@ -5797,6 +5805,7 @@ tracwiki-mode
 tramp
 tramp-auto-auth
 tramp-hdfs
+tramp-nspawn
 tramp-term
 tramp-theme
 trans-ej
@@ -6072,6 +6081,7 @@ wakib-keys
 walkclj
 walkman
 wallpaper
+wallpreview
 wand
 wandbox
 wanderlust
