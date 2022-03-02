@@ -844,6 +844,7 @@ consult-flycheck
 consult-ghq
 consult-lsp
 consult-notmuch
+consult-project-extra
 consult-projectile
 consult-recoll
 consult-yasnippet
@@ -1320,6 +1321,7 @@ ecasound
 ecb
 ecco
 ecd
+echo-bar
 echo-bell
 echo-pick
 echoline-mode
@@ -3727,6 +3729,7 @@ moom
 moonscript
 moonshot
 morganey-mode
+morgentau-theme
 morlock
 mosey
 most-used-words
@@ -3851,6 +3854,7 @@ naquadah-theme
 narrow-indirect
 narrow-reindent
 narrowed-page-navigation
+narumi
 nash-mode
 nasm-mode
 native-complete
@@ -4193,6 +4197,7 @@ org-mime
 org-mind-map
 org-ml
 org-mobile-sync
+org-modern
 org-movies
 org-mru-clock
 org-msg
@@ -4693,6 +4698,7 @@ pq
 pr-review
 prand
 prassee-theme
+prefab
 prefixed-core
 preproc-font-lock
 prescient
@@ -5118,6 +5124,7 @@ sallet
 salt-mode
 sane-term
 sass-mode
+satchel
 sauron
 save-load-path
 save-packages
@@ -6132,6 +6139,7 @@ whizzml-mode
 whois
 whole-line-funcs
 whole-line-or-region
+why-this
 wid-edit-plus
 wide-column
 widen-window
