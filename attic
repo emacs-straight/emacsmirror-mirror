@@ -941,6 +941,7 @@ otp
 outline-m
 outlined-elisp-mode
 ox-slimhtml
+ox-texinfo-plus
 p4pymarshal
 pack-windows
 page-mode
@@ -1306,6 +1307,7 @@ twiki-outline
 twit
 twitel
 two-mode-mode
+twtxt
 typed-clojure-mode
 typoscript-mode
 u-appt

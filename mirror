@@ -841,6 +841,7 @@ consult-company
 consult-dir
 consult-eglot
 consult-flycheck
+consult-flyspell
 consult-ghq
 consult-lsp
 consult-notmuch
@@ -1058,6 +1059,7 @@ delight
 delim-kill
 delim-pad
 demangle-mode
+demap
 demo-it
 deno-fmt
 descr-text-plus
@@ -2274,6 +2276,7 @@ github-clone
 github-dark-vscode-theme
 github-elpa
 github-explorer
+github-linguist
 github-modern-theme
 github-notifier
 github-pullrequest
@@ -3251,6 +3254,7 @@ kubernetes
 kubernetes-helm
 kubernetes-tramp
 kurecolor
+kuronami-theme
 kv
 kwin
 l
@@ -4250,6 +4254,7 @@ org-roam
 org-roam-bibtex
 org-roam-timestamps
 org-roam-ui
+org-ros
 org-rtm
 org-runbook
 org-scrum
@@ -4328,6 +4333,7 @@ osa
 osa-chrome
 osc
 osd
+osm
 osm-mode
 osx-browse
 osx-clipboard
@@ -4851,6 +4857,7 @@ qtcreator-theme
 qtref
 quack
 quarter-plane
+quarto-mode
 quasi-monochrome-theme
 quelpa
 quelpa-leaf
@@ -5875,7 +5882,6 @@ twilight-theme
 twitch-api
 twittering-dframe
 twittering-mode
-twtxt
 tx-mode
 type-test
 typematic
