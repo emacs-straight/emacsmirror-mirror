@@ -1174,6 +1174,7 @@ dispass
 display-buffer-for-wide-screen
 display-hatebu
 display-theme
+display-wttr
 dispwatch
 dist-file-mode
 distel
@@ -3233,7 +3234,7 @@ kivy-mode
 kiwix
 kixtart-mode
 klere-theme
-kmacro-mc
+kmacro-x
 kmb
 know-your-http-well
 kodi-remote
@@ -3418,6 +3419,7 @@ logalimacs
 logito
 logms
 lognav-mode
+logos
 logpad
 logstash-conf
 logview
@@ -3942,6 +3944,7 @@ nofrils-acme-theme
 noob-arrows-mode
 noprefix
 nord-theme
+norns
 northcode-theme
 notes-mode
 nothing-theme
@@ -4847,6 +4850,7 @@ python-test
 python-x
 pythonic
 pyvenv
+pyvenv-auto
 q-mode
 qa-mode
 qml-mode
@@ -5315,6 +5319,7 @@ sisu-mode
 ska-skel-matlab
 skeleton-complete
 skeletor
+skerrick
 sketch-mode
 sketch-themes
 skewer-less
