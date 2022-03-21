@@ -115,6 +115,7 @@ alect-themes
 alectryon
 alert
 alert-termux
+alert-toast
 algorithms
 align-by-current-symbol
 align-cljlet
@@ -272,6 +273,7 @@ auto-complete-sage
 auto-complete-verilog
 auto-complete-ya-gtags
 auto-correct
+auto-dark
 auto-dictionary
 auto-dim-other-buffers
 auto-document
@@ -864,6 +866,7 @@ copyright-both-ends
 coq-commenter
 corba
 corfu
+corfu-doc
 coroutine
 corral
 cort
@@ -2067,6 +2070,7 @@ flymake-ktlint
 flymake-languagetool
 flymake-less
 flymake-lua
+flymake-markdownlint
 flymake-nasm
 flymake-perlcritic
 flymake-php
@@ -3998,6 +4002,7 @@ ob-cfengine3
 ob-clojurescript
 ob-coffee
 ob-coffeescript
+ob-compile
 ob-crystal
 ob-cypher
 ob-dao
@@ -4028,6 +4033,7 @@ ob-mongo
 ob-napkin
 ob-nim
 ob-php
+ob-powershell
 ob-prolog
 ob-redis
 ob-restclient
@@ -4715,6 +4721,7 @@ preseed-generic-mode
 presentation
 prettier
 prettier-js
+prettier-rc
 prettify-greek
 prettify-math
 pretty-lambdada
