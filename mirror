@@ -4283,6 +4283,7 @@ org-super-agenda
 org-superstar
 org-sync
 org-sync-snippets
+org-table-color
 org-table-comment
 org-table-sticky-header
 org-tag-beautify
@@ -5527,6 +5528,7 @@ stan-mode
 standard-dirs
 standoff-mode
 stardict
+starlit-theme
 start-menu
 startproject
 startupd
@@ -5980,6 +5982,7 @@ utimeclock
 utop
 uuid
 uuidgen
+uwu-theme
 uzumaki
 v-mode
 v2ex-mode
