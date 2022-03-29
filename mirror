@@ -572,6 +572,7 @@ cask-mode
 cask-package-toolset
 caskxy
 catmacs
+catppuccin-theme
 cbm
 cc-cedict
 cc-chainsaw
@@ -1439,6 +1440,7 @@ elfeed-goodies
 elfeed-org
 elfeed-protocol
 elfeed-score
+elfeed-summary
 elforth
 elgrep
 elhome
@@ -1567,7 +1569,6 @@ epm
 epoch-view
 epom
 epresent
-eprime-mode
 eproject
 eproject-peepopen
 epydoc
@@ -1639,6 +1640,7 @@ eshell-toggle
 eshell-up
 eshell-vterm
 eshell-z
+eslint-disable-rule
 eslint-fix
 eslintd-fix
 esonify
@@ -2057,6 +2059,7 @@ flymake-go-staticcheck
 flymake-golangci
 flymake-gradle
 flymake-grammarly
+flymake-hadolint
 flymake-haml
 flymake-haskell-multi
 flymake-helper
@@ -2325,6 +2328,7 @@ gntp
 gnu-apl-mode
 gnu-elpa
 gnu-elpa-keyring-update
+gnu-indent
 gnugo
 gnuplot
 gnuplot-mode
@@ -3994,8 +3998,10 @@ nz-holidays
 oauth
 oauth2
 oauth2-request
+ob-ada-spark
 ob-applescript
 ob-async
+ob-bitfield
 ob-blockdiag
 ob-browser
 ob-cfengine3
@@ -4009,6 +4015,7 @@ ob-dao
 ob-dart
 ob-deno
 ob-diagrams
+ob-dsq
 ob-elixir
 ob-elm
 ob-elvish
@@ -4057,6 +4064,7 @@ oberon
 obfusurl
 objc-font-lock
 objed
+oblivion-theme
 obsidian-theme
 ocamlformat
 occidental-theme
@@ -4790,6 +4798,7 @@ ptemplate
 ptemplate-templates
 pubmed
 pug-mode
+pulsar
 pulseaudio
 pulseaudio-control
 punctuality-logger
@@ -5739,6 +5748,7 @@ text-categories
 textile-mode
 textmate
 textmate-to-yas
+textsize
 textsnip
 textx-mode
 tf2-conf-mode
@@ -5844,6 +5854,7 @@ transfer-sh
 transient
 transient-dwim
 transient-posframe
+translate-mode
 transmission
 transpose-frame
 transpose-mark
