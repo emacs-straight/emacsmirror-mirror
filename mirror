@@ -1104,6 +1104,7 @@ difflib
 diffpdf
 diffscuss-mode
 diffstat
+diffsync
 diffview
 digistar-mode
 digit-groups
@@ -2047,6 +2048,7 @@ flyguess
 flylisp
 flymake
 flymake-coffee
+flymake-collection
 flymake-css
 flymake-csslint
 flymake-cursor
@@ -2087,7 +2089,6 @@ flymake-puppet
 flymake-python-pyflakes
 flymake-quickdef
 flymake-racket
-flymake-rest
 flymake-ruby
 flymake-sass
 flymake-shell
@@ -3359,6 +3360,7 @@ light-soap-theme
 ligo-mode
 lilypond
 lilypond-hook
+lin
 line-comment-banner
 line-num
 line-reminder
@@ -4393,6 +4395,7 @@ ox-clip
 ox-epub
 ox-gemini
 ox-gfm
+ox-gist
 ox-haunt
 ox-html5slide
 ox-hugo
@@ -4661,7 +4664,9 @@ poetry
 point-pos
 point-stack
 point-undo
+poke
 poke-line
+poke-mode
 poker
 policy-switch
 pollen-mode
@@ -5822,6 +5827,7 @@ toggle-quotes
 toggle-test
 toggle-window
 tok-theme
+tokei
 tomatinho
 toml
 toml-mode
@@ -5860,6 +5866,7 @@ transcribe
 transcript
 transfer-sh
 transient
+transient-cycles
 transient-dwim
 transient-posframe
 translate-mode
@@ -6013,6 +6020,7 @@ vale-mode
 validate
 validate-html
 valign
+vampyricdark-theme
 vbasense
 vbnet-mode
 vbs-repl
@@ -6125,6 +6133,7 @@ waf-mode
 waher-theme
 wakatime-mode
 wakib-keys
+wal-mode
 walkclj
 walkman
 wallpaper
