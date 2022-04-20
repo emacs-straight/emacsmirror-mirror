@@ -674,6 +674,7 @@ clevercss
 clhs
 clibpc
 click-mode
+clingo-mode
 clip2org
 clipboard-collector
 clipetty
@@ -3350,6 +3351,7 @@ libbcel
 libelcouch
 liberime
 libgit
+liblouis
 libmpdee
 libmpdel
 librera-sync
@@ -6113,6 +6115,7 @@ vue-html-mode
 vue-mode
 vuiet
 vulpea
+vundo
 vunit-mode
 vyper-mode
 w3
@@ -6247,6 +6250,7 @@ wordgen
 wordnik
 wordnut
 wordpress-mode
+wordreference
 wordsmith-mode
 worf
 workgroups
