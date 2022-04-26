@@ -841,6 +841,7 @@ constants
 constellations
 constraint
 consult
+consult-ag
 consult-company
 consult-dir
 consult-eglot
@@ -975,6 +976,7 @@ curry-on-theme
 cursor-chg
 cursor-flash
 cursor-test
+cursory
 cus-edit-plus
 cwl-mode
 cyberpunk-2019-theme
@@ -2090,6 +2092,7 @@ flymake-puppet
 flymake-python-pyflakes
 flymake-quickdef
 flymake-racket
+flymake-rakudo
 flymake-ruby
 flymake-sass
 flymake-shell
@@ -5562,6 +5565,7 @@ steam
 steersman
 stem
 stem-english
+stem-reading-mode
 steno
 stgit
 stickies
@@ -5692,6 +5696,7 @@ tail
 take-off
 tal-indent
 tal-mode
+talonscript-mode
 tango-2-theme
 tango-plus-theme
 tangotango-theme
@@ -5815,6 +5820,7 @@ titlecase
 tj3-mode
 tldr
 tmmofl
+tmr
 tmt-mode
 tmux-pane
 toc-mode
