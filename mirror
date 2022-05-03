@@ -848,6 +848,7 @@ consult-eglot
 consult-flycheck
 consult-flyspell
 consult-ghq
+consult-ls-git
 consult-lsp
 consult-notmuch
 consult-org-roam
@@ -2124,6 +2125,7 @@ font-lock-profiler
 font-lock-regression-suite
 font-lock-studio
 font-utils
+fontaine
 fontawesome
 fontify-face
 fontsloth
@@ -2479,6 +2481,7 @@ gsettings
 gsnip
 gst-inspect
 gtags
+gtags-mode
 gtk-perl
 gtk-pomodoro-indicator
 gtk-variant
@@ -3504,6 +3507,7 @@ lyricwiki
 m-buffer
 mac-pseudo-daemon
 maces-game
+macports
 macro-math
 macros-plus
 macrostep
@@ -5239,6 +5243,7 @@ semaphore
 semi
 seml-mode
 sendto
+sensei
 sensitive
 sentence-highlight
 sentence-navigation
@@ -5520,6 +5525,7 @@ sprunge
 spss
 spu
 sql-beeline
+sql-cassandra
 sql-clickhouse
 sql-completion
 sql-indent
@@ -6017,6 +6023,7 @@ utop
 uuid
 uuidgen
 uwu-theme
+uxntal-mode
 uzumaki
 v-mode
 v2ex-mode
@@ -6189,6 +6196,7 @@ wgrep
 what-the-commit
 which-key
 which-key-posframe
+whiley-mode
 whitaker
 white-sand-theme
 white-theme
@@ -6262,6 +6270,7 @@ worf
 workgroups
 workgroups2
 worklog
+workroom
 world-time-mode
 wotd
 wpdl-mode
