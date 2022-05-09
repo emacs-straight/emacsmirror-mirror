@@ -918,6 +918,7 @@ cppref
 cppsense
 cpputils-cmake
 cpu-sos
+cpupower
 cql-mode
 cquery
 crappy-jsp-mode
@@ -968,6 +969,7 @@ cubicle-mode
 cucumber-goto-step
 cucumber-i18n
 cuda-mode
+cue-mode
 curl
 curl-to-elisp
 currency-convert
@@ -1776,6 +1778,7 @@ evil-visual-replace
 evil-visualstar
 evimodeline
 evm
+evm-mode
 ewal
 ewb
 ewmctrl
@@ -3321,6 +3324,7 @@ lazy-search
 lcb-mode
 lcomp
 lcr
+le-thesaurus
 leaf
 leaf-convert
 leaf-defaults
@@ -3901,6 +3905,7 @@ ncl-mode
 nclip
 ne2wm
 neato-graph-bar
+neil
 nemerle
 neon-mode
 neotree
@@ -4424,6 +4429,7 @@ ox-pukiwiki
 ox-qmd
 ox-report
 ox-reveal
+ox-review
 ox-rfc
 ox-rss
 ox-rst
@@ -4779,6 +4785,7 @@ project-local-variables
 project-mode-line-tag
 project-persist
 project-persist-drawer
+project-rootfile
 project-shells
 project-tab-groups
 projectile
@@ -5191,6 +5198,7 @@ scan
 scanner
 scf-mode
 scheme-complete
+scholar-import
 school-points-off
 schrute
 scihub
@@ -5355,6 +5363,7 @@ singlebind
 siri-shortcuts
 sis
 sisu-mode
+sisyphus
 ska-skel-matlab
 skeleton-complete
 skeletor
@@ -5476,6 +5485,7 @@ sorcery-theme
 soria-theme
 sort-plus
 sort-words
+sortie
 sotclojure
 sotlisp
 sound-wav
@@ -5815,6 +5825,7 @@ timesheet
 timid
 timonier
 timp
+timu-rouge-theme
 timu-spacegrey-theme
 tinkerer
 tiny
@@ -5843,6 +5854,7 @@ toggle-window
 tok-theme
 tokei
 tomatinho
+tomelr
 toml
 toml-mode
 tommyh-theme
