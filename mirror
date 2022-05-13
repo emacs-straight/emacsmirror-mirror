@@ -1097,7 +1097,6 @@ dic-lookup-w3m
 dict-tree
 dictcc
 dictem
-dictionary
 didyoumean
 diff-plus
 diff-ansi
@@ -2754,7 +2753,6 @@ hide-url
 hidepw
 hideshow-org
 hideshowvis
-hierarchy
 highlight
 highlight-80-plus
 highlight-blocks
@@ -3009,7 +3007,6 @@ instapaper
 intel-hex-mode
 intellij-theme
 interaction-log
-interleave
 interpreter-minor
 interval-list
 interval-tree
@@ -3487,7 +3484,6 @@ lsp-p4
 lsp-pascal
 lsp-pyre
 lsp-pyright
-lsp-python-ms
 lsp-rescript
 lsp-sonarlint
 lsp-sourcekit
@@ -4663,6 +4659,7 @@ plsql
 plt-completions
 plur
 plural
+plz
 pmd
 pmdm
 pnpm-mode
@@ -5177,7 +5174,6 @@ sailfish-scratchbox
 salesforce-utils
 sallet
 salt-mode
-sane-term
 sass-mode
 satchel
 sauron
@@ -6398,7 +6394,6 @@ ytel
 z3-mode
 zeal-at-point
 zeitgeist
-zel
 zen-and-art-theme
 zen-mode
 zenburn-theme

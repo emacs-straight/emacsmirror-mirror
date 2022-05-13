@@ -638,6 +638,7 @@ insert-construct
 insertions
 inspec2bibtex
 integers
+interleave
 intero
 invoice
 ion3
@@ -753,6 +754,7 @@ lpc-mode
 lsl-mode
 lsp-javascript-typescript
 lsp-python
+lsp-python-ms
 lsp-ruby
 lsp-scala
 lsp-sh
@@ -1116,6 +1118,7 @@ saaxy
 safe-equal
 safescrollmouse
 sandbox
+sane-term
 sas
 save-and-dwim
 save-history
@@ -1451,6 +1454,7 @@ youwill
 yow-fns
 ysq
 ysq-modeline
+zel
 zendmd-comint
 zenirc
 zossima
