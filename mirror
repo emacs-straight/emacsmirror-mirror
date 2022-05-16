@@ -209,6 +209,7 @@ arjen-grey-theme
 arrange-buffers
 artbollocks-mode
 arview
+arxiv-citation
 arxiv-mode
 ascii
 ascii-art-to-unicode
@@ -4189,6 +4190,7 @@ org-drill
 org-drill-table
 org-dropbox
 org-easy-img-insert
+org-edit-indirect
 org-edit-latex
 org-edna
 org-ehtml
@@ -5541,6 +5543,7 @@ sql-presto
 sql-smie
 sql-sqlline
 sql-transform
+sql-trino
 sql-with-placeholders
 sqled-mode
 sqlformat
@@ -6405,6 +6408,7 @@ zephir-mode
 zero-input
 zerodark-theme
 zetteldeft
+zetteldesk
 zettelkasten
 zetz-mode
 zig-mode
