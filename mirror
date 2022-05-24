@@ -594,6 +594,7 @@ centered-cursor-mode
 centered-window
 centimacro
 cerbere
+cern-root-mode
 cexp
 ceylon-mode
 cfengine-code-style
@@ -692,6 +693,7 @@ cljsbuild-mode
 clmemo
 cloc
 clocker
+clockodo
 clojars
 clojure-essential-ref
 clojure-mode
@@ -1081,6 +1083,7 @@ desktop-plus
 desktop-environment
 desktop-mail-user-agent
 desktop-registry
+detached
 detour
 devdocs
 devdocs-browser
@@ -1267,7 +1270,6 @@ dropdown-list
 drupal-mode
 drupal-spell
 dsvn
-dtache
 dtb-mode
 dtk
 dtrace-script-mode
@@ -5555,6 +5557,7 @@ sr-speedbar
 srcery-theme
 srefactor
 srfi
+srht
 srv
 ssass-mode
 ssh
