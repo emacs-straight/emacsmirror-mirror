@@ -2193,6 +2193,7 @@ fullscreen-mode
 function-args
 fuo
 furl
+fussy
 futhark-mode
 fuz
 fuz-bin
@@ -3004,6 +3005,7 @@ insert-shebang
 insert-time
 insert-time-string
 insfactor
+inspector
 install
 install-elisp
 instapaper
@@ -3306,6 +3308,7 @@ lastfm
 lastpass
 latch
 later-do
+latex-change-env
 latex-extra
 latex-frame-mode
 latex-math-preview
@@ -3922,6 +3925,7 @@ newpaste
 newspeak-mode
 newsticker-notify
 nexus
+nftables-mode
 ng2-mode
 nginx-mode
 ngircd
@@ -5642,6 +5646,7 @@ svg-clock
 svg-lib
 svg-mode-line-themes
 svg-tag-mode
+svgo
 svnwrapper
 swagger-to-org
 swallow-window
