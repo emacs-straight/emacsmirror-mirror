@@ -2173,6 +2173,7 @@ freeradius-mode
 freeze-it
 friendly-shell
 friendly-tramp-path
+frimacs
 fringe-current-line
 fringe-helper
 frog-jump-buffer
@@ -4182,6 +4183,7 @@ org-clock-reminder
 org-clock-split
 org-clock-today
 org-commentary
+org-contacts
 org-context
 org-contrib
 org-cua-dwim
