@@ -104,6 +104,7 @@ ahg
 ahk-mode
 ahungry-theme
 aio
+aircon-theme
 airline-themes
 airplay
 ajc-java-complete
@@ -165,6 +166,7 @@ ansi
 ansible
 ansible-doc
 ansible-vault
+ansilove
 ansys-mod
 ant
 ant-mode
@@ -565,6 +567,7 @@ capture
 carbon-now-sh
 cargo
 cargo-mode
+cargo-transient
 caroline-theme
 cascading-dir-locals
 caseformat
@@ -3003,6 +3006,7 @@ inline-docs
 insert-char-preview
 insert-esv
 insert-kaomoji
+insert-random
 insert-shebang
 insert-time
 insert-time-string
@@ -3179,7 +3183,6 @@ jsonrpc
 jss
 jst
 jtags
-juick
 julia-formatter
 julia-mode
 julia-repl
@@ -3385,6 +3388,7 @@ line-up-words
 lines-at-once
 lingr
 linguistic
+lingva
 link-hint
 linkd
 linkify
@@ -4748,6 +4752,7 @@ powershell-mode
 powerthesaurus
 pp-plus
 pp-c-l
+ppcompile
 ppd-sr-speedbar
 ppindent
 ppp
@@ -5447,6 +5452,7 @@ smeargle
 smex
 smiles-mode
 smithers
+smithy-mode
 sml-basis
 sml-mode
 sml-modeline
