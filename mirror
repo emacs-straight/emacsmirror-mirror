@@ -565,6 +565,7 @@ caps-lock
 captain
 capture
 carbon-now-sh
+cardano-tx
 cargo
 cargo-mode
 cargo-transient
@@ -693,6 +694,7 @@ clj-refactor
 cljr-helm
 cljr-ivy
 cljsbuild-mode
+cljstyle-format
 clmemo
 cloc
 clocker
@@ -849,6 +851,7 @@ constraint
 consult
 consult-ag
 consult-company
+consult-dash
 consult-dir
 consult-eglot
 consult-flycheck
@@ -870,6 +873,7 @@ contrast-color
 control-mode
 conventional-changelog
 cook-mode
+cool-mode
 copy-as-format
 copy-file-on-save
 copyit
@@ -1079,6 +1083,7 @@ demangle-mode
 demap
 demo-it
 deno-fmt
+denote
 descr-text-plus
 describe-hash
 describe-number
@@ -1138,6 +1143,7 @@ dired-column-widths
 dired-details
 dired-details-plus
 dired-du
+dired-duplicates
 dired-dups
 dired-efap
 dired-explorer
@@ -1290,6 +1296,7 @@ duplicate-thing
 dut-mode
 dvorak-mode
 dw
+dwim-shell-command
 dyalog-mode
 dylan
 dynamic-fonts
@@ -1455,6 +1462,7 @@ elfeed-org
 elfeed-protocol
 elfeed-score
 elfeed-summary
+elfeed-tube
 elforth
 elgrep
 elhome
@@ -1526,6 +1534,7 @@ emamux
 emamux-ruby-test
 emaps
 embark
+embark-vc
 embeddedchangelog
 ember-mode
 ember-yasnippets
@@ -1806,6 +1815,7 @@ exsqlaim-mode
 extempore-mode
 extend-dnd
 external-abook
+external-dict
 extmap
 extract-text
 extview
@@ -1838,6 +1848,7 @@ factlog
 faff-theme
 fakir
 fancy-battery
+fancy-compilation
 fancy-dabbrev
 fancy-narrow
 fantom-theme
@@ -2476,6 +2487,7 @@ grep-a-lot
 grep-buffers
 grep-ed
 grep-o-matic
+grey-paper-theme
 greymatters-theme
 griffin
 grip-mode
@@ -3177,6 +3189,7 @@ json-rpc
 json-rpc-server
 json-sexp-mode
 json-snatcher
+jsonian
 jsonl
 jsonnet-mode
 jsonrpc
@@ -3475,6 +3488,7 @@ lox-mode
 lpy
 ls-lisp-plus
 lsdb
+lsp-cfn
 lsp-dart
 lsp-docker
 lsp-focus
@@ -3497,6 +3511,7 @@ lsp-pascal
 lsp-pyre
 lsp-pyright
 lsp-rescript
+lsp-scheme
 lsp-sonarlint
 lsp-sourcekit
 lsp-tailwindcss
@@ -3605,6 +3620,7 @@ markdown-changelog
 markdown-mode
 markdown-preview-eww
 markdown-preview-mode
+markdown-soma
 markdown-toc
 markdownfmt
 markless
@@ -3687,6 +3703,7 @@ midje-mode
 migemo
 milkode
 mimetypes
+mindre-theme
 mines
 minesweeper
 mingus
@@ -3866,6 +3883,7 @@ mvn
 mw-thesaurus
 mwim
 mxf-view
+my-repo-pins
 myanmar-input-methods
 mybigword
 mybuffers
@@ -3879,6 +3897,7 @@ myterminal-controls
 mythryl-mode
 mz-comment-fix
 n4js
+naga-theme
 naked
 name-this-color
 named-timer
@@ -4051,6 +4070,7 @@ ob-elm
 ob-elvish
 ob-ess-julia
 ob-fsharp
+ob-git-permalink
 ob-go
 ob-graphql
 ob-haxe
@@ -4224,6 +4244,7 @@ org-gtd
 org-helpers
 org-hlc
 org-hyde
+org-hyperscheduler
 org-id-cleanup
 org-if
 org-index
@@ -4642,8 +4663,10 @@ pinot
 pinyin
 pinyin-search
 pinyinlib
+pip-frame
 pip-requirements
 pipenv
+pipewire
 pippel
 pixie-mode
 pixiv-novel-mode
@@ -5063,6 +5086,7 @@ remind-conf-mode
 remind-to-diary
 renpy
 repdet
+repeat-help
 repeatable-motion
 repeater
 repl-toggle
@@ -5100,6 +5124,7 @@ rewrite
 reykjavik-theme
 rfc-mode
 rg
+rgb
 rhq
 rhtml-mode
 rib-mode
@@ -5126,6 +5151,7 @@ rmailgen
 rmsbolt
 rnc-mode
 robe
+robot-log
 robot-mode
 robots-txt-mode
 roguel-ike
@@ -5346,6 +5372,10 @@ sicp
 side-hustle
 side-notes
 sidecar-locals
+sideline
+sideline-blame
+sideline-flycheck
+sideline-lsp
 sie
 sierotki
 sift
@@ -5547,6 +5577,7 @@ sproto-mode
 sprunge
 spss
 spu
+sq
 sql-beeline
 sql-cassandra
 sql-clickhouse
@@ -5707,6 +5738,7 @@ systemtap-mode
 sysuplist-mode
 tNFA
 ta
+tab-bar-buffers
 tab-bar-echo-area
 tab-bar-groups
 tab-bar-lost-commands
@@ -5731,6 +5763,7 @@ tal-mode
 talonscript-mode
 tango-2-theme
 tango-plus-theme
+tangonov-theme
 tangotango-theme
 tao-theme
 tap-mode
@@ -5922,7 +5955,9 @@ tray
 tree-edit
 tree-mode
 tree-sitter
+tree-sitter-ess-r
 tree-sitter-indent
+tree-sitter-ispell
 tree-sitter-langs
 treefactor
 treemacs
@@ -6374,6 +6409,7 @@ yalinum
 yaml
 yaml-imenu
 yaml-mode
+yaml-pro
 yaml-tomato
 yammer
 yang-mode
@@ -6432,6 +6468,7 @@ zig-mode
 zim-wiki-mode
 zimports
 zk
+zk-luhmann
 zlc
 zmq
 zmusic
