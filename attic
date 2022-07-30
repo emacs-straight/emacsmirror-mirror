@@ -288,6 +288,7 @@ dired-isearch
 dired-sequence
 dirvars
 disptime
+django-mode
 dms-sig
 dna-debug
 docbookide
@@ -719,6 +720,7 @@ ldraw-mode
 lectionary
 lein
 lenlen-theme
+less-mode
 lessage
 lgit
 license
@@ -1029,6 +1031,7 @@ punycode
 puzzle
 pwsafe
 pydoc-info
+pyenv-mode-auto
 pyfmt
 python-extras
 qa
@@ -1207,6 +1210,7 @@ sqlplus-html
 sqlplus-mode
 ssh-agent
 starteam
+startproject
 startup-file-name-history
 startup-messages
 stock-quote
@@ -1379,6 +1383,8 @@ wcy-display-line-number
 wdoc-mode
 webinfo
 webjump-plus
+weechat
+weechat-alert
 wget
 what-domain
 which

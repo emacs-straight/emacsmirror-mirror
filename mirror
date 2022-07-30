@@ -1210,7 +1210,6 @@ dix
 dizzee
 django-commands
 django-manage
-django-mode
 django-theme
 djangonaut
 djinni-mode
@@ -3365,7 +3364,6 @@ lentic
 lentic-server
 leo
 less
-less-mode
 let-alist
 let-recur
 letcheck
@@ -4891,7 +4889,6 @@ pycarddavel
 pycoverage
 pydoc
 pyenv-mode
-pyenv-mode-auto
 pygen
 pygn-mode
 pyim
@@ -5618,7 +5615,6 @@ standoff-mode
 stardict
 starlit-theme
 start-menu
-startproject
 startupd
 stash
 state
@@ -6251,8 +6247,6 @@ weblorg
 webpaste
 websocket
 wedge-ws
-weechat
-weechat-alert
 weibo
 weyland-yutani-theme
 wgrep
