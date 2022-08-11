@@ -1568,6 +1568,7 @@ emux
 enclose
 encourage-mode
 encrypt
+encrypt-region
 engine-mode
 engrave-faces
 enh-ruby-mode
@@ -2532,6 +2533,7 @@ hamburg-theme
 hamburger-menu
 haml-mode
 hamlet-mode
+hammy
 handle
 handlebars-mode
 handlebars-sgml-mode
@@ -2884,6 +2886,7 @@ hyperspec
 i-ching
 i2b2-mode
 i3
+i3bar
 i3wm
 i3wm-config-mode
 ialign
@@ -3712,6 +3715,7 @@ mini-popup
 minibuf-isearch
 minibuffer-complete-cycle
 minibuffer-cua
+minibuffer-header
 minibuffer-line
 minibuffer-modifier-keys
 miniedit
@@ -4113,6 +4117,7 @@ obfusurl
 objc-font-lock
 objed
 oblivion-theme
+obsidian
 obsidian-theme
 ocamlformat
 occidental-theme
@@ -4230,6 +4235,7 @@ org-elp
 org-email
 org-emms
 org-evil
+org-extra-emphasis
 org-fancy-priorities
 org-fragtog
 org-gamedb
@@ -4582,6 +4588,7 @@ pelican-mode
 pepita
 per-buffer-theme
 perfect-margin
+perl-doc
 perl-find-library
 perl-quote
 perl-use-utf8-coding
@@ -5372,6 +5379,7 @@ sidecar-locals
 sideline
 sideline-blame
 sideline-flycheck
+sideline-flymake
 sideline-lsp
 sie
 sierotki
@@ -6245,6 +6253,7 @@ weblio
 weblogger
 weblorg
 webpaste
+websearch
 websocket
 wedge-ws
 weibo
