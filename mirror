@@ -547,6 +547,7 @@ cakecrumbs
 cal-china-x
 calc-at-point
 calc-inline
+calc-prog-utils
 calendar-plus
 calendar-norway
 calfw
@@ -661,6 +662,7 @@ circe-notifications
 circleci-api
 cisco-router-mode
 citar
+citar-org-roam
 citeproc
 citeproc-org
 citre
@@ -734,6 +736,7 @@ code-stats
 codebug
 codepad
 codesearch
+codespaces
 codethumb
 codic
 coffee-fof
@@ -859,6 +862,7 @@ consult-flyspell
 consult-ghq
 consult-ls-git
 consult-lsp
+consult-notes
 consult-notmuch
 consult-org-roam
 consult-project-extra
@@ -992,6 +996,7 @@ cursor-test
 cursory
 cus-edit-plus
 cwl-mode
+cyanometric-theme
 cyberpunk-2019-theme
 cyberpunk-theme
 cycbuf
@@ -1243,7 +1248,6 @@ doit-mode
 dokuwiki
 dokuwiki-mode
 dollaro
-doneburn-theme
 doom
 doom-modeline
 doom-modeline-now-playing
@@ -1391,6 +1395,7 @@ edts
 edwina
 ee
 eev
+ef-themes
 efar
 efire
 eg
@@ -2024,7 +2029,6 @@ flycheck-inline
 flycheck-irony
 flycheck-jest
 flycheck-joker
-flycheck-julia
 flycheck-kotlin
 flycheck-languagetool
 flycheck-ledger
@@ -2817,6 +2821,7 @@ hl-block-mode
 hl-defined
 hl-fill-column
 hl-indent
+hl-indent-scope
 hl-line-plus
 hl-prog-extra
 hl-sentence
@@ -3106,7 +3111,6 @@ ix
 j-mode
 jabber
 jabber-chatx
-jabber-otr
 jack-connect
 jade-mode
 jamar
@@ -3390,6 +3394,7 @@ librera-sync
 lice
 license-snippets
 license-templates
+ligature
 light-soap-theme
 ligo-mode
 lilypond
@@ -4175,6 +4180,7 @@ openstack-cgit-browse-file
 openwith
 operate-on-number
 opscode-sign
+orangey-bits-theme
 orca
 orderless
 ordinal
@@ -4773,6 +4779,7 @@ posn-on-screen
 postcss-sorting
 pov-mode
 pow
+power-mode
 powerline
 powerline-evil
 powershell
@@ -5217,6 +5224,7 @@ s3ed
 sackspace
 sage-shell-mode
 sailfish-scratchbox
+sakura-theme
 salesforce-utils
 sallet
 salt-mode
@@ -5869,6 +5877,7 @@ tidy
 tikz
 tile
 tiling
+time-block
 time-ext
 timeclock-x
 timer-plus
@@ -6132,6 +6141,7 @@ vdirel
 vdm-mode
 vector-utils
 vega-view
+vegetative-theme
 velocity
 verb
 veri-kompass
@@ -6452,7 +6462,6 @@ ytdl
 ytel
 z3-mode
 zeal-at-point
-zeitgeist
 zen-and-art-theme
 zen-mode
 zenburn-theme

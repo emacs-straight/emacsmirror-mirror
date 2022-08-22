@@ -451,6 +451,7 @@ floatbg
 fluiddb
 flycheck-demjsonlint
 flycheck-ensime
+flycheck-julia
 flycheck-mix
 flycheck-purescript
 flycheck-rebar3
@@ -657,6 +658,7 @@ itunes
 ivy-feedwrangler
 ivy-pages
 iy-go-to-char
+jabber-otr
 japanese-tokenizer
 japanlaw
 jasmin
@@ -1461,6 +1463,7 @@ youwill
 yow-fns
 ysq
 ysq-modeline
+zeitgeist
 zel
 zendmd-comint
 zenirc
