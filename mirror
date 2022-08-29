@@ -599,6 +599,7 @@ centered-cursor-mode
 centered-window
 centimacro
 cerbere
+cern-ldap
 cern-root-mode
 cexp
 ceylon-mode
@@ -3049,6 +3050,7 @@ ios-config-mode
 ipa
 ipcalc
 iplayer
+ipp
 ipretty
 ipython-shell-send
 iqa
@@ -3662,6 +3664,7 @@ mct
 md-readme
 md4rd
 mdabbrev
+media-thumbnail
 mediawiki
 meghanada
 melancholy-theme
@@ -4203,6 +4206,7 @@ org-beautify-theme
 org-board
 org-bom
 org-bookmark-heading
+org-bookmarks-extractor
 org-books
 org-brain
 org-buffers
