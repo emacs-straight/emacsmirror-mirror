@@ -2153,6 +2153,7 @@ fontaine
 fontawesome
 fontify-face
 fontsloth
+for
 forecast
 foreign-regexp
 foreman-mode
@@ -3015,6 +3016,7 @@ inform-mode
 inform7
 inherit-local
 inheritenv
+ini
 ini-mode
 init-loader
 init-open-recentf
@@ -3162,6 +3164,7 @@ jira
 jira-markup-mode
 jiralib2
 jist
+jit-lock-stealth-progress
 jknav
 jmt-mode
 joccur
@@ -3646,6 +3649,7 @@ math-delimiters
 math-preview
 math-symbol-lists
 math-symbols
+math-tex-convert
 matlab-mode
 maude-mode
 maven-test-mode
@@ -3800,6 +3804,7 @@ moonshot
 morganey-mode
 morgentau-theme
 morlock
+mos-mode
 mosey
 most-used-words
 mote-mode
@@ -3897,6 +3902,7 @@ my-repo-pins
 myanmar-input-methods
 mybigword
 mybuffers
+mybuild-mode
 myers
 mykie
 mynt-mode
@@ -4377,6 +4383,7 @@ org-tree-slide-pauses
 org-treescope
 org-treeusage
 org-trello
+org-unique-id
 org-variable-pitch
 org-vcard
 org-velocity
@@ -4621,6 +4628,7 @@ perspective
 perspective-exwm
 perspeen
 pest-mode
+pet
 pfuture
 pg
 pgdevenv
@@ -5232,6 +5240,7 @@ sakura-theme
 salesforce-utils
 sallet
 salt-mode
+samskritam
 sass-mode
 satchel
 sauron
@@ -6078,6 +6087,7 @@ unison
 unison-mode
 unisonlang-mode
 unit-test
+units-mode
 universal-emotions-emoticons
 unkillable-scratch
 unmodified-buffer
@@ -6464,6 +6474,7 @@ yql
 ytdious
 ytdl
 ytel
+yul-mode
 z3-mode
 zeal-at-point
 zen-and-art-theme
