@@ -206,6 +206,7 @@ compilation-weblint
 compile-command-default
 completing-help
 completion-ignored-build
+completions-frame
 confluence
 conjecture-mode
 connectivity

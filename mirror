@@ -839,7 +839,6 @@ compile-bookmarks
 compile-dwim
 compiler-explorer
 completing-history
-completions-frame
 composable
 composer
 comware-router-mode
@@ -3448,7 +3447,6 @@ literal-string
 literate-calc-mode
 literate-coffee-mode
 literate-elisp
-literate-starter-kit
 litex-mode
 live-code-talks
 live-completions
