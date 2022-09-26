@@ -4689,6 +4689,7 @@ pip-requirements
 pipenv
 pipewire
 pippel
+pixelblaze
 pixie-mode
 pixiv-novel-mode
 pkg-info
@@ -4882,6 +4883,7 @@ pt
 ptemplate
 ptemplate-templates
 pubmed
+pueue
 pug-mode
 pulsar
 pulseaudio
@@ -4907,6 +4909,7 @@ py-import-check
 py-indent
 py-isort
 py-smart-operator
+py-snippets
 py-test
 py-yapf
 pycarddavel
