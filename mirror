@@ -1807,6 +1807,7 @@ excorporate
 exec-abbrev-cmd
 exec-path-from-shell
 execline
+exercism
 exiftool
 exim
 exotica-theme
@@ -2122,6 +2123,7 @@ flymake-sass
 flymake-shell
 flymake-shellcheck
 flymake-solidity
+flymake-sqlfluff
 flymake-swi-prolog
 flymake-vala
 flymake-vnu
@@ -3071,6 +3073,7 @@ isearch-prop
 isearch-symbol-at-point
 isend-mode
 isgd
+islisp-mode
 isortify
 ispc-mode
 iss-mode
@@ -4229,6 +4232,7 @@ org-contacts
 org-context
 org-contrib
 org-cua-dwim
+org-custom-cookies
 org-d20
 org-dashboard
 org-daypage
