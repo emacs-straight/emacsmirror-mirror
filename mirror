@@ -4370,6 +4370,7 @@ org-table-color
 org-table-comment
 org-table-sticky-header
 org-tag-beautify
+org-tagged
 org-tanglesync
 org-tfl
 org-themis
@@ -5850,6 +5851,7 @@ tern-context-coloring
 terraform-doc
 terraform-mode
 terrible-template
+tesouro
 test-c
 test-case-mode
 test-framework
@@ -6399,6 +6401,7 @@ xdg-paths
 xelb
 xenops
 xhair
+xit-mode
 xkcd
 xlicense
 xmind-org
