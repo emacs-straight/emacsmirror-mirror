@@ -39,6 +39,7 @@ anything-sage
 anything-tramp
 aplac-mode
 apt-mode
+arc-dark-theme
 arc-lzh-exe
 archie
 areabrowse
@@ -611,6 +612,7 @@ ibs
 ibuffer-perspective
 ibus
 icaps
+icons-in-terminal
 idle-highlight
 idledo
 idna

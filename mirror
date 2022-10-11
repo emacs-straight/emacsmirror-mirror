@@ -198,7 +198,6 @@ apt-sources-list
 apu
 aqi
 arbitools
-arc-dark-theme
 arch-packer
 archive-downloader
 archive-region
@@ -1697,6 +1696,7 @@ etags-stack
 etags-table
 etags-update
 etc-sudoers-mode
+etd
 eterm-256color
 eterm-fn
 etest
@@ -2810,6 +2810,7 @@ highlight-unique-symbol
 highlight2clipboard
 highline
 highrise
+himalaya
 hindent
 hippie-exp-ext
 hippie-expand-slime
@@ -2911,10 +2912,10 @@ ical2org
 iceberg-theme
 icicles
 icicles-iswitchb
+icl-mode
 icmp-info
 icomplete-plus
 icomplete-vertical
-icons-in-terminal
 icsql
 id-manager
 idea-darkula-theme
@@ -4086,6 +4087,7 @@ ob-elixir
 ob-elm
 ob-elvish
 ob-ess-julia
+ob-ffuf
 ob-fsharp
 ob-git-permalink
 ob-go
@@ -4600,6 +4602,7 @@ pdf-view-restore
 pdfgrep
 pdfscan
 peacock-theme
+pebble-mode
 peek-mode
 peep-dired
 peertube
@@ -5186,6 +5189,7 @@ robots-txt-mode
 roguel-ike
 ron-mode
 rope-read-mode
+ropgadget
 ros
 rotate
 rotate-text
