@@ -200,6 +200,7 @@ aqi
 arbitools
 arch-packer
 archive-downloader
+archive-phar
 archive-region
 archive-rpm
 arduino-cli-mode
@@ -698,6 +699,7 @@ cljr-ivy
 cljsbuild-mode
 cljstyle-format
 clmemo
+cloak-mode
 cloc
 clocker
 clockodo
@@ -1529,7 +1531,6 @@ emacsc
 emacsist-view
 emacspeak
 emacsql
-emacsql-sqlite-builtin
 emacsql-sqlite3
 emacsshot
 email
@@ -4111,6 +4112,7 @@ ob-nim
 ob-php
 ob-powershell
 ob-prolog
+ob-raku
 ob-redis
 ob-restclient
 ob-reticulate
@@ -6486,6 +6488,7 @@ yql
 ytdious
 ytdl
 ytel
+yuck-mode
 yul-mode
 z3-mode
 zeal-at-point
