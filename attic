@@ -956,6 +956,7 @@ p4pymarshal
 pack-windows
 page-mode
 pair-mode
+paradox
 paredit-viper-compat
 paren-glint
 parinfer
