@@ -647,7 +647,6 @@ chronometrist
 chronometrist-goal
 chronos
 chruby
-chumpy-windows
 chyla-theme
 cider
 cider-decompile
@@ -1860,7 +1859,7 @@ fancy-dabbrev
 fancy-narrow
 fantom-theme
 fanyi
-farmhouse-theme
+farmhouse-themes
 fasd
 fast-scroll
 fastdef
@@ -2866,8 +2865,8 @@ html-script-src
 html-to-hiccup
 html-to-markdown
 html2org
-html5
 html5-schema
+html5-tok
 htmlize
 htmlr
 htmltagwrap
@@ -2917,6 +2916,7 @@ icl-mode
 icmp-info
 icomplete-plus
 icomplete-vertical
+icons-in-terminal
 icsql
 id-manager
 idea-darkula-theme
@@ -6327,6 +6327,7 @@ win-switch
 windata
 window-plus
 window-end-visible
+window-jump
 window-layout
 window-margin
 window-number
@@ -6522,7 +6523,6 @@ zone-rainbow
 zone-select
 zone-sl
 zones
-zonokai-theme
 zoom
 zoom-frm
 zoom-window
