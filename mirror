@@ -98,6 +98,7 @@ agda2-mode
 aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
+agitate
 agtags
 ah
 ahg
@@ -521,7 +522,6 @@ bundle
 bundler
 burly
 burnt-toast
-bury-successful-compilation
 buster-mode
 buster-snippets
 busybee-theme
@@ -573,7 +573,6 @@ cargo-transient
 caroline-theme
 cascading-dir-locals
 caseformat
-cask
 cask-mode
 cask-package-toolset
 caskxy
@@ -1028,7 +1027,6 @@ darcula-theme
 dark-krystal-theme
 dark-mint-theme
 dark-souls
-darkburn-theme
 darken-text
 darkmine-theme
 darkokai-theme
@@ -1057,6 +1055,7 @@ db-pg
 db-sql
 dbc
 dbus-codegen
+ddate
 ddl-mode
 ddskk
 ddskk-posframe
@@ -1140,6 +1139,7 @@ diminish-buffer
 dimmer
 dionysos
 dir-treeview
+dir-treeview-themes
 dircmp
 director
 dired-plus
@@ -1229,6 +1229,7 @@ dna-mode
 do-not-edit
 doc-mode
 doc-show-inline
+doc-toc
 docbook
 docbook-snippets
 docean
@@ -1543,6 +1544,7 @@ ember-mode
 ember-yasnippets
 emboss
 embrace
+ement
 emidje
 emir
 emmet-mode
@@ -1730,7 +1732,6 @@ evil-collection
 evil-commentary
 evil-dvorak
 evil-easymotion
-evil-ediff
 evil-elscreen
 evil-embrace
 evil-escape
@@ -2015,7 +2016,6 @@ flycheck-flawfinder
 flycheck-flow
 flycheck-ghcmod
 flycheck-golangci-lint
-flycheck-gometalinter
 flycheck-google-cpplint
 flycheck-gradle
 flycheck-grammalecte
@@ -2360,6 +2360,7 @@ gmail2bbdb
 gmpl-mode
 gmsh-mode
 gn-mode
+gnat-compiler
 gnome-c-style
 gnome-calendar
 gnome-screencast
@@ -2462,6 +2463,8 @@ govet
 gpastel
 gpicker
 gplus-mode
+gpr-mode
+gpr-query
 grab-and-drag
 grab-mac-link
 grab-x-link
@@ -2515,6 +2518,7 @@ gtags-mode
 gtk-perl
 gtk-pomodoro-indicator
 gtk-variant
+guake
 guess-language
 guess-offset
 guess-style
@@ -2562,6 +2566,7 @@ haxe-mode
 haxor-mode
 hayoo
 hc-zenburn-theme
+hcel
 hcl-mode
 header-file
 header2
@@ -2754,7 +2759,6 @@ help-dwim
 help-dwim-perlapi
 help-dwim-perldoc
 help-find
-help-find-org-mode
 help-fns-plus
 help-macro-plus
 help-mode-plus
@@ -3173,7 +3177,6 @@ jknav
 jmt-mode
 joccur
 jonprl-mode
-journalctl-mode
 jpl-reformat
 jpop
 jq-format
@@ -3537,6 +3540,7 @@ lua-mode
 luarocks
 lush-theme
 lusty-explorer
+luwak
 lux-mode
 lxc
 lxc-tramp
@@ -4028,6 +4032,7 @@ notink-theme
 notmuch
 notmuch-addr
 notmuch-bookmarks
+notmuch-indicator
 notmuch-labeler
 notmuch-maildir
 notmuch-transient
@@ -4480,6 +4485,7 @@ ox-jira
 ox-json
 ox-latex-subfigure
 ox-leanpub
+ox-linuxmag-fr
 ox-mdx-deck
 ox-mediawiki
 ox-minutes
@@ -4532,7 +4538,6 @@ paint
 pair-tree
 palette
 palimpsest
-pallet
 pamparam
 panda
 panda-theme
@@ -4969,7 +4974,6 @@ qa-mode
 qml-mode
 qooxdoo
 qrencode
-qt-pro-mode
 qtcreator-theme
 qtref
 quack
@@ -6101,7 +6105,6 @@ unisonlang-mode
 unit-test
 units-mode
 universal-emotions-emoticons
-unkillable-scratch
 unmodified-buffer
 unobtrusive-magit-theme
 unparen
@@ -6110,6 +6113,7 @@ untitled-new-buffer
 upbo
 uptimes
 url-http-ntlm
+url-scgi
 url-shortener
 urlenc
 urscript-mode
@@ -6537,6 +6541,7 @@ zpresent
 zprint-format
 zprint-mode
 ztree
+zuul
 zweilight-theme
 zwiebel
 zygospore

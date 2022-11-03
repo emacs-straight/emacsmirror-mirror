@@ -126,6 +126,7 @@ buffer-time-stamp
 buffermenu
 buffi
 buqis
+bury-successful-compilation
 byrd-biff
 byte-code-cache
 bytecomp-fns
@@ -140,6 +141,7 @@ cal-desk-calendar
 camelcase-mode
 caps-mode
 caselet
+cask
 cat-safe
 cc-tempo-electric-support
 ccm
@@ -254,6 +256,7 @@ d-insert-import
 dabbrev-hover
 dacode
 dar
+darkburn-theme
 darkroom-mode
 dash-outline-mode
 datr
@@ -405,6 +408,7 @@ esms
 esmtpmail
 espect
 etrack
+evil-ediff
 evil-magit
 evil-rebellion
 evil-scout
@@ -453,6 +457,7 @@ floatbg
 fluiddb
 flycheck-demjsonlint
 flycheck-ensime
+flycheck-gometalinter
 flycheck-julia
 flycheck-mix
 flycheck-purescript
@@ -576,6 +581,7 @@ helm-ipython
 helm-nrepl
 helm-odoc
 helm-projectile-all
+help-find-org-mode
 helpex
 heroku
 hide-copyleft
@@ -687,6 +693,7 @@ joseph-file-util
 joseph-single-dired
 journal
 journal-search
+journalctl-mode
 joystick
 jpeg-mode
 js-doctor
@@ -955,6 +962,7 @@ p4pymarshal
 pack-windows
 page-mode
 pair-mode
+pallet
 paradox
 paredit-viper-compat
 paren-glint
@@ -1048,6 +1056,7 @@ qpdecode
 qs
 qsas
 qsearch
+qt-pro-mode
 qtdoc
 querer
 quick-preview
@@ -1339,6 +1348,7 @@ uniesc
 uniq
 unique
 units
+unkillable-scratch
 unmunge-general
 update-autoloads
 update-dns
