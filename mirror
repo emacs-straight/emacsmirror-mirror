@@ -5682,7 +5682,7 @@ streak
 stream
 streamlink
 strie
-string-edit
+string-edit-at-point
 string-inflection
 string-template
 string-utils
