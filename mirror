@@ -312,7 +312,6 @@ autofit-frame
 autoinfo
 autoload-plus
 autosmiley
-autotest
 autotetris-mode
 autothemer
 autumn-light-theme
@@ -401,7 +400,6 @@ bfbuilder
 bibclean-format
 biblio
 biblio-bibsonomy
-bibliothek
 bibretrieve
 bibslurp
 bibtex-completion
@@ -439,6 +437,7 @@ blockdiag-mode
 blog-admin
 blog-minimal
 blox
+bluesound
 bluetooth
 bm
 bm-ext
@@ -668,7 +667,6 @@ citre
 cl-format
 cl-libify
 cl-merge
-cl-print
 clang-capf
 clang-format
 clang-format-plus
@@ -1443,7 +1441,6 @@ elcontext
 elcord
 elcouch
 eldev
-eldoc
 eldoc-box
 eldoc-cmake
 eldoc-eval
@@ -1525,7 +1522,6 @@ emacs-android
 emacs-everywhere
 emacs-init-check
 emacs-lock-plus
-emacs-speaks-nonmem
 emacs-wiki-finddead
 emacsc
 emacsist-view
@@ -1604,7 +1600,6 @@ epydoc
 equake
 eradio
 erblint
-erc
 erc-babel
 erc-colorize
 erc-crypt
@@ -1673,6 +1668,7 @@ eslint-disable-rule
 eslint-fix
 eslint-rc
 eslintd-fix
+esn
 esonify
 espotify
 espresso-theme
@@ -2074,7 +2070,6 @@ flycheck-yang
 flydoc
 flyguess
 flylisp
-flymake
 flymake-coffee
 flymake-collection
 flymake-css
@@ -2155,7 +2150,6 @@ fontawesome
 fontify-face
 fontsloth
 for
-forecast
 foreign-regexp
 foreman-mode
 forest-blue-theme
@@ -3032,6 +3026,7 @@ ink-mode
 inkpot-theme
 inline-crypt
 inline-docs
+insecure-lock
 insert-char-preview
 insert-esv
 insert-kaomoji
@@ -3210,7 +3205,6 @@ json-snatcher
 jsonian
 jsonl
 jsonnet-mode
-jsonrpc
 jss
 jst
 jtags
@@ -3383,7 +3377,6 @@ lentic
 lentic-server
 leo
 less
-let-alist
 let-recur
 letcheck
 letterbox-mode
@@ -3622,7 +3615,6 @@ mandoku
 mandoku-meta-kr
 mandoku-tls
 manued
-map
 map-progress
 map-regexp
 marcopolo
@@ -3747,6 +3739,7 @@ minitest
 minizinc-mode
 minor-mode-hack
 minsk-theme
+mint-mode
 mip-mode
 mips-mode
 mirror
@@ -3800,6 +3793,8 @@ monochrome-theme
 monokai-alt-theme
 monokai-pro-theme
 monokai-theme
+monorepo-cadadr
+monorepo-zenitani
 monotropic-theme
 monroe
 mood-line
@@ -4049,7 +4044,6 @@ ns-auto-titlebar
 nsis-mode
 nswbuff
 ntcmd
-ntlm
 nu-mode
 nubox
 nukneval
@@ -4185,6 +4179,7 @@ one-time-pad-encrypt
 oneonone
 online-search
 opam
+opam-switch-mode
 open-in-msvs
 open-junk-file
 open-related-file
@@ -4396,7 +4391,6 @@ org-treescope
 org-treeusage
 org-trello
 org-unique-id
-org-variable-pitch
 org-vcard
 org-velocity
 org-view-mode
@@ -4544,7 +4538,6 @@ panda-theme
 pandoc
 pandoc-mode
 pangu-spacing
-paper-theme
 paperless
 parasep
 parchment-theme
@@ -4851,7 +4844,6 @@ profiles
 prog-fill
 prognth
 programmer-dvorak
-project
 project-abbrev
 project-explorer
 project-local-variables
@@ -4948,7 +4940,6 @@ pynt
 pyramid
 pytest
 pytest-pdb-break
-python
 python-black
 python-cell
 python-coverage
@@ -5115,6 +5106,7 @@ register-list
 register-quicknav
 rego-mode
 related
+related-files
 relint
 remark-mode
 remember-last-theme
@@ -5488,7 +5480,6 @@ sm-c-mode
 smalltalk-mode
 smart-backspace
 smart-comment
-smart-compile
 smart-cursor-color
 smart-dabbrev
 smart-dash
@@ -5547,8 +5538,6 @@ snitch
 snoopy
 snort-mode
 snow
-so-long
-soap-client
 soar-mode
 soccer
 socyl
@@ -5721,7 +5710,6 @@ supergenpass
 suscolors-theme
 sv-kalender-namnsdagar
 svelte-mode
-svg
 svg-clock
 svg-lib
 svg-mode-line-themes
@@ -5938,7 +5926,6 @@ todostack
 todotxt
 todotxt-mode
 togetherly
-toggle
 toggle-quotes
 toggle-test
 toggle-window
@@ -6010,6 +5997,7 @@ trident-mode
 trie
 trinary
 trindle
+triples
 tron-legacy-theme
 trr
 truthy
@@ -6063,7 +6051,7 @@ uimage
 ujelly-theme
 ukrainian-holidays
 ul
-ultratex
+ultex
 uml-mode
 unaccent
 unbind
@@ -6176,7 +6164,6 @@ velocity
 verb
 veri-kompass
 verify-url
-verilog-mode
 verona-mode
 versions
 versuri
@@ -6430,7 +6417,6 @@ xquery-tool
 xr
 xray
 xrc
-xref
 xref-js2
 xref-rst
 xresources-theme
@@ -6488,6 +6474,7 @@ yoficator
 yoshi-theme
 youdao-dictionary
 youtube-dl
+youtube-sub-extractor
 yql
 ytdious
 ytdl
