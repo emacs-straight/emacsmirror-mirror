@@ -378,6 +378,7 @@ bbyac
 bc-mode
 bd-set-mark
 beacon
+beans
 beeminder
 beginend
 beginner
@@ -2077,6 +2078,7 @@ flymake-csslint
 flymake-cursor
 flymake-diagnostic-at-point
 flymake-easy
+flymake-elisp-config
 flymake-elixir
 flymake-eslint
 flymake-extension
@@ -2337,6 +2339,7 @@ gitlab-pipeline
 gitlab-snip-helm
 gitolite-clone
 gitpatch
+gitstatus
 gitsum
 gitter
 gkroam
@@ -2348,6 +2351,7 @@ global-tags
 globalff
 globrep
 glsl-mode
+glue
 gmail-message-mode
 gmail-notifier
 gmail2bbdb
@@ -3531,6 +3535,7 @@ ltsv
 lua-block
 lua-mode
 luarocks
+lurk-mode
 lush-theme
 lusty-explorer
 luwak
@@ -4328,6 +4333,7 @@ org-protocol-github-lines
 org-protocol-jekyll
 org-ql
 org-radiobutton
+org-rainbow-tags
 org-random-todo
 org-randomnote
 org-re-reveal
@@ -4888,6 +4894,7 @@ psysh
 pt
 ptemplate
 ptemplate-templates
+ptree
 pubmed
 pueue
 pug-mode
@@ -4926,7 +4933,6 @@ pygen
 pygn-mode
 pyim
 pyim-basedict
-pyim-cangjiedict
 pyim-smzmdict
 pyim-wbdict
 pyimport
