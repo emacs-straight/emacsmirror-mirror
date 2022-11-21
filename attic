@@ -581,7 +581,6 @@ helm-ipython
 helm-nrepl
 helm-odoc
 helm-projectile-all
-help-find-org-mode
 helpex
 heroku
 hide-copyleft
@@ -1056,7 +1055,6 @@ qpdecode
 qs
 qsas
 qsearch
-qt-pro-mode
 qtdoc
 querer
 quick-preview
