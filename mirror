@@ -135,6 +135,7 @@ alore-mode
 alsamixer
 alt-codes
 alt-font-menu
+altcaps
 amarok
 amd-mode
 ameba
@@ -437,6 +438,7 @@ block-nav
 blockdiag-mode
 blog-admin
 blog-minimal
+blow
 blox
 bluesound
 bluetooth
@@ -556,6 +558,7 @@ calibredb
 call-graph
 calmer-forest-theme
 camcorder
+camera
 caml
 campfire
 cangjie
@@ -858,6 +861,8 @@ consult-eglot
 consult-flycheck
 consult-flyspell
 consult-ghq
+consult-git-log-grep
+consult-hatena-bookmark
 consult-ls-git
 consult-lsp
 consult-notes
@@ -884,6 +889,7 @@ coq-commenter
 corba
 corfu
 corfu-doc
+corfu-terminal
 coroutine
 corral
 cort
@@ -1099,6 +1105,7 @@ detour
 devdocs
 devdocs-browser
 devel-notes
+devhelp
 df-mode
 dfmt
 dgpg
@@ -1337,6 +1344,7 @@ easy-kill
 easy-kill-extras
 easy-repeat
 easy-todo
+eat
 ebdb
 ebdb-gnorb
 ebdb-i18n-chn
@@ -1837,6 +1845,7 @@ eyebrowse
 eyuml
 ez-query-replace
 ezbl
+eziam-themes
 f
 f3
 f90-interface-browser
@@ -2108,6 +2117,7 @@ flymake-nasm
 flymake-perlcritic
 flymake-php
 flymake-phpcs
+flymake-popon
 flymake-proselint
 flymake-puppet
 flymake-python-pyflakes
@@ -2234,6 +2244,7 @@ gandalf-theme
 gap-mode
 gaplay
 gather
+gc-buffers
 gcmh
 gcode-mode
 gdb-bp-session
@@ -2462,6 +2473,7 @@ gpicker
 gplus-mode
 gpr-mode
 gpr-query
+gpt
 grab-and-drag
 grab-mac-link
 grab-x-link
@@ -2530,6 +2542,7 @@ gvariant
 gvpr-mode
 gxref
 h2o
+h5dump-mode
 habamax-theme
 habitica
 hack-mode
@@ -2555,6 +2568,7 @@ haskell-extension
 haskell-mode
 haskell-snippets
 haskell-tab-indent
+haskell-tng-mode
 hasklig-mode
 hass
 haste
@@ -2606,7 +2620,6 @@ helm-commandlinefu
 helm-company
 helm-cscope
 helm-css-scss
-helm-ctest
 helm-dash
 helm-descbinds
 helm-describe-modes
@@ -2756,6 +2769,7 @@ help-dwim
 help-dwim-perlapi
 help-dwim-perldoc
 help-find
+help-find-org-mode
 help-fns-plus
 help-macro-plus
 help-mode-plus
@@ -2823,6 +2837,7 @@ hive
 hiwin
 hl-anything
 hl-block-mode
+hl-column
 hl-defined
 hl-fill-column
 hl-indent
@@ -3117,10 +3132,12 @@ ivy-xref
 ivy-yasnippet
 ivy-ycmd
 ivy-youtube
+iwindow
 ix
 j-mode
 jabber
 jabber-chatx
+jack
 jack-connect
 jade-mode
 jamar
@@ -3129,6 +3146,7 @@ janet-mode
 japanese-holidays
 jape-mode
 jar-manifest-mode
+jarchive
 jasminejs-mode
 jastadd-ast-mode
 jaunte
@@ -3317,7 +3335,6 @@ kurecolor
 kuronami-theme
 kv
 kwin
-l
 laas
 lab-themes
 labburn-theme
@@ -3347,6 +3364,7 @@ latex-frame-mode
 latex-math-preview
 latex-pretty-symbols
 latex-preview-pane
+latex-table-wizard
 latex-unicode-math-mode
 latex-wrap
 latexdiff
@@ -3403,6 +3421,7 @@ lice
 license-snippets
 license-templates
 ligature
+ligature-pragmatapro
 light-soap-theme
 ligo-mode
 lilypond
@@ -3727,6 +3746,7 @@ mini-frame
 mini-header-line
 mini-modeline
 mini-popup
+minibar
 minibuf-isearch
 minibuffer-complete-cycle
 minibuffer-cua
@@ -4227,6 +4247,7 @@ org-brain
 org-buffers
 org-bullets
 org-caldav
+org-calibre-notes
 org-capture-pop-frame
 org-chef
 org-cliplink
@@ -4777,6 +4798,7 @@ pop-help-mode
 pop-mode
 popbiff
 pophint
+popon
 poporg
 popper
 popup
@@ -4903,6 +4925,7 @@ pulseaudio-control
 punctuality-logger
 pungi
 puni
+punpun-themes
 puppet-mode
 puppet-pi-mode
 purescript-mode
@@ -4931,6 +4954,7 @@ pygen
 pygn-mode
 pyim
 pyim-basedict
+pyim-cangjiedict
 pyim-smzmdict
 pyim-wbdict
 pyimport
@@ -4969,6 +4993,7 @@ qa-mode
 qml-mode
 qooxdoo
 qrencode
+qt-pro-mode
 qtcreator-theme
 qtref
 quack
@@ -5443,6 +5468,7 @@ siri-shortcuts
 sis
 sisu-mode
 sisyphus
+sixcolors-mode
 ska-skel-matlab
 skeleton-complete
 skeletor
@@ -5557,6 +5583,7 @@ solo-jazz-theme
 somafm
 songbook
 sonic-pi
+soong-mode
 soothe-theme
 sorcery-theme
 soria-theme
@@ -5648,6 +5675,7 @@ ssl-mode
 stack-mode
 stan-mode
 standard-dirs
+standard-themes
 standoff-mode
 stardict
 starlit-theme
@@ -5689,6 +5717,7 @@ stylefmt
 su
 subatomic-theme
 subatomic256-theme
+subed
 subedit
 subemacs
 sublime-fuzzy
@@ -5726,6 +5755,7 @@ swap-buffers
 swap-regions
 swarmhacker
 sway
+sweeprolog
 sweet-theme
 sweetgreen
 swift-helpful
@@ -5740,6 +5770,7 @@ switch-files
 switch-to-new-buffer
 switch-window
 swoop
+swsw
 sx
 sxiv
 symbol-navigation-hydra
@@ -5825,6 +5856,7 @@ tellstick
 telnet-contrib
 temp-buffer-browse
 tempel
+tempel-collection
 template-overlays
 template-simple
 templatel
@@ -5859,6 +5891,7 @@ test-framework
 test-kitchen
 test-more
 test-simple
+testcover-mark-line
 tex-smart-umlauts
 texfrag
 text-align
@@ -5908,6 +5941,7 @@ timesheet
 timid
 timonier
 timp
+timu-caribbean-theme
 timu-rouge-theme
 timu-spacegrey-theme
 tinkerer
@@ -6155,6 +6189,7 @@ vc-partial-commit
 vcard
 vcl-mode
 vcomp
+vcomplete
 vcsh
 vdf-mode
 vdiff
@@ -6290,6 +6325,7 @@ wedge-ws
 weibo
 weyland-yutani-theme
 wgrep
+wgsl-mode
 what-the-commit
 which-key
 which-key-posframe

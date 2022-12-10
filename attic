@@ -398,7 +398,6 @@ ept
 equinox
 erc-extra-commands
 erc-hipchatify
-erc-status-sidebar
 erlang-dired-mode
 erp
 escreen
@@ -574,6 +573,7 @@ header-action
 hebeng
 helm-addressbook
 helm-anything
+helm-ctest
 helm-delicious
 helm-elscreen
 helm-ghc
@@ -713,6 +713,7 @@ keywiz
 kill-buffers
 killbuf
 kmacro-ring-list
+l
 labbook
 lat1conv
 latex-doc
