@@ -465,6 +465,7 @@ borg
 borg-queen
 borland-blue-theme
 boron-theme
+boxes
 boxquote
 boxy
 boxy-headings
@@ -1017,6 +1018,7 @@ cython-mode
 czech-holidays
 d-insert-assert
 d-mode
+d2-mode
 dabbrev-expand-multiple
 dactyl-mode
 dad-joke
@@ -3297,6 +3299,7 @@ khalel
 khardel
 kibit-helper
 kibit-mode
+kill-file-path
 kill-or-bury-alive
 kill-ring-search
 killer
@@ -3841,6 +3844,7 @@ mouse-drag-fix
 mouse3
 move-and
 move-dup
+move-mode
 move-text
 movie
 mowedline
@@ -4324,6 +4328,7 @@ org-ml
 org-mobile-sync
 org-modern
 org-movies
+org-mpv-notes
 org-mru-clock
 org-msg
 org-multi-wiki
