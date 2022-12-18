@@ -4750,7 +4750,6 @@ playonline
 plenv
 plim-mode
 plisp-mode
-plone-mode
 plsense
 plsense-direx
 plsql
@@ -5777,6 +5776,7 @@ switch-window
 swoop
 swsw
 sx
+sxhkdrc-mode
 sxiv
 symbol-navigation-hydra
 symbol-overlay
