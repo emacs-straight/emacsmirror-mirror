@@ -89,6 +89,7 @@ ado-mode
 adoc-mode
 adv-random-sig
 advice-patch
+adwaita-dark-theme
 aes
 affe
 afternoon-theme
@@ -416,6 +417,7 @@ binder
 bindings-plus
 bing-api
 bing-dict
+binky-mode
 binmove
 birds-of-paradise-plus-theme
 bison-mode
@@ -665,6 +667,7 @@ circe-notifications
 circleci-api
 cisco-router-mode
 citar
+citar-denote
 citar-org-roam
 citeproc
 citeproc-org
@@ -855,6 +858,7 @@ constellations
 constraint
 consult
 consult-ag
+consult-codesearch
 consult-company
 consult-dash
 consult-dir
@@ -1082,6 +1086,7 @@ default-text-scale
 deferred
 defhook
 define-it
+define-scratch
 define-word
 defproject
 defrepeater
@@ -1095,6 +1100,7 @@ demap
 demo-it
 deno-fmt
 denote
+denote-refs
 descr-text-plus
 describe-hash
 describe-number
@@ -3297,6 +3303,7 @@ keyword-search
 kfg
 khalel
 khardel
+khoj
 kibit-helper
 kibit-mode
 kill-file-path
@@ -4302,6 +4309,7 @@ org-hyde
 org-hyperscheduler
 org-id-cleanup
 org-if
+org-incoming
 org-index
 org-inline-anim
 org-inline-pdf
@@ -4951,6 +4959,7 @@ py-snippets
 py-test
 py-yapf
 pycarddavel
+pyconf
 pycoverage
 pydoc
 pyenv-mode
@@ -5461,6 +5470,7 @@ simple-rtm
 simple-screen
 simple-slides
 simpleclip
+simplecov
 simplegv-mode
 simplenote
 simplenote2
@@ -5563,6 +5573,7 @@ smudge
 smyx-theme
 snails
 snakemake-mode
+snap-indent
 snapshot-timemachine
 snapshot-timemachine-rsnapshot
 snazzy-theme
