@@ -965,7 +965,6 @@ crystal-mode
 crystal-playground
 csgo-conf-mode
 csharp-mode
-csmart-mode
 csound-mode
 csp-mode
 csproj-mode
@@ -1485,6 +1484,7 @@ elfeed-tube
 elforth
 elgrep
 elhome
+elisp-autofmt
 elisp-benchmarks
 elisp-def
 elisp-demos
@@ -2016,6 +2016,7 @@ flycheck-cstyle
 flycheck-cython
 flycheck-d-unittest
 flycheck-dedukti
+flycheck-deno
 flycheck-dialyxir
 flycheck-dialyzer
 flycheck-dmd-dub
@@ -3336,6 +3337,7 @@ kotlin-mode
 kpm-list
 kroman
 ksp-cfg-mode
+ksp-mode
 kubectx-mode
 kubedoc
 kubel
@@ -4144,6 +4146,7 @@ ob-ml-marklogic
 ob-mongo
 ob-napkin
 ob-nim
+ob-nix
 ob-php
 ob-powershell
 ob-prolog
@@ -4315,6 +4318,7 @@ org-index
 org-inline-anim
 org-inline-pdf
 org-iv
+org-ivy-search
 org-jira
 org-journal
 org-journal-list
@@ -5211,6 +5215,7 @@ rime
 rimero-theme
 rinari
 ring-plus
+ring-mode
 rings
 ripgrep
 riscv-mode
