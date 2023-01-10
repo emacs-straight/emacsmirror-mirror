@@ -96,6 +96,7 @@ afternoon-theme
 ag
 agda-editor-tactics
 agda2-mode
+age
 aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
@@ -132,7 +133,6 @@ all-the-icons-ibuffer
 all-the-icons-ivy
 all-the-icons-ivy-rich
 almost-mono-themes
-alore-mode
 alsamixer
 alt-codes
 alt-font-menu
@@ -610,7 +610,6 @@ cexp
 ceylon-mode
 cfengine-code-style
 cff
-cfml-mode
 cfn-mode
 cframe
 cfrs
@@ -1134,11 +1133,11 @@ diff-ediff
 diff-git
 diff-hl
 diff-mode-
+diffed
 difflib
 diffpdf
 diffscuss-mode
 diffstat
-diffsync
 diffview
 digistar-mode
 digit-groups
@@ -1498,6 +1497,7 @@ elisp-sandbox
 elisp-slime-expand
 elisp-slime-nav
 elixir-mode
+elixir-ts-mode
 elixir-yasnippets
 elk-test
 ellocate
@@ -2594,6 +2594,7 @@ header2
 headlong
 heap
 heaven-and-hell
+heex-ts-mode
 helm
 helm-R
 helm-ack
@@ -3277,6 +3278,7 @@ keats
 keep-end
 keepass-mode
 keg
+kele
 kerl
 key-assist
 key-cast
@@ -3867,6 +3869,7 @@ mozc-temp
 mpages
 mpcel
 mpdel
+mpdel-embark
 mpdmacs
 mplayer-mode
 mpmc-queue
@@ -4147,6 +4150,7 @@ ob-mongo
 ob-napkin
 ob-nim
 ob-nix
+ob-p5js
 ob-php
 ob-powershell
 ob-prolog
@@ -4359,7 +4363,6 @@ org-parser
 org-passwords
 org-pdftools
 org-picklink
-org-pivotal
 org-pomodoro
 org-present
 org-present-remote
@@ -4444,6 +4447,7 @@ org-wc
 org-web-tools
 org-wild-notifier
 org-working-set
+org-zettelkasten
 org2blog
 org2ctex
 org2elcomment
@@ -5275,6 +5279,7 @@ runner
 runtests
 rusewiki
 russian-holidays
+russian-techwriter
 rust-auto-use
 rust-mode
 rust-playground
@@ -6032,6 +6037,7 @@ transfer-sh
 transient
 transient-cycles
 transient-dwim
+transient-extras
 transient-posframe
 translate-mode
 transmission

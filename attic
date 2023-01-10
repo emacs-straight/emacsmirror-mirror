@@ -14,6 +14,7 @@ after-save-commands
 agchat
 align-let
 align-regexp
+alore-mode
 alossage
 alternative-files
 altmap
@@ -150,6 +151,7 @@ cdi
 cdt
 cell
 centering
+cfml-mode
 cfs
 change-html-head-tail
 change-mode
@@ -941,6 +943,7 @@ org-multiple-keymap
 org-osm-link
 org-password-manager
 org-pdfview
+org-pivotal
 org-pua
 org-roam-server
 org-s5
