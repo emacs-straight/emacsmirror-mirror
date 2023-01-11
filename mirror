@@ -55,7 +55,6 @@ ac-sly
 academic-phrases
 accelerate
 accent
-acd
 ace-flyspell
 ace-isearch
 ace-jump-buffer
@@ -684,7 +683,6 @@ clean-buffers
 clear-text
 clevercss
 clhs
-clibpc
 click-mode
 clingo-mode
 clip2org
@@ -963,7 +961,6 @@ cryptol-mode
 crystal-mode
 crystal-playground
 csgo-conf-mode
-csharp-mode
 csound-mode
 csp-mode
 csproj-mode
@@ -1418,7 +1415,6 @@ egg
 egg-timer
 egison-mode
 egit
-eglot
 eglot-java
 eglot-jl
 ego
@@ -2503,7 +2499,6 @@ graphviz-dot-mode
 grapnel
 grass-mode
 grayscale-theme
-grc
 greader
 greek-polytonic
 green-is-the-new-black-theme
@@ -2534,7 +2529,6 @@ gsnip
 gst-inspect
 gtags
 gtags-mode
-gtk-perl
 gtk-pomodoro-indicator
 gtk-variant
 guake
@@ -3089,7 +3083,6 @@ ipython-shell-send
 iqa
 ir-black-theme
 iregister
-ireplace
 irony
 irony-eldoc
 iscroll
@@ -4635,7 +4628,6 @@ pcache
 pcap-mode
 pcb-mode
 pcmpl-args
-pcmpl-git
 pcmpl-homebrew
 pcmpl-pip
 pcomplete-extension
@@ -4705,7 +4697,6 @@ phonetic
 php-boris
 php-boris-minor-mode
 php-cs-fixer
-php-doc
 php-eldoc
 php-mode
 php-quickhelp
@@ -5680,7 +5671,6 @@ sql-trino
 sql-with-placeholders
 sqled-mode
 sqlformat
-sqlite
 sqlite3
 sqlplus
 sqlup-mode
@@ -6172,7 +6162,6 @@ url-shortener
 urlenc
 urscript-mode
 usage-memo
-use-package
 use-package-el-get
 use-package-hydra
 use-proxy
@@ -6313,7 +6302,6 @@ wakib-keys
 wal-mode
 walkclj
 walkman
-wallpaper
 wallpreview
 wand
 wandbox

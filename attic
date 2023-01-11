@@ -5,6 +5,7 @@ ac-cake
 ac-cake2
 ac-nrepl
 ac-source-ispell
+acd
 active-menu
 actr-mode
 add-lispdir
@@ -173,6 +174,7 @@ claire-mode
 clay-mode
 cldoc
 clearcase
+clibpc
 climdoc
 clipper
 clojure-cheatsheet
@@ -382,7 +384,6 @@ emdroid
 emeteo
 emlib
 emmental
-emoji
 emotion
 emsane
 emuds
@@ -548,12 +549,14 @@ gplusify
 grabbox
 grade
 grail
+grc
 grep-context
 grep-edit
 gresreg
 grin
 growl
 gtk-look
+gtk-perl
 gtranslate
 guess-lang
 guido-mode
@@ -655,6 +658,7 @@ intero
 invoice
 ion3
 iread
+ireplace
 iresize
 irish
 ishl
@@ -997,6 +1001,7 @@ php-plus-mode
 php-auto-yasnippets
 php-completion
 php-completion-opt
+php-doc
 phpcbf
 phrase
 phutball
