@@ -404,6 +404,7 @@ erc-extra-commands
 erc-hipchatify
 erlang-dired-mode
 erp
+es
 escreen
 esense
 esheet
@@ -457,6 +458,7 @@ flashcard-sm5
 flatten-saved-pages
 flip-tables
 floatbg
+flow-js2-mode
 fluiddb
 flycheck-demjsonlint
 flycheck-ensime
@@ -1018,6 +1020,7 @@ plone-mode
 plugin
 plunger
 pocketcompletion
+poet-client
 point-ring
 pointback
 pom
@@ -1079,6 +1082,7 @@ raise-web-directory
 rambledocs
 randomsig
 rays
+rcirc-ssh
 rcirc-ucomplete
 rdict
 rdp
@@ -1186,6 +1190,7 @@ shellfm
 shift-lock
 shime
 shindent
+shoes-off
 shop
 short-lambda
 show-functions

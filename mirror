@@ -251,6 +251,7 @@ audio-notes-mode
 aumix-mode
 aurel
 aurora-config-mode
+auth-source-gopass
 auth-source-keytar
 auth-source-kwallet
 auth-source-xoauth2
@@ -680,6 +681,7 @@ clang-lookup
 clasker
 clean-aindent-mode
 clean-buffers
+clean-kill-ring
 clear-text
 clevercss
 clhs
@@ -1578,6 +1580,7 @@ emojify
 emojify-logos
 emoticons
 empos
+empv
 emr
 emux
 enclose
@@ -1656,7 +1659,6 @@ ert-junit
 ert-modeline
 ert-runner
 ertorrent
-es
 es-lib
 es-mode
 es-windows
@@ -1847,6 +1849,7 @@ exwm-modeline
 exwm-surf
 exwm-x
 eyebrowse
+eyebrowse-restore
 eyuml
 ez-query-replace
 ezbl
@@ -1906,6 +1909,7 @@ fic-ext-mode
 fic-mode
 fifo-class
 figlet
+file-info
 file-journal
 file-props
 file-template
@@ -1979,7 +1983,6 @@ flimenu
 fliptext
 flobl
 floobits
-flow-js2-mode
 flow-minor-mode
 flower
 flowtimer
@@ -2087,6 +2090,7 @@ flyguess
 flylisp
 flymake-coffee
 flymake-collection
+flymake-cspell
 flymake-css
 flymake-csslint
 flymake-cursor
@@ -2131,6 +2135,7 @@ flymake-quickdef
 flymake-racket
 flymake-rakudo
 flymake-ruby
+flymake-ruff
 flymake-sass
 flymake-shell
 flymake-shellcheck
@@ -2921,6 +2926,7 @@ i3wm
 i3wm-config-mode
 ialign
 iasm-mode
+ibrowse
 ibuffer-git
 ibuffer-project
 ibuffer-projectile
@@ -3238,6 +3244,7 @@ julia-mode
 julia-repl
 julia-shell
 julia-snail
+julia-ts-mode
 julia-vterm
 jumblr
 jump
@@ -3740,6 +3747,7 @@ meyvn
 mgmtconfig-mode
 mgrep
 mhc
+mic
 micgoline
 midi-kbd
 midje-mode
@@ -3892,6 +3900,7 @@ mu4e-marker-icons
 mu4e-overview
 mu4e-query-fragments
 mu4e-views
+mu4easy
 muban
 mudel
 mugur
@@ -4460,6 +4469,7 @@ orgrade
 orgstrap
 orgtbl-aggregate
 orgtbl-ascii-plot
+orgtbl-fit
 orgtbl-join
 orgtbl-show-header
 origami
@@ -4775,7 +4785,6 @@ pocket-mode
 pocket-reader
 podcaster
 poe-lootfilter-mode
-poet-client
 poet-theme
 poetry
 point-pos
@@ -4913,6 +4922,7 @@ propfont-mixed
 proportional
 prosjekt
 protobuf-mode
+protobuf-ts-mode
 protocols
 proxy-mode
 pry
@@ -5073,7 +5083,6 @@ rcirc-pounce
 rcirc-random-names
 rcirc-robots
 rcirc-sound
-rcirc-ssh
 rcirc-styles
 rcodetools
 rd-mode
@@ -5424,7 +5433,6 @@ shfmt
 shift-number
 shift-text
 shm
-shoes-off
 shoulda
 show-arglist
 show-css
@@ -5558,6 +5566,7 @@ smbc
 smblog
 smeargle
 smex
+smilefjes
 smiles-mode
 smithers
 smithy-mode
@@ -5709,6 +5718,7 @@ steno
 stgit
 stickies
 sticky
+sticky-shell
 stickyfunc-enhance
 stimmung-themes
 stock-ticker
@@ -5741,6 +5751,7 @@ sublime-themes
 sublimity
 subr-plus
 subsonic
+substitute
 sudo-edit
 sudo-ext
 sudo-save
@@ -6047,6 +6058,7 @@ tree-sitter-langs
 treefactor
 treemacs
 treepy
+treesit-auto
 treeview
 trelloel
 trident-mode
@@ -6340,6 +6352,7 @@ websocket
 wedge-ws
 weibo
 weyland-yutani-theme
+wfnames
 wgrep
 wgsl-mode
 what-the-commit
@@ -6451,6 +6464,7 @@ xcode-project
 xcscope
 xcscope-plus
 xdg-paths
+xeft
 xelb
 xenops
 xhair
@@ -6487,6 +6501,7 @@ xwiki-mode
 xwwp
 xyzzy
 ya-cppref
+yabaki-theme
 yabin
 yafastnav
 yafolding
