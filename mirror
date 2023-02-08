@@ -1429,6 +1429,7 @@ ein
 eink-theme
 ejc-sql
 ejson-mode
+ekg
 el-autoyas
 el-expectations
 el-fetch
@@ -2022,6 +2023,7 @@ flycheck-dmd-dub
 flycheck-dogma
 flycheck-drstring
 flycheck-dtrace
+flycheck-eglot
 flycheck-eldev
 flycheck-elixir
 flycheck-elm
@@ -3188,6 +3190,7 @@ jenkins-watch
 jenkinsfile-mode
 jest
 jest-test-mode
+jet
 jetbrains
 jetbrains-darcula-theme
 jg-quicknav
@@ -3336,6 +3339,7 @@ kooten-theme
 korean-holidays
 kosmos-theme
 kotlin-mode
+kotlin-ts-mode
 kpm-list
 kroman
 ksp-cfg-mode
@@ -5301,6 +5305,7 @@ salesforce-utils
 sallet
 salt-mode
 samskritam
+sas-py
 sass-mode
 satchel
 sauron
@@ -5970,6 +5975,7 @@ timid
 timonier
 timp
 timu-caribbean-theme
+timu-macos-theme
 timu-rouge-theme
 timu-spacegrey-theme
 tinkerer
