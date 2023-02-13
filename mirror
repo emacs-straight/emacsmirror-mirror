@@ -4317,6 +4317,7 @@ org-global-insert-link
 org-gnome
 org-grep
 org-gtd
+org-habit-stats
 org-helpers
 org-hlc
 org-hyde
@@ -5989,6 +5990,7 @@ tj3-mode
 tldr
 tmmofl
 tmr
+tmsu
 tmt-mode
 tmux-pane
 toc-mode
