@@ -752,6 +752,7 @@ colonoscopy-theme
 color-dired
 color-identifiers-mode
 color-moccur
+color-rg
 color-theme-approximate
 color-theme-modern
 color-theme-sanityinc-solarized
@@ -1906,6 +1907,7 @@ ffap-mml
 ffap-perl-module
 ffap-rfc-space
 ffmpeg-player
+ffmpeg-utils
 fic-ext-mode
 fic-mode
 fifo-class
