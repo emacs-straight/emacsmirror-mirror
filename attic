@@ -223,6 +223,7 @@ copy-chars
 copy-directory
 copy-from-surrounding-lines
 copyedit
+corfu-doc
 couchdb
 cpad
 cpan

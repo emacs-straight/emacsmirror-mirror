@@ -481,6 +481,7 @@ bracketed-paste
 bracketphobia
 brainfuck-mode
 brazilian-holidays
+brec-mode
 brf
 brief
 brightscript-mode
@@ -895,7 +896,6 @@ copyright-both-ends
 coq-commenter
 corba
 corfu
-corfu-doc
 corfu-terminal
 coroutine
 corral
@@ -2492,6 +2492,7 @@ gplus-mode
 gpr-mode
 gpr-query
 gpt
+gptai
 grab-and-drag
 grab-mac-link
 grab-x-link
@@ -3278,6 +3279,7 @@ kapacitor
 kappa
 karma
 kconfig-mode
+kconfig-ref
 kdeconnect
 kdic
 keats
@@ -3330,6 +3332,7 @@ kite-mini
 kivy-mode
 kiwix
 kixtart-mode
+kkp
 klere-theme
 kmacro-x
 kmb
@@ -3618,6 +3621,7 @@ magit-patch-changelog
 magit-popup
 magit-rbr
 magit-reviewboard
+magit-stats
 magit-stgit
 magit-svn
 magit-tbdiff
@@ -4051,6 +4055,7 @@ nnir-est
 nnir-spotlight
 nnreddit
 nntwitter
+no-clown-fiesta-theme
 no-emoji
 no-littering
 no-spam
@@ -5692,6 +5697,7 @@ sqlformat
 sqlite3
 sqlplus
 sqlup-mode
+squirrel-mode
 sr-speedbar
 srcery-theme
 srefactor
