@@ -406,6 +406,7 @@ biblio
 biblio-bibsonomy
 bibretrieve
 bibslurp
+bibtex-capf
 bibtex-completion
 bibtex-utils
 bibus
@@ -1039,6 +1040,7 @@ dark-krystal-theme
 dark-mint-theme
 dark-souls
 darken-text
+darkman
 darkmine-theme
 darkokai-theme
 darkroom
@@ -1546,7 +1548,6 @@ emacsc
 emacsist-view
 emacspeak
 emacsql
-emacsql-sqlite3
 emacsshot
 email
 emamux
@@ -3071,6 +3072,7 @@ insert-time
 insert-time-string
 insfactor
 inspector
+inspire
 install
 install-elisp
 instapaper
@@ -3206,6 +3208,7 @@ jira-markup-mode
 jiralib2
 jist
 jit-lock-stealth-progress
+jit-spell
 jknav
 jmt-mode
 joccur
@@ -3840,6 +3843,7 @@ mongo
 monitor
 monkeytype
 monky
+mono-complete
 monochrome-theme
 monokai-alt-theme
 monokai-pro-theme
@@ -5339,7 +5343,6 @@ scholar-import
 school-points-off
 schrute
 scihub
-scion
 sclang
 sclang-extensions
 sclang-snippets
@@ -5873,6 +5876,7 @@ tangonov-theme
 tangotango-theme
 tao-theme
 tap-mode
+tardis-theme
 task-timer
 taskjuggler-mode
 taskpaper
@@ -6339,6 +6343,7 @@ wandbox
 wanderlust
 warm-night-theme
 warn-mail
+wasp-mode
 watch-buffer
 wavefront-obj-mode
 wc-goal-mode

@@ -378,6 +378,7 @@ emacs-wiki-boxes
 emacs-wiki-journal
 emacs-xcode
 emacsagist
+emacsql-sqlite3
 emacsserver
 emathica
 ematrix
@@ -1164,6 +1165,7 @@ scalariform
 scheme-here
 scheme48
 scim-bridge
+scion
 scp
 scrape
 scrat
