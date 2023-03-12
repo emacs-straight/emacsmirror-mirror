@@ -1520,6 +1520,7 @@ elpa-audit
 elpa-clone
 elpa-deploy
 elpa-mirror
+elpaca
 elpad-client
 elpher
 elpl
@@ -3647,7 +3648,7 @@ mailq
 mailrc
 mailscripts
 mailx
-majapahit-theme
+majapahit-themes
 major-mode-hydra
 major-mode-icons
 make-color
