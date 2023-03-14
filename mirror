@@ -381,6 +381,7 @@ bc-mode
 bd-set-mark
 beacon
 beans
+beardbolt
 beef-mode
 beeminder
 beginend
@@ -621,6 +622,7 @@ cg
 cg-mode
 challenger-deep-theme
 change-inner
+chaos-mode
 chapel-mode
 char-menu
 charmap
@@ -846,6 +848,7 @@ compile-plus
 compile-
 compile-bookmarks
 compile-dwim
+compile-multi
 compiler-explorer
 completing-history
 composable
@@ -1102,6 +1105,7 @@ demap
 demo-it
 deno-fmt
 denote
+denote-menu
 denote-refs
 descr-text-plus
 describe-hash
@@ -1470,6 +1474,7 @@ electric-case
 electric-cursor
 electric-dot-and-dash
 electric-operator
+electric-ospl
 electric-spacing
 elegant-agenda-mode
 elein
@@ -1877,6 +1882,7 @@ fancy-battery
 fancy-compilation
 fancy-dabbrev
 fancy-narrow
+fantom-mode
 fantom-theme
 fanyi
 farmhouse-themes
@@ -3437,6 +3443,7 @@ lexbind-mode
 lexic
 lf
 lfe-mode
+lgr
 lib-requires
 libbcel
 libelcouch
@@ -3862,6 +3869,7 @@ moonshot
 morganey-mode
 morgentau-theme
 morlock
+morrowind-theme
 mos-mode
 mosey
 most-used-words
@@ -4138,6 +4146,7 @@ ob-coffeescript
 ob-compile
 ob-crystal
 ob-cypher
+ob-d2
 ob-dao
 ob-dart
 ob-deno
@@ -4661,6 +4670,7 @@ pcmpl-pip
 pcomplete-extension
 pcre2el
 pcsv
+pd-remote
 pdb-capf
 pdb-mode
 pddl-mode
@@ -4678,6 +4688,7 @@ pelican-mode
 pepita
 per-buffer-theme
 perfect-margin
+perject
 perl-doc
 perl-find-library
 perl-quote
@@ -5347,6 +5358,7 @@ scihub
 sclang
 sclang-extensions
 sclang-snippets
+scopeline
 scpaste
 scratch
 scratch-comment
@@ -6464,6 +6476,7 @@ wotd
 wpdl-mode
 wpuzzle
 wrap-region
+wren-mode
 writefreely
 writegood-mode
 writeroom-mode
