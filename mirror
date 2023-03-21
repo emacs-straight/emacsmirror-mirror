@@ -1903,6 +1903,7 @@ feather
 feature-mode
 feebleline
 feed-discovery
+feline
 fenc
 fennel-mode
 festival
@@ -2501,6 +2502,7 @@ gpr-mode
 gpr-query
 gpt
 gptai
+gptel
 grab-and-drag
 grab-mac-link
 grab-x-link
@@ -2928,6 +2930,7 @@ hydandata-light-theme
 hyde
 hydra
 hyperbole
+hyperdrive
 hyperkitty
 hyperlist-mode
 hyperspace
@@ -3389,6 +3392,7 @@ langtool-ignore-fonts
 language-detection
 language-id
 languagetool
+lark-mode
 lastfm
 lastpass
 latch
@@ -3616,7 +3620,6 @@ magic-latex-buffer
 magik-mode
 magit
 magit-annex
-magit-circleci
 magit-commit-mark
 magit-delta
 magit-diff-flycheck
@@ -4271,6 +4274,7 @@ ordinal
 org
 org-ac
 org-agenda-property
+org-ai
 org-alert
 org-analyzer
 org-anki
@@ -5132,9 +5136,11 @@ realgud-lldb
 realgud-node-debug
 realgud-node-inspect
 realgud-old-debuggers
+realgud-pdbpp
 realgud-pry
 realgud-rdb2
 realgud-trepan-ni
+realgud-trepan-xpy
 really-simple-wiki
 reaper
 reason-mode
@@ -5992,6 +5998,7 @@ tile
 tiling
 time-block
 time-ext
+time-uuid-mode
 timeclock-x
 timer-plus
 timer-revert
