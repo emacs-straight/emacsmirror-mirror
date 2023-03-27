@@ -766,6 +766,7 @@ color-theme-sanityinc-tomorrow
 color-theme-x
 colorless-themes
 colormaps
+colors
 colour-region
 column-enforce-mode
 column-marker
@@ -1989,6 +1990,7 @@ flatland-black-theme
 flatland-theme
 flatui-dark-theme
 flatui-theme
+fleetish-theme
 flex-autopair
 flex-compile
 flex-isearch
@@ -3243,6 +3245,7 @@ js2-refactor
 js2hl
 js3-mode
 jscs
+jsdoc
 jsfmt
 json-mode
 json-navigator
@@ -3407,6 +3410,7 @@ latex-table-wizard
 latex-unicode-math-mode
 latex-wrap
 latexdiff
+latvian-holidays
 launch
 launch-mode
 launchctl
@@ -4131,7 +4135,6 @@ nxml-uxml
 nyan-mode
 nyan-prompt
 nyx-theme
-nz-holidays
 oauth
 oauth2
 oauth2-request
@@ -4153,6 +4156,7 @@ ob-dao
 ob-dart
 ob-deno
 ob-diagrams
+ob-drawtiming
 ob-dsq
 ob-elixir
 ob-elm
@@ -4494,6 +4498,7 @@ orgit
 orgit-forge
 orglink
 orglue
+orgmdb
 orgnav
 orgrade
 orgstrap
@@ -5818,6 +5823,7 @@ swap-buffers
 swap-regions
 swarmhacker
 sway
+sway-lang-mode
 sweeprolog
 sweet-theme
 sweetgreen
