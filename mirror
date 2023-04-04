@@ -283,6 +283,7 @@ auto-dark
 auto-dictionary
 auto-dim-other-buffers
 auto-document
+auto-header
 auto-highlight-symbol
 auto-indent
 auto-indent-mode
@@ -384,6 +385,7 @@ beans
 beardbolt
 beef-mode
 beeminder
+beframe
 beginend
 beginner
 belarus-holidays
@@ -652,6 +654,7 @@ chinese-word-at-point
 chinese-yasdcv
 chocolate-theme
 choice-program
+chroma
 chronometer
 chronometrist
 chronometrist-goal
@@ -685,6 +688,7 @@ clang-format
 clang-format-plus
 clang-lookup
 clasker
+clause
 clean-aindent-mode
 clean-buffers
 clean-kill-ring
@@ -766,7 +770,6 @@ color-theme-sanityinc-tomorrow
 color-theme-x
 colorless-themes
 colormaps
-colors
 colour-region
 column-enforce-mode
 column-marker
@@ -1478,7 +1481,6 @@ electric-operator
 electric-ospl
 electric-spacing
 elegant-agenda-mode
-elein
 elescope
 elf-mode
 elfeed
@@ -3215,6 +3217,7 @@ jg-quicknav
 jgraph-mode
 jiggle
 jinja2-mode
+jinx
 jira
 jira-markup-mode
 jiralib2
@@ -4048,6 +4051,7 @@ ngircd
 ngn
 nhexl-mode
 niceify-info
+nickel-mode
 niconama
 night-owl-theme
 nikki
@@ -4265,6 +4269,7 @@ opencl-mode
 opener
 openfoam
 openpaste
+openpgp
 opensource
 openssl-cipher
 openstack-cgit-browse-file
@@ -5179,7 +5184,6 @@ reddit-mode
 redis
 redo-plus
 redpen-paragraph
-redprl
 redtick
 redtt
 refine
@@ -5532,6 +5536,7 @@ siri-shortcuts
 sis
 sisu-mode
 sisyphus
+site-lisp
 sixcolors-mode
 ska-skel-matlab
 skeleton-complete
@@ -6539,6 +6544,7 @@ xray
 xrc
 xref-js2
 xref-rst
+xref-union
 xresources-theme
 xs-mode
 xsocks
