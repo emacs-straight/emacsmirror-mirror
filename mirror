@@ -591,6 +591,7 @@ cask-package-toolset
 caskxy
 catmacs
 catppuccin-theme
+cats
 cbm
 cc-cedict
 cc-chainsaw
@@ -1181,6 +1182,7 @@ dired-fdclone
 dired-filetype-face
 dired-git
 dired-git-info
+dired-gitignore
 dired-hacks
 dired-hide-dotfiles
 dired-icon
@@ -1608,6 +1610,7 @@ enlightened-theme
 enlive
 enotify
 enscript
+environ
 envrc
 enwc
 eoops
@@ -2620,7 +2623,6 @@ helm-R
 helm-ack
 helm-ad
 helm-ag
-helm-ag-r
 helm-apt
 helm-atoms
 helm-aws
@@ -2645,7 +2647,6 @@ helm-cider
 helm-cider-history
 helm-circe
 helm-clojuredocs
-helm-cmd-t
 helm-codesearch
 helm-commandlinefu
 helm-company
@@ -2658,7 +2659,6 @@ helm-dictionary
 helm-directory
 helm-dired-history
 helm-dired-recent-dirs
-helm-dirset
 helm-emmet
 helm-emms
 helm-esa
@@ -2683,7 +2683,6 @@ helm-fuzzy-find
 helm-ghq
 helm-ghs
 helm-git
-helm-git-files
 helm-git-grep
 helm-github-issues
 helm-github-stars
@@ -2750,7 +2749,6 @@ helm-pydoc
 helm-qiita
 helm-rage
 helm-rails
-helm-rb
 helm-rdefs
 helm-recoll
 helm-rg
@@ -3567,6 +3565,7 @@ lox-mode
 lpy
 ls-lisp-plus
 lsdb
+lsp-bridge
 lsp-cfn
 lsp-dart
 lsp-docker
@@ -4030,6 +4029,7 @@ neil
 nemerle
 neon-mode
 neotree
+nerd-icons
 nerdtab
 netease-cloud-music
 netease-music
@@ -4466,6 +4466,7 @@ org-tagged
 org-tanglesync
 org-tfl
 org-themis
+org-tidy
 org-time-budgets
 org-timeline
 org-toodledo
@@ -5431,7 +5432,6 @@ sequences
 sequential-command
 seriestracker
 servant
-serverspec
 services
 sesman
 session
@@ -5843,6 +5843,7 @@ switch-file
 switch-files
 switch-to-new-buffer
 switch-window
+switchy-window
 swoop
 swsw
 sx
@@ -5884,6 +5885,7 @@ tab-group
 tab-jump-out
 tabbar
 tabbar-ruler
+tabgo
 tablist
 tabspaces
 tabula-rasa
