@@ -745,6 +745,7 @@ cobra-mode
 codcut
 code-archive
 code-cells
+code-compass
 code-imports
 code-library
 code-review
@@ -4030,6 +4031,7 @@ nemerle
 neon-mode
 neotree
 nerd-icons
+nerd-icons-ibuffer
 nerdtab
 netease-cloud-music
 netease-music
@@ -4097,6 +4099,7 @@ nofrils-acme-theme
 noob-arrows-mode
 noprefix
 nord-theme
+nordic-night-theme
 norns
 northcode-theme
 notes-mode
@@ -5408,7 +5411,6 @@ secretaria
 sed-mode
 see-mode
 seeing-is-believing
-seen-mode
 seethru
 sekka
 select-themes
@@ -5423,6 +5425,7 @@ sensei
 sensitive
 sentence-highlight
 sentence-navigation
+sentex
 seognil
 seoul256-theme
 separedit
