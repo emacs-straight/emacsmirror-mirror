@@ -377,6 +377,7 @@ bbdb-sms
 bbdb-vcard
 bbdb-vcard-export
 bbdb2erc
+bbww
 bbyac
 bc-mode
 bd-set-mark
@@ -429,6 +430,7 @@ bison-mode
 bitbake
 bitbucket
 bitlbee
+bitpack
 blackboard-bold-mode
 blackboard-theme
 blacken
@@ -629,6 +631,7 @@ chaos-mode
 chapel-mode
 char-menu
 charmap
+chatgpt-shell
 chatwork
 cheat
 cheat-fu
@@ -1577,7 +1580,6 @@ emidje
 emir
 emmet-mode
 emms
-emms-bilibili
 emms-get-lyrics
 emms-info-mediainfo
 emms-mark-ext
@@ -2855,6 +2857,7 @@ highlight-unique-symbol
 highlight2clipboard
 highline
 highrise
+hima-theme
 himalaya
 hindent
 hippie-exp-ext
@@ -3172,6 +3175,7 @@ jack
 jack-connect
 jade-mode
 jamar
+jami-bot
 jammer
 janet-mode
 japanese-holidays
@@ -4031,7 +4035,9 @@ nemerle
 neon-mode
 neotree
 nerd-icons
+nerd-icons-dired
 nerd-icons-ibuffer
+nerd-icons-ivy-rich
 nerdtab
 netease-cloud-music
 netease-music
@@ -4276,6 +4282,7 @@ openpgp
 opensource
 openssl-cipher
 openstack-cgit-browse-file
+opensub
 openwith
 operate-on-number
 opscode-sign
@@ -4311,6 +4318,7 @@ org-bullets
 org-caldav
 org-calibre-notes
 org-capture-pop-frame
+org-change
 org-chef
 org-cliplink
 org-clock-convenience
@@ -4953,6 +4961,7 @@ projectile-rails
 projectile-speedbar
 projectile-trailblazer
 projectile-variable
+projection
 projector
 projekt
 projmake-mode
@@ -5248,6 +5257,7 @@ revert-buffer-all
 review
 review-mode
 rewrite
+rewriting-pcase
 reykjavik-theme
 rfc-mode
 rg
@@ -6113,6 +6123,7 @@ tree-sitter-ispell
 tree-sitter-langs
 treefactor
 treemacs
+treemacs-nerd-icons
 treepy
 treesit-auto
 treeview
@@ -6163,6 +6174,7 @@ typit
 typo
 typo-suggest
 typopunct
+typst-mode
 tzc
 ubuntu-theme
 uchronia
