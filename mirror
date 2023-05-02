@@ -231,6 +231,7 @@ async-await
 async-backup
 async-completing-read
 async-eval
+async-job-queue
 atcoder-tools
 atim-unscroll
 atl-long-lines
@@ -418,6 +419,7 @@ bicycle
 bidi
 bifocal
 binclock
+bind
 bind-map
 binder
 bindings-plus
@@ -434,6 +436,7 @@ bitpack
 blackboard-bold-mode
 blackboard-theme
 blacken
+blackjack
 blackout
 blamer
 blank-mode
@@ -4035,6 +4038,7 @@ nemerle
 neon-mode
 neotree
 nerd-icons
+nerd-icons-completion
 nerd-icons-dired
 nerd-icons-ibuffer
 nerd-icons-ivy-rich
@@ -4299,6 +4303,7 @@ org-analyzer
 org-anki
 org-appear
 org-arbeitszeit
+org-assistant
 org-assoc-tags
 org-attach-embedded-images
 org-attach-screenshot
