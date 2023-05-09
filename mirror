@@ -1132,6 +1132,7 @@ devdocs
 devdocs-browser
 devel-notes
 devhelp
+devil
 df-mode
 dfmt
 dgpg
@@ -3684,6 +3685,7 @@ malinka
 mallard-mode
 mallard-snippets
 malyon
+mame
 man-commands
 manage-minor-mode
 manage-minor-mode-table
@@ -5067,6 +5069,7 @@ python-pylint
 python-pytest
 python-switch-quotes
 python-test
+python-view-data
 python-x
 pythonic
 pyvenv
@@ -6120,6 +6123,7 @@ trashed
 travis
 tray
 tree-edit
+tree-inspector
 tree-mode
 tree-sitter
 tree-sitter-ess-r
@@ -6662,6 +6666,7 @@ zone-nyan
 zone-rainbow
 zone-select
 zone-sl
+zone-tmux-clock
 zones
 zoom
 zoom-frm
