@@ -330,6 +330,7 @@ avy-migemo
 avy-zap
 awesome-tab
 awk-it
+awk-yasnippets
 aws
 aws-ec2
 aws-snippets
@@ -629,6 +630,7 @@ cfrs
 cg
 cg-mode
 challenger-deep-theme
+champagne
 change-inner
 chaos-mode
 chapel-mode
@@ -1708,6 +1710,7 @@ eslint-disable-rule
 eslint-fix
 eslint-rc
 eslintd-fix
+esmond-theme
 esn
 esonify
 espotify
@@ -3387,6 +3390,7 @@ kuronami-theme
 kv
 kwin
 laas
+lab
 lab-themes
 labburn-theme
 lacarte
@@ -5233,6 +5237,7 @@ repdet
 repeat-help
 repeatable-motion
 repeater
+repl-driven-development
 repl-toggle
 replace-plus
 replace-from-region
