@@ -570,6 +570,7 @@ calendar-plus
 calendar-norway
 calfw
 calfw-gcal
+calibre
 calibredb
 call-graph
 calmer-forest-theme
@@ -731,6 +732,7 @@ clojure-mode
 clojure-quick-repls
 clojure-refactoring-mode
 clojure-snippets
+clojure-ts-mode
 clomacs
 closql
 closure-lint-mode
@@ -1504,6 +1506,7 @@ elfeed-protocol
 elfeed-score
 elfeed-summary
 elfeed-tube
+elfeed-webkit
 elforth
 elgrep
 elhome
@@ -1557,6 +1560,7 @@ elscreen-multi-term
 elscreen-separate-buffer-list
 elscreen-tab
 eltex
+elune-theme
 elvish-mode
 elwm
 elx
@@ -2517,6 +2521,7 @@ gpicker
 gplus-mode
 gpr-mode
 gpr-query
+gpr-yasnippets
 gpt
 gptai
 gptel
@@ -4711,6 +4716,7 @@ pdb-capf
 pdb-mode
 pddl-mode
 pdf-tools
+pdf-view-pagemark
 pdf-view-restore
 pdfgrep
 pdfscan
@@ -4978,6 +4984,7 @@ projekt
 projmake-mode
 projman
 projutils
+prometheus-mode
 promise
 prompt-text
 prompts
