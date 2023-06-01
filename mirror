@@ -1,5 +1,4 @@
 0blayout
-0x0
 0xc
 1000-words
 2048-game
@@ -1013,6 +1012,7 @@ cucumber-goto-step
 cucumber-i18n
 cuda-mode
 cue-mode
+cue-sheet-mode
 curl
 curl-to-elisp
 currency-convert
@@ -1997,6 +1997,7 @@ fix-buffers-list
 fix-input
 fix-muscle-memory
 fix-word
+fixed-page-mode
 fixme-mode
 fixmee
 flame
@@ -3755,6 +3756,7 @@ mct
 md-readme
 md4rd
 mdabbrev
+media-progress
 media-thumbnail
 mediawiki
 meghanada
@@ -3852,6 +3854,7 @@ mobdebug-mode
 mocha
 mocha-snippets
 mocker
+modaled
 modalka
 mode-icons
 mode-line-bell
@@ -4972,6 +4975,7 @@ project-persist-drawer
 project-rootfile
 project-shells
 project-tab-groups
+project-treemacs
 projectile
 projectile-git-autofetch
 projectile-rails
