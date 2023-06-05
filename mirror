@@ -251,6 +251,7 @@ audio-notes-mode
 aumix-mode
 aurel
 aurora-config-mode
+auth-source-1password
 auth-source-gopass
 auth-source-keytar
 auth-source-kwallet
@@ -1338,6 +1339,7 @@ duplicate-thing
 dut-mode
 dvorak-mode
 dw
+dwim-coder-mode
 dwim-shell-command
 dyalog-mode
 dylan
@@ -1985,6 +1987,7 @@ finkinfo-mode
 fiplr
 fira-code-mode
 firecode-theme
+firefox-javascript-repl
 firefox-remote
 fireplace
 firestarter
@@ -2225,6 +2228,7 @@ fortune-cookie
 fortune-mode
 fountain-mode
 foursquare
+fpga
 fraktur-mode
 frame-plus
 frame-bufs
@@ -3460,6 +3464,7 @@ lemon-mode
 lentic
 lentic-server
 leo
+lesim-mode
 less
 let-recur
 letcheck
@@ -3931,6 +3936,7 @@ mpmc-queue
 mpris-dbus
 mpris-track-list
 mpv
+mpvi
 mqr
 mqtt-mode
 mru-yank
@@ -4333,6 +4339,7 @@ org-bookmarks-extractor
 org-books
 org-brain
 org-buffers
+org-bulletproof
 org-bullets
 org-caldav
 org-calibre-notes
@@ -4394,6 +4401,7 @@ org-inline-anim
 org-inline-pdf
 org-iv
 org-ivy-search
+org-jami-bot
 org-jira
 org-journal
 org-journal-list
@@ -5141,6 +5149,7 @@ ranger
 rase
 rational
 rats
+raycast-mode
 rb
 rbenv
 rbit
@@ -5447,6 +5456,7 @@ see-mode
 seeing-is-believing
 seethru
 sekka
+selcand
 select-themes
 selected
 selectric-mode
@@ -5714,6 +5724,7 @@ spacegray-theme
 spaceline
 spaceline-all-the-icons
 spacemacs-theme
+spacious-padding
 spark
 sparkline
 sparql-mode
@@ -5842,6 +5853,7 @@ sudo-utils
 sudoku
 suggest
 suggestion-box
+sumibi
 sunburn-theme
 sunny-day-theme
 sunrise-commander
@@ -6212,6 +6224,7 @@ uimage
 ujelly-theme
 ukrainian-holidays
 ul
+ulisp-repl
 ultex
 uml-mode
 unaccent
