@@ -1568,6 +1568,7 @@ elwm
 elx
 emacs-android
 emacs-everywhere
+emacs-gc-stats
 emacs-init-check
 emacs-lock-plus
 emacs-wiki-finddead
