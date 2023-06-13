@@ -315,6 +315,7 @@ autodisass-llvm-bitcode
 autofit-frame
 autoinfo
 autoload-plus
+autoscratch
 autosmiley
 autotetris-mode
 autothemer
@@ -519,6 +520,7 @@ buffer-expose
 buffer-flip
 buffer-manage
 buffer-move
+buffer-name-relative
 buffer-ring
 buffer-sets
 buffer-stack
@@ -2881,6 +2883,7 @@ hindent
 hippie-exp-ext
 hippie-expand-slime
 hippie-namespace
+hippo-themes
 historian
 history
 historyf
@@ -3374,6 +3377,7 @@ kiwix
 kixtart-mode
 kkp
 klere-theme
+klondike
 kmacro-x
 kmb
 know-your-http-well
@@ -4167,6 +4171,7 @@ numbex
 nummm-mode
 numpydoc
 numwin
+nushell-mode
 nv-delete-back
 nvm
 nxml-uxml
@@ -4256,6 +4261,7 @@ ocamlformat
 occidental-theme
 occur-context-resize
 occur-x
+occurx-mode
 oceanic-theme
 ocodo-svg-modelines
 ocp-indent
