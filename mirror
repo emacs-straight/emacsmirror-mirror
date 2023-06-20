@@ -339,6 +339,7 @@ awscli-capf
 axe
 axiom-environment
 ayu-theme
+babashka
 babel
 babel-repl
 back-button
@@ -1283,6 +1284,7 @@ dockerfile-mode
 docmap
 docopt
 docsetutil
+docsim
 docstr
 doct
 dogears
@@ -2529,6 +2531,7 @@ gpicker
 gplus-mode
 gpr-mode
 gpr-query
+gpr-ts-mode
 gpr-yasnippets
 gpt
 gptai
@@ -4131,6 +4134,7 @@ nodejs-repl
 nodemcu-mode
 noflet
 nofrils-acme-theme
+noir-mode
 noob-arrows-mode
 noprefix
 nord-theme
@@ -4218,6 +4222,7 @@ ob-ipython
 ob-julia-vterm
 ob-kotlin
 ob-latex-as-png
+ob-lesim
 ob-lfe
 ob-markdown
 ob-mathematica
@@ -4760,6 +4765,7 @@ perlcritic
 perlmonks
 perltidy
 persist
+persist-state
 persistent-overlays
 persistent-scratch
 persistent-soft
