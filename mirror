@@ -1842,6 +1842,7 @@ evil-textobj-tree-sitter
 evil-traces
 evil-tutor
 evil-tutor-ja
+evil-tutor-sc
 evil-vimish-fold
 evil-visual-mark-mode
 evil-visual-replace
@@ -5119,6 +5120,7 @@ qt-pro-mode
 qtcreator-theme
 qtref
 quack
+quakec-mode
 quarter-plane
 quarto-mode
 quasi-monochrome-theme
@@ -5738,6 +5740,7 @@ spaceline
 spaceline-all-the-icons
 spacemacs-theme
 spacious-padding
+spanish-holidays
 spark
 sparkline
 sparql-mode
