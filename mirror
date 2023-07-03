@@ -223,6 +223,7 @@ asm-blox
 asn1-mode
 assert-rtn
 assess
+astro-ts-mode
 astyle
 asx
 async
@@ -529,6 +530,7 @@ buffer-timer
 buffer-utils
 buffer-watcher
 buffer-wrap
+bufferbin
 bufler
 bufshow
 buftoggle
@@ -1452,6 +1454,7 @@ egison-mode
 egit
 eglot-java
 eglot-jl
+eglot-tempel
 ego
 eide
 eight-puzzle
@@ -2159,6 +2162,7 @@ flymake-hadolint
 flymake-haml
 flymake-haskell-multi
 flymake-helper
+flymake-hledger
 flymake-hlint
 flymake-joker
 flymake-jshint
@@ -2608,6 +2612,7 @@ habitica
 hack-mode
 hacker-typer
 hackernews
+haki-theme
 hal-mode
 ham-mode
 hamburg-theme
@@ -3815,6 +3820,7 @@ mgrep
 mhc
 mic
 micgoline
+micromamba
 midi-kbd
 migemo
 milkode
@@ -4531,6 +4537,7 @@ org-treescope
 org-treeusage
 org-trello
 org-unique-id
+org-upcoming-modeline
 org-vcard
 org-velocity
 org-view-mode
@@ -5519,6 +5526,7 @@ sharper
 shelisp
 shell-command-plus
 shell-command-queue
+shell-command-x
 shell-completion
 shell-current-directory
 shell-here
@@ -6302,6 +6310,7 @@ use-package-el-get
 use-package-hydra
 use-proxy
 use-ttf
+ushin-shapes
 utf8islove
 utimeclock
 utop
