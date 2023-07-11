@@ -893,6 +893,7 @@ consult-dir
 consult-eglot
 consult-flycheck
 consult-flyspell
+consult-gh
 consult-ghq
 consult-git-log-grep
 consult-hatena-bookmark
@@ -921,6 +922,7 @@ copyright-both-ends
 coq-commenter
 corba
 corfu
+corfu-candidate-overlay
 corfu-terminal
 coroutine
 corral
@@ -951,6 +953,7 @@ counsel-projectile
 counsel-pydoc
 counsel-spotify
 counsel-test
+counsel-toki
 counsel-tramp
 counsel-web
 counsel-world-clock
@@ -1209,6 +1212,7 @@ dired-k
 dired-launch
 dired-lsi
 dired-posframe
+dired-preview
 dired-quick-sort
 dired-recent
 dired-rifle
@@ -2539,6 +2543,7 @@ gpr-query
 gpr-ts-mode
 gpr-yasnippets
 gpt
+gpt-commit
 gptai
 gptel
 grab-and-drag
@@ -2838,6 +2843,7 @@ helpful
 hemera-theme
 hemisu-theme
 hercules
+heroku
 heroku-theme
 hexcolour
 hexo
@@ -3796,6 +3802,7 @@ merlin-eldoc
 mermaid-mode
 merriam
 meson-mode
+mess
 message-attachment-reminder
 message-outlook
 message-view-patch
@@ -4992,6 +4999,7 @@ procomm-mode
 prodigy
 professional-theme
 profiles
+prog-face-refine
 prog-fill
 prognth
 programmer-dvorak
@@ -5483,6 +5491,7 @@ select-themes
 selected
 selectric-mode
 selectrum
+semantic-thrift
 semaphore
 semi
 seml-mode
