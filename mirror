@@ -541,6 +541,7 @@ bui
 build-farm
 build-helper
 build-status
+buildbot
 bundle
 bundler
 burly
@@ -5830,6 +5831,7 @@ standard-dirs
 standard-themes
 standoff-mode
 stardict
+starhugger
 starlit-theme
 start-menu
 startupd
@@ -6526,6 +6528,7 @@ wikinforg
 wikipedia-mode
 wikirel
 wikitext-mode
+wildcharm-theme
 wilt
 wimpy-del
 win-switch
@@ -6684,6 +6687,7 @@ yaxception
 ycm
 ycmd
 ydk-mode
+yeetube
 yeoman
 yequake
 yesql-ghosts
