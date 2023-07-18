@@ -904,8 +904,12 @@ nf-procmail-mode
 nm
 nmap
 nmodl
+nndiscourse
+nnhackernews
 nnir-grepmail
+nnreddit
 nntodo
+nntwitter
 nodenv
 nopaste
 nose
