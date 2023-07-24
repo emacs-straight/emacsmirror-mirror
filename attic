@@ -682,6 +682,7 @@ iswitchb-fc
 itunes
 ivy-feedwrangler
 ivy-pages
+ivy-phpunit
 iy-go-to-char
 jabber-otr
 japanese-tokenizer
@@ -1004,6 +1005,7 @@ pcmpl-arch
 pdb
 pde
 peano
+peep-dired
 peepopen
 per-window-point
 perkymbf

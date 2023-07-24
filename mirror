@@ -670,6 +670,7 @@ chinese-word-at-point
 chinese-yasdcv
 chocolate-theme
 choice-program
+chordpro-mode
 chroma
 chronometer
 chronometrist
@@ -2051,6 +2052,7 @@ flycheck-apertium
 flycheck-aspell
 flycheck-ats2
 flycheck-bashate
+flycheck-buf-lint
 flycheck-cask
 flycheck-checkbashisms
 flycheck-checkpatch
@@ -3192,7 +3194,6 @@ ivy-migemo
 ivy-mpdel
 ivy-omni-org
 ivy-pass
-ivy-phpunit
 ivy-posframe
 ivy-purpose
 ivy-rich
@@ -4758,7 +4759,6 @@ pdfscan
 peacock-theme
 pebble-mode
 peek-mode
-peep-dired
 peertube
 peg
 pelican-mode
@@ -5967,6 +5967,7 @@ tabbar
 tabbar-ruler
 tabgo
 tablist
+tabnine
 tabspaces
 tabula-rasa
 tag
@@ -6008,6 +6009,7 @@ teco
 telega
 telepathy
 telephone-line
+teleport
 teletext
 teletext-yle
 tellstick
