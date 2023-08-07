@@ -77,6 +77,7 @@ activity-watch-mode
 ada-gpr
 ada-mode
 ada-ref-man
+ada-ts-mode
 adafruit-wisdom
 adaptive-wrap
 add-hooks
@@ -431,6 +432,7 @@ bing-api
 bing-dict
 binky-mode
 binmove
+biome
 birds-of-paradise-plus-theme
 bison-mode
 bitbake
@@ -1939,6 +1941,7 @@ fd-dired
 fdlcap
 feather
 feature-mode
+fedi
 feebleline
 feed-discovery
 feline
@@ -2049,6 +2052,7 @@ flx-isearch
 flx-rs
 flxy
 flycheck
+flycheck-actionlint
 flycheck-apertium
 flycheck-aspell
 flycheck-ats2
@@ -2146,6 +2150,8 @@ flycheck-yang
 flydoc
 flyguess
 flylisp
+flymake-actionlint
+flymake-clippy
 flymake-coffee
 flymake-collection
 flymake-cspell
@@ -2193,6 +2199,7 @@ flymake-python-pyflakes
 flymake-quickdef
 flymake-racket
 flymake-rakudo
+flymake-relint
 flymake-ruby
 flymake-ruff
 flymake-sass
@@ -4501,6 +4508,7 @@ org-review
 org-rich-yank
 org-roam
 org-roam-bibtex
+org-roam-ql
 org-roam-timestamps
 org-roam-ui
 org-ros
@@ -5749,6 +5757,7 @@ sourcekit
 sourcemap
 sourcepawn-mode
 sourcerer-theme
+sozluk
 space-chord
 space-theming
 spacebar
@@ -5928,7 +5937,6 @@ switch-to-new-buffer
 switch-window
 switchy-window
 swoop
-swsw
 sx
 sxhkdrc-mode
 sxiv
@@ -6746,6 +6754,7 @@ zoom-window
 zop-to-char
 zotelo
 zotero
+zotra
 zotxt
 zoutline
 zoxide
