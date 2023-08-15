@@ -158,6 +158,7 @@ angry-police-captain
 angular-snippets
 anki-connect
 anki-editor
+anki-editor-view
 anki-mode
 anki-vocabulary
 annalist
@@ -430,7 +431,7 @@ binder
 bindings-plus
 bing-api
 bing-dict
-binky-mode
+binky
 binmove
 biome
 birds-of-paradise-plus-theme
@@ -448,6 +449,7 @@ blamer
 blank-mode
 blgrep
 blimp
+blink-search
 bliss-theme
 blist
 blitzmax-mode
@@ -2934,6 +2936,7 @@ hmac
 hnreader
 hoa-mode
 holiday-pascha-etc
+holo-layer
 holy-books
 home-end
 homebrew-mode
@@ -4832,6 +4835,7 @@ php-refactor-mode
 php-runtime
 php-scratch
 phpactor
+phpinspect
 phps-mode
 phpstan
 phpt-mode
@@ -5020,6 +5024,7 @@ project-persist-drawer
 project-rootfile
 project-shells
 project-tab-groups
+project-tasks
 project-treemacs
 projectile
 projectile-git-autofetch
@@ -5746,6 +5751,7 @@ soothe-theme
 sorcery-theme
 soria-theme
 sort-plus
+sort-tab
 sort-words
 sortie
 sotclojure
