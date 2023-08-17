@@ -1,4 +1,5 @@
 0blayout
+0x0
 0xc
 1000-words
 2048-game
@@ -4485,7 +4486,7 @@ org-present-remote
 org-presie
 org-pretty-tags
 org-preview-html
-org-projectile
+org-project-capture
 org-protocol-github-lines
 org-protocol-jekyll
 org-ql
