@@ -469,6 +469,7 @@ bmi
 bmx-mode
 bnf-mode
 bnfc
+boa-ide
 bog
 bolt-mode
 bongo
@@ -1316,6 +1317,7 @@ doremi-cmd
 doremi-frm
 doremi-mac
 dot-emacs-helper
+dot-env
 dot-mode
 dotenv-mode
 dotnet
@@ -1457,6 +1459,7 @@ ee
 eev
 ef-themes
 efar
+eff
 efire
 eg
 egalgo
@@ -1883,6 +1886,7 @@ expand-region
 expectations-mode
 expenses
 explain-pause-mode
+expreg
 express
 exsqlaim-mode
 extempore-mode
@@ -2102,6 +2106,7 @@ flycheck-grammarly
 flycheck-guile
 flycheck-haskell
 flycheck-hdevtools
+flycheck-hl-todo
 flycheck-hledger
 flycheck-indicator
 flycheck-ini-pyinilint
@@ -5951,6 +5956,7 @@ symbol-navigation-hydra
 symbol-overlay
 symbolist
 symbols-mode
+symbols-outline
 symbolword-mode
 symex
 symon
@@ -6332,6 +6338,7 @@ url-http-oauth
 url-scgi
 url-shortener
 urlenc
+ursa-ts-mode
 urscript-mode
 usage-memo
 use-package-el-get
@@ -6693,6 +6700,7 @@ yari
 yarn-mode
 yascroll
 yasnippet
+yasnippet-capf
 yasnippet-classic-snippets
 yasnippet-lean
 yasnippet-snippets
