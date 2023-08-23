@@ -4140,6 +4140,7 @@ nix-env-install
 nix-haskell-mode
 nix-mode
 nix-modeline
+nix-ts-mode
 nix-update
 nixos-options
 nixpkgs-fmt
