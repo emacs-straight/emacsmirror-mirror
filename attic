@@ -288,6 +288,7 @@ diary-mode
 diary-outlook
 diary-pilot
 diary-todo
+dic-lookup-w3m
 dict-web
 diff-save-buffer
 dig-browser
