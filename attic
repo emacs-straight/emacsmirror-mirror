@@ -1203,6 +1203,7 @@ sendmail-mode
 seq-numbering
 serverspec
 sese
+session
 setq-trap
 sfst
 sgml-id
@@ -1235,6 +1236,7 @@ sly-company
 smallurl
 smart-snippet
 smartquotes
+sml-modeline
 snippet
 soap
 sorter

@@ -5531,7 +5531,6 @@ seriestracker
 servant
 services
 sesman
-session
 session-async
 seti-theme
 setnu
@@ -5715,7 +5714,6 @@ smithers
 smithy-mode
 sml-basis
 sml-mode
-sml-modeline
 smmry
 smog
 smooth-scroll
