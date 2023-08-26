@@ -1481,7 +1481,6 @@ ejc-sql
 ejson-mode
 ekg
 el-autoyas
-el-expectations
 el-fetch
 el-fly-indent-mode
 el-get
@@ -3034,6 +3033,7 @@ idle-scroll
 idlehelp
 ido-at-point
 ido-better-flex
+ido-choose-function
 ido-complete-space-or-hyphen
 ido-completing-read-plus
 ido-exit-target
@@ -5828,6 +5828,7 @@ sqlformat
 sqlite3
 sqlplus
 sqlup-mode
+sqorm
 squirrel-mode
 sr-speedbar
 srcery-theme
