@@ -235,6 +235,7 @@ async-backup
 async-completing-read
 async-eval
 async-job-queue
+async-status
 atcoder-tools
 atim-unscroll
 atl-long-lines
@@ -605,6 +606,7 @@ cargo-transient
 caroline-theme
 cascading-dir-locals
 caseformat
+caser
 cask-mode
 cask-package-toolset
 caskxy
@@ -1138,6 +1140,7 @@ demangle-mode
 demap
 demo-it
 deno-fmt
+deno-ts-mode
 denote
 denote-menu
 denote-refs
@@ -1282,6 +1285,7 @@ dkmisc
 dmacro
 dmenu
 dna-mode
+do-at-point
 do-not-edit
 doc-mode
 doc-show-inline
@@ -3082,6 +3086,7 @@ imenu-tree
 imenus
 imgbb
 immaterial-theme
+immersive-translate
 immortal-scratch
 immutant-server
 impatient-mode
@@ -3290,6 +3295,7 @@ jpl-reformat
 jpop
 jq-format
 jq-mode
+jq-ts-mode
 jquery-doc
 js-auto-beautify
 js-auto-format-mode
@@ -4293,6 +4299,7 @@ objed
 oblivion-theme
 obsidian
 obsidian-theme
+ocaml-ts-mode
 ocamlformat
 occidental-theme
 occur-context-resize
@@ -4572,6 +4579,7 @@ org-wc
 org-web-tools
 org-wild-notifier
 org-working-set
+org-xlatex
 org-zettelkasten
 org2blog
 org2ctex
@@ -5679,6 +5687,7 @@ smart-comment
 smart-cursor-color
 smart-dabbrev
 smart-dash
+smart-delete
 smart-dnd
 smart-forward
 smart-hungry-delete
