@@ -307,6 +307,7 @@ auto-rename-tag
 auto-save-buffers-enhanced
 auto-scroll
 auto-shell-command
+auto-sort-mode
 auto-sudoedit
 auto-virtualenv
 auto-virtualenvwrapper
@@ -1124,6 +1125,7 @@ dedicated
 dedukti-mode
 default-font-presets
 default-text-scale
+defcapture
 deferred
 defhook
 define-it
@@ -1183,6 +1185,7 @@ difflib
 diffpdf
 diffscuss-mode
 diffstat
+difftastic
 diffview
 digistar-mode
 digit-groups
@@ -1358,6 +1361,7 @@ dumbparens
 dummyparens
 dune
 dune-format
+duplexer
 duplicate-thing
 dut-mode
 dvorak-mode
@@ -3425,6 +3429,7 @@ kodi-remote
 kokopelli
 kolon-mode
 konoha-mode
+koopa-mode
 kooten-theme
 korean-holidays
 kosmos-theme
@@ -4172,6 +4177,7 @@ nodemcu-mode
 noflet
 nofrils-acme-theme
 noir-mode
+noir-ts-mode
 noob-arrows-mode
 noprefix
 nord-theme
@@ -5934,6 +5940,7 @@ svg-mode-line-themes
 svg-tag-mode
 svgo
 svnwrapper
+swagg
 swagger-to-org
 swallow-window
 swap-buffers
