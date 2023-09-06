@@ -502,6 +502,7 @@ bracketed-paste
 bracketphobia
 brainfuck-mode
 brazilian-holidays
+breadcrumb
 brec-mode
 brf
 brief
@@ -924,7 +925,6 @@ contextual
 contextual-menubar
 contrast-color
 control-mode
-conventional-changelog
 cook-mode
 cool-mode
 copy-as-format
@@ -2186,6 +2186,7 @@ flymake-go-staticcheck
 flymake-golangci
 flymake-gradle
 flymake-grammarly
+flymake-guile
 flymake-hadolint
 flymake-haml
 flymake-haskell-multi
@@ -3510,6 +3511,7 @@ ledger-mode
 leerzeichen
 leetcode
 legalese
+lem
 lemon-mode
 lentic
 lentic-server

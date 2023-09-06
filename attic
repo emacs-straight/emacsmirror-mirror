@@ -115,7 +115,6 @@ bookmark-extensions
 bookmark-search
 branch
 bravegnuworld-mode
-breadcrumb
 breathe
 browse-cltl2
 browse-help
@@ -218,6 +217,7 @@ confluence
 conjecture-mode
 connectivity
 conspire
+conventional-changelog
 convert-email
 copy-chars
 copy-directory
