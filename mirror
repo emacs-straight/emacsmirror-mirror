@@ -132,6 +132,7 @@ all-the-icons-gnus
 all-the-icons-ibuffer
 all-the-icons-ivy
 all-the-icons-ivy-rich
+all-the-icons-nerd-fonts
 almost-mono-themes
 alsamixer
 alt-codes
@@ -2585,6 +2586,7 @@ graphene-meta-theme
 graphql
 graphql-doc
 graphql-mode
+graphql-ts-mode
 graphviz-dot
 graphviz-dot-mode
 grapnel
@@ -6233,6 +6235,7 @@ tree-sitter-ess-r
 tree-sitter-indent
 tree-sitter-ispell
 tree-sitter-langs
+treebundel
 treefactor
 treemacs
 treemacs-nerd-icons
@@ -6418,6 +6421,7 @@ verb
 veri-kompass
 verify-url
 verilog-ext
+verilog-ts-mode
 verona-mode
 versions
 versuri
@@ -6430,6 +6434,7 @@ vhdl-capf
 vhdl-ext
 vhdl-process-wave
 vhdl-tools
+vhdl-ts-mode
 vi-dot
 vi-tilde-fringe
 viewer
@@ -6509,6 +6514,7 @@ warm-night-theme
 warn-mail
 wasp-mode
 watch-buffer
+wavedrom-mode
 wavefront-obj-mode
 wc-goal-mode
 wc-mode
