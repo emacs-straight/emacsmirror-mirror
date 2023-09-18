@@ -1048,6 +1048,7 @@ cursory
 cus-edit-plus
 cwl-mode
 cyanometric-theme
+cybercafe-theme
 cyberpunk-2019-theme
 cyberpunk-theme
 cycbuf
@@ -1396,6 +1397,7 @@ eaf-pdf-viewer
 eaf-terminal
 eaf-video-player
 earthfile-mode
+eask
 easy-after-load
 easy-escape
 easy-highlight
@@ -2713,6 +2715,7 @@ helm-cider-history
 helm-circe
 helm-clojuredocs
 helm-codesearch
+helm-comint
 helm-commandlinefu
 helm-company
 helm-cscope
@@ -3172,6 +3175,7 @@ io-mode-inf
 ioccur
 iodine-theme
 ios-config-mode
+iota
 ipa
 ipcalc
 iplayer
@@ -3604,6 +3608,8 @@ livescript-mode
 livid-mode
 ll-debug
 llama
+llama-cpp
+llm
 lmc
 lms
 lnk
@@ -3898,6 +3904,7 @@ mirror
 mirror-mode
 misc-cmds
 misc-fns
+mistty
 mix
 mixed-pitch
 mk-project
@@ -4223,6 +4230,7 @@ nummm-mode
 numpydoc
 numwin
 nushell-mode
+nushell-ts-mode
 nv-delete-back
 nvm
 nxml-uxml
@@ -6345,6 +6353,7 @@ unisonlang-mode
 unit-test
 units-mode
 universal-emotions-emoticons
+universal-sidecar
 unmodified-buffer
 unobtrusive-magit-theme
 unparen
