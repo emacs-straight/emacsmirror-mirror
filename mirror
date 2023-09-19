@@ -5685,6 +5685,7 @@ slime-js
 slime-repl-ansi-color
 slime-theme
 slime-volleyball
+slint-mode
 slirm
 slovak-holidays
 slow-keys
@@ -6522,6 +6523,7 @@ wanderlust
 warm-night-theme
 warn-mail
 wasp-mode
+wat-ts-mode
 watch-buffer
 wavedrom-mode
 wavefront-obj-mode
