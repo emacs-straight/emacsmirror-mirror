@@ -106,6 +106,7 @@ ah
 ahg
 ahk-mode
 ahungry-theme
+aiken-mode
 aio
 aircon-theme
 airline-themes
@@ -237,6 +238,7 @@ async-completing-read
 async-eval
 async-job-queue
 async-status
+asyncloop
 atcoder-tools
 atim-unscroll
 atl-long-lines
@@ -6034,6 +6036,7 @@ take-off
 tal-indent
 tal-mode
 talonscript-mode
+tam
 tango-2-theme
 tango-plus-theme
 tangonov-theme
@@ -6298,7 +6301,6 @@ typit
 typo
 typo-suggest
 typopunct
-typst-mode
 tzc
 ubuntu-theme
 uchronia
@@ -6646,6 +6648,7 @@ wotd
 wpdl-mode
 wpuzzle
 wrap-region
+wrap-search
 wren-mode
 writefreely
 writegood-mode
