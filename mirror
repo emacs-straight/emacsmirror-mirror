@@ -340,6 +340,7 @@ avy-migemo
 avy-zap
 awesome-tab
 awk-it
+awk-ts-mode
 awk-yasnippets
 aws
 aws-ec2
@@ -1400,6 +1401,7 @@ eaf-terminal
 eaf-video-player
 earthfile-mode
 eask
+eask-mode
 easy-after-load
 easy-escape
 easy-highlight
@@ -1534,6 +1536,7 @@ elescope
 elf-mode
 elfeed
 elfeed-autotag
+elfeed-curate
 elfeed-dashboard
 elfeed-goodies
 elfeed-org
@@ -3505,6 +3508,7 @@ lcb-mode
 lcomp
 lcr
 le-thesaurus
+leader-key
 leaf
 leaf-convert
 leaf-defaults
@@ -3842,6 +3846,7 @@ meow
 merlin
 merlin-eldoc
 mermaid-mode
+mermaid-ts-mode
 merriam
 meson-mode
 mess
@@ -4020,7 +4025,6 @@ mu4e-alert
 mu4e-column-faces
 mu4e-conversation
 mu4e-jump-to-list
-mu4e-maildirs-extension
 mu4e-marker-icons
 mu4e-overview
 mu4e-query-fragments
@@ -4191,6 +4195,7 @@ noflet
 nofrils-acme-theme
 noir-mode
 noir-ts-mode
+non-edit-mode
 noob-arrows-mode
 noprefix
 nord-theme
@@ -4228,7 +4233,6 @@ number
 number-lock
 numbers
 numbex
-nummm-mode
 numpydoc
 numwin
 nushell-mode
@@ -4555,6 +4559,7 @@ org-search-goto
 org-search-goto-ml
 org-seek
 org-shoplist
+org-side-tree
 org-sidebar
 org-snooze
 org-special-block-extras
@@ -6159,6 +6164,7 @@ timid
 timonier
 timp
 timu-caribbean-theme
+timu-line
 timu-macos-theme
 timu-rouge-theme
 timu-spacegrey-theme
@@ -6547,6 +6553,7 @@ web-mode-edit-element
 web-narrow-mode
 web-search
 web-server
+webdriver
 webfeeder
 webgen-mode
 webkit-color-picker

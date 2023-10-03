@@ -875,6 +875,7 @@ msgcodes
 msn
 mtools
 mtorus
+mu4e-maildirs-extension
 multi-comment
 multi-find-file
 multi-mode-util
@@ -929,6 +930,7 @@ ns-browse
 ns-platform-support
 nterm
 numbered-outline
+nummm-mode
 nummove
 nxhtml
 nz-holidays
