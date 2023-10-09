@@ -11,6 +11,7 @@ a
 a-menu
 a2ps-multibyte
 aa-edit-mode
+aangit
 aas
 abbrev-complete
 abbrev-sort
@@ -97,6 +98,7 @@ ag
 agda-editor-tactics
 agda2-mode
 age
+agenix
 aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
@@ -840,6 +842,7 @@ company-coq
 company-ctags
 company-dcd
 company-dict
+company-eask
 company-ebdb
 company-emoji
 company-emojify
@@ -1152,6 +1155,7 @@ deno-ts-mode
 denote
 denote-menu
 denote-refs
+derl
 descr-text-plus
 describe-hash
 describe-number
@@ -2267,6 +2271,7 @@ foreman-mode
 forest-blue-theme
 forge
 form-feed
+form-feed-st
 format-all
 format-sql
 format-table
@@ -2402,6 +2407,7 @@ git-auto-commit
 git-auto-commit-mode
 git-backup
 git-backup-ivy
+git-cliff
 git-code-review
 git-command
 git-commit-insert-issue
@@ -2655,6 +2661,7 @@ hacker-typer
 hackernews
 haki-theme
 hal-mode
+halloweenie-theme
 ham-mode
 hamburg-theme
 hamburger-menu
@@ -3002,6 +3009,7 @@ hugsql-ghosts
 humanoid-themes
 hungarian-holidays
 hungry-delete
+hush
 huskie
 hy-mode
 hyai
@@ -3490,6 +3498,7 @@ later-do
 latex-change-env
 latex-extra
 latex-frame-mode
+latex-labeler
 latex-math-preview
 latex-pretty-symbols
 latex-preview-pane
@@ -4129,6 +4138,7 @@ neon-mode
 neotree
 nerd-icons
 nerd-icons-completion
+nerd-icons-corfu
 nerd-icons-dired
 nerd-icons-ibuffer
 nerd-icons-ivy-rich
@@ -5041,6 +5051,7 @@ pretty-speedbar
 pretty-symbols
 preview-dvisvgm
 prism
+prisma-ts-mode
 private
 private-comments-mode
 private-diary
@@ -5111,6 +5122,7 @@ pug-mode
 pulsar
 pulseaudio
 pulseaudio-control
+pumpkin-spice-theme
 punctuality-logger
 pungi
 puni
@@ -6108,6 +6120,7 @@ terrible-template
 tesouro
 test-c
 test-case-mode
+test-cockpit
 test-framework
 test-kitchen
 test-more
