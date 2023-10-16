@@ -926,6 +926,7 @@ consult-org-roam
 consult-project-extra
 consult-projectile
 consult-recoll
+consult-tex
 consult-yasnippet
 contentswitch
 context-coloring
@@ -1526,6 +1527,7 @@ elcouch
 eldev
 eldoc-box
 eldoc-cmake
+eldoc-eask
 eldoc-eval
 eldoc-extension
 eldoc-overlay
@@ -1570,6 +1572,7 @@ elixir-mode
 elixir-ts-mode
 elixir-yasnippets
 elk-test
+ellama
 ellocate
 elm-mode
 elm-test-runner
@@ -2062,6 +2065,7 @@ fleetish-theme
 flex-autopair
 flex-compile
 flex-isearch
+flexoki-themes
 flim
 flimenu
 fliptext
@@ -2542,6 +2546,7 @@ gobgen
 goby
 god-mode
 godoctor
+gofmt-tag
 goggles
 golb
 gold-mode
@@ -3698,6 +3703,7 @@ lsp-ui
 ltsv
 lua-block
 lua-mode
+lua-ts-mode
 luarocks
 lurk-mode
 lush-theme
@@ -4259,6 +4265,7 @@ oauth2
 oauth2-request
 ob-ada-spark
 ob-applescript
+ob-asymptote
 ob-async
 ob-bitfield
 ob-blockdiag
@@ -4514,6 +4521,7 @@ org-mru-clock
 org-msg
 org-multi-wiki
 org-nan
+org-newtab
 org-notebook
 org-noter
 org-notifications
@@ -4593,6 +4601,7 @@ org-tfl
 org-themis
 org-tidy
 org-time-budgets
+org-timeblock
 org-timeline
 org-toodledo
 org-tracktable
@@ -6315,6 +6324,7 @@ tx-mode
 type-test
 typematic
 typescript-mode
+typewriter-roll-mode
 typing
 typing-game
 typit
@@ -6478,6 +6488,7 @@ vim-region
 vimgolf
 vimish-fold
 vimrc-mode
+vimscript-ts-mode
 vimvars
 viper-in-more-modes
 virtual-auto-fill
