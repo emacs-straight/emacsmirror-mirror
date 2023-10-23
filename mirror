@@ -896,6 +896,7 @@ completing-history
 composable
 composer
 comware-router-mode
+conan
 conda
 config-general-mode
 config-parser
@@ -927,6 +928,7 @@ consult-project-extra
 consult-projectile
 consult-recoll
 consult-tex
+consult-todo
 consult-yasnippet
 contentswitch
 context-coloring
@@ -2112,6 +2114,7 @@ flycheck-dmd-dub
 flycheck-dogma
 flycheck-drstring
 flycheck-dtrace
+flycheck-eask
 flycheck-eglot
 flycheck-eldev
 flycheck-elixir
@@ -3571,7 +3574,6 @@ license-templates
 ligature
 ligature-pragmatapro
 light-soap-theme
-ligo-mode
 lilypond
 lilypond-hook
 lin
@@ -6297,6 +6299,7 @@ try-code
 ts
 ts-comint
 ts-mode
+tsort
 tss
 tsv-mode
 tt-mode
