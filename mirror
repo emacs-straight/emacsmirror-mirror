@@ -685,6 +685,7 @@ chinese-number
 chinese-wbim
 chinese-word-at-point
 chinese-yasdcv
+chip8
 chocolate-theme
 choice-program
 chordpro-mode
@@ -2193,6 +2194,7 @@ flymake-css
 flymake-csslint
 flymake-cursor
 flymake-diagnostic-at-point
+flymake-eask
 flymake-easy
 flymake-elisp-config
 flymake-elixir
@@ -3386,6 +3388,7 @@ kakapo-mode
 kakoune
 kaleidoscope
 kana
+kanagawa-theme
 kanban
 kanji-mode
 kaocha-runner
@@ -3901,6 +3904,7 @@ mindre-theme
 mines
 minesweeper
 mingus
+mini-echo
 mini-frame
 mini-header-line
 mini-modeline
@@ -4863,6 +4867,7 @@ persp-mode-projectile-bridge
 persp-projectile
 perspective
 perspective-exwm
+perspective-project-bridge
 perspeen
 pest-mode
 pet
@@ -5975,6 +5980,7 @@ suomalainen-kalenteri
 super-save
 superego
 supergenpass
+surround
 suscolors-theme
 sv-kalender-namnsdagar
 svelte-mode
@@ -6162,6 +6168,7 @@ thing-opt
 thingatpt-plus
 thingopt
 thinks
+third-time
 thread-dump
 threes
 thrift
@@ -6206,6 +6213,7 @@ tmmofl
 tmr
 tmsu
 tmt-mode
+tmux-mode
 tmux-pane
 toc-mode
 toc-org
