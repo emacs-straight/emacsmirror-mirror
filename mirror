@@ -2187,6 +2187,7 @@ flyguess
 flylisp
 flymake-actionlint
 flymake-clippy
+flymake-codespell
 flymake-coffee
 flymake-collection
 flymake-cspell
@@ -4963,6 +4964,7 @@ plt-completions
 plur
 plural
 plz
+plz-see
 pmd
 pmdm
 pnpm-mode
