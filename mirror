@@ -547,6 +547,7 @@ buffer-utils
 buffer-watcher
 buffer-wrap
 bufferbin
+bufferlo
 bufler
 bufshow
 buftoggle
@@ -1084,6 +1085,8 @@ dae
 daemons
 dakrone-light-theme
 dakrone-theme
+daml-lsp
+daml-mode
 danneskjold-theme
 dante
 dap-mode
@@ -1133,6 +1136,7 @@ debug-print
 decide
 decl
 declutter
+decor
 dedent
 dedicated
 dedukti-mode
@@ -5780,6 +5784,7 @@ smithers
 smithy-mode
 sml-basis
 sml-mode
+smlfmt
 smmry
 smog
 smooth-scroll
