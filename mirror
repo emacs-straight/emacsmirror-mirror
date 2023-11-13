@@ -2387,6 +2387,7 @@ geiser-racket
 geiser-stklos
 gemini-mode
 gemini-write
+gemtext-mode
 general
 generic-edit-special
 genrnc
@@ -3274,6 +3275,7 @@ jabber
 jabber-chatx
 jack
 jack-connect
+jack-ts-mode
 jade-mode
 jamar
 jami-bot
@@ -3812,6 +3814,7 @@ mark-multiple
 mark-select
 mark-thing-at
 mark-tools
+mark-yank
 markchars
 markdown-changelog
 markdown-mode
