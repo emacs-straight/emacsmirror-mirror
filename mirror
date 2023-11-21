@@ -1416,6 +1416,7 @@ eaf-video-player
 earthfile-mode
 eask
 eask-mode
+easky
 easy-after-load
 easy-escape
 easy-highlight
@@ -3644,6 +3645,7 @@ ll-debug
 llama
 llama-cpp
 llm
+llvm-ts-mode
 lmc
 lms
 lnk
@@ -5479,6 +5481,7 @@ ruby-test-mode
 ruby-tools
 rubyinterpol
 rudel
+ruff-format
 rufo
 ruled-switch-buffer
 rum-mode
@@ -5599,6 +5602,7 @@ sequed
 sequence
 sequences
 sequential-command
+sequential-yank
 seriestracker
 servant
 services
@@ -6061,6 +6065,7 @@ tab-bar-buffers
 tab-bar-echo-area
 tab-bar-groups
 tab-bar-lost-commands
+tab-bar-notch
 tab-group
 tab-jump-out
 tabbar
