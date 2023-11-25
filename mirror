@@ -4751,6 +4751,7 @@ ox-wk
 ox-yaow
 ox-zenn
 p4
+p4-16-mode
 pabbrev
 paced
 pacfiles-mode
@@ -6173,6 +6174,7 @@ tf2-conf-mode
 tfsmacs
 the-matrix-theme
 theme-anchor
+theme-buffet
 theme-changer
 theme-helper
 theme-looper
@@ -6367,6 +6369,8 @@ ucs-utils
 udev-mode
 ue
 uimage
+uiua-mode
+uiua-ts-mode
 ujelly-theme
 ukrainian-holidays
 ul
