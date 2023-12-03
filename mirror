@@ -3710,6 +3710,7 @@ lsp-pyre
 lsp-pyright
 lsp-rescript
 lsp-scheme
+lsp-shader
 lsp-sonarlint
 lsp-sourcekit
 lsp-tailwindcss
@@ -6282,6 +6283,7 @@ trans-ej
 trans-regions
 transcribe
 transcript
+transducers
 transfer-sh
 transient
 transient-cycles
