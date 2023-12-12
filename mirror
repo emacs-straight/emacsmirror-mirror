@@ -488,6 +488,7 @@ bookem
 bookiez
 bookmark-plus
 bookmark-add
+bookmark-frecency
 bookmark-in-project
 bookmark-view
 bool-flip
@@ -1090,6 +1091,7 @@ daml-mode
 danneskjold-theme
 dante
 dap-mode
+dape
 darcsum
 darcula-theme
 dark-krystal-theme
@@ -1368,6 +1370,7 @@ drupal-mode
 drupal-spell
 dsvn
 dtb-mode
+dtext-mode
 dtk
 dtrace-script-mode
 dtrt-indent
@@ -2207,6 +2210,7 @@ flymake-elisp-config
 flymake-elixir
 flymake-eslint
 flymake-extension
+flymake-fennel
 flymake-flycheck
 flymake-for-csharp
 flymake-gjshint
@@ -3174,6 +3178,7 @@ inherit-local
 inheritenv
 ini
 ini-mode
+init-dir
 init-loader
 init-open-recentf
 initsplit
@@ -3181,6 +3186,7 @@ ink-mode
 inkpot-theme
 inline-crypt
 inline-docs
+inputrc-mode
 insecure-lock
 insert-char-preview
 insert-esv
@@ -3373,6 +3379,7 @@ jsonnet-mode
 jss
 jst
 jtags
+jtsx
 julia-formatter
 julia-mode
 julia-repl
@@ -3878,6 +3885,7 @@ menu-bar-plus
 meow
 merlin
 merlin-eldoc
+mermaid-docker-mode
 mermaid-mode
 mermaid-ts-mode
 merriam
@@ -4396,6 +4404,7 @@ omnisharp
 omtose-phellack-theme
 on-parens
 on-screen
+one
 one-key
 one-key-local
 one-themes
@@ -4660,6 +4669,7 @@ orglink
 orglue
 orgmdb
 orgnav
+orgnote
 orgrade
 orgstrap
 orgtbl-aggregate
@@ -6045,6 +6055,7 @@ symon
 symon-lingr
 sync-recentf
 sync-scroll
+syncthing
 synonymous
 synonyms
 synosaurus
