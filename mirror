@@ -793,6 +793,7 @@ codesearch
 codespaces
 codethumb
 codic
+coercion
 coffee-fof
 coffee-mode
 coin-ticker
@@ -3800,6 +3801,7 @@ make-color
 make-it-so
 makefile-executor
 makefile-runner
+makem
 makey
 malinka
 mallard-mode
@@ -4435,6 +4437,7 @@ orderless
 ordinal
 org
 org-ac
+org-agenda-files-track
 org-agenda-property
 org-ai
 org-alert
