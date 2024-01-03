@@ -424,6 +424,7 @@ bfbuilder
 bibclean-format
 biblio
 biblio-bibsonomy
+biblio-gbooks
 bibretrieve
 bibslurp
 bibtex-capf
@@ -3261,6 +3262,7 @@ ivy-erlang-complete
 ivy-explorer
 ivy-file-preview
 ivy-fuz
+ivy-hoogle
 ivy-lobsters
 ivy-migemo
 ivy-mpdel
@@ -4068,6 +4070,7 @@ mu4e
 mu4e-alert
 mu4e-column-faces
 mu4e-conversation
+mu4e-crypto
 mu4e-jump-to-list
 mu4e-marker-icons
 mu4e-overview
@@ -4295,6 +4298,7 @@ ob-ada-spark
 ob-applescript
 ob-asymptote
 ob-async
+ob-base64
 ob-bitfield
 ob-blockdiag
 ob-browser
@@ -4415,6 +4419,7 @@ oneonone
 online-search
 opam
 opam-switch-mode
+open-color
 open-in-msvs
 open-junk-file
 open-related-file
@@ -5059,7 +5064,6 @@ posix-manual
 posn-on-screen
 postcss-sorting
 pov-mode
-pow
 power-mode
 powerline
 powerline-evil
