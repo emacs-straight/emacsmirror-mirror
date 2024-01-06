@@ -103,6 +103,7 @@ bibfind
 bibl-mode
 bibtex-mode
 bike
+bitbucket
 bitly
 blackbook
 blink-extras
@@ -906,6 +907,7 @@ netrexx-mode
 new-subdirs-el
 news-hack
 nf-procmail-mode
+nimbus-theme
 nm
 nmap
 nmodl
@@ -974,6 +976,7 @@ org-password-manager
 org-pdfview
 org-pivotal
 org-pua
+org-recur
 org-roam-server
 org-s5
 org-seenthis
