@@ -3402,6 +3402,7 @@ justl
 jvm-mode
 k8s-mode
 kaesar
+kagi
 kakapo-mode
 kakoune
 kaleidoscope
@@ -5763,6 +5764,7 @@ sly-asdf
 sly-hello-world
 sly-macrostep
 sly-named-readtables
+sly-overlay
 sly-quicklisp
 sly-repl-ansi-color
 sm-c-mode
@@ -6087,6 +6089,7 @@ tab-group
 tab-jump-out
 tabbar
 tabbar-ruler
+tabby-mode
 tabgo
 tablist
 tabnine
@@ -6140,6 +6143,7 @@ telnet-contrib
 temp-buffer-browse
 tempel
 tempel-collection
+templ-ts-mode
 template-overlays
 template-simple
 templatel
