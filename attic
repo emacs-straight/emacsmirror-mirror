@@ -567,6 +567,7 @@ grin
 growl
 gtk-look
 gtk-perl
+gtk-variant
 gtranslate
 guess-lang
 guido-mode
@@ -1269,11 +1270,13 @@ sql-mssql
 sqlite-dump
 sqlplus-html
 sqlplus-mode
+srefactor
 ssh-agent
 starteam
 startproject
 startup-file-name-history
 startup-messages
+stickyfunc-enhance
 stock-quote
 strfile
 string-fns
@@ -1514,6 +1517,7 @@ xterm-frobs
 xterm-title
 xtide
 xwem
+xwidgete
 xwindow-ring
 yaham
 yahoo-weather

@@ -1747,6 +1747,7 @@ ert-expectations
 ert-extras
 ert-junit
 ert-modeline
+ert-results
 ert-runner
 ertorrent
 es-lib
@@ -2660,7 +2661,6 @@ gst-inspect
 gtags
 gtags-mode
 gtk-pomodoro-indicator
-gtk-variant
 guake
 guess-language
 guess-offset
@@ -3336,10 +3336,12 @@ jinx
 jira
 jira-markup-mode
 jiralib2
+jirascope
 jist
 jit-lock-stealth-progress
 jit-spell
 jknav
+jmespath
 jmt-mode
 joccur
 jonprl-mode
@@ -5549,6 +5551,7 @@ sbt-mode
 scad-mode
 scad-preview
 scala-mode
+scala-ts-mode
 scan
 scanner
 scf-mode
@@ -5929,7 +5932,6 @@ sqorm
 squirrel-mode
 sr-speedbar
 srcery-theme
-srefactor
 srfi
 srht
 srv
@@ -5964,7 +5966,6 @@ stgit
 stickies
 sticky
 sticky-shell
-stickyfunc-enhance
 stimmung-themes
 stock-ticker
 stock-tracker
@@ -6790,7 +6791,6 @@ xsocks
 xterm-color
 xterm-keybinder
 xtest
-xwidgete
 xwidgets-reuse
 xwiki-mode
 xwwp
