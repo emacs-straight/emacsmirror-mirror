@@ -5936,6 +5936,7 @@ sqorm
 squirrel-mode
 sr-speedbar
 srcery-theme
+srefactor
 srfi
 srht
 srv
@@ -5970,6 +5971,7 @@ stgit
 stickies
 sticky
 sticky-shell
+stickyfunc-enhance
 stimmung-themes
 stock-ticker
 stock-tracker
@@ -6796,6 +6798,7 @@ xsocks
 xterm-color
 xterm-keybinder
 xtest
+xwidgete
 xwidgets-reuse
 xwiki-mode
 xwwp
