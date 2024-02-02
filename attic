@@ -998,6 +998,7 @@ ox-slimhtml
 ox-texinfo-plus
 p4pymarshal
 pack-windows
+package-safe-delete
 page-mode
 pair-mode
 pallet

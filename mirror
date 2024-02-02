@@ -75,6 +75,7 @@ acme-search
 acme-theme
 actionscript-mode
 activator
+activities
 activity-watch-mode
 ada-gpr
 ada-mode
@@ -4785,7 +4786,6 @@ package-filter
 package-fixes
 package-lint
 package-loading-notifier
-package-safe-delete
 package-store
 package-utils
 packed
