@@ -273,7 +273,6 @@ auto-capitalize
 auto-compile
 auto-complete
 auto-complete-plus
-auto-complete-auctex
 auto-complete-c-headers
 auto-complete-chunk
 auto-complete-clang
@@ -926,6 +925,7 @@ consult-gh
 consult-ghq
 consult-git-log-grep
 consult-hatena-bookmark
+consult-hoogle
 consult-ls-git
 consult-lsp
 consult-notes
@@ -1167,6 +1167,7 @@ demo-it
 deno-fmt
 deno-ts-mode
 denote
+denote-explore
 denote-menu
 denote-refs
 derl
@@ -2014,6 +2015,7 @@ file-info
 file-journal
 file-props
 file-template
+filechooser
 filelock
 filemenu
 files-plus
@@ -2699,6 +2701,7 @@ handle
 handlebars-mode
 handlebars-sgml-mode
 handoff
+haproxy-mode
 hardcore-mode
 hardhat
 harpoon
@@ -5471,6 +5474,7 @@ robot-log
 robot-mode
 robots-txt-mode
 roguel-ike
+rom-party
 ron-mode
 rope-read-mode
 ropgadget
@@ -5606,6 +5610,7 @@ sekka
 selcand
 select-themes
 selected
+selected-window-accent-mode
 selectric-mode
 selectrum
 semantic-thrift
@@ -6462,7 +6467,6 @@ urlenc
 ursa-ts-mode
 urscript-mode
 usage-memo
-use-package-el-get
 use-package-hydra
 use-proxy
 use-ttf

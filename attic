@@ -61,6 +61,7 @@ augment
 aurquery
 auto-arg-mode
 auto-complete-acr
+auto-complete-auctex
 auto-define
 auto-diff
 auto-install
@@ -1405,6 +1406,7 @@ unmunge-general
 update-autoloads
 update-dns
 upside-down
+use-package-el-get
 ushell
 usql
 utf-8m
