@@ -1334,6 +1334,7 @@ docsetutil
 docsim
 docstr
 doct
+doctest
 dogears
 doit-mode
 dokuwiki
@@ -2511,6 +2512,7 @@ gnome-calendar
 gnome-screencast
 gnomenm
 gnorb
+gnosis
 gntp
 gnu-apl-mode
 gnu-elpa
@@ -4481,6 +4483,7 @@ org-calibre-notes
 org-capture-pop-frame
 org-change
 org-chef
+org-cite-overlay
 org-cliplink
 org-clock-convenience
 org-clock-csv
@@ -4500,6 +4503,7 @@ org-defprop
 org-dotemacs
 org-download
 org-dp
+org-drawio
 org-drill
 org-drill-table
 org-dropbox
@@ -4512,6 +4516,7 @@ org-elisp-help
 org-elp
 org-email
 org-emms
+org-epa-gpg
 org-evil
 org-extra-emphasis
 org-fancy-priorities
@@ -5318,6 +5323,7 @@ rcirc-pounce
 rcirc-random-names
 rcirc-robots
 rcirc-sound
+rcirc-sqlite
 rcirc-styles
 rcodetools
 rd-mode
