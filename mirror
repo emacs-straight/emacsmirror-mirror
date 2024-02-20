@@ -628,6 +628,7 @@ cats
 cbm
 cc-cedict
 cc-chainsaw
+cc-isearch-menu
 cc-mode-plus
 ccls
 cd-compile
@@ -1508,6 +1509,7 @@ egison-mode
 egit
 eglot-java
 eglot-jl
+eglot-signature-eldoc-talkative
 eglot-tempel
 ego
 eide
@@ -3247,6 +3249,7 @@ isearch-symbol-at-point
 isend-mode
 isgd
 islisp-mode
+iso-639
 isortify
 ispc-mode
 iss-mode
@@ -4570,6 +4573,7 @@ org-msg
 org-multi-wiki
 org-nan
 org-newtab
+org-nix-shell
 org-notebook
 org-noter
 org-notifications
@@ -4968,6 +4972,7 @@ pine-script-mode
 pinentry
 pinot
 pinyin
+pinyin-isearch
 pinyin-search
 pinyinlib
 pip-frame
