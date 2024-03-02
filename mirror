@@ -3647,6 +3647,7 @@ list-packages-ext
 list-processes-plus
 list-unicode-display
 list-utils
+listen
 lister
 lit-mode
 litable
@@ -4788,6 +4789,7 @@ ox-zenn
 p4
 p4-16-mode
 pabbrev
+pacdiff
 paced
 pacfiles-mode
 pack
