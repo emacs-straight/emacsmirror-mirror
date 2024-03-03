@@ -195,6 +195,7 @@ apel
 apheleia
 apib-mode
 apiwrap
+app-monochrome-themes
 apparmor-mode
 apples-mode
 applescript-mode
@@ -665,6 +666,7 @@ chapel-mode
 char-menu
 charmap
 chatgpt-shell
+chatu
 chatwork
 cheat
 cheat-fu
@@ -1647,6 +1649,7 @@ emamux
 emamux-ruby-test
 emaps
 embark
+embark-org-roam
 embark-vc
 embeddedchangelog
 ember-mode
@@ -5447,6 +5450,7 @@ reveal-next
 revealjs-mode
 reverse-im
 reverse-theme
+reverso
 revert-buffer-all
 review
 review-mode
