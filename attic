@@ -995,6 +995,7 @@ osx-typecreator
 otp
 outline-m
 outlined-elisp-mode
+ox-impress-js
 ox-slimhtml
 ox-texinfo-plus
 p4pymarshal
@@ -1306,6 +1307,7 @@ tab-in-tabular
 tabs
 tagging
 task-mode
+tbx2org
 tcd-format
 tdd-status-mode-line
 technorati
