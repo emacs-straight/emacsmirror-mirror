@@ -4,7 +4,6 @@
 1000-words
 2048-game
 2bit
-4clojure
 750words
 at
 a
@@ -1777,7 +1776,6 @@ eshell-fixed-prompt
 eshell-fringe-status
 eshell-git-prompt
 eshell-info-banner
-eshell-outline
 eshell-prompt-extras
 eshell-syntax-highlighting
 eshell-toggle
@@ -2232,7 +2230,6 @@ flymake-for-csharp
 flymake-gjshint
 flymake-go
 flymake-go-staticcheck
-flymake-golangci
 flymake-gradle
 flymake-grammarly
 flymake-guile
@@ -5173,7 +5170,6 @@ propfont-mixed
 proportional
 prosjekt
 protobuf-mode
-protobuf-ts-mode
 protocols
 proxy-mode
 pry

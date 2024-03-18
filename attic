@@ -1,3 +1,4 @@
+4clojure
 GEOS-vote
 abacus
 ac-anaconda
@@ -416,6 +417,7 @@ es
 escreen
 esense
 esheet
+eshell-outline
 esms
 esmtpmail
 espect
@@ -481,6 +483,7 @@ flycheck-soar
 flycheck-stack
 flycheck-typescript-tslint
 flymake-cppcheck
+flymake-golangci
 flymake-google-cpplint
 flymake-rust
 flyspell-babel
@@ -1076,6 +1079,7 @@ prosper
 protbuf
 protbuf-by-name
 protect-files
+protobuf-ts-mode
 prove
 ps-stack-comments
 pseudo-grep
