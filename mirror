@@ -517,6 +517,7 @@ brec-mode
 brf
 brief
 brightscript-mode
+bril-mode
 broadcast
 browse-at-remote
 browse-kill-ring
@@ -1233,6 +1234,7 @@ dircmp
 director
 dired-plus
 dired-atool
+dired-auto-readme
 dired-column-widths
 dired-details
 dired-details-plus
@@ -1249,6 +1251,7 @@ dired-git-info
 dired-gitignore
 dired-hacks
 dired-hide-dotfiles
+dired-hist
 dired-icon
 dired-imenu
 dired-k
@@ -1578,6 +1581,7 @@ elfeed-webkit
 elforth
 elgrep
 elhome
+elisa
 elisp-autofmt
 elisp-benchmarks
 elisp-def
@@ -5878,6 +5882,7 @@ songbook
 sonic-pi
 soong-mode
 soothe-theme
+sops
 sorcery-theme
 soria-theme
 sort-plus
@@ -5951,6 +5956,7 @@ sql-trino
 sql-with-placeholders
 sqled-mode
 sqlformat
+sqlite-mode-extras
 sqlite3
 sqlplus
 sqlup-mode
