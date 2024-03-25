@@ -624,6 +624,7 @@ caser
 cask-mode
 cask-package-toolset
 caskxy
+casual
 catmacs
 catppuccin-theme
 cats
@@ -2069,6 +2070,7 @@ firefox-remote
 fireplace
 firestarter
 firrtl-mode
+firstly-search
 fish-completion
 fish-mode
 fit-frame
@@ -4642,6 +4644,7 @@ org-seek
 org-shoplist
 org-side-tree
 org-sidebar
+org-sliced-images
 org-snooze
 org-special-block-extras
 org-sql
@@ -5566,6 +5569,7 @@ samskritam
 sas-py
 sass-mode
 satchel
+satysfi-ts-mode
 sauron
 save-load-path
 save-packages
