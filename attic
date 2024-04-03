@@ -421,6 +421,7 @@ eshell-outline
 esms
 esmtpmail
 espect
+etable
 etrack
 evil-ediff
 evil-magit
@@ -599,8 +600,10 @@ helm-anything
 helm-cmd-t
 helm-ctest
 helm-delicious
+helm-dired-history
 helm-dirset
 helm-elscreen
+helm-etags-plus
 helm-ghc
 helm-git-files
 helm-ipython
@@ -623,6 +626,7 @@ hl-sexp
 hll
 hoa-pp-mode
 hobo
+homebrew-mode
 host-fns
 how-many-lines-in-project
 hs
@@ -689,6 +693,7 @@ isolate
 ispell-multi
 iswitchb-fc
 itunes
+ivy-dired-history
 ivy-feedwrangler
 ivy-pages
 ivy-phpunit

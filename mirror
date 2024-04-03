@@ -731,6 +731,7 @@ clang-format
 clang-format-plus
 clang-lookup
 clasker
+claude-shell
 clause
 clay
 clean-aindent-mode
@@ -1515,6 +1516,7 @@ egison-mode
 egit
 eglot-java
 eglot-jl
+eglot-luau
 eglot-signature-eldoc-talkative
 eglot-tempel
 ego
@@ -1774,6 +1776,7 @@ esa
 esh-autosuggest
 esh-buf-stack
 esh-help
+eshell-atuin
 eshell-autojump
 eshell-bookmark
 eshell-did-you-mean
@@ -1812,7 +1815,6 @@ esup
 esv
 esxml
 eta
-etable
 etags-select
 etags-stack
 etags-table
@@ -2781,12 +2783,10 @@ helm-descbinds
 helm-describe-modes
 helm-dictionary
 helm-directory
-helm-dired-history
 helm-dired-recent-dirs
 helm-emmet
 helm-emms
 helm-esa
-helm-etags-plus
 helm-evil-markers
 helm-eww
 helm-ext
@@ -3013,7 +3013,6 @@ holiday-pascha-etc
 holo-layer
 holy-books
 home-end
-homebrew-mode
 honcho
 hook-helpers
 hookify
@@ -3275,7 +3274,6 @@ ivs-edit
 ivy
 ivy-clipmenu
 ivy-clojuredocs
-ivy-dired-history
 ivy-emms
 ivy-emoji
 ivy-erlang-complete
@@ -3566,6 +3564,7 @@ launchctl
 lavender-theme
 layout-restore
 lazarus
+lazy-ruff
 lazy-search
 lcb-mode
 lcomp
@@ -4318,6 +4317,7 @@ nyan-prompt
 nyx-theme
 oauth
 oauth2
+oauth2-auto
 oauth2-request
 ob-ada-spark
 ob-applescript
@@ -4566,6 +4566,7 @@ org-json
 org-kanban
 org-kindle
 org-latex-impatient
+org-linenote
 org-link-beautify
 org-link-edit
 org-link-travis
