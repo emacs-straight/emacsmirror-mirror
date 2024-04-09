@@ -446,6 +446,7 @@ bing-dict
 binky
 binmove
 biome
+biomejs-format
 birds-of-paradise-plus-theme
 bison-mode
 bitbake
@@ -524,6 +525,7 @@ browse-kill-ring
 browse-kill-ring-plus
 browse-url-dwim
 browse-urn
+browser-hist
 brutalist-theme
 bs-ext
 bshell
@@ -1811,6 +1813,7 @@ ess-smart-underscore
 ess-stata-mode
 ess-view
 ess-view-data
+essgd
 esup
 esv
 esxml
@@ -3860,6 +3863,7 @@ markdown-preview-eww
 markdown-preview-mode
 markdown-soma
 markdown-toc
+markdown-ts-mode
 markdownfmt
 markless
 markup
@@ -4664,7 +4668,6 @@ org-tag-beautify
 org-tagged
 org-tanglesync
 org-tfl
-org-themis
 org-tidy
 org-time-budgets
 org-timeblock
@@ -4755,7 +4758,6 @@ overseer
 ovpn-mode
 owcmd
 owdriver
-owl-functional-mode
 ox-asciidoc
 ox-bb
 ox-bibtex-chinese
@@ -4858,6 +4860,7 @@ pasp-mode
 pass
 passmm
 password-generator
+password-menu
 password-mode
 password-store
 password-store-otp

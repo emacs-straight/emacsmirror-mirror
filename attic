@@ -993,6 +993,7 @@ org-s5
 org-seenthis
 org-site
 org-taskforecast
+org-themis
 org-website
 org-wunderlist
 org-yaml
@@ -1003,6 +1004,7 @@ osx-typecreator
 otp
 outline-m
 outlined-elisp-mode
+owl-functional-mode
 ox-impress-js
 ox-slimhtml
 ox-texinfo-plus
