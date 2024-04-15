@@ -826,6 +826,7 @@ column-marker
 columnize
 com-css-sort
 comb
+combobulate
 comby
 come-fly
 comicscript
@@ -2259,6 +2260,7 @@ flymake-ktlint
 flymake-languagetool
 flymake-less
 flymake-lua
+flymake-margin
 flymake-markdownlint
 flymake-nasm
 flymake-perlcritic
@@ -3239,6 +3241,7 @@ ios-config-mode
 iota
 ipa
 ipcalc
+ipe
 iplayer
 ipp
 ipretty
@@ -3644,6 +3647,7 @@ linum-relative
 linum-relativenumber
 liquid-types
 liquidmetal
+lirve
 liso-theme
 lisp-butt-mode
 lisp-editing
@@ -4099,7 +4103,6 @@ mu4e
 mu4e-alert
 mu4e-column-faces
 mu4e-conversation
-mu4e-crypto
 mu4e-jump-to-list
 mu4e-marker-icons
 mu4e-overview
@@ -4216,6 +4219,7 @@ netrunner
 network-watch
 networkmanager
 neuron-mode
+neut-mode
 never-comment
 newlisp-mode
 newpaste
@@ -5454,6 +5458,7 @@ restart-emacs
 restclient
 restclient-test
 restricto
+retraction-viewer
 retrie
 revbufs
 reveal-in-folder
@@ -6080,6 +6085,7 @@ sweetgreen
 swift-helpful
 swift-mode
 swift-playground-mode
+swift-ts-mode
 swift3-mode
 swiper-helm
 swiss-holidays
