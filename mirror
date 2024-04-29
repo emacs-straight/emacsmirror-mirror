@@ -818,6 +818,7 @@ color-theme-modern
 color-theme-sanityinc-solarized
 color-theme-sanityinc-tomorrow
 color-theme-x
+colorful-mode
 colorless-themes
 colormaps
 colour-region
@@ -954,6 +955,7 @@ contrast-color
 control-mode
 cook-mode
 cool-mode
+copilot
 copy-as-format
 copy-file-on-save
 copyit
@@ -1877,6 +1879,7 @@ evil-leader
 evil-ledger
 evil-lion
 evil-lisp-state
+evil-lispops
 evil-lispy
 evil-mark-replace
 evil-matchit
@@ -3989,6 +3992,7 @@ mirror
 mirror-mode
 misc-cmds
 misc-fns
+mise
 mistty
 mix
 mixed-pitch
@@ -4695,6 +4699,7 @@ org-visibility
 org-watchdoc
 org-wc
 org-web-tools
+org-web-track
 org-wild-notifier
 org-working-set
 org-xlatex
@@ -5008,6 +5013,7 @@ pixiv-novel-mode
 pkg-info
 pkg-overview
 pkgbuild-mode
+pkl-mode
 placeholder
 plain-org-wiki
 plain-theme
@@ -5593,6 +5599,7 @@ sbt-mode
 scad-mode
 scad-preview
 scala-mode
+scala-repl
 scala-ts-mode
 scan
 scanner
