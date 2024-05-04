@@ -399,6 +399,7 @@ bbyac
 bc-mode
 bd-set-mark
 beacon
+beancount
 beans
 beardbolt
 beef-mode
@@ -601,7 +602,6 @@ calfw
 calfw-gcal
 calibre
 calibredb
-call-graph
 calmer-forest-theme
 camcorder
 camera
@@ -1076,7 +1076,6 @@ cursory
 cus-edit-plus
 cwl-mode
 cyanometric-theme
-cybercafe-theme
 cyberpunk-2019-theme
 cyberpunk-theme
 cycbuf
@@ -4313,7 +4312,6 @@ nu-mode
 nubox
 nukneval
 num3-mode
-number
 number-lock
 numbers
 numbex
@@ -5038,6 +5036,8 @@ plt-completions
 plur
 plural
 plz
+plz-event-source
+plz-media-type
 plz-see
 pmd
 pmdm
