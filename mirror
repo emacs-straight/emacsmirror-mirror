@@ -627,6 +627,7 @@ cask-mode
 cask-package-toolset
 caskxy
 casual
+casual-dired
 catmacs
 catppuccin-theme
 cats
@@ -918,6 +919,7 @@ config-general-mode
 config-parser
 conkeror-minor-mode
 conllu-mode
+conner
 constant-theme
 constants
 constellations
@@ -949,6 +951,7 @@ consult-todo
 consult-yasnippet
 contentswitch
 context-coloring
+context-transient
 contextual
 contextual-menubar
 contrast-color
@@ -3959,6 +3962,7 @@ migemo
 milkode
 mimetypes
 mindre-theme
+mindstream
 mines
 minesweeper
 mingus
@@ -4497,6 +4501,7 @@ org-beautify-theme
 org-board
 org-bom
 org-bookmark-heading
+org-bookmarks
 org-bookmarks-extractor
 org-books
 org-brain
@@ -6818,6 +6823,7 @@ xeft
 xelb
 xenops
 xhair
+xkb-mode
 xkcd
 xlicense
 xmind-org
