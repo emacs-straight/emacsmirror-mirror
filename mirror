@@ -24,7 +24,6 @@ abyss-theme
 ac-alchemist
 ac-c-headers
 ac-capf
-ac-cider
 ac-clang
 ac-dabbrev
 ac-dcd
@@ -929,6 +928,7 @@ consult-ag
 consult-codesearch
 consult-company
 consult-dash
+consult-denote
 consult-dir
 consult-eglot
 consult-flycheck
@@ -4333,6 +4333,7 @@ oauth
 oauth2
 oauth2-auto
 oauth2-request
+ob-acl2
 ob-ada-spark
 ob-applescript
 ob-asymptote
@@ -5163,6 +5164,7 @@ prog-fill
 prognth
 programmer-dvorak
 project-abbrev
+project-butler
 project-explorer
 project-local-variables
 project-mode-line-tag
