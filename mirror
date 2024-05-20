@@ -2451,6 +2451,7 @@ ghub-plus
 gif-screencast
 gift-mode
 gildas-mode
+girly-notebook-theme
 gist
 git
 git-annex
@@ -2642,6 +2643,7 @@ gpt
 gpt-commit
 gptai
 gptel
+gpx
 grab-and-drag
 grab-mac-link
 grab-x-link
@@ -2957,6 +2959,7 @@ hide-comnt
 hide-lines
 hide-mode-line
 hide-region
+hide-secrets
 hide-url
 hidepw
 hideshow-org
@@ -3796,6 +3799,7 @@ magit-annex
 magit-commit-mark
 magit-delta
 magit-diff-flycheck
+magit-file-icons
 magit-filenotify
 magit-find-file
 magit-gerrit
@@ -5495,6 +5499,7 @@ rhtml-mode
 rib-mode
 ricette-mode
 rich-minority
+ride-mode
 riece
 right-click-context
 rigid-tabs
