@@ -741,6 +741,7 @@ judge-indent
 juick
 junkbust
 kag-mode
+kanagawa-theme
 kbd-fns
 kbdraw
 keep-buffers
@@ -750,6 +751,7 @@ keywiz
 kill-buffers
 killbuf
 kmacro-ring-list
+kolon-mode
 l
 labbook
 lat1conv
@@ -1044,6 +1046,7 @@ perl-pod-coding
 perl-pod-gt
 perl-pod-preview
 pgg-crypt
+ph
 phonebook
 phonemode
 php-plus-mode

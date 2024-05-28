@@ -626,6 +626,7 @@ cask-mode
 cask-package-toolset
 caskxy
 casual
+casual-avy
 casual-dired
 catmacs
 catppuccin-theme
@@ -2075,6 +2076,7 @@ finkinfo
 finkinfo-mode
 fiplr
 fira-code-mode
+firebase-rules-mode
 firecode-theme
 firefox-javascript-repl
 firefox-remote
@@ -3442,7 +3444,6 @@ kakapo-mode
 kakoune
 kaleidoscope
 kana
-kanagawa-theme
 kanban
 kanji-mode
 kaocha-runner
@@ -3513,7 +3514,6 @@ kmb
 know-your-http-well
 kodi-remote
 kokopelli
-kolon-mode
 konoha-mode
 koopa-mode
 kooten-theme
@@ -4286,6 +4286,7 @@ noflet
 nofrils-acme-theme
 noir-mode
 noir-ts-mode
+noman
 non-edit-mode
 noob-arrows-mode
 noprefix
@@ -4958,7 +4959,6 @@ pgdevenv
 pgrok
 pgsql-linum-format
 pgsrc
-ph
 phabricator
 phan
 phantomjs
@@ -5230,6 +5230,7 @@ puni
 punpun-themes
 puppet-mode
 puppet-pi-mode
+puppet-ts-mode
 purescript-mode
 purp-theme
 purple-haze-theme
@@ -5787,6 +5788,7 @@ simplezen
 simplicity-theme
 sinasi
 singlebind
+sink
 siri-shortcuts
 sis
 sisu-mode
@@ -6328,6 +6330,7 @@ todotxt
 todotxt-mode
 togetherly
 toggle-quotes
+toggle-term
 toggle-test
 toggle-window
 tok-theme
