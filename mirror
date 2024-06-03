@@ -628,6 +628,7 @@ caskxy
 casual
 casual-avy
 casual-dired
+casual-info
 catmacs
 catppuccin-theme
 cats
@@ -1051,6 +1052,7 @@ cssh
 csv
 csv-mode
 csv-nav
+csv2ledger
 ct
 ctable
 ctags-update
@@ -1267,6 +1269,7 @@ dired-imenu
 dired-k
 dired-launch
 dired-lsi
+dired-open-with
 dired-posframe
 dired-preview
 dired-quick-sort
@@ -1706,6 +1709,7 @@ encrypt-region
 engine-mode
 engrave-faces
 enh-ruby-mode
+enlight
 enlightened-theme
 enlive
 enotify
@@ -2467,10 +2471,12 @@ git-cliff
 git-code-review
 git-command
 git-commit-insert-issue
+git-commit-ts-mode
 git-dwim
 git-emacs
 git-find-file
 git-grep
+git-grep-transient
 git-gutter
 git-gutter-plus
 git-gutter-fringe
@@ -3080,6 +3086,7 @@ hyperkitty
 hyperlist-mode
 hyperspace
 hyperspec
+hyperstitional-themes
 i-ching
 i2b2-mode
 i3
@@ -4835,7 +4842,6 @@ package-lint
 package-loading-notifier
 package-store
 package-utils
-packed
 pacmacs
 pact-mode
 paganini-theme
@@ -5965,6 +5971,7 @@ spinner
 spiral
 split-root
 splitjoin
+splunk-mode
 spotify
 spotlight
 spray
@@ -6932,6 +6939,7 @@ zeno-theme
 zenscript-mode
 zephir-mode
 zero-input
+zero-input-panel-posframe
 zerodark-theme
 zetteldeft
 zetteldesk
