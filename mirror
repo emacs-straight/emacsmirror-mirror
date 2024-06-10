@@ -146,6 +146,7 @@ amd-mode
 ameba
 aml-mode
 ampc
+ampl-mode
 ample-regexps
 ample-theme
 ample-zen-theme
@@ -254,6 +255,8 @@ atomic-chrome
 attrap
 auctex
 auctex-cluttex
+auctex-cont-latexmk
+auctex-label-numbers
 auctex-latexmk
 auctex-lua
 audacious
@@ -1186,6 +1189,7 @@ denote
 denote-explore
 denote-menu
 denote-refs
+denote-sections
 derl
 descr-text-plus
 describe-hash
@@ -4687,6 +4691,7 @@ org-sync
 org-sync-snippets
 org-table-color
 org-table-comment
+org-table-jb-extras
 org-table-sticky-header
 org-tag-beautify
 org-tagged
@@ -5156,7 +5161,9 @@ pretty-mode
 pretty-sha-path
 pretty-speedbar
 pretty-symbols
+preview-auto
 preview-dvisvgm
+preview-tailor
 prism
 prisma-ts-mode
 private
@@ -5328,6 +5335,7 @@ quickrun
 quiet
 quilt
 quiz
+qwen-chat-shell
 r-autoyas
 racer
 racket-mode
@@ -5448,6 +5456,7 @@ register-channel
 register-list
 register-quicknav
 rego-mode
+regswap
 related
 related-files
 relint
@@ -6256,6 +6265,8 @@ test-kitchen
 test-more
 test-simple
 testcover-mark-line
+tex-item
+tex-parens
 tex-smart-umlauts
 texfrag
 text-align
@@ -6614,6 +6625,7 @@ viking-mode
 vim-empty-lines-mode
 vim-modeline
 vim-region
+vim-tab-bar
 vimgolf
 vimish-fold
 vimrc-mode
@@ -6786,6 +6798,7 @@ with-proxy
 with-shell-interpreter
 with-simulated-input
 with-venv
+wiz
 wmctrl
 wmii
 wn-mode
