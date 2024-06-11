@@ -1614,7 +1614,6 @@ elisp-sandbox
 elisp-slime-expand
 elisp-slime-nav
 elixir-mode
-elixir-ts-mode
 elixir-yasnippets
 elk-test
 ellama
@@ -1625,7 +1624,6 @@ elm-yasnippets
 elmacro
 elmine
 elmpd
-elnode
 elog
 elogcat
 eloud
@@ -2766,7 +2764,6 @@ header2
 headlong
 heap
 heaven-and-hell
-heex-ts-mode
 helm
 helm-R
 helm-ack
@@ -2928,7 +2925,6 @@ helm-tail
 helm-taskswitch
 helm-themes
 helm-tramp
-helm-tree-sitter
 helm-twitch
 helm-unicode
 helm-w32-launcher
@@ -3778,7 +3774,6 @@ lsp-ui
 ltsv
 lua-block
 lua-mode
-lua-ts-mode
 luarocks
 lurk-mode
 lush-theme
@@ -4635,7 +4630,6 @@ org-pdftools
 org-picklink
 org-pomodoro
 org-present
-org-present-remote
 org-presie
 org-pretty-tags
 org-preview-html
@@ -4930,9 +4924,7 @@ pdfgrep
 pdfscan
 peacock-theme
 pebble-mode
-peek-mode
 peertube
-peg
 pelican-mode
 pepita
 per-buffer-theme
@@ -5268,7 +5260,6 @@ pycoverage
 pydoc
 pyenv-mode
 pygen
-pygn-mode
 pyim
 pyim-basedict
 pyim-cangjiedict
@@ -6409,17 +6400,13 @@ tray
 tree-edit
 tree-inspector
 tree-mode
-tree-sitter
-tree-sitter-ess-r
-tree-sitter-indent
-tree-sitter-ispell
-tree-sitter-langs
 treebundel
 treefactor
 treemacs
 treemacs-nerd-icons
 treepy
 treesit-auto
+treesit-ispell
 treeview
 trelloel
 trident-mode
