@@ -628,17 +628,17 @@ caser
 cask-mode
 cask-package-toolset
 caskxy
-casual
 casual-avy
+casual-calc
 casual-dired
 casual-info
+casual-isearch
 catmacs
 catppuccin-theme
 cats
 cbm
 cc-cedict
 cc-chainsaw
-cc-isearch-menu
 cc-mode-plus
 ccls
 cd-compile
@@ -3712,6 +3712,7 @@ load-theme-buffer-local
 loc-changes
 loccur
 lockfile-mode
+loco
 lodgeit
 log-buffer
 log4e
@@ -4072,6 +4073,7 @@ morlock
 morrowind-theme
 mos-mode
 mosey
+most-faces
 most-used-words
 mote-mode
 motion-and-kill-dwim
@@ -4698,6 +4700,7 @@ org-timeline
 org-toodledo
 org-tracktable
 org-transclusion
+org-transclusion-http
 org-transform-tree-table
 org-translate
 org-tree-slide
