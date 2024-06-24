@@ -633,6 +633,7 @@ casual-calc
 casual-dired
 casual-info
 casual-isearch
+casual-lib
 catmacs
 catppuccin-theme
 cats
@@ -1855,6 +1856,7 @@ evalator
 evalator-clojure
 eve-mode
 evelnote
+evenok
 everlasting-scratch
 eviews
 evil
@@ -2415,6 +2417,7 @@ gc-buffers
 gcmh
 gcode-mode
 gdb-bp-session
+gdb-x
 gdscript-mode
 geben
 geben-helm-projectile
@@ -3255,6 +3258,7 @@ io-mode-inf
 ioccur
 iodine-theme
 ios-config-mode
+iosevka-theme
 iota
 ipa
 ipcalc
@@ -3687,6 +3691,7 @@ literal-string
 literate-calc-mode
 literate-coffee-mode
 literate-elisp
+literate-scratch
 litex-mode
 live-code-talks
 live-completions
@@ -3811,6 +3816,7 @@ magit-filenotify
 magit-find-file
 magit-gerrit
 magit-gitflow
+magit-gitlab
 magit-gptcommit
 magit-imerge
 magit-lfs
@@ -3935,6 +3941,7 @@ memory-usage
 mentor
 menu-bar-plus
 meow
+meow-tree-sitter
 merlin
 merlin-eldoc
 mermaid-docker-mode
@@ -6352,6 +6359,7 @@ tomelr
 toml
 toml-mode
 tommyh-theme
+tomorrow-night-deepblue-theme
 tongbu
 tool-bar-plus
 toolbox
@@ -6521,6 +6529,7 @@ universal-sidecar
 unmodified-buffer
 unobtrusive-magit-theme
 unparen
+unspecified-theme
 untappd
 untitled-new-buffer
 upbo
