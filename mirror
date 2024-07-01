@@ -634,6 +634,7 @@ casual-dired
 casual-info
 casual-isearch
 casual-lib
+casual-suite
 catmacs
 catppuccin-theme
 cats
@@ -1399,6 +1400,7 @@ dropbox
 dropdown-list
 drupal-mode
 drupal-spell
+dslide
 dsvn
 dtb-mode
 dtext-mode
@@ -4094,6 +4096,7 @@ move-mode
 move-text
 movie
 mowedline
+mowie
 mozart
 mozc
 mozc-cand-posframe
@@ -5305,6 +5308,7 @@ python-test
 python-view-data
 python-x
 pythonic
+pythontest
 pyvenv
 pyvenv-auto
 q-mode
@@ -6230,6 +6234,7 @@ temp-buffer-browse
 tempel
 tempel-collection
 templ-ts-mode
+template-dumper
 template-overlays
 template-simple
 templatel
@@ -6314,6 +6319,7 @@ time-block
 time-ext
 time-uuid-mode
 timeclock-x
+timeout
 timer-plus
 timer-revert
 timerfunctions
@@ -6422,6 +6428,7 @@ treeview
 trelloel
 trident-mode
 trie
+trimspace-mode
 trinary
 trindle
 triples
@@ -6734,8 +6741,8 @@ weyland-yutani-theme
 wfnames
 wgrep
 wgsl-mode
+whaler
 what-the-commit
-which-key
 which-key-posframe
 whiley-mode
 whitaker
