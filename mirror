@@ -631,6 +631,7 @@ caskxy
 casual-avy
 casual-calc
 casual-dired
+casual-ibuffer
 casual-info
 casual-isearch
 casual-lib
@@ -4487,7 +4488,7 @@ open-in-msvs
 open-junk-file
 open-related-file
 opencc
-opencl-mode
+opencl-c-mode
 opener
 openfoam
 openpaste
@@ -5671,6 +5672,7 @@ scss-mode
 sculpture-themes
 sdcv
 sdlang-mode
+sdml-mode
 search-prop
 search-web
 searcher
@@ -6423,6 +6425,7 @@ treemacs
 treemacs-nerd-icons
 treepy
 treesit-auto
+treesit-fold
 treesit-ispell
 treeview
 trelloel
