@@ -1797,6 +1797,7 @@ esh-help
 eshell-atuin
 eshell-autojump
 eshell-bookmark
+eshell-command-not-found
 eshell-did-you-mean
 eshell-fixed-prompt
 eshell-fringe-status
@@ -3458,6 +3459,7 @@ kakapo-mode
 kakoune
 kaleidoscope
 kana
+kanagawa-theme
 kanban
 kanji-mode
 kaocha-runner
@@ -6669,6 +6671,7 @@ vscdark-theme
 vscode-dark-plus-theme
 vscode-icon
 vterm
+vterm-hotkey
 vterm-toggle
 vtm
 vue-html-mode
