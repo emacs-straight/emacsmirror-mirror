@@ -713,6 +713,7 @@ chronometrist
 chronometrist-goal
 chronos
 chruby
+chyla-dark-theme
 chyla-theme
 cider
 cider-decompile
@@ -739,6 +740,7 @@ cl-merge
 clang-capf
 clang-format
 clang-format-plus
+clang-format-lite
 clang-lookup
 clasker
 claude-shell
@@ -1489,7 +1491,6 @@ ecmascript-mode
 ectags-select
 ecukes
 edb
-edbc
 edbi
 ede-compdb
 ede-php-autoload
@@ -1572,6 +1573,7 @@ elbank
 elcontext
 elcord
 elcouch
+elcute
 eldev
 eldoc-box
 eldoc-cmake
@@ -5757,6 +5759,7 @@ shfmt
 shift-number
 shift-text
 shm
+shortcuts-mode
 shoulda
 show-arglist
 show-css
