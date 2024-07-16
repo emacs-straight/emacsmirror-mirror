@@ -635,6 +635,7 @@ casual-ibuffer
 casual-info
 casual-isearch
 casual-lib
+casual-re-builder
 casual-suite
 catmacs
 catppuccin-theme
@@ -854,6 +855,7 @@ commentary-theme
 commenter
 commify
 common-lisp-snippets
+communinfo
 compact-docstrings
 company
 company-anaconda
