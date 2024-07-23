@@ -1088,6 +1088,7 @@ curry-on-theme
 cursor-chg
 cursor-flash
 cursor-test
+cursor-undo
 cursory
 cus-edit-plus
 cwl-mode
@@ -1906,6 +1907,7 @@ evil-mc
 evil-mc-extras
 evil-mu4e
 evil-multiedit
+evil-neo
 evil-nerd-commenter
 evil-nl-break-undo
 evil-numbers
@@ -2909,6 +2911,7 @@ helm-rdefs
 helm-recoll
 helm-rg
 helm-rhythmbox
+helm-roam
 helm-robe
 helm-ros
 helm-rubygems-local
@@ -5406,6 +5409,7 @@ read-aloud
 read-char-spec
 read-only-cfg
 readline-complete
+ready-player
 real-auto-save
 realgud
 realgud-byebug
