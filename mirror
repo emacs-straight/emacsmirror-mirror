@@ -4288,6 +4288,7 @@ nix-mode
 nix-modeline
 nix-ts-mode
 nix-update
+nixfmt
 nixos-options
 nixpkgs-fmt
 nlinum
