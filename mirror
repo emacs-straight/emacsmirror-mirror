@@ -71,6 +71,7 @@ ack-menu
 acme-mouse
 acme-search
 acme-theme
+act-mode
 actionscript-mode
 activator
 activities
@@ -629,6 +630,7 @@ cask-mode
 cask-package-toolset
 caskxy
 casual-avy
+casual-bookmarks
 casual-calc
 casual-dired
 casual-ibuffer
@@ -1469,6 +1471,7 @@ easy-kill
 easy-kill-extras
 easy-repeat
 easy-todo
+easysession
 eat
 ebdb
 ebdb-gnorb
@@ -1653,7 +1656,6 @@ elscreen
 elscreen-buffer-group
 elscreen-edit-server
 elscreen-fr
-elscreen-mew
 elscreen-multi-term
 elscreen-separate-buffer-list
 elscreen-tab
@@ -2777,6 +2779,7 @@ header2
 headlong
 heap
 heaven-and-hell
+helix-theme
 helm
 helm-R
 helm-ack
@@ -3698,7 +3701,6 @@ lister
 lit-mode
 litable
 litanize
-litecoin-ticker
 literal-string
 literate-calc-mode
 literate-coffee-mode
@@ -4905,7 +4907,6 @@ parseedn
 parser-generator
 pasp-mode
 pass
-passmm
 password-generator
 password-menu
 password-mode
@@ -6281,7 +6282,6 @@ test-c
 test-case-mode
 test-cockpit
 test-framework
-test-kitchen
 test-more
 test-simple
 testcover-mark-line
@@ -6479,6 +6479,7 @@ twilight-theme
 twitch-api
 twittering-dframe
 twittering-mode
+twtxt
 tx-mode
 type-test
 typematic
@@ -6921,7 +6922,6 @@ yaml-imenu
 yaml-mode
 yaml-pro
 yaml-tomato
-yammer
 yang-mode
 yankpad
 yaoddmuse

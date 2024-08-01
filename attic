@@ -374,6 +374,7 @@ ell
 elmake
 elnode
 elo
+elscreen-mew
 elscreen-vim-mode
 else-mode
 elserv
@@ -791,6 +792,7 @@ list-fns
 list-register
 listbuf
 listing
+litecoin-ticker
 litprog
 lmselect
 load-directory
@@ -1030,6 +1032,7 @@ paredit-viper-compat
 paren-glint
 parinfer
 pases
+passmm
 passthword
 pastie
 patchutils
@@ -1357,6 +1360,7 @@ tempbuf
 template
 tern-django
 test
+test-kitchen
 test-unit
 tex-math-preview
 tex-wcount
@@ -1413,7 +1417,6 @@ twiki-outline
 twit
 twitel
 two-mode-mode
-twtxt
 typed-clojure-mode
 typoscript-mode
 typst-mode
@@ -1556,6 +1559,7 @@ xwindow-ring
 yaham
 yahoo-weather
 yaml-path
+yammer
 yandex-weather
 yank-whitespace
 yod
