@@ -2519,14 +2519,12 @@ github-dark-vscode-theme
 github-elpa
 github-explorer
 github-linguist
-github-modern-theme
 github-notifier
 github-pullrequest
 github-review
 github-search
 github-stars
 github-tags
-github-theme
 gitignore-snippets
 gitignore-templates
 gitlab
@@ -7014,7 +7012,6 @@ zprint-format
 zprint-mode
 ztree
 zuul
-zweilight-theme
 zwiebel
 zygospore
 zzz-to-char

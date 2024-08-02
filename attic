@@ -550,6 +550,8 @@ githorg
 github
 github-api-v3
 github-issues
+github-modern-theme
+github-theme
 gitty
 global-modes
 gneve
@@ -1572,3 +1574,4 @@ zel
 zendmd-comint
 zenirc
 zossima
+zweilight-theme
