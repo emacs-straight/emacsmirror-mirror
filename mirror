@@ -4792,6 +4792,7 @@ otama
 other-emacs-eval
 other-frame-window
 outline-plus
+outline-indent
 outline-magic
 outline-minor-faces
 outline-toc
@@ -6679,6 +6680,7 @@ vs-light-theme
 vscdark-theme
 vscode-dark-plus-theme
 vscode-icon
+vsh-mode
 vterm
 vterm-hotkey
 vterm-toggle
