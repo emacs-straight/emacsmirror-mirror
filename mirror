@@ -3550,6 +3550,7 @@ kroman
 ksp-cfg-mode
 ksp-mode
 kubectx-mode
+kubed
 kubedoc
 kubel
 kubernetes
@@ -6504,6 +6505,7 @@ uiua-ts-mode
 ujelly-theme
 ukrainian-holidays
 ul
+ulisp-mode
 ulisp-repl
 ultex
 uml-mode
