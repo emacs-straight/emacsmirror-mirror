@@ -4831,7 +4831,6 @@ ox-mediawiki
 ox-minutes
 ox-nikola
 ox-pandoc
-ox-pukiwiki
 ox-qmd
 ox-report
 ox-reveal
@@ -6268,7 +6267,6 @@ term-manager
 term-run
 term-toggle
 termbright-theme
-terminal-focus-reporting
 terminal-here
 terminal-notifier
 terminal-toggle

@@ -1020,6 +1020,7 @@ outline-m
 outlined-elisp-mode
 owl-functional-mode
 ox-impress-js
+ox-pukiwiki
 ox-slimhtml
 ox-texinfo-plus
 p4pymarshal
@@ -1360,6 +1361,7 @@ tei-html-docs-p5
 tellicopy
 tempbuf
 template
+terminal-focus-reporting
 tern-django
 test
 test-kitchen
