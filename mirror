@@ -1254,6 +1254,7 @@ diminish
 diminish-buffer
 dimmer
 dionysos
+dir-config
 dir-treeview
 dir-treeview-themes
 dircmp
@@ -2541,6 +2542,7 @@ gkroam
 gl-conf-mode
 glade-mode
 gle-mode
+gleam-ts-mode
 glimpse
 global-tags
 globalff
@@ -4531,6 +4533,7 @@ org-attach-embedded-images
 org-attach-screenshot
 org-auto-expand
 org-auto-tangle
+org-autoexport
 org-autolist
 org-babel-eval-in-repl
 org-beautify-theme
@@ -5100,6 +5103,7 @@ pollen-mode
 poly-R
 poly-ansible
 poly-erb
+poly-gams
 poly-markdown
 poly-noweb
 poly-org
