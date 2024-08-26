@@ -220,6 +220,7 @@ aria2
 ariadne
 arjen-grey-theme
 arrange-buffers
+arscript-mode
 artbollocks-mode
 arview
 arxiv-citation
@@ -3758,6 +3759,7 @@ loops
 loopy
 lorem-ipsum
 lox-mode
+lox-ts-mode
 lpy
 ls-lisp-plus
 lsdb
@@ -4913,6 +4915,7 @@ password-generator
 password-menu
 password-mode
 password-store
+password-store-menu
 password-store-otp
 password-vault
 paste
@@ -5562,6 +5565,7 @@ robe
 robot-log
 robot-mode
 robots-txt-mode
+roc-ts-mode
 roguel-ike
 rom-party
 ron-mode
@@ -6000,7 +6004,6 @@ sphinx-mode
 spice-mode
 spinasm-mode
 spinner
-spiral
 split-root
 splitjoin
 splunk-mode
