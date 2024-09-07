@@ -630,6 +630,7 @@ caser
 cask-mode
 cask-package-toolset
 caskxy
+casual-agenda
 casual-avy
 casual-bookmarks
 casual-calc
@@ -2249,6 +2250,7 @@ flydoc
 flyguess
 flylisp
 flymake-actionlint
+flymake-bashate
 flymake-clippy
 flymake-codespell
 flymake-coffee
@@ -4644,6 +4646,7 @@ org-multi-wiki
 org-nan
 org-newtab
 org-nix-shell
+org-node
 org-notebook
 org-noter
 org-notifications
@@ -4797,6 +4800,7 @@ osxpkg
 otama
 other-emacs-eval
 other-frame-window
+otpp
 outline-plus
 outline-indent
 outline-magic
