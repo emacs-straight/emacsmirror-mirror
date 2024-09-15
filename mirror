@@ -641,6 +641,7 @@ casual-isearch
 casual-lib
 casual-re-builder
 casual-suite
+casual-symbol-overlay
 catmacs
 catppuccin-theme
 cats
@@ -2767,6 +2768,7 @@ haskell-mode
 haskell-snippets
 haskell-tab-indent
 haskell-tng-mode
+haskell-ts-mode
 hasklig-mode
 hass
 haste
@@ -3472,7 +3474,7 @@ kakapo-mode
 kakoune
 kaleidoscope
 kana
-kanagawa-theme
+kanagawa-themes
 kanban
 kanji-mode
 kaocha-runner
@@ -5783,6 +5785,7 @@ shoulda
 show-arglist
 show-css
 show-eol
+show-font
 show-font-mode
 show-help
 show-marks
@@ -6291,6 +6294,7 @@ test-c
 test-case-mode
 test-cockpit
 test-framework
+test-hdl
 test-more
 test-simple
 testcover-mark-line
