@@ -235,6 +235,7 @@ asn1-mode
 assert-rtn
 assess
 astro-ts-mode
+astute
 astyle
 asx
 async
@@ -818,6 +819,7 @@ codepad
 codesearch
 codespaces
 codethumb
+codex-theme
 codic
 coercion
 coffee-fof
@@ -1668,6 +1670,7 @@ elune-theme
 elvish-mode
 elwm
 elx
+elysium
 emacs-android
 emacs-everywhere
 emacs-gc-stats
@@ -2448,6 +2451,7 @@ geiser-gauche
 geiser-guile
 geiser-kawa
 geiser-mit
+geiser-overlay
 geiser-racket
 geiser-stklos
 gemini-mode
@@ -2545,6 +2549,7 @@ gitter
 gkroam
 gl-conf-mode
 glade-mode
+glass-tty-theme
 gle-mode
 gleam-ts-mode
 glimpse
@@ -4491,6 +4496,7 @@ omni-tags
 omnibox
 omnisharp
 omtose-phellack-theme
+on
 on-parens
 on-screen
 one
@@ -4649,6 +4655,7 @@ org-nan
 org-newtab
 org-nix-shell
 org-node
+org-node-fakeroam
 org-notebook
 org-noter
 org-notifications
@@ -5290,6 +5297,7 @@ py-isort
 py-smart-operator
 py-snippets
 py-test
+py-vterm-interaction
 py-yapf
 pycarddavel
 pyconf
