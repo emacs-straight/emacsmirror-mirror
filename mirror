@@ -636,6 +636,7 @@ casual-avy
 casual-bookmarks
 casual-calc
 casual-dired
+casual-editkit
 casual-ibuffer
 casual-info
 casual-isearch
@@ -1163,6 +1164,7 @@ db
 db-pg
 db-sql
 dbc
+dbml-mode
 dbus-codegen
 ddate
 ddl-mode
@@ -1430,6 +1432,7 @@ dumbparens
 dummyparens
 dune
 dune-format
+dup-transform
 duplexer
 duplicate-thing
 dut-mode
@@ -1579,6 +1582,7 @@ el-spice
 el-sprunge
 el-spy
 el-swank-fuzzy
+el-who
 el2markdown
 el2org
 elbank
@@ -1792,6 +1796,7 @@ erlang
 erlstack-mode
 erobot
 eros
+eros-inspector
 ert-async
 ert-buffer-report
 ert-expectations
@@ -2254,6 +2259,7 @@ flydoc
 flyguess
 flylisp
 flymake-actionlint
+flymake-ansible-lint
 flymake-bashate
 flymake-clippy
 flymake-codespell
@@ -3211,6 +3217,8 @@ import-popwin
 importmagic
 impostman
 includeme
+incus-tramp
+indent-bars
 indent-control
 indent-guide
 indent-hints-mode
@@ -6502,6 +6510,7 @@ twittering-dframe
 twittering-mode
 twtxt
 tx-mode
+txl
 type-test
 typematic
 typescript-mode
