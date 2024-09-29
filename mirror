@@ -3115,6 +3115,7 @@ hyde
 hydra
 hyperbole
 hyperdrive
+hyperdrive-org-transclusion
 hyperkitty
 hyperlist-mode
 hyperspace
@@ -4503,7 +4504,7 @@ omni-scratch
 omni-tags
 omnibox
 omnisharp
-omtose-phellack-theme
+omtose-phellack-themes
 on
 on-parens
 on-screen
@@ -7013,6 +7014,7 @@ zetteldesk
 zettelkasten
 zetz-mode
 zig-mode
+zig-ts-mode
 zim-wiki-mode
 zimports
 zk
