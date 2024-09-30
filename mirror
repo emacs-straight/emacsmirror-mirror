@@ -3481,6 +3481,7 @@ jupyter
 just-mode
 justl
 jvm-mode
+jwt
 k8s-mode
 kaesar
 kagi
@@ -6420,6 +6421,7 @@ topspace
 topsy
 tora-mode
 tornado-template-mode
+torrent-mode
 torus
 total-lines
 totd
