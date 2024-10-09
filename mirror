@@ -456,6 +456,7 @@ biomejs-format
 birds-of-paradise-plus-theme
 bison-mode
 bitbake
+bitbake-ts-mode
 bitlbee
 bitpack
 blackboard-bold-mode
@@ -990,6 +991,7 @@ corfu-candidate-overlay
 corfu-terminal
 coroutine
 corral
+corsair
 cort
 cosmo
 coterm
@@ -1300,7 +1302,6 @@ dired-rifle
 dired-rmjunk
 dired-rsync
 dired-sidebar
-dired-single
 dired-sort-menu
 dired-sort-menu-plus
 dired-sync
@@ -2261,6 +2262,7 @@ flylisp
 flymake-actionlint
 flymake-ansible-lint
 flymake-bashate
+flymake-biome
 flymake-clippy
 flymake-codespell
 flymake-coffee
@@ -2465,6 +2467,7 @@ gemini-write
 gemtext-mode
 general
 generic-edit-special
+genexpr-mode
 genrnc
 geo
 geoip
@@ -6623,6 +6626,7 @@ validate
 validate-html
 valign
 vampyricdark-theme
+varuga
 vbasense
 vbnet-mode
 vbs-repl

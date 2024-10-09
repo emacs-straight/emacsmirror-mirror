@@ -304,6 +304,7 @@ dired-a
 dired-dd
 dired-isearch
 dired-sequence
+dired-single
 dirvars
 disptime
 django-mode
