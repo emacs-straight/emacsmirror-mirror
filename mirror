@@ -980,6 +980,7 @@ control-mode
 cook-mode
 cool-mode
 copilot
+copilot-chat
 copy-as-format
 copy-file-on-save
 copyit
@@ -4634,6 +4635,7 @@ org-incoming
 org-index
 org-inline-anim
 org-inline-pdf
+org-inline-pdfcomment
 org-iv
 org-ivy-search
 org-jami-bot
@@ -5947,6 +5949,7 @@ smithers
 smithy-mode
 sml-basis
 sml-mode
+sml-ts-mode
 smlfmt
 smmry
 smog
@@ -6576,6 +6579,7 @@ unidiff
 unifdef
 unify-buffer
 unify-opening
+uniline
 unipoint
 unique-window-buffers
 uniquify-files
@@ -6866,6 +6870,7 @@ wmii
 wn-mode
 wolfram
 wolfram-mode
+wollok-mode
 wonderland
 wordel
 wordgen
