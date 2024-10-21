@@ -677,6 +677,7 @@ imgur
 immigrant
 impress
 indent-tabs-maybe
+inferior-pop-mode
 inferior-spim
 info-apropos
 infobook
@@ -772,6 +773,7 @@ ldif-ns
 ldoc
 ldots
 ldraw-mode
+lean-mode
 lectionary
 lein
 lenlen-theme
@@ -1086,6 +1088,8 @@ poet-client
 point-ring
 pointback
 pom
+pop-help-mode
+pop-mode
 popup-menu
 post
 posterous
@@ -1568,6 +1572,7 @@ yaml-path
 yammer
 yandex-weather
 yank-whitespace
+yasnippet-lean
 yod
 youwill
 yow-fns

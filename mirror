@@ -3245,7 +3245,6 @@ inf-perl
 inf-php
 inf-ruby
 inf-ruby-bond
-inferior-pop-mode
 infix
 info-plus
 info-beamer
@@ -3642,7 +3641,6 @@ leaf-defaults
 leaf-keywords
 leaf-manager
 leaf-tree
-lean-mode
 leanote
 learn-ocaml
 ledger-import
@@ -5151,8 +5149,6 @@ pomodoro
 pony-mode
 pony-snippets
 ponylang-mode
-pop-help-mode
-pop-mode
 popbiff
 pophint
 popon
@@ -6436,6 +6432,7 @@ totp-auth
 touchgrid
 tox
 toxi-theme
+tp
 tql-mode
 tr-ime
 traad
@@ -6979,7 +6976,6 @@ yascroll
 yasnippet
 yasnippet-capf
 yasnippet-classic-snippets
-yasnippet-lean
 yasnippet-snippets
 yatemplate
 yatest
