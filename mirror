@@ -3482,6 +3482,7 @@ jumpc
 jumplist
 jupyter
 just-mode
+just-ts-mode
 justl
 jvm-mode
 jwt
