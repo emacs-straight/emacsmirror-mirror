@@ -1201,7 +1201,6 @@ denote-explore
 denote-menu
 denote-refs
 denote-sections
-derl
 descr-text-plus
 describe-hash
 describe-number
@@ -1459,6 +1458,7 @@ eaf-file-manager
 eaf-pdf-viewer
 eaf-terminal
 eaf-video-player
+earl
 earthfile-mode
 eask
 eask-mode
@@ -3937,6 +3937,7 @@ math-preview
 math-symbol-lists
 math-symbols
 math-tex-convert
+mathjax
 matlab-mode
 maude-mode
 maven-test-mode
@@ -6698,6 +6699,7 @@ visual-fill
 visual-fill-column
 visual-regexp
 visual-regexp-steroids
+visual-replace
 vlc
 vlf
 vline
