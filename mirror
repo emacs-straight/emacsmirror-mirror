@@ -1568,6 +1568,7 @@ el-get
 el-index
 el-init
 el-init-viewer
+el-job
 el-markup
 el-mock
 el-patch
@@ -3251,6 +3252,7 @@ inform-mode
 inform7
 inherit-local
 inheritenv
+inhibit-mouse
 ini
 ini-mode
 init-dir
@@ -5460,6 +5462,7 @@ reazon
 rebecca-theme
 rebox2
 rec-mode
+recall
 recaptcha
 recent-addresses
 recentf-buffer
