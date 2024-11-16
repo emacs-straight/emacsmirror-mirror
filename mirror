@@ -444,6 +444,7 @@ bidi
 bifocal
 binclock
 bind
+bind-chord
 bind-map
 binder
 bindings-plus
@@ -1035,6 +1036,7 @@ cpupower
 cql-mode
 cquery
 crappy-jsp-mode
+crc
 crdt
 creamsody-theme
 create-link
@@ -1121,6 +1123,7 @@ dae
 daemons
 dakrone-light-theme
 dakrone-theme
+dall-e-shell
 daml-lsp
 daml-mode
 danneskjold-theme
@@ -1531,7 +1534,7 @@ editorconfig-generate
 edje-mode
 edn
 ednc
-edts
+edts-mode
 edwina
 ee
 eev
@@ -4401,6 +4404,7 @@ ob-bitfield
 ob-blockdiag
 ob-browser
 ob-cfengine3
+ob-chatgpt-shell
 ob-clojurescript
 ob-coffee
 ob-coffeescript
@@ -4408,6 +4412,7 @@ ob-compile
 ob-crystal
 ob-cypher
 ob-d2
+ob-dall-e-shell
 ob-dao
 ob-dart
 ob-deno
@@ -5782,6 +5787,7 @@ shell-completion
 shell-current-directory
 shell-here
 shell-history
+shell-maker
 shell-pop
 shell-quasiquote
 shell-split-string
