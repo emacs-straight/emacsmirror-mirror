@@ -919,6 +919,7 @@ competitive-programming-snippets
 compilation-always-kill
 compile-plus
 compile-
+compile-angel
 compile-bookmarks
 compile-dwim
 compile-multi
@@ -1330,6 +1331,7 @@ display-buffer-for-wide-screen
 display-hatebu
 display-theme
 display-wttr
+disproject
 dispwatch
 dist-file-mode
 distel
@@ -1877,7 +1879,9 @@ eval-sexp-fu
 eval-sexp-in-comments
 evalator
 evalator-clojure
+evangelion-theme
 eve-mode
+evedel
 evelnote
 evenok
 everlasting-scratch
@@ -4011,6 +4015,7 @@ meyvn
 mgmtconfig-mode
 mgrep
 mhc
+miasma-theme
 mic
 micgoline
 micromamba
@@ -5105,6 +5110,7 @@ plsense
 plsense-direx
 plsql
 plt-completions
+plumber
 plur
 plural
 plz
@@ -5379,6 +5385,7 @@ queue-mail
 quick-buffer-switch
 quick-jump
 quick-peek
+quick-sdcv
 quick-shell-keybind
 quickfix-mode
 quickref
