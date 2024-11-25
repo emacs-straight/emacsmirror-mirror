@@ -3213,6 +3213,7 @@ imenu-list
 imenu-tree
 imenus
 imgbb
+imgur
 immaterial-theme
 immersive-translate
 immortal-scratch
@@ -4564,6 +4565,7 @@ org-assoc-tags
 org-attach-embedded-images
 org-attach-screenshot
 org-auto-expand
+org-auto-export-pandoc
 org-auto-tangle
 org-autoexport
 org-autolist
@@ -4886,6 +4888,7 @@ ox-trac
 ox-tufte
 ox-twbs
 ox-twiki
+ox-typst
 ox-wk
 ox-yaow
 ox-zenn
@@ -7014,7 +7017,6 @@ youtube-sub-extractor
 yql
 ytdious
 ytdl
-ytel
 yuck-mode
 yul-mode
 z3-mode
