@@ -201,7 +201,6 @@ apparmor-mode
 apples-mode
 applescript-mode
 application
-aproject
 apropos-plus
 apropos-fn-var
 apropospriate-theme
@@ -1735,6 +1734,7 @@ encrypt-region
 engine-mode
 engrave-faces
 enh-ruby-mode
+enhanced-evil-paredit
 enlight
 enlightened-theme
 enlive
@@ -4048,6 +4048,7 @@ minimap
 minions
 minitest
 minizinc-mode
+minizinc-ts-mode
 minor-mode-hack
 minsk-theme
 mint-mode
@@ -6240,6 +6241,7 @@ tab-bar-lost-commands
 tab-bar-notch
 tab-group
 tab-jump-out
+tab-line-nerd-icons
 tabbar
 tabbar-ruler
 tabby
