@@ -555,6 +555,7 @@ buffer-name-relative
 buffer-ring
 buffer-sets
 buffer-stack
+buffer-terminator
 buffer-timer
 buffer-utils
 buffer-watcher
@@ -1276,7 +1277,6 @@ dired-dups
 dired-efap
 dired-explorer
 dired-extension
-dired-fdclone
 dired-filetype-face
 dired-git
 dired-git-info
@@ -1307,6 +1307,7 @@ dired-view
 dired-view-data
 dired-xattr
 diredc
+diredfd
 diredfl
 diredful
 direnv
@@ -1549,6 +1550,7 @@ egg
 egg-timer
 egison-mode
 egit
+eglot-inactive-regions
 eglot-java
 eglot-jl
 eglot-luau
@@ -2028,6 +2030,7 @@ fancy-battery
 fancy-compilation
 fancy-dabbrev
 fancy-narrow
+fancy-urls-menu
 fantom-mode
 fantom-theme
 fanyi
@@ -2669,6 +2672,7 @@ gorepl-mode
 gosh
 gosh-mode
 gotest
+gotest-ts
 gotham-theme
 goto-char-preview
 goto-chg
@@ -2776,6 +2780,7 @@ handoff
 haproxy-mode
 hardcore-mode
 hardhat
+hardtime
 harpoon
 harvest
 haskell-emacs
@@ -4305,6 +4310,7 @@ nginx-mode
 ngircd
 ngn
 nhexl-mode
+nice-org-html
 niceify-info
 nickel-mode
 niconama
@@ -6038,6 +6044,7 @@ speechd
 speed-type
 speedbar-git-respect
 speeddating
+speedrect
 spell-fu
 spell-number
 sphinx-doc
@@ -6116,6 +6123,7 @@ steno
 stgit
 stickies
 sticky
+sticky-scroll-mode
 sticky-shell
 stickyfunc-enhance
 stimmung-themes
@@ -6467,6 +6475,7 @@ transcribe
 transcript
 transducers
 transfer-sh
+transform-symbol-at-point
 transient
 transient-cycles
 transient-dwim
