@@ -663,7 +663,6 @@ cerbere
 cern-ldap
 cern-root-mode
 cexp
-ceylon-mode
 cfengine-code-style
 cff
 cfn-mode
@@ -964,6 +963,7 @@ consult-projectile
 consult-recoll
 consult-tex
 consult-todo
+consult-vc-modified-files
 consult-yasnippet
 contentswitch
 context-coloring
@@ -1090,6 +1090,7 @@ curl
 curl-to-elisp
 currency-convert
 current-story
+current-window-only
 current-word-highlight
 curry-on-theme
 cursor-chg
@@ -1596,6 +1597,7 @@ elcute
 eldev
 eldoc-box
 eldoc-cmake
+eldoc-diffstat
 eldoc-eask
 eldoc-eval
 eldoc-extension
@@ -3046,6 +3048,7 @@ highrise
 hima-theme
 himalaya
 hindent
+hindu-calendar
 hippie-exp-ext
 hippie-expand-slime
 hippie-namespace
@@ -3448,6 +3451,7 @@ js-comint
 js-doc
 js-format
 js-import
+js-pkg-mode
 js-react-redux-yasnippets
 js2-closure
 js2-highlight-vars
@@ -3642,6 +3646,7 @@ lazy-search
 lcb-mode
 lcomp
 lcr
+le-gpt
 le-thesaurus
 leader-key
 leaf
@@ -6332,6 +6337,7 @@ terminal-toggle
 tern
 tern-context-coloring
 terraform-doc
+terraform-docs
 terraform-mode
 terrible-template
 tesouro
