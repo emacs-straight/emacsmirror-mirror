@@ -463,6 +463,7 @@ filenames-under-tags
 fileutils
 filewatch
 fill-column-rule
+finalize
 find-commands
 find-dired-lisp
 find-empty-el-files

@@ -1232,6 +1232,7 @@ dialog
 dianyou
 diary-manager
 diatheke
+dicom
 dict-tree
 dictcc
 dictem
@@ -2092,7 +2093,6 @@ filladapt
 filladapt-pat
 fillcode
 filldent
-finalize
 find-by-pinyin-dired
 find-dired-plus
 find-dired-plus-plus
