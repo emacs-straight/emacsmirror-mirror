@@ -118,6 +118,7 @@ blorg
 bm-man-cmplt
 bookmark-extensions
 bookmark-search
+bookmark-view
 branch
 bravegnuworld-mode
 breathe
@@ -601,6 +602,7 @@ haddoc
 hamster-mode
 handhold
 haskell-latex
+hasklig-mode
 hasky-extensions
 hasky-stack
 hatena-group-keyword-mode
@@ -818,6 +820,7 @@ love-minor-mode
 lpc-mode
 lsl-mode
 lsp-javascript-typescript
+lsp-p4
 lsp-python
 lsp-python-ms
 lsp-ruby

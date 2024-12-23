@@ -500,7 +500,6 @@ bookmark-plus
 bookmark-add
 bookmark-frecency
 bookmark-in-project
-bookmark-view
 bool-flip
 boon
 borg
@@ -2792,7 +2791,6 @@ haskell-snippets
 haskell-tab-indent
 haskell-tng-mode
 haskell-ts-mode
-hasklig-mode
 hass
 haste
 haxe-imports
@@ -3817,7 +3815,6 @@ lsp-metals
 lsp-mode
 lsp-mssql
 lsp-origami
-lsp-p4
 lsp-pascal
 lsp-pyre
 lsp-pyright
