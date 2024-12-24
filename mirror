@@ -3552,6 +3552,7 @@ khardel
 khoj
 kibit-helper
 kibit-mode
+kill-dollar-mode
 kill-file-path
 kill-or-bury-alive
 kill-ring-search
@@ -4081,6 +4082,7 @@ mo-git-blame
 mo-rot13
 mo-vi-ment-mode
 mobdebug-mode
+moc
 mocha
 mocha-snippets
 mocker
@@ -4490,6 +4492,7 @@ objed
 oblivion-theme
 obsidian
 obsidian-theme
+ocaml-eglot
 ocaml-ts-mode
 ocamlformat
 occidental-theme
@@ -4902,6 +4905,7 @@ ox-yaow
 ox-zenn
 p4
 p4-16-mode
+p4-ts-mode
 pabbrev
 pacdiff
 paced
@@ -5658,6 +5662,7 @@ run-stuff
 runner
 runtests
 rusewiki
+russian-calendar
 russian-holidays
 russian-techwriter
 rust-auto-use
@@ -6216,6 +6221,7 @@ sxhkdrc-mode
 sxiv
 symbol-navigation-hydra
 symbol-overlay
+symbol-overlay-mc
 symbolist
 symbols-mode
 symbols-outline
@@ -6642,6 +6648,7 @@ utimeclock
 utop
 uuid
 uuidgen
+uv-mode
 uwu-theme
 uxntal-mode
 uzumaki
