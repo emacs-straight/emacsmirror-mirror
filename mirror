@@ -3132,6 +3132,7 @@ hyperlist-mode
 hyperspace
 hyperspec
 hyperstitional-themes
+hyprlang-ts-mode
 i-ching
 i2b2-mode
 i3
@@ -5759,6 +5760,7 @@ selcand
 select-themes
 selected
 selected-window-accent-mode
+selected-window-contrast
 selectric-mode
 selectrum
 semantic-thrift
