@@ -4745,6 +4745,7 @@ org-search-goto
 org-search-goto-ml
 org-seek
 org-shoplist
+org-shortcut
 org-side-tree
 org-sidebar
 org-sliced-images
@@ -5193,6 +5194,7 @@ popup-select-window
 popup-switcher
 popwin
 portage
+portage-modes
 portage-navi
 porthole
 pos-tip
