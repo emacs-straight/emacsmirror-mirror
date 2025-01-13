@@ -128,6 +128,7 @@ bubblet
 buffer-charset
 buffer-file-sync
 buffer-fns
+buffer-ring
 buffer-thumbnail
 buffer-time-stamp
 buffermenu
@@ -331,6 +332,7 @@ durendal
 dvc
 dvi-view
 dwim-find
+dynamic-ring
 e-blog
 e-other-window
 e2wm-R
@@ -933,6 +935,7 @@ nclose
 neophyte
 nero
 nesc
+netease-cloud-music
 nethack
 netrexx-mode
 new-subdirs-el

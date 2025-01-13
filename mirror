@@ -6,6 +6,7 @@
 2bit
 750words
 at
+MRU-yank
 a
 a-menu
 a2ps-multibyte
@@ -21,6 +22,7 @@ abl-mode
 abridge-diff
 abs-mode
 abyss-theme
+ac-R
 ac-alchemist
 ac-c-headers
 ac-capf
@@ -46,7 +48,6 @@ ac-math
 ac-mozc
 ac-octave
 ac-php
-ac-r
 ac-racer
 ac-skk
 ac-slime
@@ -76,6 +77,7 @@ actionscript-mode
 activator
 activities
 activity-watch-mode
+acton-mode
 ada-gpr
 ada-mode
 ada-ref-man
@@ -551,7 +553,6 @@ buffer-flip
 buffer-manage
 buffer-move
 buffer-name-relative
-buffer-ring
 buffer-sets
 buffer-stack
 buffer-terminator
@@ -843,6 +844,7 @@ combobulate
 comby
 come-fly
 comicscript
+comint-histories
 comint-hyperlink
 comint-intercept
 comint-mime
@@ -1445,7 +1447,6 @@ dyalog-mode
 dylan
 dynamic-fonts
 dynamic-graphs
-dynamic-ring
 dynamic-ruler
 dynamic-spaces
 dynaring
@@ -3063,6 +3064,7 @@ hl-defined
 hl-indent
 hl-indent-scope
 hl-line-plus
+hl-printf
 hl-prog-extra
 hl-sentence
 hl-spotlight
@@ -3829,6 +3831,7 @@ lsp-sourcekit
 lsp-tailwindcss
 lsp-treemacs
 lsp-ui
+lte
 ltsv
 lua-block
 lua-mode
@@ -4171,7 +4174,6 @@ mpv
 mpvi
 mqr
 mqtt-mode
-mru-yank
 msearch
 msgpack
 mss
@@ -4295,7 +4297,6 @@ nerd-icons-dired
 nerd-icons-ibuffer
 nerd-icons-ivy-rich
 nerdtab
-netease-cloud-music
 netease-music
 netherlands-holidays
 netrunner
@@ -4999,6 +5000,7 @@ pd-remote
 pdb-capf
 pdb-mode
 pddl-mode
+pdf-meta-edit
 pdf-tools
 pdf-view-pagemark
 pdf-view-restore
