@@ -343,6 +343,7 @@ avenue-mode
 avk-emacs-themes
 avmmf
 avy
+avy-act
 avy-flycheck
 avy-menu
 avy-migemo
@@ -4144,6 +4145,7 @@ most-used-words
 mote-mode
 motion-and-kill-dwim
 motion-mode
+motion-selection-mode
 mouse-plus
 mouse-drag-fix
 mouse3
@@ -6526,6 +6528,7 @@ trinary
 trindle
 triples
 tron-legacy-theme
+trope-mode
 trr
 truthy
 try
