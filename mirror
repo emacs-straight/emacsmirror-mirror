@@ -554,6 +554,7 @@ buffer-flip
 buffer-manage
 buffer-move
 buffer-name-relative
+buffer-ring
 buffer-sets
 buffer-stack
 buffer-terminator
@@ -5711,7 +5712,6 @@ sayid
 sbt
 sbt-mode
 scad-mode
-scad-preview
 scala-mode
 scala-repl
 scala-ts-mode

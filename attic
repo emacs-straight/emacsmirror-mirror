@@ -128,7 +128,6 @@ bubblet
 buffer-charset
 buffer-file-sync
 buffer-fns
-buffer-ring
 buffer-thumbnail
 buffer-time-stamp
 buffermenu
@@ -1235,6 +1234,7 @@ save-sexp
 save-undo
 saveframes
 sawfish
+scad-preview
 scalariform
 scheme-here
 scheme48
