@@ -3588,6 +3588,7 @@ kosmos-theme
 kotlin-mode
 kotlin-ts-mode
 kpm-list
+kql-mode
 kroman
 ksp-cfg-mode
 ksp-mode
@@ -3773,6 +3774,7 @@ loc-changes
 loccur
 lockfile-mode
 loco
+locs-and-refs
 lodgeit
 log-buffer
 log4e
@@ -4067,6 +4069,7 @@ minizinc-ts-mode
 minor-mode-hack
 minsk-theme
 mint-mode
+minuet
 mip-mode
 mips-mode
 mirror
@@ -6567,6 +6570,7 @@ txl
 type-test
 typematic
 typescript-mode
+typespec-ts-mode
 typewriter-roll-mode
 typing
 typing-game
@@ -6976,6 +6980,7 @@ xml-parse
 xml-quotes
 xml-rpc
 xmlgen
+xmltokf
 xmlunicode
 xo
 xonsh-mode
