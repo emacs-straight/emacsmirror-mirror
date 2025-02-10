@@ -10,6 +10,7 @@ MRU-yank
 a
 a-menu
 a2ps-multibyte
+a68-mode
 aa-edit-mode
 aangit
 aas
@@ -274,6 +275,7 @@ auth-source-gopass
 auth-source-keytar
 auth-source-kwallet
 auth-source-xoauth2
+auth-source-xoauth2-plugin
 auto-async-byte-compile
 auto-auto-indent
 auto-capitalize
@@ -333,6 +335,7 @@ autodisass-llvm-bitcode
 autofit-frame
 autoinfo
 autoload-plus
+autorevert-tail-truncate
 autoscratch
 autosmiley
 autotetris-mode
@@ -1802,6 +1805,7 @@ ergoemacs-status
 ergore
 erk
 erlang
+erlang-ts
 erlstack-mode
 erobot
 eros
@@ -5089,6 +5093,7 @@ picolisp
 picolisp-wiki-mode
 picpocket
 piem
+pif
 pig-mode
 pikchr-mode
 pillar
@@ -6146,6 +6151,7 @@ sticky
 sticky-scroll-mode
 sticky-shell
 stickyfunc-enhance
+stillness-mode
 stimmung-themes
 stock-ticker
 stock-tracker
