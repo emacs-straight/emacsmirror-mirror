@@ -1736,7 +1736,6 @@ emoticons
 empos
 empv
 emr
-emux
 enclose
 encourage-mode
 encrypt
@@ -3874,7 +3873,6 @@ magit-annex
 magit-commit-mark
 magit-delta
 magit-diff-flycheck
-magit-file-icons
 magit-filenotify
 magit-find-file
 magit-gerrit
@@ -3912,7 +3910,6 @@ mailq
 mailrc
 mailscripts
 mailx
-majapahit-themes
 major-mode-hydra
 major-mode-icons
 make-color
@@ -4288,13 +4285,11 @@ nav-flash
 navi-mode
 navi2ch
 navigel
-navorski
 naysayer-theme
 nazna
 nc
 ncl-mode
 nclip
-ne2wm
 neato-graph-bar
 neil
 nemerle
@@ -4654,6 +4649,7 @@ org-gcal
 org-generate
 org-global-insert-link
 org-gnome
+org-gnosis
 org-grep
 org-gtd
 org-habit-stats
@@ -6568,8 +6564,6 @@ twilight-anti-bright-theme
 twilight-bright-theme
 twilight-theme
 twitch-api
-twittering-dframe
-twittering-mode
 twtxt
 tx-mode
 txl

@@ -407,6 +407,7 @@ emms-bilibili
 emotion
 emsane
 emuds
+emux
 encap
 eno
 ensime
@@ -834,6 +835,7 @@ m56k
 mac-key-mode
 magit-circleci
 magit-commit-training-wheels
+magit-file-icons
 magit-gh-pulls
 magit-identities
 magit-log-edit
@@ -846,6 +848,7 @@ mail-inserts
 mailrc-mode
 mailto-checker
 main-line
+majapahit-themes
 majordomo
 make-hex
 make-mode-fillindent
@@ -930,7 +933,9 @@ naos
 narrow-stack
 natsel
 navi
+navorski
 nclose
+ne2wm
 neophyte
 nero
 nesc
@@ -1434,6 +1439,8 @@ twiddle
 twiki-outline
 twit
 twitel
+twittering-dframe
+twittering-mode
 two-mode-mode
 typed-clojure-mode
 typoscript-mode
