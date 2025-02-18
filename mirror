@@ -2799,6 +2799,7 @@ haskell-tng-mode
 haskell-ts-mode
 hass
 haste
+hatty
 haxe-imports
 haxe-mode
 haxor-mode
@@ -4472,6 +4473,7 @@ ob-nim
 ob-nix
 ob-p5js
 ob-php
+ob-pic
 ob-powershell
 ob-prolog
 ob-raku
@@ -4930,6 +4932,7 @@ package-lint
 package-loading-notifier
 package-store
 package-utils
+package-x
 pacmacs
 pact-mode
 paganini-theme
@@ -5023,6 +5026,7 @@ perject
 perl-doc
 perl-find-library
 perl-quote
+perl-ts-mode
 perl-use-utf8-coding
 perl-utils
 perlbrew
@@ -5425,6 +5429,7 @@ qwen-chat-shell
 r-autoyas
 racer
 racket-mode
+radio
 rails-i18n
 rails-log-mode
 rails-routes
@@ -5868,6 +5873,7 @@ side-notes
 sidecar-locals
 sideline
 sideline-blame
+sideline-eglot
 sideline-flycheck
 sideline-flymake
 sideline-lsp
@@ -6578,6 +6584,7 @@ typit
 typo
 typo-suggest
 typopunct
+typst-ts-mode
 tzc
 ubuntu-theme
 uchronia
