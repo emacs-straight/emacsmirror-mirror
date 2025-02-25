@@ -15,7 +15,6 @@ aa-edit-mode
 aangit
 aas
 abbrev-complete
-abbrev-sort
 abc-mode
 abel
 abgaben
@@ -91,7 +90,6 @@ addressbook-bookmark
 adjust-parens
 ado-mode
 adoc-mode
-adv-random-sig
 advice-patch
 adwaita-dark-theme
 aes
@@ -127,7 +125,6 @@ alectryon
 alert
 alert-termux
 alert-toast
-algorithms
 align-by-current-symbol
 align-cljlet
 all
@@ -212,7 +209,6 @@ apu
 aqi
 arbitools
 arch-packer
-archive-downloader
 archive-phar
 archive-region
 archive-rpm
@@ -524,6 +520,7 @@ bqn-mode
 bracketed-paste
 bracketphobia
 brainfuck-mode
+bray
 brazilian-holidays
 breadcrumb
 brec-mode
@@ -590,7 +587,6 @@ buttercup
 buttercup-junit
 button-lock
 buttons
-bytecomp-simplify
 c-c-combo
 c-eldoc
 c-eval
@@ -690,7 +686,6 @@ cheat-fu
 cheat-sh
 cheatsheet
 checkbox
-checkdoc-keywords
 chee
 cheerilee
 cheezburger
@@ -921,7 +916,6 @@ company-wordfreq
 compat
 compdef
 competitive-programming-snippets
-compilation-always-kill
 compile-plus
 compile-
 compile-angel
@@ -985,7 +979,6 @@ copilot-chat
 copy-as-format
 copy-file-on-save
 copyit
-copyright-both-ends
 coq-commenter
 corba
 corfu
@@ -1026,7 +1019,6 @@ counsel-tramp
 counsel-web
 counsel-world-clock
 countdown
-counter
 cov
 coverage
 coverlay
@@ -1210,6 +1202,7 @@ demo-it
 deno-fmt
 deno-ts-mode
 denote
+denote-agenda
 denote-explore
 denote-menu
 denote-refs
@@ -1363,7 +1356,6 @@ dmacro
 dmenu
 dna-mode
 do-at-point
-do-not-edit
 doc-mode
 doc-show-inline
 doc-toc
@@ -2046,7 +2038,6 @@ farmhouse-themes
 fasd
 fast-scroll
 fastdef
-fastfuzz
 fastnav
 faust-mode
 faustine
@@ -2066,14 +2057,7 @@ fennel-mode
 festival
 fetch
 fetchmail-mode
-ff-paths
 ffap-
-ffap-gcc-path
-ffap-include-start
-ffap-makefile-vars
-ffap-mml
-ffap-perl-module
-ffap-rfc-space
 ffmpeg-player
 ffmpeg-utils
 fic-ext-mode
@@ -2086,7 +2070,6 @@ file-props
 file-template
 filechooser
 filelock
-filemenu
 files-plus
 filesets-plus
 filetags
@@ -2095,7 +2078,6 @@ fill-column-indicator
 fill-function-arguments
 fill-page
 filladapt
-filladapt-pat
 fillcode
 filldent
 find-by-pinyin-dired
@@ -2377,7 +2359,6 @@ form-feed-st
 format-all
 format-sql
 format-table
-formfeed-hline
 forth-mode
 fortpy
 fortune-cookie
@@ -2699,6 +2680,8 @@ gpt
 gpt-commit
 gptai
 gptel
+gptel-aibo
+gptel-fn-complete
 gpx
 grab-and-drag
 grab-mac-link
@@ -3023,11 +3006,9 @@ hidepw
 hideshow-org
 hideshowvis
 highlight
-highlight-80-plus
 highlight-blocks
 highlight-chars
 highlight-cl
-highlight-completion
 highlight-context-line
 highlight-defined
 highlight-doxygen
@@ -3267,7 +3248,6 @@ info-plus
 info-beamer
 info-buffer
 info-colors
-info-lookmore
 info-rename-buffer
 inform
 inform-mode
@@ -3297,7 +3277,6 @@ insert-time-string
 insfactor
 inspector
 inspire
-install
 install-elisp
 instapaper
 intel-hex-mode
@@ -3430,7 +3409,6 @@ jetbrains
 jetbrains-darcula-theme
 jg-quicknav
 jgraph-mode
-jiggle
 jinja2-mode
 jinx
 jira
@@ -3616,7 +3594,6 @@ lacquer
 lagn
 laguna-theme
 lakota-input
-lambdacalc
 lambdapi-mode
 lammps-mode
 landmark
@@ -3753,6 +3730,7 @@ literate-coffee-mode
 literate-elisp
 literate-scratch
 litex-mode
+lithium
 live-code-talks
 live-completions
 live-preview
@@ -4349,13 +4327,11 @@ nlinum-relative
 nmcobol-mode
 nnir-est
 nnir-spotlight
-no-clown-fiesta-theme
 no-emoji
 no-littering
 no-spam
 no-word
 noaa
-nobreak-fade
 noccur
 nocomments-mode
 noctilux-theme
@@ -4528,6 +4504,7 @@ old-fashioned-undo
 old-norse-input
 oldlace-theme
 olivetti
+ollama-buddy
 om-mode
 omn-mode
 omni-kill
@@ -4834,9 +4811,7 @@ orgtbl-show-header
 origami
 origami-predef
 ormolu
-orthodox
 orthodox-christian-new-calendar-holidays
-orwell
 osa
 osa-chrome
 osc
@@ -4951,7 +4926,6 @@ pandoc
 pandoc-mode
 pangu-spacing
 paperless
-parasep
 parchment-theme
 paredit
 paredit-c
@@ -5025,9 +4999,7 @@ perfect-margin
 perject
 perl-doc
 perl-find-library
-perl-quote
 perl-ts-mode
-perl-use-utf8-coding
 perl-utils
 perlbrew
 perlbrew-mini
@@ -5086,7 +5058,6 @@ phpt-mode
 phpunit
 pianobar
 pic-basic-mode
-pick-backup
 pickel
 pickle
 picolisp
@@ -5613,7 +5584,6 @@ riece
 right-click-context
 rigid-tabs
 rii
-rijndael
 rime
 rimero-theme
 rinari
@@ -5762,7 +5732,6 @@ sculpture-themes
 sdcv
 sdlang-mode
 sdml-mode
-search-prop
 search-web
 searcher
 searchq
@@ -5958,7 +5927,6 @@ smart-cursor-color
 smart-dabbrev
 smart-dash
 smart-delete
-smart-dnd
 smart-forward
 smart-hungry-delete
 smart-indent-rigidly
@@ -6080,7 +6048,6 @@ sphinx-mode
 spice-mode
 spinasm-mode
 spinner
-split-root
 splitjoin
 splunk-mode
 spotify
@@ -6574,7 +6541,6 @@ twtxt
 tx-mode
 txl
 type-test
-typematic
 typescript-mode
 typespec-ts-mode
 typewriter-roll-mode
@@ -6620,7 +6586,6 @@ undohist
 unfill
 uni-confusables
 unicad
-unicode-disp
 unicode-emoticons
 unicode-enbox
 unicode-escape
@@ -6737,7 +6702,6 @@ vhdl-ext
 vhdl-process-wave
 vhdl-tools
 vhdl-ts-mode
-vi-dot
 vi-tilde-fringe
 viewer
 vigenere
@@ -6953,7 +6917,6 @@ writegood-mode
 writeroom-mode
 ws-butler
 wsd-mode
-wtf
 wttrin
 wubi
 wucuo

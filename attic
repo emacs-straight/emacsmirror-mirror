@@ -1,6 +1,7 @@
 4clojure
 GEOS-vote
 abacus
+abbrev-sort
 ac-anaconda
 ac-cake
 ac-cake2
@@ -12,9 +13,11 @@ active-menu
 actr-mode
 add-lispdir
 admb
+adv-random-sig
 advogato
 after-save-commands
 agchat
+algorithms
 align-let
 align-regexp
 alore-mode
@@ -47,6 +50,7 @@ apt-mode
 arc-dark-theme
 arc-lzh-exe
 archie
+archive-downloader
 areabrowse
 arrange
 arscanner
@@ -137,6 +141,7 @@ bury-successful-compilation
 byrd-biff
 byte-code-cache
 bytecomp-fns
+bytecomp-simplify
 c-boxes
 c-comment-edit
 cabecera
@@ -165,6 +170,7 @@ change-html-head-tail
 change-mode
 changelog-url
 chasen
+checkdoc-keywords
 chicken-scheme
 chill-mode
 chinese-remote-input
@@ -214,6 +220,7 @@ company-org-roam
 company-racer
 company-tern
 compare-windows-interactively
+compilation-always-kill
 compilation-perl
 compilation-recenter-end
 compilation-weblint
@@ -231,8 +238,10 @@ copy-chars
 copy-directory
 copy-from-surrounding-lines
 copyedit
+copyright-both-ends
 corfu-doc
 couchdb
+counter
 cpad
 cpan
 cparen
@@ -313,6 +322,7 @@ disptime
 django-mode
 dms-sig
 dna-debug
+do-not-edit
 docbookide
 doh
 doi
@@ -446,9 +456,17 @@ face-list
 faith
 fakespace
 fasm-mode
+fastfuzz
 fc
 feather
+ff-paths
+ffap-gcc-path
+ffap-include-start
+ffap-makefile-vars
+ffap-mml
+ffap-perl-module
 ffap-rfc-directories
+ffap-rfc-space
 fff
 fff-elisp
 fff-rfc
@@ -459,6 +477,7 @@ file-fns
 file-history
 file-log
 file-name-insertions
+filemenu
 filename-cases
 filenames-in-buffers
 filenames-in-env
@@ -466,6 +485,7 @@ filenames-under-tags
 fileutils
 filewatch
 fill-column-rule
+filladapt-pat
 finalize
 find-commands
 find-dired-lisp
@@ -512,6 +532,7 @@ fold-dwim-org
 foldingo
 folio
 font-lock-cl
+formfeed-hline
 forml-mode
 frame-restore
 frb
@@ -632,7 +653,9 @@ helm-tree-sitter
 helpex
 hide-copyleft
 hier-imenu
+highlight-80-plus
 highlight-beyond-fill-column
+highlight-completion
 highlight-current-line
 highlight-regexp
 highwin
@@ -686,6 +709,7 @@ indent-tabs-maybe
 inferior-pop-mode
 inferior-spim
 info-apropos
+info-lookmore
 infobook
 infohelp
 inkmacs
@@ -694,6 +718,7 @@ inlineR
 insert-construct
 insertions
 inspec2bibtex
+install
 integers
 interleave
 intero
@@ -737,6 +762,7 @@ jem-pkg
 jess-mode
 jfolding
 jhg-cload
+jiggle
 jimb-patch
 joseph-autopair
 joseph-file-util
@@ -767,6 +793,7 @@ kmacro-ring-list
 kolon-mode
 l
 labbook
+lambdacalc
 lat1conv
 latex-doc
 latex-spread
@@ -955,6 +982,8 @@ nnir-grepmail
 nnreddit
 nntodo
 nntwitter
+no-clown-fiesta-theme
+nobreak-fade
 nodenv
 nopaste
 nose
@@ -1026,6 +1055,8 @@ org-themis
 org-website
 org-wunderlist
 org-yaml
+orthodox
+orwell
 os
 osx-itunes
 osx-osascript
@@ -1046,6 +1077,7 @@ page-mode
 pair-mode
 pallet
 paradox
+parasep
 paredit-viper-compat
 paren-glint
 parinfer
@@ -1071,6 +1103,8 @@ perl-myvar
 perl-pod-coding
 perl-pod-gt
 perl-pod-preview
+perl-quote
+perl-use-utf8-coding
 pgg-crypt
 ph
 phonebook
@@ -1084,6 +1118,7 @@ phpcbf
 phrase
 phutball
 physical-line
+pick-backup
 pilot
 pilot-doc
 pilot-memo
@@ -1206,6 +1241,7 @@ rheeet-mail
 rhtml-minor-mode
 ri
 rightjustify
+rijndael
 rlpic
 rmail-frobs
 rmail-mime
@@ -1256,6 +1292,7 @@ scroll-1
 scroll-in-place
 sdic
 search-engines
+search-prop
 seclusion-mode
 seen-mode
 selftest
@@ -1295,6 +1332,7 @@ slashdot
 slime-ritz
 sly-company
 smallurl
+smart-dnd
 smart-snippet
 smartquotes
 sml-modeline
@@ -1313,6 +1351,7 @@ specman-mode
 spectre-mode
 speedread
 spiral
+split-root
 split-window-multi
 spoiler-space
 spokes
@@ -1442,6 +1481,7 @@ twittering-dframe
 twittering-mode
 two-mode-mode
 typed-clojure-mode
+typematic
 typoscript-mode
 typst-mode
 u-appt
@@ -1454,6 +1494,7 @@ undo-browse
 undo-group
 undoc
 unibasic
+unicode-disp
 unicode-helper
 unicode-input
 uniesc
@@ -1475,6 +1516,7 @@ vc-mks
 vel
 verbiste
 vh-scroll
+vi-dot
 view-tp
 viewtex
 vim-elscreen
@@ -1544,6 +1586,7 @@ write-subdirs-el
 write-table-data
 ws-trim
 wsh-repl
+wtf
 x-dict
 x-face
 x-symbol
