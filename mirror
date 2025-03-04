@@ -1131,8 +1131,10 @@ deno-ts-mode
 denote
 denote-agenda
 denote-explore
+denote-journal-capture
 denote-menu
 denote-refs
+denote-search
 denote-sections
 descr-text-plus
 describe-hash
@@ -3842,6 +3844,7 @@ mode-icons
 mode-line-bell
 mode-line-debug
 mode-line-idle
+mode-line-keyboard
 modelica-mode
 modeline-char
 modeline-posn
@@ -4328,6 +4331,7 @@ org-contrib
 org-cua-dwim
 org-custom-cookies
 org-d20
+org-daily-reflection
 org-dashboard
 org-daypage
 org-defprop
