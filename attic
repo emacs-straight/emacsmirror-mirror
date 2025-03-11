@@ -735,6 +735,7 @@ global-modes
 globalff
 globrep
 gneve
+gnome-calendar
 gnus-agent-toggle-thread
 gnus-checker
 gnus-extension
@@ -1082,7 +1083,6 @@ lude
 lunar-mode-line
 lyric-mode
 m56k
-mac-key-mode
 magit-circleci
 magit-commit-training-wheels
 magit-file-icons
@@ -1387,6 +1387,7 @@ perl-pod-preview
 perl-quote
 perl-use-utf8-coding
 perlcritic
+persp-mode-project-bridge
 pgg-crypt
 ph
 phonebook
@@ -1897,6 +1898,7 @@ use-package-el-get
 ushell
 usql
 utf-8m
+vampyricdark-theme
 variant-abbc
 vbs-repl
 vc-browse

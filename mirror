@@ -105,6 +105,7 @@ ah
 ahg
 ahk-mode
 ahungry-theme
+aidermacs
 aiken-mode
 aio
 aircon-theme
@@ -135,6 +136,7 @@ almost-mono-themes
 alsamixer
 alt-codes
 altcaps
+amber-glow-theme
 amd-mode
 ameba
 aml-mode
@@ -408,6 +410,7 @@ bicep-ts-mode
 bicycle
 bidi
 bifocal
+bilibili
 binclock
 bind
 bind-chord
@@ -545,6 +548,7 @@ c-c-combo
 c-eldoc
 c-eval
 c0-mode
+c2-mode
 ca2-plus
 ca65-mode
 cabledolphin
@@ -562,6 +566,7 @@ calfw
 calfw-gcal
 calibre
 calibredb
+calle24
 calmer-forest-theme
 camcorder
 camera
@@ -1028,6 +1033,7 @@ cursor-flash
 cursor-test
 cursor-undo
 cursory
+cus-abbrev
 cus-edit-plus
 cwl-mode
 cyanometric-theme
@@ -1133,6 +1139,7 @@ denote-agenda
 denote-explore
 denote-journal-capture
 denote-menu
+denote-project-notes
 denote-refs
 denote-search
 denote-sections
@@ -2419,7 +2426,7 @@ gmsh-mode
 gn-mode
 gnat-compiler
 gnome-c-style
-gnome-calendar
+gnome-dark-style
 gnome-screencast
 gnomenm
 gnorb
@@ -4076,6 +4083,7 @@ node-console
 node-resolver
 nodejs-repl
 nodemcu-mode
+noether
 noflet
 nofrils-acme-theme
 noir-mode
@@ -4579,6 +4587,7 @@ owcmd
 owdriver
 ox-asciidoc
 ox-bb
+ox-beamer-lecture
 ox-bibtex-chinese
 ox-clip
 ox-epub
@@ -4735,7 +4744,6 @@ persistent-scratch
 persistent-soft
 persp-fr
 persp-mode
-persp-mode-project-bridge
 persp-mode-projectile-bridge
 persp-projectile
 perspective
@@ -5451,6 +5459,7 @@ setup
 sexp-diff
 sexp-move
 sexy-monochrome-theme
+sexy-theme
 sfz-mode
 shackle
 shadchen
@@ -5546,6 +5555,7 @@ sisu-mode
 sisyphus
 site-lisp
 sixcolors-mode
+sixcolors-theme
 skeleton-complete
 skeletor
 skerrick
@@ -5992,6 +6002,7 @@ textsnip
 textx-mode
 tf2-conf-mode
 tfsmacs
+thankful-eyes-theme
 the-matrix-theme
 theme-anchor
 theme-buffet
@@ -6267,7 +6278,6 @@ vale-mode
 validate
 validate-html
 valign
-vampyricdark-theme
 varuga
 vbasense
 vbnet-mode
