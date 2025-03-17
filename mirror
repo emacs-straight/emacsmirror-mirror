@@ -105,6 +105,7 @@ ah
 ahg
 ahk-mode
 ahungry-theme
+aider
 aidermacs
 aiken-mode
 aio
@@ -330,7 +331,6 @@ aws-ec2
 aws-snippets
 awscli-capf
 axe
-axiom-environment
 ayu-theme
 babashka
 babel
@@ -829,6 +829,7 @@ company-erlang
 company-ess
 company-flow
 company-flx
+company-forge
 company-fuzzy
 company-ghci
 company-glsl
@@ -1137,12 +1138,17 @@ deno-ts-mode
 denote
 denote-agenda
 denote-explore
+denote-journal
 denote-journal-capture
+denote-markdown
 denote-menu
+denote-org
 denote-project-notes
 denote-refs
 denote-search
 denote-sections
+denote-sequence
+denote-silo
 descr-text-plus
 describe-hash
 describe-number
@@ -3047,6 +3053,7 @@ indent-hints-mode
 indent-info
 indent-lint
 indent-tools
+indexed
 indian-ext
 indicate-changes
 indicators
@@ -3217,6 +3224,7 @@ jg-quicknav
 jgraph-mode
 jinja2-mode
 jinx
+jira
 jira-markup-mode
 jiralib2
 jirascope
@@ -4141,6 +4149,7 @@ oauth2-auto
 oauth2-request
 ob-acl2
 ob-ada-spark
+ob-aider
 ob-applescript
 ob-asymptote
 ob-async
@@ -4361,6 +4370,7 @@ org-email
 org-emms
 org-epa-gpg
 org-evil
+org-expose-emphasis-markers
 org-extra-emphasis
 org-fancy-priorities
 org-fragtog
@@ -6292,6 +6302,7 @@ vc-fossil
 vc-got
 vc-hgcmd
 vc-hooks-plus
+vc-jj
 vc-msg
 vc-osc
 vc-partial-commit

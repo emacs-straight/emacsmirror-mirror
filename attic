@@ -111,6 +111,7 @@ aux-renum
 avenue-mode
 awk-it
 axcess
+axiom-environment
 background
 backup
 backup-dir
@@ -968,7 +969,6 @@ jfolding
 jhg-cload
 jiggle
 jimb-patch
-jira
 joccur
 joseph-autopair
 joseph-file-util
