@@ -2933,6 +2933,7 @@ http-twiddle
 httpcode
 httprepl
 huecycle
+hugoista
 hugsql-ghosts
 humanoid-themes
 hungarian-holidays
@@ -3037,7 +3038,6 @@ imgur
 immaterial-theme
 immersive-translate
 immortal-scratch
-immutant-server
 impatient-mode
 impatient-showdown
 import-js
@@ -4273,7 +4273,6 @@ on-screen
 one
 one-key
 one-key-local
-one-themes
 one-time-pad-encrypt
 oneonone
 opam
@@ -5273,6 +5272,7 @@ rewriting-pcase
 reykjavik-theme
 rfc-mode
 rg
+rg-themes
 rgb
 rhq
 rhtml-mode
