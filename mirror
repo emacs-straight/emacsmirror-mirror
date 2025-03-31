@@ -680,6 +680,7 @@ circe-notifications
 circleci-api
 citar
 citar-denote
+citar-org-node
 citar-org-roam
 citeproc
 citeproc-org
@@ -1145,6 +1146,7 @@ denote-menu
 denote-org
 denote-project-notes
 denote-refs
+denote-regexp
 denote-search
 denote-sections
 denote-sequence
@@ -2223,6 +2225,7 @@ foreign-regexp
 foreman-mode
 forest-blue-theme
 forge
+forge-llm
 form-feed
 form-feed-st
 format-all
@@ -3652,6 +3655,7 @@ magit-gerrit
 magit-gitflow
 magit-gitlab
 magit-gptcommit
+magit-ido
 magit-imerge
 magit-lfs
 magit-org-todos
@@ -4393,6 +4397,7 @@ org-index
 org-inline-anim
 org-inline-pdf
 org-inline-pdfcomment
+org-invoice-table
 org-iv
 org-ivy-search
 org-jami-bot
@@ -5233,6 +5238,7 @@ remember-last-theme
 remind-bindings
 remind-conf-mode
 renpy
+repeat-fu
 repeat-help
 repeatable-motion
 repeater
@@ -5811,6 +5817,7 @@ string-utils
 strings
 stripe-buffer
 stripes
+stripspace
 stumpwm-mode
 stupid-indent-mode
 stylefmt
