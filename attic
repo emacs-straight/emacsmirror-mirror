@@ -443,6 +443,7 @@ ec
 ecamax
 ecaspace
 echoline-mode
+eclim
 ecmascript-mode
 ectags-select
 edbc
@@ -562,6 +563,7 @@ esms
 esmtpmail
 espect
 ess-edit
+ess-smart-underscore
 etable
 etags-select
 etags-stack
@@ -980,6 +982,7 @@ journalctl-mode
 joystick
 jpeg-mode
 jpl-reformat
+js-auto-format-mode
 js-doctor
 js-lookup
 jserial
@@ -1653,6 +1656,7 @@ shindent
 shoes-off
 shop
 short-lambda
+show-css
 show-functions
 show-help
 show-point-mode
@@ -1704,6 +1708,7 @@ spoiler-space
 spokes
 spookmime
 spread
+sql-clickhouse
 sql-complete
 sql-completion
 sql-mssql

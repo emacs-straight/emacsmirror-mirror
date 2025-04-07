@@ -678,6 +678,7 @@ circadian
 circe
 circe-notifications
 circleci-api
+circom-mode
 citar
 citar-denote
 citar-org-node
@@ -1428,7 +1429,6 @@ ecd
 echo-bar
 echo-bell
 echo-pick
-eclim
 eclipse-theme
 ecukes
 edb
@@ -1748,7 +1748,6 @@ ess
 ess-R-data-view
 ess-r-insert-obj
 ess-smart-equals
-ess-smart-underscore
 ess-stata-mode
 ess-view
 ess-view-data
@@ -2258,6 +2257,7 @@ frecentf
 free-keys
 freeradius-mode
 freeze-it
+fretboard
 friendly-shell
 friendly-tramp-path
 frimacs
@@ -2271,6 +2271,7 @@ fsbot-data-browser
 fscroll
 fsharp-mode
 fsm
+fsrs
 fstar-mode
 ftable
 fuel
@@ -3244,7 +3245,6 @@ jq-mode
 jq-ts-mode
 jquery-doc
 js-auto-beautify
-js-auto-format-mode
 js-codemod
 js-comint
 js-doc
@@ -4650,6 +4650,7 @@ pabbrev
 pacdiff
 paced
 pacfiles-mode
+pache-dark-theme
 pack
 package-plus
 package-build
@@ -4817,6 +4818,7 @@ pinboard-api
 pinboard-popular
 pine-script-mode
 pinentry
+pink-bliss-uwu-theme
 pinot
 pinyin
 pinyin-isearch
@@ -5513,7 +5515,6 @@ shm
 shortcuts-mode
 shoulda
 show-arglist
-show-css
 show-eol
 show-font
 show-font-mode
@@ -5748,7 +5749,6 @@ spu
 sq
 sql-beeline
 sql-cassandra
-sql-clickhouse
 sql-indent
 sql-impala
 sql-indent
@@ -6390,6 +6390,7 @@ vterm-toggle
 vtm
 vue-html-mode
 vue-mode
+vue3-mode
 vuiet
 vulpea
 vundo
@@ -6409,6 +6410,7 @@ wakib-keys
 wal-mode
 walkclj
 walkman
+wallabag
 wallpreview
 wand
 wandbox
@@ -6537,7 +6539,6 @@ wren-mode
 writefreely
 writegood-mode
 writeroom-mode
-ws-butler
 wsd-mode
 wttrin
 wubi
