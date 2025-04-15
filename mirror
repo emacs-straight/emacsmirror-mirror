@@ -521,6 +521,7 @@ buffer-utils
 buffer-watcher
 buffer-wrap
 bufferbin
+bufferfile
 bufferlo
 bufler
 bufshow
@@ -879,6 +880,7 @@ composer
 comware-router-mode
 conan
 conda
+conda-project
 config-general-mode
 config-parser
 conkeror-minor-mode
@@ -1048,7 +1050,6 @@ cycle-buffer
 cycle-quotes
 cycle-resize
 cycle-themes
-cygstart
 cygwin-mount
 cyphejor
 cypher-mode
@@ -1104,6 +1105,7 @@ dbc
 dbml-mode
 dbus-codegen
 ddate
+ddp
 ddskk
 ddskk-posframe
 deadgrep
@@ -1295,6 +1297,7 @@ do-at-point
 doc-mode
 doc-show-inline
 doc-toc
+doc-view-follow-mode
 docbook
 docbook-snippets
 docean
@@ -1969,7 +1972,6 @@ find-file-in-project
 find-file-in-repository
 find-file-rg
 find-func-plus
-find-git
 find-temp-file
 find-things-fast
 find-where
@@ -2251,7 +2253,6 @@ framemove
 frames-only-mode
 frameshot
 framesize
-framov
 frecency
 frecentf
 free-keys
@@ -2407,6 +2408,7 @@ github-review
 github-search
 github-stars
 github-tags
+github-topics
 gitignore-snippets
 gitignore-templates
 gitlab
@@ -4418,6 +4420,7 @@ org-listcruncher
 org-mac-link
 org-make-toc
 org-manage
+org-mathsheet
 org-mime
 org-mind-map
 org-ml
@@ -5544,7 +5547,6 @@ sideline-lsp
 sift
 signal
 silkworm-theme
-simo
 simp
 simple-plus
 simple-bookmarks
@@ -6378,6 +6380,7 @@ vmd-mode
 voca-builder
 volatile-highlights
 volume
+votd
 vs-dark-theme
 vs-light-theme
 vscdark-theme
@@ -6619,7 +6622,6 @@ yasnippet-capf
 yasnippet-classic-snippets
 yasnippet-snippets
 yatemplate
-yatest
 yatex
 yaxception
 ycm

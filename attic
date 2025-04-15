@@ -342,6 +342,7 @@ cwm-mode
 cybercafe-theme
 cycle-log
 cycle-mini
+cygstart
 cygwin-link
 cygwin-terminal-clipboard
 czscm
@@ -631,6 +632,7 @@ find-dired-lisp
 find-empty-el-files
 find-file-in-tags
 find-files
+find-git
 find-in-repo
 find-lib
 find-library
@@ -685,6 +687,7 @@ formfeed-hline
 forml-mode
 fortune-mode
 frame-restore
+framov
 frb
 freex
 from
@@ -1667,6 +1670,7 @@ sie
 sierotki
 sigbegone
 signature
+simo
 simple-server
 simplemerge
 singlebind
@@ -2055,6 +2059,7 @@ yammer
 yandex-weather
 yank-whitespace
 yasnippet-lean
+yatest
 yatm
 yod
 youwill
