@@ -327,6 +327,7 @@ awesome-tab
 awk-ts-mode
 awk-yasnippets
 aws
+aws-athena-babel
 aws-ec2
 aws-snippets
 awscli-capf
@@ -347,6 +348,7 @@ badwolf-theme
 baff
 baidu-translate
 balanced-windows
+bank-buddy
 banner-comment
 bap-mode
 bar-cursor
@@ -1154,6 +1156,7 @@ denote-search
 denote-sections
 denote-sequence
 denote-silo
+departure-times-norway
 descr-text-plus
 describe-hash
 describe-number
@@ -4757,6 +4760,7 @@ perlmonks
 perltidy
 persist
 persist-state
+persist-text-scale
 persistent-overlays
 persistent-scratch
 persistent-soft
@@ -6106,6 +6110,7 @@ tornado-template-mode
 torrent-mode
 torus
 total-lines
+total-recall
 totd
 totp
 totp-auth
