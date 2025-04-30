@@ -3240,6 +3240,7 @@ jirascope
 jist
 jit-lock-stealth-progress
 jit-spell
+jjdescription
 jknav
 jmespath
 jmt-mode
@@ -4163,6 +4164,7 @@ ob-applescript
 ob-asymptote
 ob-async
 ob-base64
+ob-bigquery
 ob-bitfield
 ob-blockdiag
 ob-browser
@@ -4392,6 +4394,7 @@ org-grep
 org-gtd
 org-habit-stats
 org-helpers
+org-hide-drawers
 org-hlc
 org-hyde
 org-hyperscheduler
@@ -5996,6 +5999,7 @@ termbright-theme
 terminal-here
 terminal-notifier
 terminal-toggle
+termint
 tern
 tern-context-coloring
 terraform-doc
