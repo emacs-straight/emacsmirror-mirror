@@ -2540,6 +2540,7 @@ gptai
 gptel
 gptel-aibo
 gptel-fn-complete
+gptel-magit
 gpx
 grab-mac-link
 grab-x-link
@@ -3298,6 +3299,7 @@ jump-tree
 jumpc
 jumplist
 jupyter
+jupyter-ascending
 just-mode
 just-ts-mode
 justl
@@ -6441,6 +6443,7 @@ wdl-mode
 weak-ref
 weather
 weather-metno
+weather-scout
 web
 web-beautify
 web-completion-data
