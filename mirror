@@ -469,6 +469,7 @@ bookiez
 bookmark-plus
 bookmark-frecency
 bookmark-in-project
+bookmarks-menu
 bool-flip
 boon
 borg
@@ -1023,6 +1024,7 @@ ctune
 ctxmenu
 cubicaltt
 cubicle-mode
+cuckoo-search
 cucumber-goto-step
 cucumber-i18n
 cuda-mode
@@ -3280,6 +3282,7 @@ json-snatcher
 jsonian
 jsonl
 jsonnet-mode
+jsonp
 jss
 jst
 jtags
@@ -6104,6 +6107,7 @@ tomatinho
 tomelr
 toml
 toml-mode
+tomlparse
 tommyh-theme
 tomorrow-night-deepblue-theme
 tongbu
