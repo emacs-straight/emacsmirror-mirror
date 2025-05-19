@@ -107,6 +107,7 @@ ahk-mode
 ahungry-theme
 aider
 aidermacs
+aidev-mode
 aiken-mode
 aio
 aircon-theme
@@ -976,6 +977,7 @@ cp5022x
 cpanfile-mode
 cpio-mode
 cpp-auto-include
+cppinsights
 cppref
 cpputils-cmake
 cpu-sos
@@ -1673,6 +1675,7 @@ epom
 epresent
 eproject
 eproject-peepopen
+epx
 epydoc
 equake
 eradio
@@ -3065,7 +3068,6 @@ indent-hints-mode
 indent-info
 indent-lint
 indent-tools
-indexed
 indian-ext
 indicate-changes
 indicators
@@ -3750,6 +3752,7 @@ math-symbol-lists
 math-symbols
 math-tex-convert
 mathjax
+mathsheet
 matlab-mode
 maude-mode
 maven-test-mode
@@ -4432,6 +4435,7 @@ org-mac-link
 org-make-toc
 org-manage
 org-mathsheet
+org-mem
 org-mime
 org-mind-map
 org-ml
@@ -4609,6 +4613,7 @@ outrespace
 outshine
 ov
 overcast-theme
+overleaf
 overseer
 ovpn-mode
 owcmd
@@ -4745,6 +4750,7 @@ pcsv
 pd-remote
 pdb-capf
 pdb-mode
+pdd
 pdf-meta-edit
 pdf-tools
 pdf-view-pagemark
@@ -5695,6 +5701,7 @@ soft-charcoal-theme
 soft-morning-theme
 soft-stone-theme
 sokoban
+sol-mode
 solaire-mode
 solarized-theme
 solidity-mode
@@ -6111,6 +6118,7 @@ tomlparse
 tommyh-theme
 tomorrow-night-deepblue-theme
 tongbu
+too-wide-minibuffer-mode
 tool-bar-plus
 toolbox
 topspace
