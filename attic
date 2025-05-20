@@ -720,6 +720,7 @@ gentext-plaintext
 gentext-roff
 gentext-tex
 gentext-texinfo
+gerrit-download
 gestures
 get-rfc
 get-url-content
@@ -1299,6 +1300,7 @@ omniref
 one-themes
 online-search
 openpaste
+openstack-cgit-browse-file
 oprofile-mode
 order-head
 oremus
