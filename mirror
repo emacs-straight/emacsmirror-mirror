@@ -1333,6 +1333,7 @@ doremi
 doremi-cmd
 doremi-frm
 doremi-mac
+doric-themes
 dot-env
 dot-mode
 dotenv-mode
@@ -1815,6 +1816,7 @@ evil-extra-operator
 evil-find-char-pinyin
 evil-fringe-mark
 evil-god-state
+evil-god-toggle
 evil-goggles
 evil-iedit-state
 evil-indent-plus
@@ -3329,6 +3331,7 @@ kconfig-mode
 kconfig-ref
 kdeconnect
 kdic
+kdl-mode
 keats
 keepass-mode
 keg
@@ -3531,6 +3534,7 @@ lispy-mnemonic
 lispyville
 list-environment
 list-packages-ext
+list-projects
 list-unicode-display
 list-utils
 listen
@@ -6365,7 +6369,6 @@ vertico-posframe
 vertigo
 vhdl-capf
 vhdl-ext
-vhdl-tools
 vhdl-ts-mode
 vi-tilde-fringe
 viewer
