@@ -328,7 +328,6 @@ awesome-tab
 awk-ts-mode
 awk-yasnippets
 aws
-aws-athena-babel
 aws-ec2
 aws-snippets
 awscli-capf
@@ -386,6 +385,7 @@ beeminder
 beframe
 beginend
 belarus-holidays
+beluga-mode
 benchmark-init
 benchstat
 bencode
@@ -401,6 +401,7 @@ better-shell
 bf-mode
 bfbuilder
 bibclean-format
+bible-gateway
 biblio
 biblio-bibsonomy
 biblio-gbooks
@@ -1089,6 +1090,7 @@ darkroom
 darktooth-theme
 dart-mode
 dart-server
+daselt
 dash
 dash-alfred
 dash-at-point
@@ -3282,6 +3284,7 @@ json-rpc
 json-rpc-server
 json-sexp-mode
 json-snatcher
+json5-ts-mode
 jsonian
 jsonl
 jsonnet-mode
@@ -3768,6 +3771,7 @@ mbo70s-theme
 mbsync
 mc-calc
 mc-extras
+mcp
 mct
 md-readme
 md4rd
@@ -4174,6 +4178,7 @@ ob-aider
 ob-applescript
 ob-asymptote
 ob-async
+ob-athena
 ob-base64
 ob-bigquery
 ob-bitfield
@@ -4664,6 +4669,7 @@ ox-typst
 ox-wk
 ox-yaow
 ox-zenn
+p-search
 p4
 p4-16-mode
 p4-ts-mode
@@ -4904,6 +4910,7 @@ poke-line
 poke-mode
 poker
 policy-switch
+polish-holidays
 pollen-mode
 poly-R
 poly-ansible
@@ -5167,6 +5174,7 @@ rand-theme
 random-splash-image
 ranger
 rase
+rasi-mode
 rational
 rats
 raycast-mode
@@ -6404,7 +6412,6 @@ vmd-mode
 voca-builder
 volatile-highlights
 volume
-votd
 vs-dark-theme
 vs-light-theme
 vscdark-theme
