@@ -2663,7 +2663,6 @@ helm-ad
 helm-ag
 helm-apt
 helm-atoms
-helm-aws
 helm-backup
 helm-bbdb
 helm-bibtexkey
@@ -2758,7 +2757,6 @@ helm-lsp
 helm-lxc
 helm-make
 helm-migemo
-helm-mode-manager
 helm-mt
 helm-mu
 helm-mu-contacts
@@ -3121,7 +3119,6 @@ inspire
 instapaper
 intel-hex-mode
 intellij-theme
-interaction-log
 interval-list
 interval-tree
 inverse-acme-theme
@@ -5162,7 +5159,6 @@ rails-log-mode
 rails-routes
 railscasts-reloaded-theme
 railscasts-theme
-rainbow-blocks
 rainbow-delimiters
 rainbow-fart
 rainbow-identifiers
@@ -6559,7 +6555,6 @@ wordnik
 wordnut
 wordpress-mode
 wordreference
-wordsmith-mode
 worf
 workgroups
 workgroups2

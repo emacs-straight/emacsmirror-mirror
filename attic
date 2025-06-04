@@ -816,6 +816,7 @@ hebeng
 helm-addressbook
 helm-ag-r
 helm-anything
+helm-aws
 helm-cmd-t
 helm-ctest
 helm-delicious
@@ -826,6 +827,7 @@ helm-etags-plus
 helm-ghc
 helm-git-files
 helm-ipython
+helm-mode-manager
 helm-nrepl
 helm-odoc
 helm-projectile-all
@@ -922,6 +924,7 @@ inspec2bibtex
 install
 install-elisp
 integers
+interaction-log
 interleave
 intero
 interpreter-minor
@@ -1506,6 +1509,7 @@ quick-yes
 quotes
 rails
 rain
+rainbow-blocks
 raise-web-directory
 rambledocs
 random-idle-quote
@@ -2004,6 +2008,7 @@ woof
 word-count
 word-counter
 words-in-elisp-symbols
+wordsmith-mode
 work-timer
 workbone
 worktracker
