@@ -1728,6 +1728,7 @@ es-lib
 es-mode
 es-windows
 esa
+esb
 esh-autosuggest
 esh-buf-stack
 esh-help
@@ -1823,6 +1824,7 @@ evil-goggles
 evil-iedit-state
 evil-indent-plus
 evil-indent-textobject
+evil-keypad
 evil-leader
 evil-ledger
 evil-lion
@@ -4055,6 +4057,7 @@ nerd-icons
 nerd-icons-completion
 nerd-icons-corfu
 nerd-icons-dired
+nerd-icons-grep
 nerd-icons-ibuffer
 nerd-icons-ivy-rich
 nerdtab
@@ -4216,6 +4219,7 @@ ob-kotlin
 ob-latex-as-png
 ob-lesim
 ob-lfe
+ob-llm
 ob-markdown
 ob-mathematica
 ob-mermaid
@@ -5422,6 +5426,7 @@ scad-mode
 scala-mode
 scala-repl
 scala-ts-mode
+scallop-mode
 scan
 scanner
 scf-mode
