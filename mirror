@@ -3661,6 +3661,7 @@ madhat2r-theme
 mag-menu
 magic-filetype
 magic-latex-buffer
+magik-company
 magik-mode
 magit
 magit-annex
@@ -3771,6 +3772,7 @@ mbsync
 mc-calc
 mc-extras
 mcp
+mcp-server-lib
 mct
 md-readme
 md4rd
@@ -4322,6 +4324,7 @@ operate-on-number
 opscode-sign
 orangey-bits-theme
 orca
+ordered-set
 orderless
 ordinal
 org
