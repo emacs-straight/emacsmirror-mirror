@@ -254,6 +254,7 @@ audio-notes-mode
 aumix-mode
 aurel
 aurora-config-mode
+australia-holidays
 auth-source-1password
 auth-source-gopass
 auth-source-keytar
@@ -5031,6 +5032,7 @@ projmake-mode
 projutils
 prometheus-mode
 promise
+prompt-binder
 prompt-text
 prompts
 pronto
@@ -5055,6 +5057,7 @@ ptemplate
 ptemplate-templates
 ptree
 pubmed
+pubsub
 pueue
 pug-mode
 pulsar
