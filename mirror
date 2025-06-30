@@ -928,6 +928,7 @@ contextual
 contextual-menubar
 contrast-color
 control-mode
+conventional
 cool-mode
 copilot
 copilot-chat
@@ -1137,6 +1138,7 @@ defhook
 define-it
 define-scratch
 define-word
+deflate
 defproject
 defrepeater
 deft
@@ -1417,6 +1419,7 @@ eask-mode
 easky
 easy-after-load
 easy-escape
+easy-find
 easy-highlight
 easy-hugo
 easy-imenu-index-generator
@@ -1564,6 +1567,7 @@ elisp-def
 elisp-demos
 elisp-depend
 elisp-depmap
+elisp-dev-mcp
 elisp-docstring-mode
 elisp-format
 elisp-lint
@@ -2550,6 +2554,7 @@ gpt-commit
 gptai
 gptel
 gptel-aibo
+gptel-commit
 gptel-fn-complete
 gptel-magit
 gpx
@@ -2577,6 +2582,7 @@ green-is-the-new-black-theme
 green-phosphor-theme
 green-screen-theme
 greenbar
+greger
 gregorio-mode
 grep-plus
 grep-a-lot
@@ -2653,11 +2659,13 @@ hayoo
 hc-zenburn-theme
 hcel
 hcl-mode
+hdf5-viewer
 header-file
 header2
 headlong
 heap
 heaven-and-hell
+helix
 helix-theme
 helm
 helm-R
@@ -2697,7 +2705,6 @@ helm-dash
 helm-descbinds
 helm-describe-modes
 helm-dictionary
-helm-directory
 helm-dired-recent-dirs
 helm-emmet
 helm-emms
@@ -4063,6 +4070,7 @@ nerd-icons-dired
 nerd-icons-grep
 nerd-icons-ibuffer
 nerd-icons-ivy-rich
+nerd-icons-xref
 nerdtab
 netease-music
 netherlands-holidays
@@ -5601,6 +5609,7 @@ simplenote
 simplenote2
 simplezen
 simplicity-theme
+simply-annotate
 sinasi
 sink
 siri-shortcuts
@@ -5635,6 +5644,7 @@ slime-theme
 slime-volleyball
 slint-mode
 slirm
+slothbar
 slovak-holidays
 slow-keys
 slstats
@@ -6400,6 +6410,7 @@ vimscript-ts-mode
 vimvars
 virtual-auto-fill
 virtual-comment
+virtual-ring
 virtualenv
 virtualenvwrapper
 visible-mark

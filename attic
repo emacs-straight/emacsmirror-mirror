@@ -824,6 +824,7 @@ helm-aws
 helm-cmd-t
 helm-ctest
 helm-delicious
+helm-directory
 helm-dired-history
 helm-dirset
 helm-elscreen
