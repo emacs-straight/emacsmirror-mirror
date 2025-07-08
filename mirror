@@ -222,6 +222,7 @@ asm-blox
 asn1-mode
 assert-rtn
 assess
+ast-grep
 astro-ts-mode
 astute
 astyle
@@ -1439,6 +1440,7 @@ ebm
 ebnf-mode
 ebuild-mode
 ebuku
+eca
 ecasound
 ecb
 ecco
@@ -2217,6 +2219,7 @@ flymake-vnu
 flymake-yaml
 flymake-yamllint
 flymd
+flyover
 flyparens
 flyspell-correct
 flyspell-lazy
@@ -2669,9 +2672,7 @@ helix
 helix-theme
 helm
 helm-R
-helm-ack
 helm-ad
-helm-ag
 helm-apt
 helm-atoms
 helm-backup
@@ -2713,7 +2714,6 @@ helm-evil-markers
 helm-eww
 helm-ext
 helm-exwm
-helm-file-preview
 helm-filesets
 helm-find-files-in-project
 helm-firefox
@@ -2728,7 +2728,6 @@ helm-fuzzy
 helm-fuzzy-find
 helm-ghq
 helm-ghs
-helm-git
 helm-git-grep
 helm-github-issues
 helm-github-stars
@@ -2807,7 +2806,6 @@ helm-safari
 helm-sage
 helm-searcher
 helm-selected
-helm-selector
 helm-sheet
 helm-shell-history
 helm-slime
@@ -2819,12 +2817,10 @@ helm-spotify-plus
 helm-sql-connect
 helm-switch-shell
 helm-switch-to-repl
-helm-swoop
 helm-system-packages
 helm-systemd
 helm-tail
 helm-taskswitch
-helm-themes
 helm-tramp
 helm-twitch
 helm-unicode
@@ -3729,6 +3725,7 @@ mandm-theme
 mandoku
 mandoku-meta-kr
 mandoku-tls
+mantra
 manued
 map-progress
 map-regexp
@@ -5144,6 +5141,7 @@ qa-mode
 qml-mode
 qooxdoo
 qrencode
+qso
 qt-pro-mode
 qtcreator-theme
 qtref
@@ -6246,7 +6244,6 @@ typescript-mode
 typespec-ts-mode
 typewriter-roll-mode
 typing
-typing-game
 typit
 typo
 typo-suggest

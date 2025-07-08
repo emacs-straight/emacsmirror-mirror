@@ -817,7 +817,9 @@ hatena-group-keyword-mode
 hbmk
 header-action
 hebeng
+helm-ack
 helm-addressbook
+helm-ag
 helm-ag-r
 helm-anything
 helm-aws
@@ -829,7 +831,9 @@ helm-dired-history
 helm-dirset
 helm-elscreen
 helm-etags-plus
+helm-file-preview
 helm-ghc
+helm-git
 helm-git-files
 helm-ipython
 helm-mode-manager
@@ -837,6 +841,9 @@ helm-nrepl
 helm-odoc
 helm-projectile-all
 helm-rb
+helm-selector
+helm-swoop
+helm-themes
 helm-tree-sitter
 help-dwim
 help-dwim-perlapi
@@ -1888,6 +1895,7 @@ two-mode-mode
 type-test
 typed-clojure-mode
 typematic
+typing-game
 typopunct
 typoscript-mode
 typst-mode
