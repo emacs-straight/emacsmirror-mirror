@@ -217,6 +217,7 @@ ascii
 ascii-art-to-unicode
 ascii-table
 asciidoc
+asdf-vm
 asilea
 asm-blox
 asn1-mode
@@ -910,6 +911,7 @@ consult-gh
 consult-ghq
 consult-git-log-grep
 consult-hatena-bookmark
+consult-hn
 consult-hoogle
 consult-ls-git
 consult-lsp
@@ -1891,6 +1893,7 @@ ewmctrl
 eww-lnum
 exato
 excorporate
+exec-in-buffer
 exec-path-from-shell
 execline
 exercism
@@ -4537,6 +4540,7 @@ org-sync
 org-sync-snippets
 org-table-color
 org-table-comment
+org-table-highlight
 org-table-jb-extras
 org-table-sticky-header
 org-tag-beautify
@@ -5285,6 +5289,7 @@ remind-conf-mode
 renpy
 repeat-fu
 repeat-help
+repeat-ring
 repeatable-motion
 repeater
 repl-driven-development
@@ -5295,6 +5300,7 @@ replace-pairs
 replace-symbol
 replace-with-inflections
 repo
+repo-grep
 repology
 req-package
 request
