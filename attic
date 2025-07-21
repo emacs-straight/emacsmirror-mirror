@@ -1381,6 +1381,7 @@ parasep
 paredit-viper-compat
 paren-glint
 parenthesis
+parfait-mode
 parinfer
 pases
 passmm
@@ -1981,6 +1982,7 @@ wave-client
 wb-line-number
 wc
 wclock
+wconf
 wcount
 wcy-desktop
 wcy-display-line-number

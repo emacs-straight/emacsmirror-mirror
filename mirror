@@ -330,6 +330,7 @@ avy-zap
 awesome-tab
 awk-ts-mode
 awk-yasnippets
+awqat
 aws
 aws-ec2
 aws-snippets
@@ -1316,6 +1317,7 @@ doc-view-follow-mode
 docbook
 docbook-snippets
 docean
+dock
 docker
 docker-api
 docker-cli
@@ -1635,6 +1637,7 @@ embark-vc
 ember-mode
 ember-yasnippets
 embrace
+emc
 ement
 emidje
 emir
@@ -2512,7 +2515,6 @@ go-snippets
 go-stacktracer
 go-svg
 go-tag
-go-translate
 gobgen
 goby
 god-mode
@@ -2607,6 +2609,7 @@ gruvbox-theme
 gscholar-bibtex
 gsettings
 gsnip
+gt
 gtags
 gtags-mode
 gtk-pomodoro-indicator
@@ -3272,6 +3275,7 @@ js-format
 js-import
 js-pkg-mode
 js-react-redux-yasnippets
+js-ts-defs
 js2-closure
 js2-highlight-vars
 js2-mode
@@ -4100,6 +4104,7 @@ nikki
 nikola
 nim-mode
 nimrod-mode
+ninetyfive
 ninja-mode
 nix-buffer
 nix-env-install
@@ -4728,7 +4733,6 @@ paredit-menu
 paren-completer
 paren-face
 parent-mode
-parfait-mode
 parinfer-rust-mode
 parrot
 parse-csv
@@ -5133,6 +5137,7 @@ python-pep8
 python-pylint
 python-pytest
 python-switch-quotes
+python-tdd-mode
 python-test
 python-view-data
 python-x
@@ -5434,6 +5439,7 @@ sauron
 save-load-path
 save-packages
 save-visited-files
+savefold
 savekill
 saveplace-pdf-view
 say-what-im-doing
@@ -6270,6 +6276,7 @@ ukrainian-holidays
 ulisp-mode
 ulisp-repl
 ultex
+ultra-scroll
 uml-mode
 unaccent
 unbind
@@ -6378,6 +6385,7 @@ vdiff
 vdiff-magit
 vdirel
 vdm-mode
+vecdb
 vector-utils
 vega-view
 vegetative-theme
@@ -6479,7 +6487,6 @@ wavefront-obj-mode
 wc-goal-mode
 wc-mode
 wcheck-mode
-wconf
 wdl-mode
 weak-ref
 weather
