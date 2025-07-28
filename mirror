@@ -705,6 +705,7 @@ clang-format-plus
 clang-format-lite
 clang-lookup
 clasker
+claude-code
 claude-shell
 claudia
 clause
@@ -2799,6 +2800,7 @@ helm-pydoc
 helm-qiita
 helm-rage
 helm-rails
+helm-raindrop
 helm-rdefs
 helm-recoll
 helm-rg
@@ -4343,6 +4345,7 @@ orderless
 ordinal
 org
 org-ac
+org-agenda-dock
 org-agenda-files-track
 org-agenda-property
 org-ai
@@ -4628,6 +4631,7 @@ otama
 other-emacs-eval
 other-frame-window
 otpp
+outli
 outline-plus
 outline-indent
 outline-magic
@@ -5469,6 +5473,7 @@ scratch-ext
 scratch-log
 scratch-message
 scratch-palette
+scratch-plus
 scratch-pop
 scratches
 screensend
@@ -6704,6 +6709,7 @@ ytdl
 yuck-mode
 yul-mode
 z3-mode
+zathura
 zeal-at-point
 zen-and-art-theme
 zen-mode
