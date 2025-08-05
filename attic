@@ -91,6 +91,7 @@ auto-complete-extension
 auto-complete-verilog
 auto-define
 auto-diff
+auto-header
 auto-indent
 auto-install
 auto-lang
@@ -585,6 +586,7 @@ extview
 fa-extras
 face-fns
 face-list
+face-shift
 faith
 fakespace
 fasm-mode
@@ -1315,6 +1317,7 @@ omniref
 one-themes
 online-search
 openpaste
+openpgp
 openstack-cgit-browse-file
 oprofile-mode
 order-head
@@ -1351,6 +1354,7 @@ org-site
 org-taskforecast
 org-themis
 org-website
+org-wild-notifier
 org-wunderlist
 org-yaml
 orthodox

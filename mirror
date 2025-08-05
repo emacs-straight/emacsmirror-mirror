@@ -286,7 +286,6 @@ auto-dark
 auto-dictionary
 auto-dim-other-buffers
 auto-document
-auto-header
 auto-highlight-symbol
 auto-indent-mode
 auto-minor-mode
@@ -1491,6 +1490,7 @@ ef-themes
 efar
 eff
 efire
+efrit
 eg
 egalgo
 egg
@@ -1940,7 +1940,6 @@ fab
 fabric
 face-explorer
 face-remap-plus
-face-shift
 facemenu-plus
 faces-plus
 factlog
@@ -2046,6 +2045,7 @@ flexoki-themes
 flim
 flimenu
 fliptext
+float-narrow-indirect
 flobl
 floobits
 flow-minor-mode
@@ -3694,6 +3694,7 @@ magit-org-todos
 magit-p4
 magit-patch-changelog
 magit-popup
+magit-prime
 magit-rbr
 magit-reviewboard
 magit-stats
@@ -4331,7 +4332,6 @@ opencc
 opencl-c-mode
 opener
 openfoam
-openpgp
 opensource
 openssl-cipher
 opensub
@@ -4413,6 +4413,7 @@ org-ehtml
 org-elisp-help
 org-elp
 org-email
+org-embed
 org-emms
 org-epa-gpg
 org-evil
@@ -4429,6 +4430,7 @@ org-gnosis
 org-grep
 org-gtd
 org-habit-stats
+org-headline-card
 org-helpers
 org-hide-drawers
 org-hlc
@@ -4436,6 +4438,7 @@ org-hyde
 org-hyperscheduler
 org-id-cleanup
 org-if
+org-include-inline
 org-incoming
 org-index
 org-inline-anim
@@ -4459,6 +4462,7 @@ org-link-edit
 org-link-travis
 org-linkotron
 org-listcruncher
+org-luhmann
 org-mac-link
 org-make-toc
 org-manage
@@ -4483,6 +4487,7 @@ org-notebook
 org-noter
 org-notifications
 org-notify
+org-numbering
 org-octopress
 org-onenote
 org-outline-numbering
@@ -4544,6 +4549,7 @@ org-status
 org-sticky-header
 org-super-agenda
 org-superstar
+org-supertag
 org-sync
 org-sync-snippets
 org-table-color
@@ -4580,9 +4586,10 @@ org-watchdoc
 org-wc
 org-web-tools
 org-web-track
-org-wild-notifier
+org-workbench
 org-working-set
 org-xlatex
+org-zettel-ref-mode
 org-zettelkasten
 org2blog
 org2ctex
@@ -4971,6 +4978,7 @@ popwin
 portage-modes
 portage-navi
 porthole
+pos-tag-highlight
 pos-tip
 posframe
 posix-manual
