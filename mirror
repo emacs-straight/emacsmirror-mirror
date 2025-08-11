@@ -705,6 +705,7 @@ clang-format-lite
 clang-lookup
 clasker
 claude-code
+claude-code-ide
 claude-shell
 claudia
 clause
@@ -2208,6 +2209,7 @@ flymake-phpcs
 flymake-popon
 flymake-proselint
 flymake-puppet
+flymake-pyrefly
 flymake-python-pyflakes
 flymake-quickdef
 flymake-racket
@@ -4768,6 +4770,7 @@ pastebin
 pastehub
 pastelmac-theme
 pastery
+pasvortilo
 path-headerline-mode
 path-helper
 path-iterator
@@ -6699,6 +6702,7 @@ yaxception
 ycm
 ycmd
 ydk-mode
+year-1984-theme
 yeetube
 yeoman
 yequake
