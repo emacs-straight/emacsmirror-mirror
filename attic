@@ -119,6 +119,7 @@ backup-dir
 baidu-life
 banner
 bash-org
+bazel
 bbc-news
 bbdb-android
 bbdb-china
@@ -187,6 +188,7 @@ buffi
 bug
 buqis
 bury-successful-compilation
+butler
 byrd-biff
 byte-code-cache
 bytecomp-fns
@@ -791,6 +793,7 @@ grep-o-matic
 gresreg
 grin
 growl
+grr
 gst-inspect
 gtea
 gtk-look
@@ -949,6 +952,7 @@ iread
 ireplace
 iresize
 irish
+irony-eldoc
 isearch-extension
 ishl
 iso-html
@@ -1327,6 +1331,7 @@ org-auto-shorten-url
 org-camp
 org-chinese-utils
 org-doing
+org-drill-table
 org-e-caldav
 org-fstree
 org-ghi

@@ -312,6 +312,7 @@ autodisass-java-bytecode
 autodisass-llvm-bitcode
 autofit-frame
 autoload-plus
+automoji
 autorevert-tail-truncate
 autoscratch
 autotetris-mode
@@ -367,7 +368,6 @@ batch-mode
 bats-mode
 battery-notifier
 battle-haxe
-bazel
 bbcode
 bbcode-mode
 bbdb
@@ -548,7 +548,6 @@ burnt-toast
 buster-mode
 buster-snippets
 busybee-theme
-butler
 buttercup
 buttercup-junit
 button-lock
@@ -2604,7 +2603,6 @@ grip-mode
 grizzl
 groovy-imports
 groovy-mode
-grr
 gruber-darker-theme
 grugru
 grunt
@@ -2938,6 +2936,7 @@ hook-helpers
 hookify
 horizon-theme
 horoscope
+hotdesk
 hotfuzz
 hound
 hover
@@ -3155,7 +3154,6 @@ iqa
 ir-black-theme
 iregister
 irony
-irony-eldoc
 iscroll
 isea
 isearch-plus
@@ -4405,7 +4403,6 @@ org-download
 org-dp
 org-drawio
 org-drill
-org-drill-table
 org-dropbox
 org-easy-img-insert
 org-edit-indirect
@@ -4960,6 +4957,7 @@ polymode
 polyp
 pomidor
 pomm
+pomo-cat
 pomodoro
 pony-mode
 pony-snippets
