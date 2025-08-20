@@ -5821,7 +5821,6 @@ spu
 sq
 sql-beeline
 sql-cassandra
-sql-indent
 sql-impala
 sql-indent
 sql-presto
