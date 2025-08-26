@@ -1548,6 +1548,7 @@ eldoc-overlay
 eldoc-toml
 electric-case
 electric-cursor
+electric-list-directory
 electric-operator
 electric-ospl
 electric-spacing
@@ -1692,6 +1693,7 @@ epom
 epresent
 eproject
 eproject-peepopen
+eprolog
 epx
 epydoc
 equake
@@ -2730,7 +2732,6 @@ helm-flx
 helm-flycheck
 helm-flymake
 helm-flyspell
-helm-frame
 helm-fuzzier
 helm-fuzzy
 helm-fuzzy-find
@@ -3167,6 +3168,7 @@ isend-mode
 isgd
 islisp-mode
 iso-639
+iso-date
 isortify
 ispc-mode
 iss-mode
@@ -3585,6 +3587,7 @@ load-dir
 load-env-vars
 load-relative
 load-theme-buffer-local
+lobsters
 loc-changes
 loccur
 lockfile-mode
@@ -4298,6 +4301,7 @@ oer-reveal
 offlineimap
 ogi
 oj
+ol-bible
 ol-notmuch
 olc
 old-fashioned-undo
@@ -4543,6 +4547,7 @@ org-sliced-images
 org-snooze
 org-special-block-extras
 org-sql
+org-srs
 org-starter
 org-static-blog
 org-status
@@ -5037,6 +5042,7 @@ prognth
 programmer-dvorak
 project-abbrev
 project-butler
+project-cmake
 project-explorer
 project-mode-line-tag
 project-persist
@@ -5225,6 +5231,7 @@ rcirc-alert
 rcirc-alertify
 rcirc-color
 rcirc-groups
+rcirc-mentions
 rcirc-menu
 rcirc-notify
 rcirc-robots

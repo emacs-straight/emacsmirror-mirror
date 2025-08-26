@@ -837,6 +837,7 @@ helm-dirset
 helm-elscreen
 helm-etags-plus
 helm-file-preview
+helm-frame
 helm-ghc
 helm-git
 helm-git-files
