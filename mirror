@@ -1225,6 +1225,7 @@ dir-treeview
 dir-treeview-themes
 dircmp
 director
+directory-slideshow
 dired-plus
 dired-atool
 dired-auto-readme
@@ -3086,6 +3087,7 @@ indent-hints-mode
 indent-info
 indent-lint
 indent-tools
+indentinator
 indian-ext
 indicate-changes
 indicators
@@ -6121,6 +6123,7 @@ thrift-mode
 thumb-frm
 thumb-through
 tickscript-mode
+ticktick
 tidal
 tide
 tiktoken
