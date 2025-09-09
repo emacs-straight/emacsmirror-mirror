@@ -776,6 +776,7 @@ codepad
 codesearch
 codespaces
 codethumb
+codex-cli
 codex-theme
 codic
 coercion
@@ -1054,6 +1055,7 @@ cursor-undo
 cursory
 cus-abbrev
 cus-edit-plus
+custom-keymap
 cwl-mode
 cyanometric-theme
 cyberpunk-2019-theme
@@ -1688,6 +1690,7 @@ epithet
 epkg
 epkg-marginalia
 epl
+eplotly
 epm
 epoch-view
 epom
@@ -3534,6 +3537,7 @@ linguistic
 lingva
 link-hint
 linkd
+linkin-org
 linkode
 linphone
 linum-ace
@@ -3848,7 +3852,6 @@ midi-kbd
 migemo
 milkode
 mimetypes
-mindre-theme
 mindstream
 mines
 minesweeper
@@ -4183,6 +4186,7 @@ num3-mode
 number-lock
 numbers
 numbex
+numeri
 numpydoc
 numwin
 nushell-mode
