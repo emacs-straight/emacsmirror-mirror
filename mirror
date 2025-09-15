@@ -235,6 +235,7 @@ async-completing-read
 async-eval
 async-job-queue
 async-status
+async1
 asyncloop
 atcoder-tools
 atl-long-lines
@@ -456,6 +457,7 @@ blog-admin
 blog-minimal
 blow
 blox
+blue
 blueprint-ts-mode
 bluesound
 bluetooth
@@ -1357,6 +1359,7 @@ download-region
 downplay-mode
 doxy-graph-mode
 doxygen
+doxymacs
 dpaste
 dpaste_de
 dpkg-dev-el
@@ -3804,6 +3807,7 @@ md4rd
 media-progress
 media-thumbnail
 mediawiki
+meep
 meghanada
 melancholy-theme
 mellow-theme
@@ -5190,6 +5194,7 @@ quelpa-leaf
 quelpa-use-package
 queue
 quick-buffer-switch
+quick-fasd
 quick-jump
 quick-peek
 quick-sdcv
@@ -5866,6 +5871,7 @@ ssl-mode
 stack-mode
 stan-mode
 standard-dirs
+standard-keys-mode
 standard-themes
 standoff-mode
 starhugger
@@ -6106,6 +6112,7 @@ textx-mode
 tf2-conf-mode
 tfsmacs
 thankful-eyes-theme
+thanks
 the-matrix-theme
 theme-anchor
 theme-buffet
@@ -6424,6 +6431,7 @@ verify-url
 verilog-ext
 verilog-ts-mode
 verona-mode
+verse-mode
 versions
 versuri
 vertica
