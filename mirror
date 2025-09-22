@@ -1014,6 +1014,7 @@ crux
 cryptol-mode
 crystal-mode
 crystal-playground
+crystal-point
 csgo-conf-mode
 csound-mode
 csp-mode
@@ -1354,6 +1355,7 @@ dot-env
 dot-mode
 dotenv-mode
 dotnet
+double-press
 double-saber
 download-region
 downplay-mode
@@ -3012,6 +3014,7 @@ ibuffer-sidebar
 ibuffer-tramp
 ibuffer-vc
 ical-event
+ical-form
 ical2org
 iceberg-theme
 icicles
@@ -3999,6 +4002,7 @@ mu4e-marker-icons
 mu4e-overview
 mu4e-query-fragments
 mu4e-views
+mu4e-walk
 mu4easy
 muban
 mugur
@@ -4480,7 +4484,6 @@ org-luhmann
 org-mac-link
 org-make-toc
 org-manage
-org-mathsheet
 org-mem
 org-mime
 org-mind-map
@@ -4535,6 +4538,7 @@ org-redmine
 org-ref
 org-ref-prettify
 org-remark
+org-repeat-by-cron
 org-repo-todo
 org-reverse-datetree
 org-review
@@ -6156,6 +6160,7 @@ timu-macos-theme
 timu-rouge-theme
 timu-spacegrey-theme
 tinkerer
+tintin-mode
 tiny
 tiny-menu
 tinypng
