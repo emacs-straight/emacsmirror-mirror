@@ -534,6 +534,7 @@ bufferbin
 bufferfile
 bufferlo
 bufler
+buframe
 bufshow
 buftoggle
 bug-hunter
@@ -1542,6 +1543,7 @@ el-who
 el2markdown
 el2org
 elbank
+elchacha
 elcontext
 elcord
 elcouch
@@ -2408,6 +2410,7 @@ git-auto-commit
 git-auto-commit-mode
 git-backup
 git-backup-ivy
+git-bug
 git-cliff
 git-code-review
 git-command
@@ -3144,6 +3147,7 @@ insert-time
 insfactor
 inspector
 inspire
+insta-pocket
 instapaper
 intel-hex-mode
 intellij-theme
@@ -3352,6 +3356,7 @@ kanban
 kanji-mode
 kaocha-runner
 kaolin-themes
+kaomel
 kaomoji
 kapacitor
 kappa
@@ -3917,6 +3922,7 @@ mode-line-bell
 mode-line-debug
 mode-line-idle
 mode-line-keyboard
+mode-line-maker
 modelica-mode
 modeline-char
 modeline-posn
@@ -4097,6 +4103,7 @@ nerd-icons-ivy-rich
 nerd-icons-xref
 nerdtab
 netease-music
+nethack
 netherlands-holidays
 netrunner
 network-watch
@@ -5048,6 +5055,7 @@ private-diary
 proc-net
 proced-narrow
 processing-mode
+procress
 prodigy
 professional-theme
 prog-face-refine
@@ -6021,6 +6029,7 @@ tabbar
 tabbar-ruler
 tabby
 tabby-mode
+tabbymacs
 tabgo
 tablist
 tabnine
