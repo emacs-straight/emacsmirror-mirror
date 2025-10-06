@@ -462,6 +462,7 @@ blueprint-ts-mode
 bluesound
 bluetooth
 bm
+bmp
 bmx-mode
 bnf-mode
 bnfc
@@ -563,6 +564,7 @@ c2-mode
 ca2-plus
 ca65-mode
 cabledolphin
+cacao-theme
 cache
 cacoo
 caddyfile-mode
@@ -1597,6 +1599,7 @@ elisp-slime-nav
 elixir-mode
 elixir-yasnippets
 elk-test
+elkee
 ellama
 ellocate
 elm-mode
@@ -2666,6 +2669,7 @@ haproxy-mode
 hardcore-mode
 hardhat
 hardtime
+hare-mode
 harpoon
 harvest
 haskell-emacs
@@ -4294,6 +4298,7 @@ ob-swift
 ob-swiftui
 ob-tmux
 ob-translate
+ob-ts-node
 ob-typescript
 ob-uart
 oberon
@@ -6774,6 +6779,7 @@ zettelkasten
 zetz-mode
 zig-mode
 zig-ts-mode
+ziggy-mode
 zim-wiki-mode
 zimports
 zk
