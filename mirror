@@ -3789,6 +3789,7 @@ marquee-header
 marshal
 maruo-macro-mode
 masm-mode
+mason
 masquerade-mode
 mastodon
 material-theme
@@ -3885,6 +3886,7 @@ minibuffer-header
 minibuffer-line
 minibuffer-modifier-keys
 miniedit
+minimail
 minimal
 minimal-session-saver
 minimal-theme
@@ -4393,6 +4395,7 @@ org-auto-export-pandoc
 org-auto-tangle
 org-autoexport
 org-autolist
+org-aws-iam-role
 org-babel-eval-in-repl
 org-beautify-theme
 org-board
@@ -4491,6 +4494,7 @@ org-link-beautify
 org-link-edit
 org-link-travis
 org-linkotron
+org-links
 org-listcruncher
 org-luhmann
 org-mac-link
@@ -5222,6 +5226,7 @@ quickrun
 quiet
 quilt
 quiz
+quotient
 qwen-chat-shell
 r-autoyas
 racer
