@@ -3075,7 +3075,6 @@ image-archive
 image-dired-plus
 imakado
 imake
-imapfilter
 imbot
 imdb
 imenu-plus
@@ -3408,7 +3407,6 @@ kill-dollar-mode
 kill-file-path
 kill-or-bury-alive
 kill-ring-search
-killer
 kind-icon
 kindle-mode
 kindly-mode
@@ -3762,8 +3760,6 @@ mandoku-meta-kr
 mandoku-tls
 mantra
 manued
-map-progress
-map-regexp
 marcopolo
 marginalia
 mark-forward-sexp

@@ -917,6 +917,7 @@ ilisp
 ilocate-library
 imagetext
 iman
+imapfilter
 imapua
 imdb-adds-mode
 imenu-tree
@@ -1027,6 +1028,7 @@ keyring
 keywiz
 kill-buffers
 killbuf
+killer
 kis-interface
 kis-project
 kmacro-ring-list
@@ -1141,6 +1143,8 @@ malabar-mode
 mallow
 man-completion
 man-preview
+map-progress
+map-regexp
 map-win
 maplev
 mark-lines
