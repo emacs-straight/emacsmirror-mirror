@@ -457,6 +457,7 @@ edbi-minor-mode
 edbi-sqlite
 ediff-trees
 edit-at-point
+edit-list
 edit-tree
 edje-mode
 edlib

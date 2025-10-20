@@ -93,6 +93,7 @@ afterglow
 afternoon-theme
 ag
 agda-editor-tactics
+agda-lib-mode
 agda2-mode
 age
 agenix
@@ -573,6 +574,7 @@ cakecrumbs
 cal-china-x
 calc-at-point
 calc-prog-utils
+calctape
 calendar-plus
 calendar-norway
 calfw
@@ -1483,7 +1485,6 @@ edit-chrome-textarea
 edit-color-stamp
 edit-indirect
 edit-indirect-region-latex
-edit-list
 edit-server
 edit-server-htmlize
 edit-thing
@@ -1556,6 +1557,7 @@ eldoc-cmake
 eldoc-diffstat
 eldoc-eask
 eldoc-eval
+eldoc-mouse
 eldoc-overlay
 eldoc-toml
 electric-case
@@ -2241,6 +2243,7 @@ flymake-sqlfluff
 flymake-swi-prolog
 flymake-vala
 flymake-vnu
+flymake-x
 flymake-yaml
 flymake-yamllint
 flymd
@@ -2733,6 +2736,7 @@ helm-descbinds
 helm-describe-modes
 helm-dictionary
 helm-dired-recent-dirs
+helm-elfeed
 helm-emmet
 helm-emms
 helm-esa
@@ -3251,6 +3255,7 @@ javap-mode
 jaword
 jazz-theme
 jb-misc-functions
+jbeam-mode
 jbeans-theme
 jda
 jdecomp
@@ -5417,6 +5422,7 @@ roc-ts-mode
 roguel-ike
 rom-party
 romanian-holidays
+romkan
 ron-mode
 rope-read-mode
 ropgadget
