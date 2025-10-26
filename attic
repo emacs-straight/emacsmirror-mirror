@@ -186,6 +186,7 @@ buffer-time-stamp
 buffermenu
 buffi
 bug
+bundler
 buqis
 bury-successful-compilation
 butler
@@ -695,6 +696,7 @@ frame-restore
 framov
 frb
 freex
+freeze-it
 from
 fsdired
 fshell
@@ -926,6 +928,7 @@ immigrant
 immutant-server
 impress
 indent-tabs-maybe
+inf-mongo
 inf-perl
 inferior-pop-mode
 inferior-spim
@@ -1578,6 +1581,7 @@ refactor
 refdb-mode
 regexp-char
 regexpl
+register-quicknav
 regression
 relative-buffers
 relative-line-numbers
