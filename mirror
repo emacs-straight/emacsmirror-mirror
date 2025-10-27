@@ -67,6 +67,7 @@ ack
 ack-menu
 acme-mouse
 acme-theme
+acp
 act-mode
 actionscript-mode
 activator
@@ -300,6 +301,7 @@ auto-pep8
 auto-read-only
 auto-rename-tag
 auto-save-buffers-enhanced
+auto-save-visited-local-mode
 auto-shell-command
 auto-sort-mode
 auto-sudoedit
@@ -1911,6 +1913,7 @@ evil-visualstar
 evimodeline
 evm-mode
 ewal
+ewm
 ewmctrl
 eww-lnum
 exato
@@ -2045,6 +2048,7 @@ fix-muscle-memory
 fix-word
 fixed-page-mode
 fixmee
+fj
 flame
 flames-of-freedom
 flappymacs
@@ -2632,6 +2636,7 @@ gsnip
 gt
 gtags
 gtags-mode
+gtasks
 gtk-pomodoro-indicator
 guake
 guess-language
@@ -4573,6 +4578,7 @@ org-side-tree
 org-sidebar
 org-sliced-images
 org-snooze
+org-social
 org-special-block-extras
 org-sql
 org-srs
@@ -5041,6 +5047,7 @@ preproc-font-lock
 prescient
 preseed-generic-mode
 presentation
+pretend-type
 prettier
 prettier-js
 prettier-rc
@@ -5342,7 +5349,7 @@ remark-mode
 remember-last-theme
 remind-bindings
 remind-conf-mode
-renpy
+renpy-mode
 repeat-fu
 repeat-help
 repeat-ring
@@ -5895,6 +5902,7 @@ standard-keys-mode
 standard-themes
 standoff-mode
 starhugger
+starling
 starlit-theme
 start-menu
 startupd
@@ -6164,6 +6172,7 @@ tile
 time-block
 time-ext
 time-uuid-mode
+time-zones
 timeout
 timer-plus
 timer-revert
@@ -6290,6 +6299,7 @@ tsort
 tss
 tt-mode
 ttl-mode
+tts
 tuareg
 tubestatus
 tumble
@@ -6785,6 +6795,7 @@ zig-ts-mode
 ziggy-mode
 zim-wiki-mode
 zimports
+zine-mode
 zk
 zk-luhmann
 zlc
