@@ -1,3 +1,4 @@
+1000-words
 4clojure
 GEOS-vote
 a-menu
@@ -971,6 +972,7 @@ ivy-dired-history
 ivy-feedwrangler
 ivy-pages
 ivy-phpunit
+ivy-yasnippet
 iy-go-to-char
 jabber-chatx
 jabber-otr

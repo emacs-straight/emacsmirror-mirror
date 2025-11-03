@@ -1,7 +1,6 @@
 0blayout
 0x0
 0xc
-1000-words
 2048-game
 2bit
 750words
@@ -98,6 +97,7 @@ agda-lib-mode
 agda2-mode
 age
 agenix
+agent-shell
 aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
@@ -1005,6 +1005,7 @@ crappy-jsp-mode
 crc
 crdt
 creamsody-theme
+creamy-theme
 create-link
 creds
 creole
@@ -3190,6 +3191,7 @@ isearch-prop
 isearch-symbol-at-point
 isend-mode
 isgd
+isl
 islisp-mode
 iso-639
 iso-date
@@ -3227,7 +3229,6 @@ ivy-searcher
 ivy-todo
 ivy-xcdoc
 ivy-xref
-ivy-yasnippet
 ivy-ycmd
 ivy-youtube
 iwindow
@@ -3891,6 +3892,7 @@ minibuffer-modifier-keys
 miniedit
 minimail
 minimal
+minimal-dashboard
 minimal-session-saver
 minimal-theme
 minimap
