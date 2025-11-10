@@ -1087,6 +1087,7 @@ dactyl-mode
 dad-joke
 dae
 daemons
+dag-draw
 dakrone-light-theme
 dakrone-theme
 dall-e-shell
@@ -2341,6 +2342,7 @@ futhark-mode
 fuz
 fuz-bin
 fuzzy
+fuzzy-clock
 fuzzy-find-in-project
 fuzzy-finder
 fuzzy-match
@@ -2717,7 +2719,6 @@ helm-bm
 helm-books
 helm-build-command
 helm-bundle-show
-helm-c-moccur
 helm-c-yasnippet
 helm-catkin
 helm-charinfo
@@ -2748,7 +2749,6 @@ helm-evil-markers
 helm-eww
 helm-ext
 helm-exwm
-helm-filesets
 helm-find-files-in-project
 helm-firefox
 helm-fish-completion
@@ -2761,12 +2761,10 @@ helm-fuzzy
 helm-fuzzy-find
 helm-ghq
 helm-ghs
-helm-git-grep
 helm-github-issues
 helm-github-stars
 helm-gitignore
 helm-go-package
-helm-google
 helm-google-contacts
 helm-grepint
 helm-growthforecast
@@ -2774,10 +2772,8 @@ helm-gtags
 helm-haskell-import
 helm-hatena-bookmark
 helm-hayoo
-helm-helm-commands
 helm-hoogle
 helm-hunks
-helm-icons
 helm-idris
 helm-img
 helm-img-tiqav
@@ -2798,7 +2794,6 @@ helm-ls-svn
 helm-lsp
 helm-lxc
 helm-make
-helm-migemo
 helm-mt
 helm-mu
 helm-mu-contacts
@@ -2815,12 +2810,10 @@ helm-pass
 helm-perldoc
 helm-perspeen
 helm-phpunit
-helm-posframe
 helm-proc
 helm-project
 helm-project-persist
 helm-projectile
-helm-pt
 helm-purpose
 helm-pydoc
 helm-qiita
@@ -2841,7 +2834,6 @@ helm-sage
 helm-searcher
 helm-selected
 helm-sheet
-helm-shell-history
 helm-slime
 helm-sly
 helm-smex
@@ -2857,7 +2849,6 @@ helm-tail
 helm-taskswitch
 helm-tramp
 helm-twitch
-helm-unicode
 helm-w32-launcher
 helm-w3m
 helm-wikipedia
@@ -4505,6 +4496,7 @@ org-luhmann
 org-mac-link
 org-make-toc
 org-manage
+org-mcp
 org-mem
 org-mime
 org-mind-map
@@ -6350,7 +6342,6 @@ uml-mode
 unaccent
 unbind
 unbound
-uncrustify
 uncrustify-mode
 undercover
 underline-with-char
