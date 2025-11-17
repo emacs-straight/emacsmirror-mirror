@@ -565,6 +565,7 @@ c0-mode
 c2-mode
 ca2-plus
 ca65-mode
+cabal-mode
 cabledolphin
 cacao-theme
 cache
@@ -2589,6 +2590,7 @@ gpt
 gpt-commit
 gptai
 gptel
+gptel-agent
 gptel-aibo
 gptel-commit
 gptel-fn-complete
@@ -4591,6 +4593,7 @@ org-table-highlight
 org-table-jb-extras
 org-table-sticky-header
 org-tag-beautify
+org-tag-tree
 org-tagged
 org-tanglesync
 org-tfl
@@ -5475,7 +5478,6 @@ s
 s-buffer
 s12cpuv2-mode
 s3
-s3ed
 sackspace
 sage-shell-mode
 sailfish-scratchbox
@@ -6238,6 +6240,7 @@ tr-ime
 traad
 trac-wiki
 tracwiki-mode
+trailing-newline-indicator
 tramp
 tramp-auto-auth
 tramp-hdfs
@@ -6320,6 +6323,7 @@ typing
 typit
 typo
 typo-suggest
+typst-preview
 typst-ts-mode
 tzc
 ubuntu-theme
