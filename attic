@@ -1767,6 +1767,7 @@ sql-clickhouse
 sql-complete
 sql-completion
 sql-mssql
+sql-transform
 sql-with-placeholders
 sqled-mode
 sqlite-dump

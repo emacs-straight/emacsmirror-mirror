@@ -1371,6 +1371,7 @@ downplay-mode
 doxy-graph-mode
 doxygen
 doxymacs
+doxymin
 dpaste
 dpaste_de
 dpkg-dev-el
@@ -1410,6 +1411,7 @@ dvorak-mode
 dw
 dwim-coder-mode
 dwim-shell-command
+dwin
 dyalog-mode
 dylan
 dynamic-fonts
@@ -1450,6 +1452,7 @@ easy-jekyll
 easy-kill
 easy-kill-extras
 easy-repeat
+easy-theme-preview
 easy-todo
 easysession
 eat
@@ -1822,7 +1825,6 @@ eval-expr
 eval-in-repl
 eval-server
 eval-sexp-fu
-eval-sexp-in-comments
 evalator
 evalator-clojure
 evangelion-theme
@@ -5868,7 +5870,6 @@ sql-indent
 sql-presto
 sql-smie
 sql-sqlline
-sql-transform
 sql-trino
 sqlformat
 sqlite-mode-extras
@@ -6069,6 +6070,7 @@ tawny-mode
 taxy
 taxy-magit-section
 tbemail
+tbindent
 tblui
 tc
 tco
