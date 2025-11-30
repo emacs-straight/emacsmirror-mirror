@@ -774,6 +774,7 @@ cobra-mode
 coc-dc
 codcut
 code-archive
+code-awareness
 code-cells
 code-compass
 code-imports
@@ -2370,6 +2371,7 @@ gcode-mode
 gdb-bp-session
 gdb-x
 gdscript-mode
+gdshader-mode
 geben
 geben-helm-projectile
 geeknote
@@ -2454,7 +2456,6 @@ git-walktree
 git-wip-timemachine
 gitconfig
 gited
-github-browse-file
 github-clone
 github-dark-vscode-theme
 github-elpa
@@ -3413,6 +3414,7 @@ kill-ring-search
 kind-icon
 kindle-mode
 kindly-mode
+kirigami
 kite
 kite-mini
 kivy-mode
@@ -5286,6 +5288,7 @@ read-only-cfg
 readline-complete
 ready-player
 real-auto-save
+real-mono-themes
 realgud
 realgud-byebug
 realgud-ipdb
@@ -5833,6 +5836,7 @@ spacious-padding
 spanish-holidays
 spark
 sparkline
+sparkweather
 sparql-mode
 spatial-navigate
 spdx
@@ -5934,6 +5938,7 @@ strings
 stripe-buffer
 stripes
 stripspace
+structurizr
 stumpwm-mode
 stupid-indent-mode
 stylefmt
