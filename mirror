@@ -6251,6 +6251,7 @@ trailing-newline-indicator
 tramp
 tramp-auto-auth
 tramp-hdfs
+tramp-hlo
 tramp-nspawn
 tramp-term
 tramp-theme
