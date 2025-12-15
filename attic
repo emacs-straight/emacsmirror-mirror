@@ -736,6 +736,8 @@ ghc
 gimp-shell
 gimps-report
 git-commit-training-wheels-mode
+git-gutter-plus
+git-gutter-fringe-plus
 git-show
 git-time-machine
 githorg

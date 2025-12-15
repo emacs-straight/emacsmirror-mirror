@@ -1278,6 +1278,7 @@ dired-sort-menu-plus
 dired-sync
 dired-toggle
 dired-toggle-sudo
+dired-video-thumbnail
 dired-view
 dired-view-data
 dired-xattr
@@ -2438,9 +2439,7 @@ git-find-file
 git-grep
 git-grep-transient
 git-gutter
-git-gutter-plus
 git-gutter-fringe
-git-gutter-fringe-plus
 git-identity
 git-io
 git-lens
@@ -3679,6 +3678,7 @@ lte
 ltsv
 lua-mode
 luarocks
+lumos-mode
 lurk-mode
 lush-theme
 lusty-explorer
@@ -6384,6 +6384,7 @@ unique-window-buffers
 uniquify-files
 unison
 unison-mode
+unison-ts-mode
 unisonlang-mode
 unit-test
 units-mode
