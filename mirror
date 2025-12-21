@@ -1984,6 +1984,7 @@ fanyi
 farmhouse-themes
 fasd
 fast-scroll
+fastbuild-bff-mode
 fastdef
 fastnav
 faust-mode
@@ -2270,6 +2271,7 @@ focus-autosave-mode
 foggy-night-theme
 fold-this
 folding
+followcursor-mode
 font-lock-plus
 font-lock-ext
 font-lock-menus
@@ -2596,6 +2598,7 @@ gptel-agent
 gptel-aibo
 gptel-commit
 gptel-fn-complete
+gptel-forge-prs
 gptel-magit
 gpx
 grab-mac-link
@@ -3352,6 +3355,7 @@ jvm-mode
 jwt
 k8s-mode
 kaesar
+kage-mode
 kagi
 kakapo-mode
 kakoune
@@ -3767,6 +3771,7 @@ mantra
 manued
 marcopolo
 marginalia
+mark-copy-yank-things-mode
 mark-forward-sexp
 mark-multiple
 mark-select
@@ -3775,6 +3780,7 @@ mark-tools
 mark-yank
 markchars
 markdown-changelog
+markdown-mermaid
 markdown-mode
 markdown-preview-eww
 markdown-preview-mode
@@ -4065,6 +4071,7 @@ mysql-to-org
 myterminal-controls
 mythryl-mode
 n4js
+nael
 naga-theme
 naked
 name-this-color
@@ -4192,6 +4199,7 @@ notmuch-maildir
 notmuch-transient
 nov
 nova-theme
+novel-mode
 novice-plus
 noxml-fold
 npm
@@ -4252,6 +4260,7 @@ ob-deno
 ob-diagrams
 ob-drawtiming
 ob-dsq
+ob-duckdb
 ob-elixir
 ob-elm
 ob-elvish
@@ -5266,7 +5275,6 @@ rbt
 rbtagger
 rc-mode
 rcfiles
-rcirc-alert
 rcirc-alertify
 rcirc-color
 rcirc-groups
@@ -5435,6 +5443,7 @@ ros
 rotate
 rotate-text
 roy-mode
+royal-hemlock-theme
 rpm-spec-mode
 rpn-calc
 rspec-mode
@@ -6593,6 +6602,7 @@ whaler
 what-the-commit
 which-key-posframe
 whiley-mode
+whisper
 whitaker
 white-sand-theme
 white-theme
@@ -6611,6 +6621,7 @@ wikidoc
 wikidot-mode
 wikinfo
 wikinforg
+wiktionary-bro
 wildcharm-theme
 wilt
 wimpy-del
