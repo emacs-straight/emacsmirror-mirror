@@ -1439,6 +1439,7 @@ eaf-file-manager
 eaf-pdf-viewer
 eaf-terminal
 eaf-video-player
+eager-state
 earl
 earthfile-mode
 eask
@@ -3229,6 +3230,7 @@ ivy-xcdoc
 ivy-xref
 ivy-ycmd
 ivy-youtube
+iwd-manager
 iwindow
 ix
 j-mode
@@ -3570,6 +3572,7 @@ liquidmetal
 lirve
 liso-theme
 lisp-butt-mode
+lisp-docstring-toggle
 lisp-editing
 lisp-extra-font-lock
 lisp-local
@@ -4651,6 +4654,7 @@ organic-green-theme
 organize-imports-java
 orgbox
 orgit
+orgit-file
 orgit-forge
 orglink
 orglue
