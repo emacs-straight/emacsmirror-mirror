@@ -1247,6 +1247,7 @@ dired-auto-readme
 dired-details
 dired-details-plus
 dired-du
+dired-du-duc
 dired-duplicates
 dired-dups
 dired-efap
@@ -3239,6 +3240,7 @@ jack
 jack-connect
 jack-ts-mode
 jade-mode
+jade-schema-mode
 jamar
 jami-bot
 jammer
@@ -3432,6 +3434,7 @@ kmacro-x
 kmb
 know-your-http-well
 kodi-remote
+koishi-theme
 konoha-mode
 koopa-mode
 kooten-theme
@@ -4364,6 +4367,7 @@ omtose-phellack-themes
 on
 on-parens
 on-screen
+once
 one
 one-key
 one-key-local
@@ -6323,6 +6327,7 @@ tubestatus
 tumble
 tumblesocks
 tumblr-mode
+turepo
 turing-machine
 turkish
 turnip
