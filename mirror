@@ -107,6 +107,7 @@ ah
 ahg
 ahk-mode
 ahungry-theme
+ai-code
 aider
 aidermacs
 aidev-mode
@@ -140,6 +141,7 @@ almost-mono-themes
 alsamixer
 alt-codes
 altcaps
+amaranth-dark-theme
 amber-glow-theme
 amd-mode
 ameba
@@ -1904,6 +1906,7 @@ evil-swap-keys
 evil-tabs
 evil-terminal-cursor-changer
 evil-tex
+evil-tex-ts
 evil-text-object-python
 evil-textobj-anyblock
 evil-textobj-column
@@ -2599,6 +2602,7 @@ gptel
 gptel-agent
 gptel-aibo
 gptel-commit
+gptel-cpp-complete
 gptel-fn-complete
 gptel-forge-prs
 gptel-magit
@@ -3257,6 +3261,7 @@ java-snippets
 javadoc-lookup
 javaimp
 javap-mode
+javelin
 jaword
 jazz-theme
 jb-misc-functions
@@ -3703,6 +3708,7 @@ lyricwiki
 m-buffer
 mac-pseudo-daemon
 maces-game
+macher
 macports
 macro-math
 macros-plus
@@ -4234,6 +4240,7 @@ nxml-uxml
 nyan-mode
 nyan-prompt
 nyx-theme
+oai
 oauth
 oauth2
 oauth2-auto
@@ -4581,6 +4588,7 @@ org-rich-yank
 org-roam
 org-roam-bibtex
 org-roam-ql
+org-roam-timeline
 org-roam-timestamps
 org-roam-ui
 org-ros
@@ -5034,6 +5042,7 @@ popup-imenu
 popup-kill-ring
 popup-switcher
 popwin
+porg
 portage-modes
 portage-navi
 porthole
@@ -6525,6 +6534,7 @@ visual-fill-column
 visual-regexp
 visual-regexp-steroids
 visual-replace
+visual-shorthands
 vlc
 vlf
 vline
@@ -6546,8 +6556,10 @@ vtm
 vue-html-mode
 vue-mode
 vue3-mode
+vui
 vuiet
 vulpea
+vulpea-ui
 vundo
 vunit-mode
 vyper-mode
