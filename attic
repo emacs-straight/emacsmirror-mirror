@@ -406,6 +406,7 @@ dired-sequence
 dired-single
 dirnav
 dirvars
+disk
 display-buffer-for-wide-screen
 display-hatebu
 disptime
@@ -457,6 +458,8 @@ edbi-database-url
 edbi-django
 edbi-minor-mode
 edbi-sqlite
+ede-php-autoload-composer-installers
+ede-php-autoload-drupal
 ediff-trees
 edit-at-point
 edit-list
@@ -862,6 +865,7 @@ helm-posframe
 helm-projectile-all
 helm-pt
 helm-rb
+helm-rubygems-org
 helm-selector
 helm-shell-history
 helm-swoop
@@ -937,6 +941,7 @@ imagetext
 iman
 imapfilter
 imapua
+imbot
 imdb-adds-mode
 imenu-tree
 immigrant
@@ -2122,6 +2127,7 @@ yank-whitespace
 yasnippet-lean
 yatest
 yatm
+ynab
 yod
 youwill
 yow-fns

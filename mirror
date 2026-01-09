@@ -1301,7 +1301,6 @@ discover
 discover-clj-refactor
 discover-js2-refactor
 discover-my-major
-disk
 disk-usage
 dismal
 dispass
@@ -1485,8 +1484,6 @@ edb
 edbi
 ede-compdb
 ede-php-autoload
-ede-php-autoload-composer-installers
-ede-php-autoload-drupal
 edebug-inline-result
 edebug-x
 edi-mode
@@ -1527,6 +1524,7 @@ eglot-inactive-regions
 eglot-java
 eglot-jl
 eglot-luau
+eglot-python-preset
 eglot-signature-eldoc-talkative
 eglot-tempel
 ego
@@ -2553,6 +2551,7 @@ go-snippets
 go-stacktracer
 go-svg
 go-tag
+go-template-helper-mode
 gobgen
 goby
 god-mode
@@ -2841,7 +2840,6 @@ helm-roam
 helm-robe
 helm-ros
 helm-rubygems-local
-helm-rubygems-org
 helm-safari
 helm-sage
 helm-searcher
@@ -3087,7 +3085,6 @@ image-archive
 image-dired-plus
 imakado
 imake
-imbot
 imdb
 imenu-plus
 imenu-anywhere
@@ -4820,6 +4817,7 @@ parseedn
 parser-generator
 pasp-mode
 pass
+pass-coffin
 password-generator
 password-menu
 password-mode
@@ -5533,6 +5531,7 @@ sayid
 sbt
 sbt-mode
 scad-mode
+scad-ts-mode
 scala-mode
 scala-repl
 scala-ts-mode
@@ -6224,6 +6223,7 @@ titlecase
 tj3-mode
 tldr
 tmmofl
+tmpl-mode
 tmr
 tmsu
 tmt-mode
@@ -6798,7 +6798,6 @@ yeoman
 yequake
 yesql-ghosts
 yesterbox
-ynab
 yoficator
 yoshi-theme
 youdao-dictionary
