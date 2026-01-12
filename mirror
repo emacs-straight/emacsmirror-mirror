@@ -939,6 +939,7 @@ consult-recoll
 consult-tex
 consult-todo
 consult-vc-modified-files
+consult-vulpea
 consult-yasnippet
 context-coloring
 context-transient
@@ -1872,7 +1873,6 @@ evil-ledger
 evil-lion
 evil-lisp-state
 evil-lispops
-evil-lispy
 evil-mark-replace
 evil-matchit
 evil-mc
@@ -2161,7 +2161,6 @@ flycheck-nimsuggest
 flycheck-objc-clang
 flycheck-ocaml
 flycheck-package
-flycheck-pact
 flycheck-php-noverify
 flycheck-pkg-config
 flycheck-plantuml
@@ -2453,6 +2452,7 @@ git-messenger
 git-modes
 git-msg-prefix
 git-ps1-mode
+git-sync-mode
 git-time-metric
 git-timemachine
 git-undo
@@ -2552,6 +2552,7 @@ go-stacktracer
 go-svg
 go-tag
 go-template-helper-mode
+go-template-mode
 gobgen
 goby
 god-mode
@@ -3550,6 +3551,7 @@ librera-sync
 lice
 license-snippets
 license-templates
+life-calendar
 ligature
 ligature-pragmatapro
 light-soap-theme
@@ -3937,6 +3939,7 @@ mobdebug-mode
 moc
 mocha
 mocha-snippets
+mock-fs
 mocker
 modaled
 modalka
@@ -4782,7 +4785,6 @@ package-store
 package-utils
 package-x
 pacmacs
-pact-mode
 paganini-theme
 page-break-lines
 pager
@@ -4856,6 +4858,7 @@ pdf-meta-edit
 pdf-tools
 pdf-view-pagemark
 pdf-view-restore
+pdffontetc
 pdfgrep
 pdfscan
 peacock-theme
@@ -4922,6 +4925,7 @@ phps-mode
 phpstan
 phpt-mode
 phpunit
+pi-coding-agent
 pianobar
 pic-basic-mode
 pickel
@@ -5660,6 +5664,7 @@ show-arglist
 show-eol
 show-font
 show-font-mode
+show-inactive-region
 show-marks
 showkey
 showoff-mode
@@ -6559,6 +6564,7 @@ vue3-mode
 vui
 vuiet
 vulpea
+vulpea-journal
 vulpea-ui
 vundo
 vunit-mode

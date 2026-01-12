@@ -582,6 +582,7 @@ etop
 etrack
 etxt
 evil-ediff
+evil-lispy
 evil-magit
 evil-rebellion
 evil-scout
@@ -666,6 +667,7 @@ flycheck-ensime
 flycheck-gometalinter
 flycheck-julia
 flycheck-mix
+flycheck-pact
 flycheck-purescript
 flycheck-rebar3
 flycheck-scala-sbt
@@ -1410,6 +1412,7 @@ p4pymarshal
 pack-windows
 package-safe-delete
 packed
+pact-mode
 page-mode
 paint
 pair-mode
