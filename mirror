@@ -117,6 +117,7 @@ aircon-theme
 airline-themes
 airplay
 ajc-java-complete
+alabaster-themes
 alan-mode
 alarm-clock
 alchemist
@@ -3131,6 +3132,7 @@ info-plus
 info-beamer
 info-buffer
 info-colors
+info-nav
 info-rename-buffer
 inform
 inform-mode
@@ -6218,6 +6220,7 @@ timu-line
 timu-macos-theme
 timu-rouge-theme
 timu-spacegrey-theme
+timu-symbol-extract
 tinkerer
 tintin-mode
 tiny
