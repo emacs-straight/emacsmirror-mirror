@@ -1868,6 +1868,7 @@ evil-goggles
 evil-iedit-state
 evil-indent-plus
 evil-indent-textobject
+evil-insert-plus
 evil-keypad
 evil-leader
 evil-ledger
@@ -2656,6 +2657,7 @@ gtags-mode
 gtasks
 gtk-pomodoro-indicator
 guake
+guava-themes
 guess-language
 guess-style
 guess-tex-master
@@ -3553,6 +3555,7 @@ librera-sync
 lice
 license-snippets
 license-templates
+lichess
 life-calendar
 ligature
 ligature-pragmatapro
@@ -5188,6 +5191,7 @@ py-snippets
 py-test
 py-vterm-interaction
 py-yapf
+pyasm-mode
 pycarddavel
 pyconf
 pycoverage
@@ -6443,6 +6447,7 @@ ursa-ts-mode
 urscript-mode
 usage-memo
 use-package-hydra
+use-package-treesit
 use-proxy
 use-ttf
 ushin-shapes
