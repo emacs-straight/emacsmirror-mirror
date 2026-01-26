@@ -85,6 +85,7 @@ addressbook-bookmark
 adjust-parens
 ado-mode
 adoc-mode
+advent-mode
 advice-patch
 adwaita-dark-theme
 aes
@@ -1185,6 +1186,7 @@ denote-org
 denote-project-notes
 denote-refs
 denote-regexp
+denote-review
 denote-search
 denote-sections
 denote-sequence
@@ -3733,6 +3735,7 @@ magit-diff-flycheck
 magit-filenotify
 magit-find-file
 magit-gerrit
+magit-git-toolbelt
 magit-gitflow
 magit-gitlab
 magit-gptcommit
@@ -4036,6 +4039,7 @@ mu4e-alert
 mu4e-column-faces
 mu4e-conversation
 mu4e-jump-to-list
+mu4e-llm
 mu4e-marker-icons
 mu4e-overview
 mu4e-query-fragments
@@ -4754,6 +4758,7 @@ ox-pandoc
 ox-qmd
 ox-report
 ox-reveal
+ox-reveal-layouts
 ox-review
 ox-rfc
 ox-rss
@@ -5698,6 +5703,7 @@ sideline-flymake
 sideline-lsp
 sift
 signal
+signel
 silkworm-theme
 simp
 simple-plus
@@ -6139,6 +6145,7 @@ tempo-c-cpp
 tempo-snippets
 temporary-persistent
 ten-hundred-mode
+tengo-mode
 tenv
 term-plus
 term-pluskey-intercept
@@ -6390,6 +6397,7 @@ ukrainian-holidays
 ulisp-mode
 ulisp-repl
 ultex
+ultisnips-mode
 ultra-scroll
 uml-mode
 unaccent
@@ -6723,6 +6731,7 @@ wren-mode
 writefreely
 writegood-mode
 writeroom-mode
+ws-butler
 wsd-mode
 wttrin
 wubi
@@ -6733,6 +6742,7 @@ www-synonyms
 x-path-walker
 x509-mode
 x86-lookup
+xah-fly-keys
 xargs-grep
 xbm-life
 xclip
