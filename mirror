@@ -1201,6 +1201,7 @@ desktop-mail-user-agent
 desktop-registry
 detached
 detour
+devcontainer
 devdocs
 devdocs-browser
 devhelp
@@ -4597,6 +4598,7 @@ org-review
 org-rich-yank
 org-roam
 org-roam-bibtex
+org-roam-latte
 org-roam-ql
 org-roam-timeline
 org-roam-timestamps
