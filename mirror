@@ -1404,6 +1404,7 @@ dtk
 dtrace-script-mode
 dtrt-indent
 dts-mode
+duckdb-query
 ducpel
 dumb-diff
 dumb-jump
@@ -1567,6 +1568,7 @@ elcontext
 elcord
 elcouch
 elcute
+eldc
 eldev
 eldoc-box
 eldoc-cmake
@@ -1657,6 +1659,7 @@ elysium
 emacs-android
 emacs-everywhere
 emacs-gc-stats
+emacs-lisp-intro-nl
 emacsc
 emacsist-view
 emacspeak
@@ -3508,6 +3511,7 @@ launch-mode
 launchctl
 lavender-theme
 lazarus
+lazy
 lazy-ruff
 lazy-search
 lcb-mode
@@ -3747,6 +3751,7 @@ magit-org-todos
 magit-p4
 magit-patch-changelog
 magit-popup
+magit-pre-commit
 magit-prime
 magit-rbr
 magit-reviewboard
@@ -4663,6 +4668,7 @@ org-wc
 org-web-tools
 org-web-track
 org-wild-notifier
+org-window-habit
 org-workbench
 org-working-set
 org-xlatex
