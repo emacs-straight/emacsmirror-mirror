@@ -308,6 +308,7 @@ auto-save-buffers-enhanced
 auto-save-visited-local-mode
 auto-shell-command
 auto-sort-mode
+auto-space-mode
 auto-sudoedit
 auto-virtualenv
 auto-virtualenvwrapper
@@ -938,6 +939,7 @@ consult-org-roam
 consult-project-extra
 consult-projectile
 consult-recoll
+consult-spotlight
 consult-tex
 consult-todo
 consult-vc-modified-files
@@ -1140,6 +1142,7 @@ dbc
 dbml-mode
 dbus-codegen
 ddate
+ddgr
 ddp
 ddskk
 ddskk-posframe
@@ -1210,6 +1213,7 @@ devil
 dfmt
 dhall-mode
 dialog
+dialog-mode
 dianyou
 diary-manager
 diatheke
@@ -1356,6 +1360,7 @@ docstr
 doct
 doctest
 dogears
+doing
 dokuwiki
 dokuwiki-mode
 dollaro
@@ -1510,6 +1515,7 @@ editorconfig-custom-majormode
 editorconfig-domain-specific
 editorconfig-generate
 edn
+edna-theme
 ednc
 edts
 edwina
@@ -1650,6 +1656,7 @@ elscreen-fr
 elscreen-multi-term
 elscreen-separate-buffer-list
 elscreen-tab
+elsqlite
 eltex
 elune-theme
 elvish-mode
@@ -2696,6 +2703,7 @@ handle
 handlebars-mode
 handlebars-sgml-mode
 handoff
+hanfix-mode
 haproxy-mode
 hardcore-mode
 hardhat
@@ -3740,6 +3748,7 @@ magit-diff-flycheck
 magit-filenotify
 magit-find-file
 magit-gerrit
+magit-gh
 magit-git-toolbelt
 magit-gitflow
 magit-gitlab
@@ -4945,6 +4954,7 @@ phps-mode
 phpstan
 phpt-mode
 phpunit
+phscroll
 pi-coding-agent
 pianobar
 pic-basic-mode
@@ -5132,6 +5142,7 @@ project-explorer
 project-mode-line-tag
 project-persist
 project-persist-drawer
+project-rails
 project-rootfile
 project-shells
 project-tab-groups
@@ -6080,6 +6091,7 @@ syntree
 sys
 sysctl
 syslog-mode
+system-idle
 system-packages
 system-specific-settings
 systemd
@@ -6614,6 +6626,7 @@ wallpreview
 wand
 wandbox
 wanderlust
+warm-mode
 warm-night-theme
 wasp-mode
 wat-ts-mode
