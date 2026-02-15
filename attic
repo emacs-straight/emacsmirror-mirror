@@ -1375,6 +1375,7 @@ org-lookup-dnd
 org-mac-protocol
 org-magit
 org-multiple-keymap
+org-node-fakeroam
 org-osm-link
 org-password-manager
 org-pdfview

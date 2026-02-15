@@ -2362,6 +2362,7 @@ fuo
 furl
 fussy
 futhark-mode
+futur
 fuz
 fuz-bin
 fuzzy
@@ -4142,6 +4143,7 @@ nclip
 neato-graph-bar
 neil
 nemerle
+neocaml
 neon-mode
 neotree
 nerd-icons
@@ -4565,7 +4567,6 @@ org-nan
 org-newtab
 org-nix-shell
 org-node
-org-node-fakeroam
 org-notebook
 org-noter
 org-notifications
