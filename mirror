@@ -1505,6 +1505,7 @@ edit-chrome-textarea
 edit-color-stamp
 edit-indirect
 edit-indirect-region-latex
+edit-metadata
 edit-server
 edit-server-htmlize
 edit-thing
@@ -1993,6 +1994,7 @@ fakir
 fancy-battery
 fancy-compilation
 fancy-dabbrev
+fancy-fill-paragraph
 fancy-narrow
 fancy-urls-menu
 fantom-mode
@@ -2077,6 +2079,7 @@ fj
 flame
 flames-of-freedom
 flappymacs
+flash
 flash-region
 flatbuffers-mode
 flatfluc-theme
@@ -2774,6 +2777,7 @@ helm-dired-recent-dirs
 helm-elfeed
 helm-emmet
 helm-emms
+helm-emoji
 helm-esa
 helm-evil-markers
 helm-eww
@@ -3665,6 +3669,7 @@ logview
 lol-data-dragon
 lolcat
 lolcode-mode
+lonelog
 look-dired
 look-mode
 lookup
@@ -4358,6 +4363,7 @@ obfusurl
 objc-font-lock
 objed
 oblivion-theme
+oboe
 obsidian
 obsidian-theme
 ocaml-eglot
@@ -4866,6 +4872,7 @@ pasvortilo
 path-headerline-mode
 path-helper
 path-iterator
+pathaction
 pathify
 paxedit
 pbcopy
@@ -5544,6 +5551,7 @@ s12cpuv2-mode
 s3
 sackspace
 sage-shell-mode
+sail
 sailfish-scratchbox
 sakura-theme
 salesforce-utils
@@ -5901,6 +5909,7 @@ sparkline
 sparkweather
 sparql-mode
 spatial-navigate
+spatial-window
 spdx
 speck
 speech-tagger
@@ -6158,6 +6167,7 @@ tempel
 tempel-collection
 templ-ts-mode
 template-dumper
+template-literals-ts-mode
 template-overlays
 templatel
 tempo-c-cpp
@@ -6590,6 +6600,7 @@ vscdark-theme
 vscode-dark-plus-theme
 vscode-icon
 vsh-mode
+vtab
 vterm
 vterm-hotkey
 vterm-toggle
