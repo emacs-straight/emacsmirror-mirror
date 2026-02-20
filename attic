@@ -1007,6 +1007,7 @@ java-find
 java-mode-indent-annotations
 java-mode-plus
 java-open
+java-snippets
 javacc-mode
 javadoc-help
 javascript

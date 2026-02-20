@@ -1866,6 +1866,7 @@ evil-commentary
 evil-dvorak
 evil-easymotion
 evil-elscreen
+evil-emacs-cursor-model-mode
 evil-embrace
 evil-escape
 evil-ex-fasd
@@ -3277,7 +3278,6 @@ jasminejs-mode
 jastadd-ast-mode
 jaunte
 java-imports
-java-snippets
 javadoc-lookup
 javaimp
 javap-mode
