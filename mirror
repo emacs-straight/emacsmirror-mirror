@@ -103,6 +103,7 @@ aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
 agitate
+agitjo
 agtags
 ah
 ahg
@@ -223,6 +224,7 @@ ascii
 ascii-art-to-unicode
 ascii-table
 asciidoc
+asciidoc-mode
 asdf-vm
 asilea
 asm-blox
@@ -779,7 +781,6 @@ cobra-mode
 coc-dc
 codcut
 code-archive
-code-awareness
 code-cells
 code-compass
 code-imports
@@ -1601,6 +1602,7 @@ elfeed-goodies
 elfeed-org
 elfeed-protocol
 elfeed-score
+elfeed-summarize
 elfeed-summary
 elfeed-tube
 elfeed-webkit
@@ -1787,6 +1789,7 @@ es-mode
 es-windows
 esa
 esb
+eselect-news
 esh-autosuggest
 esh-buf-stack
 esh-help
@@ -2274,7 +2277,6 @@ flymake-sqlfluff
 flymake-swi-prolog
 flymake-vala
 flymake-vnu
-flymake-x
 flymake-yaml
 flymake-yamllint
 flymd
@@ -3400,6 +3402,7 @@ kaomoji
 kapacitor
 kappa
 karma
+kawacode
 kconfig-mode
 kconfig-ref
 kdeconnect
@@ -3608,6 +3611,7 @@ lisp-docstring-toggle
 lisp-editing
 lisp-extra-font-lock
 lisp-local
+lisp-semantic-hl
 lispxmp
 lispy
 lispy-mnemonic
@@ -3779,6 +3783,7 @@ magit-vcsh
 magithub
 magma-mode
 magnatune
+magnus
 magrant
 mail-bug
 mail-field
@@ -3813,6 +3818,7 @@ marcopolo
 marginalia
 mark-copy-yank-things-mode
 mark-forward-sexp
+mark-graf
 mark-multiple
 mark-select
 mark-thing-at
@@ -4312,6 +4318,7 @@ ob-ess-julia
 ob-ffuf
 ob-fsharp
 ob-git-permalink
+ob-gleam
 ob-go
 ob-graphql
 ob-haxe
@@ -4656,6 +4663,7 @@ org-tag-beautify
 org-tag-tree
 org-tagged
 org-tanglesync
+org-tempus
 org-tfl
 org-tidy
 org-time-budgets
@@ -4687,7 +4695,6 @@ org-window-habit
 org-workbench
 org-working-set
 org-xlatex
-org-zettel-ref-mode
 org-zettelkasten
 org2blog
 org2ctex
@@ -6371,6 +6378,7 @@ triples
 tron-legacy-theme
 trope-mode
 trr
+truename-cache
 truthy
 try
 try-code
@@ -6719,6 +6727,7 @@ windswap
 windwow
 winnow
 winpoint
+winpulse
 winring
 winum
 wipe

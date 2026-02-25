@@ -683,6 +683,7 @@ flymake-golangci
 flymake-google-cpplint
 flymake-helper
 flymake-rust
+flymake-x
 flyspell-babel
 flyspell-textcat
 flyspell-timer
@@ -1395,6 +1396,7 @@ org-themis
 org-website
 org-wunderlist
 org-yaml
+org-zettel-ref-mode
 orthodox
 orwell
 os
