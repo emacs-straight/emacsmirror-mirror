@@ -707,6 +707,7 @@ citar
 citar-denote
 citar-org-node
 citar-org-roam
+citar-typst
 citeproc
 citeproc-org
 citre
@@ -910,6 +911,7 @@ conda
 conda-project
 config-general-mode
 config-parser
+conflict-buttons
 conkeror-minor-mode
 conllu-mode
 conner
@@ -1373,6 +1375,7 @@ doremi
 doremi-cmd
 doremi-frm
 doremi-mac
+dorgygen
 doric-themes
 dot-env
 dot-mode
@@ -1595,6 +1598,7 @@ elegant-agenda-mode
 elescope
 elf-mode
 elfeed
+elfeed-ai
 elfeed-autotag
 elfeed-curate
 elfeed-dashboard
@@ -1668,6 +1672,7 @@ elysium
 emacs-android
 emacs-everywhere
 emacs-gc-stats
+emacs-lisp-intro-es
 emacs-lisp-intro-nl
 emacsc
 emacsist-view
@@ -3624,6 +3629,7 @@ list-utils
 listen
 lister
 lit-mode
+lit-ts-mode
 litable
 litanize
 literal-string
