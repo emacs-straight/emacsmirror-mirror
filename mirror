@@ -1095,6 +1095,7 @@ cython-mode
 czech-holidays
 d-mode
 d2-mode
+d2-ts-mode
 dactyl-mode
 dad-joke
 dae
@@ -3612,6 +3613,7 @@ liquidmetal
 lirve
 liso-theme
 lisp-butt-mode
+lisp-chat
 lisp-docstring-toggle
 lisp-editing
 lisp-extra-font-lock
@@ -4599,6 +4601,7 @@ org-page
 org-parser
 org-passwords
 org-pdftools
+org-people
 org-picklink
 org-pomodoro
 org-present
@@ -4963,6 +4966,7 @@ php-boris
 php-boris-minor-mode
 php-cs-fixer
 php-eldoc
+php-fill
 php-mode
 php-quickhelp
 php-refactor-mode
@@ -6377,7 +6381,6 @@ treeview
 trelloel
 trident-mode
 trie
-trimspace-mode
 trinary
 trindle
 triples

@@ -1927,6 +1927,7 @@ tree-sitter-ess-r
 tree-sitter-indent
 tree-sitter-ispell
 tree-sitter-langs
+trimspace-mode
 ts-mode
 tsv-mode
 ttl-mode
