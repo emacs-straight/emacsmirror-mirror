@@ -2702,6 +2702,7 @@ habitica
 hack-mode
 hacker-typer
 hackernews
+hackernews-modern
 haki-theme
 hal-mode
 halloweenie-theme
@@ -2783,6 +2784,7 @@ helm-descbinds
 helm-describe-modes
 helm-dictionary
 helm-dired-recent-dirs
+helm-eca
 helm-elfeed
 helm-emmet
 helm-emms
@@ -3560,6 +3562,7 @@ lentic-server
 leo
 lesim-mode
 less
+let-completion
 let-recur
 letcheck
 letterbox-mode
@@ -3759,6 +3762,7 @@ magik-company
 magik-mode
 magit
 magit-annex
+magit-browse-commit
 magit-commit-mark
 magit-delta
 magit-diff-flycheck
@@ -3834,6 +3838,7 @@ mark-tools
 mark-yank
 markchars
 markdown-changelog
+markdown-indent-mode
 markdown-mermaid
 markdown-mode
 markdown-preview-eww
@@ -3860,6 +3865,7 @@ math-symbol-lists
 math-symbols
 math-tex-convert
 mathjax
+mathprog-ts-mode
 mathsheet
 matlab-mode
 maude-mode
@@ -3877,6 +3883,7 @@ mcp
 mcp-server-lib
 mct
 md-readme
+md-ts-mode
 md4rd
 media-progress
 media-thumbnail
@@ -4108,6 +4115,7 @@ mustang-theme
 mustard-theme
 mutant
 mutt-mode
+mutype
 mv-shell
 mvc
 mvn
@@ -4521,6 +4529,7 @@ org-email
 org-embed
 org-emms
 org-epa-gpg
+org-eval
 org-evil
 org-expose-emphasis-markers
 org-extra-emphasis
@@ -5524,6 +5533,7 @@ rspec-mode
 rsync-mode
 rt-liberation
 rtags
+rtf-view
 rtm
 rubik
 rubocop
@@ -5891,6 +5901,7 @@ solaire-mode
 solarized-theme
 solidity-mode
 solo-jazz-theme
+solo-rpg
 somafm
 songbook
 sonic-pi
@@ -6873,6 +6884,7 @@ yequake
 yesql-ghosts
 yesterbox
 yoficator
+yomikata
 yoshi-theme
 youdao-dictionary
 youdotcom
