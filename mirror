@@ -531,6 +531,7 @@ buffer-buttons
 buffer-env
 buffer-expose
 buffer-flip
+buffer-guardian
 buffer-manage
 buffer-move
 buffer-name-relative
@@ -1464,7 +1465,6 @@ eask-mode
 easky
 easy-after-load
 easy-escape
-easy-find
 easy-highlight
 easy-hugo
 easy-imenu-index-generator
@@ -3844,6 +3844,7 @@ markdown-mode
 markdown-preview-eww
 markdown-preview-mode
 markdown-soma
+markdown-table-wrap
 markdown-toc
 markdown-ts-mode
 markdownfmt
@@ -5997,6 +5998,7 @@ ssh-tunnels
 ssl-mode
 stack-mode
 stan-mode
+stan-ts-mode
 standard-dirs
 standard-keys-mode
 standard-themes
@@ -6705,7 +6707,6 @@ whaler
 what-the-commit
 which-key-posframe
 whiley-mode
-whisper
 whitaker
 white-sand-theme
 white-theme
