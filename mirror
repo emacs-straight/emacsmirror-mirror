@@ -241,6 +241,7 @@ async-await
 async-backup
 async-completing-read
 async-eval
+async-http-queue
 async-job-queue
 async-status
 async1
@@ -944,6 +945,7 @@ consult-project-extra
 consult-projectile
 consult-recoll
 consult-spotlight
+consult-symbol
 consult-tex
 consult-todo
 consult-vc-modified-files
@@ -2285,6 +2287,7 @@ flymake-vala
 flymake-vnu
 flymake-yaml
 flymake-yamllint
+flymake-zizmor
 flymd
 flyover
 flyparens
@@ -4658,6 +4661,7 @@ org-shortcut
 org-side-tree
 org-sidebar
 org-sliced-images
+org-snitch
 org-snooze
 org-social
 org-special-block-extras
@@ -4678,6 +4682,7 @@ org-table-highlight
 org-table-jb-extras
 org-table-sticky-header
 org-tag-beautify
+org-tag-cloud
 org-tag-tree
 org-tagged
 org-tanglesync
@@ -6275,6 +6280,7 @@ tide
 tiktoken
 tikz
 tile
+tiles
 time-block
 time-ext
 time-uuid-mode
