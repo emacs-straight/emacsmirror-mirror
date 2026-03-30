@@ -161,10 +161,12 @@ anaconda-mode
 anakondo
 anaphora
 ancient-one-dark-theme
+ancient-theme
 android-env
 android-mode
 angry-police-captain
 angular-snippets
+anju
 anki-connect
 anki-editor
 anki-editor-view
@@ -745,6 +747,7 @@ clippy
 clips-mode
 clj-decompiler
 clj-deps-new
+clj-doc-browse
 clj-refactor
 cljr-helm
 cljr-ivy
@@ -1546,6 +1549,7 @@ eglot-luau
 eglot-python-preset
 eglot-signature-eldoc-talkative
 eglot-tempel
+eglot-typescript-preset
 ego
 eide
 eimap
@@ -1589,6 +1593,7 @@ eldoc-diffstat
 eldoc-eask
 eldoc-eval
 eldoc-mouse
+eldoc-mouse-nov
 eldoc-overlay
 eldoc-toml
 electric-case
@@ -2294,6 +2299,7 @@ flyparens
 flyspell-correct
 flyspell-lazy
 flyspell-popup
+flywrite
 fm-bookmarks
 fmo-mode
 fn
@@ -2363,6 +2369,7 @@ fs-mode
 fsbot-data-browser
 fscroll
 fsharp-mode
+fsharp-ts-mode
 fsm
 fsrs
 fstar-mode
@@ -3658,6 +3665,7 @@ ll-debug
 llama
 llama-cpp
 llm
+llm-test
 llvm-ts-mode
 lmc
 lms
@@ -5528,6 +5536,7 @@ ron-mode
 rope-read-mode
 ropgadget
 ros
+ros-face
 rotate
 rotate-text
 roy-mode
@@ -6237,6 +6246,7 @@ test-hdl
 test-more
 test-simple
 testcover-mark-line
+tetris-60
 tex-item
 tex-parens
 tex-smart-umlauts
@@ -6637,6 +6647,7 @@ vscode-icon
 vsh-mode
 vtab
 vterm
+vterm-editor
 vterm-hotkey
 vterm-toggle
 vtm
