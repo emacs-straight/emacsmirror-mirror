@@ -900,6 +900,7 @@ company-wordfreq
 compat
 compdef
 competitive-programming-snippets
+compilation-history
 compile-plus
 compile-
 compile-angel
@@ -972,6 +973,7 @@ corba
 corfu
 corfu-candidate-overlay
 corfu-terminal
+corg
 corral
 corsair
 cort
@@ -1952,6 +1954,7 @@ evil-vimish-fold
 evil-visual-mark-mode
 evil-visual-replace
 evil-visualstar
+evim
 evimodeline
 evm-mode
 ewal
@@ -2452,6 +2455,7 @@ ghc-imported-from
 ghci-completion
 gherkin-mode
 ghost-blog
+ghostel
 ghq
 ghub
 ghub-plus
@@ -3918,6 +3922,7 @@ mermaid-docker-mode
 mermaid-mode
 mermaid-ts-mode
 merriam
+meshmonitor-chat
 meson-mode
 mess
 message-attachment-reminder
@@ -4404,6 +4409,7 @@ ocaml-eglot
 ocaml-ts-mode
 ocamlformat
 occidental-theme
+occult
 occur-context-resize
 occur-x
 occurx-mode
@@ -4529,6 +4535,7 @@ org-dp
 org-drawio
 org-drill
 org-dropbox
+org-dt
 org-easy-img-insert
 org-edit-indirect
 org-edit-latex
@@ -4553,6 +4560,7 @@ org-global-insert-link
 org-gnome
 org-gnosis
 org-grep
+org-grimoire
 org-gtd
 org-habit-stats
 org-headline-card
@@ -4570,6 +4578,7 @@ org-inline-anim
 org-inline-pdf
 org-inline-pdfcomment
 org-invoice-table
+org-invox
 org-iv
 org-ivy-search
 org-jami-bot
