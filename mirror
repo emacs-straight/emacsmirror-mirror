@@ -403,6 +403,7 @@ beframe
 beginend
 belarus-holidays
 beluga-mode
+ben
 benchmark-init
 benchstat
 bencode
@@ -1866,7 +1867,6 @@ evalator
 evalator-clojure
 evangelion-theme
 eve-mode
-evedel
 evelnote
 evenok
 everlasting-scratch
@@ -5119,6 +5119,7 @@ pophint
 popon
 poporg
 popper
+popterm
 popup
 popup-plus
 popup-complete
@@ -5142,7 +5143,6 @@ postcss-sorting
 pov-mode
 power-mode
 powerline
-powerline-evil
 powershell
 powershell-mode
 powerthesaurus
@@ -6061,6 +6061,7 @@ strings
 stripe-buffer
 stripes
 stripspace
+struct-completion
 structurizr
 stumpwm-mode
 stupid-indent-mode
@@ -6346,6 +6347,7 @@ toggle-test
 toggle-window
 tok-theme
 tokei
+tokyo-night
 tomatinho
 tomelr
 toml
@@ -6425,6 +6427,7 @@ tron-legacy-theme
 trope-mode
 trr
 truename-cache
+trust-manager
 truthy
 try
 try-code

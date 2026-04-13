@@ -177,7 +177,6 @@ bs-ext
 bst-mode
 btjunkie-search
 bubblet
-buck
 buffer-charset
 buffer-file-sync
 buffer-fns
@@ -583,6 +582,7 @@ etags-table
 etop
 etrack
 etxt
+evedel
 evil-ediff
 evil-lispy
 evil-magit
@@ -809,7 +809,6 @@ grin
 growl
 grr
 gst-inspect
-gtea
 gtk-look
 gtk-perl
 gtk-variant
@@ -1506,6 +1505,7 @@ portage
 post
 posterous
 pow
+powerline-evil
 prand
 prefixkey
 prg-comment
