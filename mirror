@@ -98,6 +98,7 @@ agda-lib-mode
 agda2-mode
 age
 agenix
+agent-recall
 agent-shell
 aggressive-completion
 aggressive-fill-paragraph
@@ -379,6 +380,7 @@ basic-ide
 basic-mode
 basic-theme
 batch-mode
+batppuccin
 bats-mode
 battery-notifier
 battle-haxe
@@ -713,6 +715,7 @@ citar-denote
 citar-org-node
 citar-org-roam
 citar-typst
+citar-vulpea
 citeproc
 citeproc-org
 citre
@@ -827,6 +830,7 @@ comb
 combobulate
 comby
 come-fly
+comet-trail
 comicscript
 comint-histories
 comint-hyperlink
@@ -1639,6 +1643,7 @@ elisp-refs
 elisp-sandbox
 elisp-slime-expand
 elisp-slime-nav
+elixir-iex
 elixir-mode
 elixir-yasnippets
 elk-test
@@ -2586,6 +2591,7 @@ go-mode
 go-noisegate
 go-playground
 go-playground-cli
+go-prettify-mode
 go-projectile
 go-scratch
 go-snippets
@@ -2943,6 +2949,7 @@ hide-lines
 hide-mode-line
 hide-secrets
 hide-url
+hidepass
 hidepw
 hideshow-org
 hideshowvis
@@ -3035,6 +3042,7 @@ htmlr
 htmltagwrap
 http
 http-post-simple
+http-server
 http-twiddle
 httpcode
 httprepl
@@ -4023,6 +4031,7 @@ modern-fringes
 modern-sh
 modtime-skip-mode
 modular-config
+modus-ewal-theme
 modus-themes
 moe-theme
 molar-mass
@@ -5310,6 +5319,7 @@ python-pytest
 python-switch-quotes
 python-tdd-mode
 python-test
+python-unicode-escape
 python-view-data
 python-x
 pythonic
@@ -5519,6 +5529,7 @@ right-click-context
 rigid-tabs
 rii
 rime
+rimel
 rimero-theme
 rinari
 ring-plus
@@ -5537,6 +5548,7 @@ robot-log
 robot-mode
 robots-txt-mode
 roc-ts-mode
+rocq-timing
 roguel-ike
 rom-party
 romanian-holidays
@@ -5770,6 +5782,7 @@ sibilant-mode
 sicp
 side-hustle
 side-notes
+sidebuf
 sidecar-locals
 sideline
 sideline-blame
