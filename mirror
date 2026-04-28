@@ -756,7 +756,6 @@ clj-refactor
 cljr-helm
 cljr-ivy
 cljsbuild-mode
-cljstyle-format
 clmemo
 cloak-mode
 cloc
@@ -1211,6 +1210,7 @@ denote-search
 denote-sections
 denote-sequence
 denote-silo
+denote-wordcloud
 departure-times-norway
 descr-text-plus
 describe-hash
@@ -1354,6 +1354,7 @@ dklrt
 dkmisc
 dmacro
 dmenu
+dmsg
 dna-mode
 do-at-point
 doc-mode
@@ -4080,6 +4081,7 @@ mozart
 mozc
 mozc-cand-posframe
 mozc-im
+mozc-modeless
 mozc-popup
 mozc-temp
 mpages
@@ -4598,6 +4600,7 @@ org-journal-tags
 org-json
 org-kanban
 org-kindle
+org-lark
 org-latex-impatient
 org-linenote
 org-link-beautify
@@ -5535,7 +5538,6 @@ rinari
 ring-plus
 ring-mode
 rings
-ripgrep
 riscv-mode
 rivet-mode
 rjsx-mode
@@ -6612,6 +6614,7 @@ vega-view
 vegetative-theme
 velocity
 verb
+verdict
 veri-kompass
 verify-url
 verilog-ext
@@ -6797,6 +6800,7 @@ wisi
 wisitoken-grammar-mode
 wisp-mode
 wispjs-mode
+with-command-redo
 with-editor
 with-emacs
 with-namespace
@@ -6988,7 +6992,6 @@ zoutline
 zoxide
 zpl-mode
 zpresent
-zprint-format
 zprint-mode
 ztree
 zuul

@@ -251,6 +251,7 @@ clearcase
 clibpc
 climdoc
 clipper
+cljstyle-format
 clojure-cheatsheet
 closure
 cluck
@@ -1643,6 +1644,7 @@ ri
 ricette-mode
 rightjustify
 rijndael
+ripgrep
 rlpic
 rmail-extras
 rmail-frobs
@@ -2151,4 +2153,5 @@ zel
 zendmd-comint
 zenirc
 zossima
+zprint-format
 zweilight-theme
