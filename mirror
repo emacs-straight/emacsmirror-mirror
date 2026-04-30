@@ -2335,6 +2335,7 @@ foreman-mode
 forest-blue-theme
 forge
 forge-llm
+forgejo
 form-feed
 form-feed-st
 format-all
@@ -3172,7 +3173,6 @@ indian-ext
 indicate-changes
 indicators
 indirect-region
-indium
 indy
 inertial-scroll
 inf-clojure
@@ -3457,6 +3457,7 @@ keycast
 keychain-environment
 keydef
 keyfreq
+keymap-popup
 keymap-utils
 keypress-multi-event
 keypression
