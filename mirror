@@ -1707,6 +1707,7 @@ ember-mode
 ember-yasnippets
 embrace
 emc
+emcp
 ement
 emidje
 emir
@@ -2692,6 +2693,7 @@ grip-mode
 grizzl
 groovy-imports
 groovy-mode
+grove
 gruber-darker-theme
 grugru
 grunt
@@ -4803,6 +4805,7 @@ outline-plus
 outline-indent
 outline-magic
 outline-minor-faces
+outline-stars
 outline-toc
 outlook
 outorg
@@ -5818,6 +5821,7 @@ simplenote2
 simplezen
 simplicity-theme
 simply-annotate
+simulacrum
 sinasi
 sink
 siri-shortcuts
@@ -6007,6 +6011,7 @@ spss
 spu
 sq
 sql-beeline
+sql-bigquery
 sql-cassandra
 sql-impala
 sql-indent
@@ -6349,6 +6354,7 @@ tmpl-mode
 tmr
 tmsu
 tmt-mode
+tmux-csi-u
 tmux-mode
 tmux-pane
 toc-mode
@@ -6454,6 +6460,7 @@ tsort
 tss
 tt-mode
 tts
+ttx-mode
 tuareg
 tubestatus
 tumble
