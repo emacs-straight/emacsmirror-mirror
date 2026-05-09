@@ -800,6 +800,7 @@ grade
 grail
 grails-projectile-mode
 grc
+greek-polytonic
 grep-buffers
 grep-context
 grep-ed
@@ -2040,7 +2041,6 @@ wave-client
 wb-line-number
 wc
 wclock
-wconf
 wcount
 wcy-desktop
 wcy-display-line-number

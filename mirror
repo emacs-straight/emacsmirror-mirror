@@ -1527,7 +1527,6 @@ edit-metadata
 edit-server
 edit-server-htmlize
 edit-thing
-editorconfig
 editorconfig-charset-extras
 editorconfig-custom-majormode
 editorconfig-domain-specific
@@ -2677,7 +2676,6 @@ grapnel
 grass-mode
 grayscale-theme
 greader
-greek-polytonic
 green-is-the-new-black-theme
 green-phosphor-theme
 green-screen-theme
@@ -3109,6 +3107,7 @@ idle-highlight-mode
 idle-org-agenda
 idle-require
 idle-scroll
+idlwave
 ido-at-point
 ido-better-flex
 ido-choose-function
@@ -3758,7 +3757,6 @@ lsp-treemacs
 lsp-ui
 lte
 ltsv
-lua-mode
 luarocks
 lumos-mode
 lurk-mode
@@ -3873,7 +3871,6 @@ markdown-preview-mode
 markdown-soma
 markdown-table-wrap
 markdown-toc
-markdown-ts-mode
 markdownfmt
 markless
 markup
@@ -6327,7 +6324,6 @@ time-block
 time-ext
 time-uuid-mode
 time-zones
-timeout
 timer-plus
 timer-revert
 timerfunctions
@@ -6728,6 +6724,7 @@ wavefront-obj-mode
 wc-goal-mode
 wc-mode
 wcheck-mode
+wconf
 wdl-mode
 weak-ref
 weather
