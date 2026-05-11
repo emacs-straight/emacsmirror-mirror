@@ -200,6 +200,7 @@ apib-mode
 apiwrap
 app-monochrome-themes
 apparmor-mode
+apple-container-tramp
 apples-mode
 applescript-mode
 apropos-plus
@@ -729,6 +730,7 @@ clang-format-lite
 clang-lookup
 clasker
 claude-code
+claude-code-context
 claude-code-ide
 claude-shell
 claudia
@@ -2318,6 +2320,7 @@ focus-autosave-mode
 foggy-night-theme
 fold-this
 folding
+folgezett
 followcursor-mode
 font-lock-plus
 font-lock-ext
@@ -2564,6 +2567,7 @@ gnugo
 gnuplot
 gnuplot-mode
 gnus-alias
+gnus-browse-url-in-article
 gnus-desktop-notify
 gnus-est
 gnus-harvest
@@ -2741,6 +2745,7 @@ handlebars-sgml-mode
 handoff
 hanfix-mode
 haproxy-mode
+har-viewer
 hardcore-mode
 hardhat
 hardtime
@@ -3174,6 +3179,7 @@ indentinator
 indian-ext
 indicate-changes
 indicators
+indigo
 indirect-region
 indy
 inertial-scroll
@@ -4305,6 +4311,7 @@ nsis-mode
 nswbuff
 nu-mode
 nubox
+nucleo-completion
 nukneval
 num3-mode
 number-lock
@@ -5737,6 +5744,7 @@ shades-of-purple-theme
 shadowenv
 shakespeare-mode
 shampoo
+shannon-max
 shanty-themes
 share2computer
 sharper
