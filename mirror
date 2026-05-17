@@ -3758,7 +3758,6 @@ lsp-scheme
 lsp-shader
 lsp-sonarlint
 lsp-sourcekit
-lsp-tailwindcss
 lsp-treemacs
 lsp-ui
 lte
@@ -5595,7 +5594,6 @@ ruby-json-to-hash
 ruby-refactor
 ruby-test-mode
 ruby-tools
-rubyinterpol
 rudel
 ruff-format
 rufo
@@ -6117,7 +6115,6 @@ sunrise-commander
 sunshine
 suomalainen-kalenteri
 super-save
-supergenpass
 surround
 suscolors-theme
 sv-kalender-namnsdagar
@@ -6987,7 +6984,6 @@ zmusic
 znc
 zombie
 zombie-trellys-mode
-zone-matrix
 zone-nyan
 zone-rainbow
 zone-select

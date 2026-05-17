@@ -1141,6 +1141,7 @@ lsp-python-ms
 lsp-ruby
 lsp-scala
 lsp-sh
+lsp-tailwindcss
 lsp-vue
 ltxsymb
 lua-block
@@ -1665,6 +1666,7 @@ rtf
 rtf-mode
 ruby-additional
 ruby-block
+rubyinterpol
 rusewiki
 rw-acronyms
 rw-hunspell
@@ -1820,6 +1822,7 @@ suggbind
 summarye
 super-fold
 superego
+supergenpass
 swadesh-numbers
 swbuff
 swbuff-advice
@@ -2153,6 +2156,7 @@ zeitgeist
 zel
 zendmd-comint
 zenirc
+zone-matrix
 zossima
 zprint-format
 zweilight-theme
