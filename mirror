@@ -2052,6 +2052,7 @@ fetch
 ffap-
 ffmpeg-player
 ffmpeg-utils
+ffs
 fic-mode
 fifo-class
 figlet
@@ -2633,7 +2634,6 @@ gore-mode
 gorepl-mode
 gosh-mode
 gotest
-gotest-ts
 gotham-theme
 goto-char-preview
 goto-chg
@@ -3256,7 +3256,6 @@ isearch-project
 isearch-prop
 isearch-symbol-at-point
 isend-mode
-isgd
 isl
 islisp-mode
 iso-639
@@ -4627,7 +4626,6 @@ org-mind-map
 org-ml
 org-mobile-sync
 org-modern
-org-movies
 org-mpv-notes
 org-mru-clock
 org-msg
@@ -6396,7 +6394,6 @@ totd
 totp
 totp-auth
 touchgrid
-tox
 toxi-theme
 tp
 tql-mode

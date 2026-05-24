@@ -791,6 +791,7 @@ google-define-redux-supplemental
 googleaccount
 gopher
 gosh
+gotest-ts
 goto-char-other-window
 goto-gem
 gplusify
@@ -986,6 +987,7 @@ iresize
 irish
 irony-eldoc
 isearch-extension
+isgd
 ishl
 iso-html
 iso-sgml
@@ -1381,6 +1383,7 @@ org-linkany
 org-lookup-dnd
 org-mac-protocol
 org-magit
+org-movies
 org-multiple-keymap
 org-node-fakeroam
 org-osm-link
@@ -1924,6 +1927,7 @@ tooltip-help
 top-mode
 topsongs
 total-numbers
+tox
 tpum
 track-scroll
 trans-ej
