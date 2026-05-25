@@ -258,6 +258,7 @@ atom
 atom-dark-theme
 atom-one-dark-theme
 atomic-chrome
+atomizer
 attrap
 auctex
 auctex-cluttex
@@ -344,6 +345,7 @@ avy-menu
 avy-migemo
 avy-zap
 awesome-tab
+awhile
 awk-ts-mode
 awk-yasnippets
 awqat
@@ -654,6 +656,7 @@ cern-root-mode
 cfengine-code-style
 cff
 cfn-mode
+cfrac
 cframe
 cfrs
 cg
@@ -1194,6 +1197,7 @@ delim-pad
 demangle-mode
 demap
 demo-it
+democratize
 deno-fmt
 deno-ts-mode
 denote
@@ -1975,6 +1979,9 @@ excorporate
 exec-in-buffer
 exec-path-from-shell
 execline
+exemplify-align
+exemplify-ert
+exemplify-eval
 exercism
 exiftool
 exim
@@ -2024,6 +2031,7 @@ fancy-battery
 fancy-compilation
 fancy-dabbrev
 fancy-fill-paragraph
+fancy-joiner
 fancy-narrow
 fancy-urls-menu
 fantom-mode
@@ -2319,6 +2327,7 @@ fn
 focus
 focus-autosave-mode
 foggy-night-theme
+fold-and-focus
 fold-this
 folding
 folgezett
@@ -4043,6 +4052,7 @@ moe-theme
 molar-mass
 molecule
 molokai-theme
+mondo
 moneylog
 mongo
 monitor
@@ -4510,6 +4520,7 @@ org-auto-tangle
 org-autoexport
 org-autolist
 org-aws-iam-role
+org-b64
 org-babel-eval-in-repl
 org-beautify-theme
 org-board
@@ -4672,6 +4683,7 @@ org-recent-headings
 org-redmine
 org-ref
 org-ref-prettify
+org-reflect
 org-remark
 org-repeat-by-cron
 org-repo-todo
@@ -4772,6 +4784,7 @@ orgmdb
 orgnav
 orgnote
 orgrade
+orgreadme-fy
 orgstrap
 orgtbl-aggregate
 orgtbl-ascii-plot
@@ -5862,6 +5875,7 @@ slothbar
 slovak-holidays
 slow-keys
 slstats
+slug
 slurm-mode
 sly
 sly-asdf
@@ -5980,6 +5994,8 @@ spacious-padding
 spanish-holidays
 spark
 sparkline
+sparkly
+sparkly-stats
 sparkweather
 sparql-mode
 spatial-navigate
@@ -6002,6 +6018,7 @@ spinasm-mode
 spinner
 splitjoin
 splunk-mode
+splurge
 spotify
 spotlight
 spray
@@ -6161,6 +6178,8 @@ symbolword-mode
 symex
 symon
 symon-lingr
+symtable
+symtree
 sync-recentf
 sync-scroll
 syncthing
@@ -6636,6 +6655,7 @@ vertica-snippets
 vertico
 vertico-posframe
 vertigo
+vexil
 vhdl-capf
 vhdl-ext
 vhdl-ts-mode
@@ -6868,6 +6888,7 @@ xeft
 xelb
 xenops
 xhair
+xht
 xkb-mode
 xkcd
 xmind-org
