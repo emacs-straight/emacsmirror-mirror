@@ -1666,6 +1666,7 @@ elmine
 elmpd
 elog
 elogcat
+elot
 eloud
 elpa-admin
 elpa-audit
@@ -2019,6 +2020,7 @@ eziam-themes
 f
 f3
 f90-interface-browser
+f90-ts-mode
 fab
 fabric
 face-explorer
@@ -3785,6 +3787,7 @@ lyrics
 lyrics-fetcher
 lyricwiki
 m-buffer
+mac-ime
 mac-pseudo-daemon
 maces-game
 macher
@@ -4879,6 +4882,7 @@ ox-typst
 ox-wk
 ox-yaow
 ox-zenn
+ox-zola
 p-search
 p4
 p4-16-mode
@@ -5026,6 +5030,7 @@ phi-search-mc
 phi-search-migemo
 phoenix-dark-mono-theme
 phoenix-dark-pink-theme
+phony
 php-boris
 php-boris-minor-mode
 php-cs-fixer
@@ -6196,6 +6201,7 @@ syntree
 sys
 sysctl
 syslog-mode
+sysml-mode
 system-idle
 system-packages
 system-specific-settings
