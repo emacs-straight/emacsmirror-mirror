@@ -2118,6 +2118,7 @@ fixed-page-mode
 fixmee
 fj
 flame
+flamegraph
 flames-of-freedom
 flappymacs
 flash
@@ -3757,6 +3758,7 @@ lsp-jedi
 lsp-julia
 lsp-latex
 lsp-ltex
+lsp-ltex-plus
 lsp-metals
 lsp-mode
 lsp-mssql
