@@ -478,6 +478,7 @@ blow
 blox
 blue
 blueprint-ts-mode
+bluesky
 bluesound
 bluetooth
 bm
@@ -1081,6 +1082,7 @@ cucumber-i18n
 cuda-mode
 cue-mode
 cue-sheet-mode
+cui
 curl
 curl-to-elisp
 currency-convert
@@ -1222,6 +1224,7 @@ departure-times-norway
 descr-text-plus
 describe-hash
 describe-number
+desert-theme
 desktop-plus
 desktop-environment
 desktop-mail-user-agent
@@ -4343,7 +4346,6 @@ nxml-uxml
 nyan-mode
 nyan-prompt
 nyx-theme
-oai
 oauth
 oauth2
 oauth2-auto
@@ -5868,6 +5870,7 @@ skype
 sl
 slack
 slate-config-mode
+sleek-modeline
 slideview
 slim-mode
 slime
