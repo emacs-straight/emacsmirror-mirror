@@ -2063,6 +2063,7 @@ feline
 fennel-mode
 festival
 fetch
+fetch-dom
 ffap-
 ffmpeg-player
 ffmpeg-utils
@@ -3827,7 +3828,6 @@ magit-lfs
 magit-org-todos
 magit-p4
 magit-patch-changelog
-magit-popup
 magit-pre-commit
 magit-prime
 magit-rbr
@@ -4498,7 +4498,6 @@ opencc
 opencl-c-mode
 opener
 openfoam
-opensource
 openssl-cipher
 opensub
 openwith

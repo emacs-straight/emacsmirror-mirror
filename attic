@@ -1157,6 +1157,7 @@ magit-file-icons
 magit-gh-pulls
 magit-identities
 magit-log-edit
+magit-popup
 magit-push-remote
 magit-rockstar
 magit-tramp
@@ -1363,6 +1364,7 @@ one-themes
 online-search
 openpaste
 openpgp
+opensource
 openstack-cgit-browse-file
 oprofile-mode
 order-head
