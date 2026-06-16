@@ -5295,6 +5295,7 @@ punpun-themes
 puppet-mode
 puppet-pi-mode
 puppet-ts-mode
+pure-light-theme
 purescript-mode
 purp-theme
 purple-haze-theme
@@ -5712,7 +5713,6 @@ search-web
 searcher
 searchq
 second-sel
-secretaria
 sed-mode
 see-mode
 seeing-is-believing
@@ -5787,6 +5787,7 @@ shelltest-mode
 shen-elisp
 shen-mode
 shenshou
+shexc-ts-mode
 shfmt
 shift-number
 shift-text
