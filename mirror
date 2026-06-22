@@ -1017,6 +1017,7 @@ counsel-tramp
 counsel-web
 counsel-world-clock
 countdown
+countdown-modeline
 cov
 coverage
 coverlay
@@ -3589,6 +3590,7 @@ lcr
 le-gpt
 le-thesaurus
 leader-key
+leadkey
 leaf
 leaf-convert
 leaf-defaults
@@ -4313,6 +4315,7 @@ notmuch-bookmarks
 notmuch-indicator
 notmuch-labeler
 notmuch-maildir
+notmuch-multi
 notmuch-transient
 nov
 nova-theme
