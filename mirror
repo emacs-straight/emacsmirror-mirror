@@ -733,6 +733,7 @@ clang-format-plus
 clang-format-lite
 clang-lookup
 clasker
+clatter
 claude-code
 claude-code-context
 claude-code-ide
@@ -1521,7 +1522,6 @@ eclipse-theme
 ecukes
 edb
 edbi
-ede-compdb
 ede-php-autoload
 edebug-inline-result
 edebug-x
@@ -5732,6 +5732,7 @@ semantic-thrift
 semaphore
 semi
 seml-mode
+sendai-theme
 sendto
 sensei
 sensitive
@@ -6150,6 +6151,7 @@ surround
 suscolors-theme
 sv-kalender-namnsdagar
 svelte-mode
+svg-aux
 svg-clock
 svg-lib
 svg-mode-line-themes

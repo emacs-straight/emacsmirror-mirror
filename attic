@@ -460,6 +460,7 @@ edbi-database-url
 edbi-django
 edbi-minor-mode
 edbi-sqlite
+ede-compdb
 ede-php-autoload-composer-installers
 ede-php-autoload-drupal
 ediff-trees
