@@ -92,7 +92,6 @@ aes
 affe
 afterglow
 afternoon-theme
-ag
 agda-editor-tactics
 agda-lib-mode
 agda2-mode
@@ -471,7 +470,6 @@ blist
 blitzmax-mode
 bln-mode
 block-nav
-blockdiag-mode
 blog-admin
 blog-minimal
 blow
@@ -527,6 +525,7 @@ browse-at-remote
 browse-kill-ring
 browse-kill-ring-plus
 browse-url-dwim
+browsel
 browser-hist
 brutalist-theme
 bshell
@@ -1221,6 +1220,7 @@ denote-search
 denote-sections
 denote-sequence
 denote-silo
+denote-solo
 denote-wordcloud
 departure-times-norway
 descr-text-plus
@@ -3082,6 +3082,7 @@ hungarian-holidays
 hungry-delete
 hush
 huskie
+hutch
 hy-mode
 hyai
 hybrid-reverse-theme
@@ -3326,6 +3327,7 @@ jack-connect
 jack-ts-mode
 jade-mode
 jade-schema-mode
+jal
 jamar
 jami-bot
 jammer
@@ -3542,6 +3544,7 @@ kubernetes-helm
 kubernetes-tramp
 kurecolor
 kuronami-theme
+kusanagi-theme
 kv
 kwin
 laas
@@ -4070,6 +4073,7 @@ molokai-theme
 mondo
 moneylog
 mongo
+mongodb
 monitor
 monkeytype
 monky
@@ -4468,6 +4472,7 @@ offlineimap
 ogi
 oj
 ol-bible
+ol-locate-file
 ol-notmuch
 olc
 old-fashioned-undo
@@ -6069,6 +6074,7 @@ srcery-theme
 srefactor
 srfi
 srht
+srs
 srv
 ssass-mode
 ssh

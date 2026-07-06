@@ -22,6 +22,7 @@ admb
 adv-random-sig
 advogato
 after-save-commands
+ag
 agchat
 algorithms
 align-by-current-symbol
@@ -155,6 +156,7 @@ bitly
 blackbook
 blink-extras
 blip
+blockdiag-mode
 blog
 blogger
 blorg
