@@ -975,7 +975,6 @@ control-mode
 conventional
 cool-mode
 copilot
-copilot-chat
 copy-as-format
 copy-file-on-save
 copyit
@@ -2796,6 +2795,7 @@ heap
 heaven-and-hell
 helix
 helix-theme
+helixel
 helm
 helm-R
 helm-ad
