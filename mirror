@@ -2339,6 +2339,7 @@ fold-and-focus
 fold-this
 folding
 folgezett
+folio-theme
 followcursor-mode
 font-lock-plus
 font-lock-ext
@@ -2795,7 +2796,6 @@ heap
 heaven-and-hell
 helix
 helix-theme
-helixel
 helm
 helm-R
 helm-ad
@@ -4030,6 +4030,7 @@ mips-mode
 misc-cmds
 misc-fns
 mise
+mise-tasks
 mistty
 mix
 mixed-pitch
@@ -4873,6 +4874,7 @@ ox-linuxmag-fr
 ox-mdx-deck
 ox-mediawiki
 ox-minutes
+ox-mom
 ox-nikola
 ox-pandoc
 ox-qmd
@@ -6206,6 +6208,7 @@ symon
 symon-lingr
 symtable
 symtree
+synaxis
 sync-recentf
 sync-scroll
 syncthing
