@@ -460,6 +460,7 @@ blackboard-theme
 blacken
 blackjack
 blackout
+blamee
 blamer
 blank-mode
 blgrep
@@ -966,6 +967,7 @@ consult-todo
 consult-vc-modified-files
 consult-vulpea
 consult-yasnippet
+context-clues
 context-coloring
 context-transient
 contextual
@@ -2137,6 +2139,7 @@ fleetish-theme
 flex-autopair
 flex-compile
 flex-isearch
+flex-x
 flexoki-themes
 flim
 flimenu
@@ -3036,6 +3039,7 @@ hlint-refactor
 hlinum
 hmac
 hnreader
+hnview
 hoa-mode
 holiday-pascha-etc
 holo-layer
@@ -4091,8 +4095,8 @@ mood-line
 mood-one-theme
 moody
 moom
+moonbit-ts-mode
 moonscript
-moonshot
 morganey-mode
 morgentau-theme
 morlock
@@ -4314,6 +4318,7 @@ nord-theme
 nordic-night-theme
 norns
 northcode-theme
+nostr-publish
 notes-mode
 nothing-theme
 notink-theme
@@ -4610,10 +4615,12 @@ org-gnosis
 org-grep
 org-grimoire
 org-gtd
+org-habit-ng
 org-habit-stats
 org-headline-card
 org-helpers
 org-hide-drawers
+org-history
 org-hlc
 org-hyde
 org-hyperscheduler
@@ -4654,6 +4661,7 @@ org-mcp
 org-mem
 org-mime
 org-mind-map
+org-mindmap
 org-ml
 org-mobile-sync
 org-modern
@@ -5738,6 +5746,7 @@ selected-window-accent-mode
 selected-window-contrast
 selectric-mode
 selectrum
+sema-mode
 semantic-thrift
 semaphore
 semi
