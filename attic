@@ -533,6 +533,7 @@ embeddedchangelog
 emboss
 emdroid
 emeteo
+emidje
 emlib
 emmental
 emms-bilibili
@@ -1453,6 +1454,8 @@ pb-popup
 pc-keys
 pcf2bdf
 pcmpl-arch
+pcmpl-homebrew
+pcmpl-pip
 pdb
 pddl-mode
 pde

@@ -1721,7 +1721,6 @@ embrace
 emc
 emcp
 ement
-emidje
 emir
 emmet-mode
 emms
@@ -4989,8 +4988,6 @@ pcache
 pcap-mode
 pcb-mode
 pcmpl-args
-pcmpl-homebrew
-pcmpl-pip
 pcomplete-extension
 pcre2el
 pcsv
