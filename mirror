@@ -2334,6 +2334,7 @@ flywrite
 fm-bookmarks
 fmo-mode
 fn
+fnm
 focus
 focus-autosave-mode
 foggy-night-theme
@@ -2718,6 +2719,8 @@ grizzl
 groovy-imports
 groovy-mode
 grove
+grpclient
+gruber-darker-ayu-theme
 gruber-darker-theme
 grugru
 grunt
@@ -3487,6 +3490,7 @@ keyadvice
 keyboard-converter
 keycast
 keychain-environment
+keycoach
 keydef
 keyfreq
 keymap-popup
@@ -5262,6 +5266,7 @@ project-shells
 project-tab-groups
 project-tasks
 project-treemacs
+project-x
 projectile
 projectile-git-autofetch
 projectile-rails
@@ -5918,6 +5923,7 @@ sly-overlay
 sly-quicklisp
 sly-repl-ansi-color
 sm-c-mode
+smali-mode
 smalltalk-mode
 smart-backspace
 smart-comment
@@ -5976,6 +5982,7 @@ snapshot-timemachine-rsnapshot
 snazzy-theme
 sniem
 snipplr
+snippy
 snitch
 snoopy
 snort-mode
