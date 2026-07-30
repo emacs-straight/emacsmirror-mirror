@@ -810,6 +810,7 @@ codesearch
 codespaces
 codethumb
 codex-cli
+codex-ide
 codex-theme
 codic
 coercion
@@ -2966,6 +2967,7 @@ helpful
 hemera-theme
 hemisu-theme
 hercules
+hermes
 heroku
 heroku-theme
 hexo
@@ -5861,6 +5863,7 @@ simple-indentation
 simple-modeline
 simple-mpc
 simple-paren
+simple-pass
 simple-rtm
 simple-screen
 simple-slides
