@@ -453,6 +453,7 @@ birds-of-paradise-plus-theme
 bison-mode
 bitbake
 bitbake-ts-mode
+bitbucket-devops
 bitlbee
 bitpack
 blackboard-bold-mode
@@ -1118,7 +1119,6 @@ cython-mode
 czech-holidays
 d-mode
 d2-mode
-d2-ts-mode
 dactyl-mode
 dad-joke
 dae
@@ -1222,6 +1222,7 @@ denote-search
 denote-sections
 denote-sequence
 denote-silo
+denote-smart-sluggify-title
 denote-solo
 denote-wordcloud
 departure-times-norway
@@ -2033,6 +2034,7 @@ face-remap-plus
 facemenu-plus
 faces-plus
 factlog
+faff-theme
 fakir
 fancy-battery
 fancy-compilation
@@ -2691,6 +2693,7 @@ gradle-mode
 grails
 grammarly
 grandshell-theme
+graph-fa2
 graphene
 graphene-meta-theme
 graphql
@@ -2701,7 +2704,6 @@ graphviz-dot
 graphviz-dot-mode
 grapnel
 grass-mode
-grayscale-theme
 greader
 green-is-the-new-black-theme
 green-phosphor-theme
@@ -4338,6 +4340,7 @@ nov
 nova-theme
 novel-mode
 novice-plus
+now-playing
 noxml-fold
 npm
 npm-mode
@@ -4348,6 +4351,7 @@ ns-auto-titlebar
 nsis-mode
 nswbuff
 nu-mode
+nu-ts-mode
 nubox
 nucleo-completion
 nukneval
@@ -4372,6 +4376,7 @@ oauth2-auto
 oauth2-request
 ob-acl2
 ob-ada-spark
+ob-agent-shell
 ob-aider
 ob-applescript
 ob-asymptote
@@ -5087,6 +5092,7 @@ pif
 pig-mode
 pikchr-mode
 pillar
+pimacs
 pinbar
 pinboard
 pinboard-api
@@ -5283,6 +5289,7 @@ promise
 prompt-binder
 prompt-text
 prompts
+promptu
 pronto
 proof-general
 prop-menu
@@ -5416,6 +5423,7 @@ quiz
 quotient
 qwen-chat-shell
 r-autoyas
+r-ts-mode
 racer
 racket-mode
 radio
@@ -5610,6 +5618,7 @@ rom-party
 romanian-holidays
 romkan
 ron-mode
+ronny-theme
 rope-read-mode
 ropgadget
 ros
@@ -5895,6 +5904,7 @@ skinny
 skype
 sl
 slack
+slang-ts-mode
 slate-config-mode
 sleek-modeline
 slideview

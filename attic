@@ -356,6 +356,7 @@ cygwin-terminal-clipboard
 czscm
 d-insert-assert
 d-insert-import
+d2-ts-mode
 dabbrev-expand-multiple
 dabbrev-hover
 dacode
@@ -804,6 +805,7 @@ grabbox
 grade
 grail
 grails-projectile-mode
+grayscale-theme
 grc
 greek-polytonic
 grep-buffers
