@@ -175,6 +175,7 @@ anki-vocabulary
 annalist
 annotate
 annotate-depth
+annotated-completing-read
 annoying-arrows-mode
 ansi
 ansible
@@ -314,6 +315,7 @@ auto-rename-tag
 auto-save-buffers-enhanced
 auto-save-visited-local-mode
 auto-shell-command
+auto-side-windows
 auto-sort-mode
 auto-space-mode
 auto-sudoedit
@@ -616,6 +618,7 @@ caps-lock
 captain
 capture
 carbon-now-sh
+card-games
 cardano-tx
 cargo
 cargo-mode
@@ -4419,6 +4422,7 @@ ob-html-chrome
 ob-http
 ob-hy
 ob-ipython
+ob-janet
 ob-julia-vterm
 ob-kotlin
 ob-latex-as-png
@@ -5047,6 +5051,7 @@ pfuture
 pg
 pgdevenv
 pgrok
+pgsql
 pgsql-linum-format
 pgsrc
 phabricator
@@ -6715,6 +6720,7 @@ vhdl-capf
 vhdl-ext
 vhdl-ts-mode
 vi-tilde-fringe
+vice-mode
 viewer
 vigenere
 viking-mode
