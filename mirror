@@ -1400,6 +1400,7 @@ doing
 dokuwiki
 dokuwiki-mode
 doom
+doom-game
 doom-modeline
 doom-modeline-now-playing
 doom-themes
@@ -2289,6 +2290,7 @@ flymake-grammarly
 flymake-guile
 flymake-hadolint
 flymake-haml
+flymake-harper
 flymake-haskell-multi
 flymake-hledger
 flymake-hlint
@@ -4760,7 +4762,6 @@ org-status
 org-sticky-header
 org-super-agenda
 org-superstar
-org-supertag
 org-sync
 org-sync-snippets
 org-table-color
@@ -5275,6 +5276,7 @@ project-persist-drawer
 project-rails
 project-rootfile
 project-shells
+project-store
 project-tab-groups
 project-tasks
 project-treemacs
@@ -5689,6 +5691,7 @@ salesforce-utils
 sallet
 salt-mode
 samskritam
+sapling
 sas-py
 sass-mode
 satchel
@@ -6187,6 +6190,7 @@ sunrise-commander
 sunshine
 suomalainen-kalenteri
 super-save
+supertag
 surround
 suscolors-theme
 sv-kalender-namnsdagar
@@ -6685,6 +6689,7 @@ vc-jj
 vc-msg
 vc-osc
 vc-partial-commit
+vc-sapling
 vcard
 vcl-mode
 vcomp
