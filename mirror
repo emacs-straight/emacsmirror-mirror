@@ -529,7 +529,7 @@ browse-at-remote
 browse-kill-ring
 browse-kill-ring-plus
 browse-url-dwim
-browsel
+browser-gt
 browser-hist
 brutalist-theme
 bshell
@@ -549,7 +549,6 @@ buffer-manage
 buffer-move
 buffer-name-relative
 buffer-ring
-buffer-sets
 buffer-terminator
 buffer-timer
 buffer-utils
@@ -942,7 +941,6 @@ constant-theme
 constants
 constellations
 consult
-consult-ag
 consult-codesearch
 consult-company
 consult-dash
@@ -1118,6 +1116,7 @@ cycle-themes
 cygwin-mount
 cyphejor
 cypher-mode
+cypher-ts-mode
 cython-mode
 czech-holidays
 d-mode
@@ -1559,6 +1558,7 @@ eev
 ef-themes
 efar
 eff
+efinger
 efire
 efrit
 eg
@@ -2684,6 +2684,7 @@ gpt-commit
 gptai
 gptel
 gptel-agent
+gptel-agent-harness
 gptel-aibo
 gptel-commit
 gptel-cpp-complete
@@ -2741,6 +2742,7 @@ gtags-mode
 gtasks
 gtk-pomodoro-indicator
 guake
+guard
 guava-themes
 guess-language
 guess-style
@@ -2806,6 +2808,7 @@ header2
 headlong
 heap
 heaven-and-hell
+hel
 helix
 helix-theme
 helm
@@ -3116,7 +3119,6 @@ i-ching
 i2b2-mode
 i3
 i3bar
-i3wm
 i3wm-config-mode
 ialign
 iasm-mode
@@ -4022,6 +4024,7 @@ minibar
 minibuf-isearch
 minibuffer-complete-cycle
 minibuffer-cua
+minibuffer-frame
 minibuffer-header
 minibuffer-line
 minibuffer-modifier-keys
@@ -4154,6 +4157,7 @@ mu-cite
 mu2tex
 mu4e
 mu4e-alert
+mu4e-autotask
 mu4e-column-faces
 mu4e-conversation
 mu4e-jump-to-list
@@ -5022,6 +5026,7 @@ pebble-mode
 peertube
 pelican-mode
 pepita
+peppers-theme
 per-buffer-theme
 perfect-margin
 perject
@@ -5271,12 +5276,12 @@ project-butler
 project-cmake
 project-explorer
 project-mode-line-tag
+project-nix-store
 project-persist
 project-persist-drawer
 project-rails
 project-rootfile
 project-shells
-project-store
 project-tab-groups
 project-tasks
 project-treemacs
@@ -5339,7 +5344,6 @@ purp-theme
 purple-haze-theme
 purty-mode
 pushbullet
-pushover
 pvr
 px
 py-autopep8
@@ -5717,6 +5721,7 @@ scan
 scanner
 scf-mode
 scheme-complete
+schlau-compile
 scholar-import
 schrute
 scihub
@@ -5810,6 +5815,7 @@ shannon-max
 shanty-themes
 share2computer
 sharper
+shazam
 shelisp
 shell-command-plus
 shell-command-x
@@ -7094,3 +7100,4 @@ zuul
 zwiebel
 zygospore
 zzz-to-char
+buffer-sets
