@@ -549,6 +549,7 @@ buffer-manage
 buffer-move
 buffer-name-relative
 buffer-ring
+buffer-sets
 buffer-terminator
 buffer-timer
 buffer-utils
@@ -957,6 +958,7 @@ consult-hn
 consult-hoogle
 consult-ls-git
 consult-lsp
+consult-magit
 consult-notes
 consult-notmuch
 consult-org-roam
@@ -1575,6 +1577,7 @@ eglot-python-preset
 eglot-signature-eldoc-talkative
 eglot-tempel
 eglot-typescript-preset
+eglotx
 ego
 eide
 eimap
@@ -2420,6 +2423,7 @@ ftable
 fuel
 fuff
 full-ack
+full-gtd
 fullframe
 fullscreen-mode
 function-args
@@ -2690,6 +2694,7 @@ gptel-commit
 gptel-cpp-complete
 gptel-fn-complete
 gptel-forge-prs
+gptel-inline
 gptel-magit
 gpx
 grab-mac-link
@@ -3595,6 +3600,7 @@ latex-math-preview
 latex-pretty-symbols
 latex-preview-pane
 latex-table-wizard
+latex-to-svg-backend
 latex-unicode-math-mode
 latex-wrap
 latexdiff
@@ -3829,6 +3835,7 @@ macrostep
 macrostep-geiser
 madhat2r-theme
 mag-menu
+magent
 magic-filetype
 magic-latex-buffer
 magik-company
@@ -4604,6 +4611,7 @@ org-defprop
 org-dotemacs
 org-download
 org-dp
+org-draw
 org-drawio
 org-drill
 org-dropbox
@@ -4731,6 +4739,7 @@ org-redmine
 org-ref
 org-ref-prettify
 org-reflect
+org-relative-date
 org-remark
 org-repeat-by-cron
 org-repo-todo
@@ -4756,7 +4765,6 @@ org-sidebar
 org-sliced-images
 org-snitch
 org-snooze
-org-social
 org-special-block-extras
 org-sql
 org-srs
@@ -7100,4 +7108,4 @@ zuul
 zwiebel
 zygospore
 zzz-to-char
-buffer-sets
+org-social
