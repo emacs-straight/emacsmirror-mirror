@@ -1367,10 +1367,7 @@ django-theme
 djangonaut
 djinni-mode
 djvu
-dkdo
 dkl
-dklrt
-dkmisc
 dmacro
 dmenu
 dmsg
@@ -1387,7 +1384,6 @@ dock
 docker
 docker-api
 docker-cli
-docker-compose-mode
 docker-tramp
 dockerfile-mode
 docopt
@@ -2072,7 +2068,6 @@ feed-discovery
 feline
 fennel-mode
 festival
-fetch
 fetch-dom
 ffap-
 ffmpeg-player
@@ -2275,7 +2270,6 @@ flymake-cspell
 flymake-css
 flymake-csslint
 flymake-cursor
-flymake-diagnostic-at-point
 flymake-eask
 flymake-easy
 flymake-eldev
@@ -4216,7 +4210,6 @@ mybigword
 mybuild-mode
 myers
 mykie
-mynt-mode
 myrddin-mode
 mysql
 mysql-to-org
@@ -5703,7 +5696,6 @@ salesforce-utils
 sallet
 salt-mode
 samskritam
-sapling
 sas-py
 sass-mode
 satchel
@@ -5991,7 +5983,6 @@ smbc
 smblog
 smeargle
 smex
-smilefjes
 smiles-mode
 smithers
 smithy-mode
@@ -6703,7 +6694,6 @@ vc-jj
 vc-msg
 vc-osc
 vc-partial-commit
-vc-sapling
 vcard
 vcl-mode
 vcomp

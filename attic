@@ -415,10 +415,14 @@ display-buffer-for-wide-screen
 display-hatebu
 disptime
 django-mode
+dkdo
+dklrt
+dkmisc
 dms-sig
 dna-debug
 do-not-edit
 docbookide
+docker-compose-mode
 docmap
 doh
 doi
@@ -613,6 +617,7 @@ fcsh-mode
 fdlcap
 feather
 fenc
+fetch
 fetchmail-mode
 ff-paths
 ffap-gcc-path
@@ -686,6 +691,7 @@ flycheck-typescript-tslint
 flydoc
 flyguess
 flymake-cppcheck
+flymake-diagnostic-at-point
 flymake-for-csharp
 flymake-golangci
 flymake-google-cpplint
@@ -1297,6 +1303,7 @@ mwe-cambridge-permute
 mwe-color-box
 mwe-log-commands
 mybuffers
+mynt-mode
 mysql2sqlite
 mz-comment-fix
 naos
@@ -1781,6 +1788,7 @@ smart-dabbrev
 smart-dnd
 smart-snippet
 smartquotes
+smilefjes
 sml-modeline
 sms
 snippet
