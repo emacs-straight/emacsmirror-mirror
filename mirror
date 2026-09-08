@@ -99,6 +99,7 @@ age
 agenix
 agent-recall
 agent-shell
+agent-shell-math-renderer
 aggressive-completion
 aggressive-fill-paragraph
 aggressive-indent
@@ -196,6 +197,7 @@ apache-mode
 apdl-mode
 apel
 apheleia
+api-credit
 apib-mode
 apiwrap
 app-monochrome-themes
@@ -319,6 +321,7 @@ auto-side-windows
 auto-sort-mode
 auto-space-mode
 auto-sudoedit
+auto-tab-groups
 auto-virtualenv
 auto-virtualenvwrapper
 auto-yasnippet
@@ -1101,6 +1104,7 @@ cursor-chg
 cursor-flash
 cursor-test
 cursor-undo
+cursorfree
 cursory
 cus-abbrev
 cus-edit-plus
@@ -1384,7 +1388,6 @@ dock
 docker
 docker-api
 docker-cli
-docker-tramp
 dockerfile-mode
 docopt
 docsetutil
@@ -3355,7 +3358,6 @@ jasminejs-mode
 jastadd-ast-mode
 jaunte
 java-imports
-javadoc-lookup
 javaimp
 javap-mode
 javelin
@@ -3832,7 +3834,6 @@ mag-menu
 magent
 magic-filetype
 magic-latex-buffer
-magik-company
 magik-mode
 magit
 magit-annex
@@ -3997,6 +3998,7 @@ metar
 metascript-mode
 metrics-tracker
 metronome
+metropolis-light-theme
 mew
 mew-ical
 mew-unread
@@ -4076,6 +4078,7 @@ mode-line-debug
 mode-line-idle
 mode-line-keyboard
 mode-line-maker
+mode-line-path
 modelica-mode
 modeline-char
 modeline-posn
@@ -4741,6 +4744,7 @@ org-review
 org-rich-yank
 org-roam
 org-roam-bibtex
+org-roam-gt
 org-roam-latte
 org-roam-ql
 org-roam-timeline
@@ -4758,6 +4762,7 @@ org-sidebar
 org-sliced-images
 org-snitch
 org-snooze
+org-social
 org-special-block-extras
 org-sql
 org-srs
@@ -5091,7 +5096,6 @@ phpstan
 phpt-mode
 phpunit
 phscroll
-pi-coding-agent
 pianobar
 pic-basic-mode
 pickel
@@ -5103,6 +5107,7 @@ piem
 pif
 pig-mode
 pikchr-mode
+pilish
 pillar
 pimacs
 pinbar
@@ -5724,7 +5729,6 @@ scheme-complete
 schlau-compile
 scholar-import
 schrute
-scihub
 sclang
 sclang-extensions
 sclang-snippets
@@ -6197,6 +6201,7 @@ suomalainen-kalenteri
 super-save
 supertag
 surround
+surveyor
 suscolors-theme
 sv-kalender-namnsdagar
 svelte-mode
@@ -7098,4 +7103,3 @@ zuul
 zwiebel
 zygospore
 zzz-to-char
-org-social

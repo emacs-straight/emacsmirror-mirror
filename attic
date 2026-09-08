@@ -423,6 +423,7 @@ dna-debug
 do-not-edit
 docbookide
 docker-compose-mode
+docker-tramp
 docmap
 doh
 doi
@@ -1030,6 +1031,7 @@ java-open
 java-snippets
 javacc-mode
 javadoc-help
+javadoc-lookup
 javascript
 javascript-mode
 javatools
@@ -1165,6 +1167,7 @@ lude
 lunar-mode-line
 lyric-mode
 m56k
+magik-company
 magit-circleci
 magit-commit-training-wheels
 magit-file-icons
@@ -1717,6 +1720,7 @@ scalariform
 scheme-here
 scheme48
 school-points-off
+scihub
 scim-bridge
 scion
 scp
