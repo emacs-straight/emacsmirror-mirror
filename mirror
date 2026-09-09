@@ -3932,6 +3932,7 @@ masm-mode
 mason
 masquerade-mode
 mastodon
+material-icons
 material-theme
 math-delimiters
 math-preview
@@ -4304,6 +4305,7 @@ nix-mode
 nix-modeline
 nix-ts-mode
 nix-update
+nix3
 nixfmt
 nixos-options
 nixpkgs-fmt
