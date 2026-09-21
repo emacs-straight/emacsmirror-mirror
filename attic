@@ -400,6 +400,7 @@ dict-web
 diff-save-buffer
 diffstat
 dig-browser
+dionysos
 dir-locals
 dir-shell
 dired-a
@@ -804,6 +805,7 @@ google-define-redux-supplemental
 googleaccount
 gopher
 gosh
+gotest
 gotest-ts
 goto-char-other-window
 goto-gem
@@ -1266,6 +1268,7 @@ move-and
 move-pictures
 moz
 moz-controller
+mozc-cand-posframe
 mp3-tools
 mp3player
 mpcel
@@ -1970,7 +1973,6 @@ tree-sitter-langs
 trimspace-mode
 ts-mode
 tsv-mode
-ttl-mode
 ttrss
 tty-format
 tumbl
@@ -2178,6 +2180,7 @@ yatest
 yatm
 ynab
 yod
+youdotcom
 youwill
 yow-fns
 ysq

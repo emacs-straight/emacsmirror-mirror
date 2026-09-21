@@ -147,6 +147,7 @@ alt-codes
 altcaps
 amaranth-dark-theme
 amber-glow-theme
+amber-mode
 amd-mode
 ameba
 aml-mode
@@ -1285,7 +1286,6 @@ dim-autoload
 diminish
 diminish-buffer
 dimmer
-dionysos
 dir-config
 dir-treeview
 dir-treeview-themes
@@ -1640,6 +1640,7 @@ elfeed-dashboard
 elfeed-goodies
 elfeed-org
 elfeed-protocol
+elfeed-protocol-freshrss
 elfeed-score
 elfeed-summarize
 elfeed-summary
@@ -2532,6 +2533,7 @@ git-io
 git-lens
 git-link
 git-messenger
+git-modeline
 git-modes
 git-msg-prefix
 git-overleaf
@@ -2664,7 +2666,6 @@ goose-theme
 gore-mode
 gorepl-mode
 gosh-mode
-gotest
 gotham-theme
 goto-char-preview
 goto-chg
@@ -3597,6 +3598,7 @@ latex-pretty-symbols
 latex-preview-pane
 latex-table-wizard
 latex-to-svg-backend
+latex-to-svg-frontend
 latex-unicode-math-mode
 latex-wrap
 latexdiff
@@ -3859,6 +3861,7 @@ magit-pre-commit
 magit-prime
 magit-rbr
 magit-reviewboard
+magit-standup
 magit-stats
 magit-stgit
 magit-svn
@@ -4137,7 +4140,6 @@ mowedline
 mowie
 mozart
 mozc
-mozc-cand-posframe
 mozc-im
 mozc-modeless
 mozc-popup
@@ -4292,6 +4294,7 @@ niceify-info
 nickel-mode
 niconama
 night-owl-theme
+nightpanel-theme
 nikki
 nikola
 nim-mode
@@ -4332,6 +4335,7 @@ noir-mode
 noir-ts-mode
 noman
 non-edit-mode
+nonogram
 noob-arrows-mode
 noprefix
 nord-theme
@@ -4592,6 +4596,7 @@ org-cliplink
 org-clock-agenda-daytime-mode
 org-clock-convenience
 org-clock-csv
+org-clock-dbus
 org-clock-reminder
 org-clock-split
 org-clock-today
@@ -4749,6 +4754,7 @@ org-roam-bibtex
 org-roam-gt
 org-roam-latte
 org-roam-ql
+org-roam-stats
 org-roam-timeline
 org-roam-timestamps
 org-roam-ui
@@ -5426,6 +5432,7 @@ quasi-monochrome-theme
 quelpa
 quelpa-leaf
 quelpa-use-package
+query-assistant
 queue
 quick-buffer-switch
 quick-fasd
@@ -5559,6 +5566,7 @@ remark-mode
 remember-last-theme
 remind-bindings
 remind-conf-mode
+remoto
 renpy-mode
 repeat-fu
 repeat-help
@@ -5584,6 +5592,7 @@ resize-window
 restart-emacs
 restclient
 restclient-test
+restlib
 restricto
 retraction-viewer
 retrie
@@ -5904,6 +5913,7 @@ simplicity-theme
 simply-annotate
 simulacrum
 sinasi
+single-window
 sink
 siri-shortcuts
 sis
@@ -6372,6 +6382,7 @@ test-framework
 test-hdl
 test-more
 test-simple
+testcover-audit
 testcover-mark-line
 tetris-60
 tex-item
@@ -6552,6 +6563,7 @@ ts-comint
 tsort
 tss
 tt-mode
+ttl-mode
 tts
 ttx-mode
 tuareg
@@ -6576,6 +6588,7 @@ tx-mode
 txl
 typescript-mode
 typespec-ts-mode
+typewriter
 typewriter-roll-mode
 typing
 typit
@@ -7040,7 +7053,6 @@ yoficator
 yomikata
 yoshi-theme
 youdao-dictionary
-youdotcom
 youtube-dl
 youtube-music
 youtube-sub-extractor
