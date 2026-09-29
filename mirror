@@ -82,6 +82,7 @@ adaptive-wrap
 add-hooks
 add-node-modules-path
 addressbook-bookmark
+adif
 adjust-parens
 ado-mode
 adoc-mode
@@ -212,6 +213,7 @@ apropospriate-theme
 apt-sources-list
 apu
 aqi
+aqui
 arbitools
 arch-packer
 archive-phar
@@ -976,6 +978,7 @@ consult-todo
 consult-vc-modified-files
 consult-vulpea
 consult-yasnippet
+consult-zoxide
 context-clues
 context-coloring
 context-transient
@@ -1253,6 +1256,7 @@ devicetree-ts-mode
 devil
 dfmt
 dhall-mode
+dharmamitra
 dialog
 dialog-mode
 dianyou
@@ -5269,6 +5273,7 @@ pretty-speedbar
 pretty-symbols
 preview-auto
 preview-dvisvgm
+preview-tab
 preview-tailor
 prism
 prisma-ts-mode
