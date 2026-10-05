@@ -526,6 +526,7 @@ bray
 brazilian-holidays
 breadcrumb
 brec-mode
+brewpage
 brf
 brief
 brightscript-mode
@@ -755,6 +756,7 @@ clean-aindent-mode
 clean-buffers
 clean-kill-ring
 clear-text
+clel
 clevercss
 clhs
 click-mode
@@ -2692,6 +2694,7 @@ gptel
 gptel-agent
 gptel-agent-harness
 gptel-aibo
+gptel-annotate
 gptel-commit
 gptel-cpp-complete
 gptel-fn-complete
@@ -4261,6 +4264,7 @@ neato-graph-bar
 neil
 nemerle
 neocaml
+neofetch
 neon-mode
 neotree
 nerd-icons
@@ -5379,6 +5383,7 @@ pyconf
 pycoverage
 pydoc
 pyenv-mode
+pyfun-mode
 pygen
 pyim
 pyim-basedict
@@ -6554,6 +6559,7 @@ trident-mode
 trie
 trinary
 trindle
+triode
 triples
 tron-legacy-theme
 trope-mode
