@@ -3930,6 +3930,7 @@ markdown-preview-mode
 markdown-soma
 markdown-table-wrap
 markdown-toc
+markdown-ts-appear
 markdownfmt
 markless
 markup
@@ -4805,6 +4806,7 @@ org-tfl
 org-tidy
 org-time-budgets
 org-timeblock
+org-timegrid
 org-timeline
 org-toodledo
 org-tracktable
@@ -5307,6 +5309,7 @@ project-rootfile
 project-shells
 project-tab-groups
 project-tasks
+project-terminal
 project-treemacs
 project-x
 projectile
