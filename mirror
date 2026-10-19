@@ -100,6 +100,7 @@ age
 agenix
 agent-recall
 agent-shell
+agent-shell-attention
 agent-shell-math-renderer
 aggressive-completion
 aggressive-fill-paragraph
@@ -1257,6 +1258,7 @@ devdocs-browser
 devhelp
 devicetree-ts-mode
 devil
+devops
 dfmt
 dhall-mode
 dharmamitra
@@ -2426,7 +2428,6 @@ fsrs
 fstar-mode
 ftable
 fuel
-fuff
 full-ack
 full-gtd
 fullframe
@@ -4772,6 +4773,7 @@ org-rtm
 org-runbook
 org-scrum
 org-seek
+org-semantic
 org-shoplist
 org-shortcut
 org-side-tree
@@ -6224,6 +6226,7 @@ sunrise-commander
 sunshine
 suomalainen-kalenteri
 super-save
+supersonic
 supertag
 surround
 surveyor
@@ -6579,6 +6582,7 @@ tsort
 tss
 tt-mode
 ttl-mode
+ttl-ts-mode
 tts
 ttx-mode
 tuareg
