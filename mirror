@@ -1086,6 +1086,7 @@ csv2ledger
 ct
 ctable
 ctags-update
+ctftime
 ctl-mode
 ctrlf
 ctrlxo
@@ -1279,6 +1280,7 @@ diff-git
 diff-hl
 diff-mode-
 diffed
+difflayer
 difflib
 diffpdf
 diffscuss-mode
@@ -1614,6 +1616,7 @@ el-swank-fuzzy
 el-who
 el2markdown
 el2org
+elark
 elbank
 elchacha
 elcontext
@@ -2449,6 +2452,7 @@ fvwm-mode
 fwb-cmds
 fxrd-mode
 fyure
+fz-index
 fzf
 fzf-native
 fzfa
@@ -4098,6 +4102,7 @@ modeline-posn
 modern-cpp-font-lock
 modern-fringes
 modern-sh
+modern-tab
 modtime-skip-mode
 modular-config
 modus-ewal-theme
@@ -5568,6 +5573,7 @@ regex-dsl
 regex-tool
 region-bindings-mode
 region-convert
+region-cursors
 region-occurrences-highlighter
 region-state
 register-channel
@@ -6185,6 +6191,7 @@ stock-ticker
 stock-tracker
 strace-mode
 straight
+straight-overview
 streak
 stream
 streamlink
@@ -6613,6 +6620,7 @@ typing
 typit
 typo
 typo-suggest
+typst-overlay
 typst-preview
 typst-ts-mode
 tzc
