@@ -1626,6 +1626,7 @@ rcirc-ucomplete
 rdict
 rdp
 re-builder-plus
+react-snippets
 read-all-emacs-help
 read-library
 read-table-data
