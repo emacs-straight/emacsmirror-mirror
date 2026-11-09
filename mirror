@@ -101,6 +101,7 @@ agenix
 agent-recall
 agent-shell
 agent-shell-attention
+agent-shell-consult
 agent-shell-math-renderer
 aggressive-completion
 aggressive-fill-paragraph
@@ -122,6 +123,7 @@ aircon-theme
 airline-themes
 airplay
 ajc-java-complete
+ajnc
 alabaster-themes
 alan-mode
 alarm-clock
@@ -578,6 +580,7 @@ build-status
 buildbot
 bundle
 burly
+burnish
 burnt-toast
 buster-mode
 buster-snippets
@@ -7080,6 +7083,7 @@ yeoman
 yequake
 yesql-ghosts
 yesterbox
+yml
 yoficator
 yomikata
 yoshi-theme
