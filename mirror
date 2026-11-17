@@ -84,6 +84,7 @@ add-node-modules-path
 addressbook-bookmark
 adif
 adjust-parens
+admin-delux
 ado-mode
 adoc-mode
 advent-mode
@@ -507,6 +508,7 @@ bookem
 bookiez
 bookmark-plus
 bookmark-frecency
+bookmark-gt
 bookmark-in-project
 bookmarks-menu
 bool-flip
@@ -1717,6 +1719,7 @@ elsqlite
 eltex
 elune-theme
 elvish-mode
+elwl
 elwm
 elx
 elysium
@@ -2021,6 +2024,7 @@ expenses
 explain-pause-mode
 expreg
 express
+expui-icons
 exsqlaim-mode
 extempore-mode
 extend-dnd
@@ -2078,6 +2082,7 @@ fb2-reader
 fcitx
 fcopy
 fd-dired
+fd-fairy
 feature-mode
 fedi
 feebleline
